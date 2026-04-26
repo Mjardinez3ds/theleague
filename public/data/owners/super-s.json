@@ -1,0 +1,39 @@
+{
+  "owner": "Super S.",
+  "slug": "super-s",
+  "wins": 19,
+  "losses": 9,
+  "ties": 0,
+  "points_for": 3564.3,
+  "points_against": 3037.7,
+  "titles": 1,
+  "runners_up": 0,
+  "thirds": 0,
+  "lasts": 0,
+  "seasons": [
+    {
+      "year": 2024,
+      "team_name": "Shy Squad",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "points_for": 1662.8,
+      "points_against": 1537.8,
+      "finish": 6,
+      "league_size": 12
+    },
+    {
+      "year": 2025,
+      "team_name": "Shy Squad",
+      "wins": 10,
+      "losses": 4,
+      "ties": 0,
+      "points_for": 1901.6,
+      "points_against": 1499.9,
+      "finish": 1,
+      "league_size": 12
+    }
+  ],
+  "win_pct": 67.9,
+  "games": 28
+}

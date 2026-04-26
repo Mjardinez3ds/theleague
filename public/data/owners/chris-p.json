@@ -1,0 +1,50 @@
+{
+  "owner": "Chris P.",
+  "slug": "chris-p",
+  "wins": 28,
+  "losses": 14,
+  "ties": 0,
+  "points_for": 5429.7,
+  "points_against": 5114.5,
+  "titles": 0,
+  "runners_up": 2,
+  "thirds": 1,
+  "lasts": 0,
+  "seasons": [
+    {
+      "year": 2023,
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "wins": 10,
+      "losses": 4,
+      "ties": 0,
+      "points_for": 1772.2,
+      "points_against": 1665.4,
+      "finish": 3,
+      "league_size": 12
+    },
+    {
+      "year": 2024,
+      "team_name": "Perc Angle",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "points_for": 1800.3,
+      "points_against": 1677.5,
+      "finish": 2,
+      "league_size": 12
+    },
+    {
+      "year": 2025,
+      "team_name": "Buck Swope",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "points_for": 1857.3,
+      "points_against": 1771.5,
+      "finish": 2,
+      "league_size": 12
+    }
+  ],
+  "win_pct": 66.7,
+  "games": 42
+}

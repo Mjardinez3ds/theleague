@@ -1,0 +1,39 @@
+{
+  "owner": "Matthew T.",
+  "slug": "matthew-t",
+  "wins": 11,
+  "losses": 17,
+  "ties": 0,
+  "points_for": 3046.3,
+  "points_against": 3240.0,
+  "titles": 0,
+  "runners_up": 0,
+  "thirds": 0,
+  "lasts": 0,
+  "seasons": [
+    {
+      "year": 2024,
+      "team_name": "Maybe Nix Year",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "points_for": 1717.1,
+      "points_against": 1681.1,
+      "finish": 7,
+      "league_size": 12
+    },
+    {
+      "year": 2025,
+      "team_name": "Big Nix Energy",
+      "wins": 5,
+      "losses": 9,
+      "ties": 0,
+      "points_for": 1329.1,
+      "points_against": 1558.9,
+      "finish": 8,
+      "league_size": 12
+    }
+  ],
+  "win_pct": 39.3,
+  "games": 28
+}

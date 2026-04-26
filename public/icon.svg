@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0a0e1a"/>
+  <path d="M256 96c80 0 144 32 144 32-16 192-144 288-144 288S128 320 112 128c0 0 64-32 144-32z" fill="#ffc400"/>
+  <path d="M256 144c-48 0-96 16-96 16 8 128 96 208 96 208s88-80 96-208c0 0-48-16-96-16z" fill="#0a0e1a"/>
+  <text x="256" y="320" font-family="Arial Black, sans-serif" font-weight="900" font-size="120" text-anchor="middle" fill="#ffc400">TL</text>
+</svg>

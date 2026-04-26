@@ -1,0 +1,50 @@
+{
+  "owner": "Kevin L.",
+  "slug": "kevin-l",
+  "wins": 22,
+  "losses": 19,
+  "ties": 1,
+  "points_for": 4996.9,
+  "points_against": 5071.8,
+  "titles": 1,
+  "runners_up": 0,
+  "thirds": 0,
+  "lasts": 1,
+  "seasons": [
+    {
+      "year": 2023,
+      "team_name": "DECAPITATED WEASEL",
+      "wins": 5,
+      "losses": 9,
+      "ties": 0,
+      "points_for": 1527.8,
+      "points_against": 1692.5,
+      "finish": 12,
+      "league_size": 12
+    },
+    {
+      "year": 2024,
+      "team_name": "Lose2aG00n3r",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "points_for": 1870.4,
+      "points_against": 1783.3,
+      "finish": 1,
+      "league_size": 12
+    },
+    {
+      "year": 2025,
+      "team_name": "CuckforBuck",
+      "wins": 8,
+      "losses": 5,
+      "ties": 1,
+      "points_for": 1598.6,
+      "points_against": 1596.0,
+      "finish": 5,
+      "league_size": 12
+    }
+  ],
+  "win_pct": 53.6,
+  "games": 42
+}

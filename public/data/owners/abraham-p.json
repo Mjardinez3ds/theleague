@@ -1,0 +1,28 @@
+{
+  "owner": "Abraham P.",
+  "slug": "abraham-p",
+  "wins": 7,
+  "losses": 7,
+  "ties": 0,
+  "points_for": 1583.4,
+  "points_against": 1568.5,
+  "titles": 0,
+  "runners_up": 1,
+  "thirds": 0,
+  "lasts": 0,
+  "seasons": [
+    {
+      "year": 2023,
+      "team_name": "ALVINNNN",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1583.4,
+      "points_against": 1568.5,
+      "finish": 2,
+      "league_size": 12
+    }
+  ],
+  "win_pct": 50.0,
+  "games": 14
+}

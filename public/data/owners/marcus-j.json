@@ -1,0 +1,50 @@
+{
+  "owner": "Marcus J.",
+  "slug": "marcus-j",
+  "wins": 20,
+  "losses": 22,
+  "ties": 0,
+  "points_for": 4793.7,
+  "points_against": 5001.9,
+  "titles": 0,
+  "runners_up": 0,
+  "thirds": 0,
+  "lasts": 0,
+  "seasons": [
+    {
+      "year": 2023,
+      "team_name": "Psychological Operations",
+      "wins": 8,
+      "losses": 6,
+      "ties": 0,
+      "points_for": 1620.7,
+      "points_against": 1630.8,
+      "finish": 5,
+      "league_size": 12
+    },
+    {
+      "year": 2024,
+      "team_name": "Saquon Barkley",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1631.3,
+      "points_against": 1719.3,
+      "finish": 4,
+      "league_size": 12
+    },
+    {
+      "year": 2025,
+      "team_name": "Ramsey Sporting Goods",
+      "wins": 5,
+      "losses": 9,
+      "ties": 0,
+      "points_for": 1541.7,
+      "points_against": 1651.8,
+      "finish": 11,
+      "league_size": 12
+    }
+  ],
+  "win_pct": 47.6,
+  "games": 42
+}

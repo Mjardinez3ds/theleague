@@ -1,0 +1,50 @@
+{
+  "owner": "derf p.",
+  "slug": "derf-p",
+  "wins": 16,
+  "losses": 25,
+  "ties": 1,
+  "points_for": 4679.2,
+  "points_against": 4800.7,
+  "titles": 1,
+  "runners_up": 0,
+  "thirds": 0,
+  "lasts": 1,
+  "seasons": [
+    {
+      "year": 2023,
+      "team_name": "Loco Moco",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1695.8,
+      "points_against": 1619.4,
+      "finish": 1,
+      "league_size": 12
+    },
+    {
+      "year": 2024,
+      "team_name": "Chubba Missile Crisis",
+      "wins": 5,
+      "losses": 9,
+      "ties": 0,
+      "points_for": 1517.5,
+      "points_against": 1629.2,
+      "finish": 12,
+      "league_size": 12
+    },
+    {
+      "year": 2025,
+      "team_name": "Dynomite",
+      "wins": 4,
+      "losses": 9,
+      "ties": 1,
+      "points_for": 1465.9,
+      "points_against": 1552.1,
+      "finish": 9,
+      "league_size": 12
+    }
+  ],
+  "win_pct": 39.3,
+  "games": 42
+}

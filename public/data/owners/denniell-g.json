@@ -1,0 +1,39 @@
+{
+  "owner": "Denniell G.",
+  "slug": "denniell-g",
+  "wins": 10,
+  "losses": 18,
+  "ties": 0,
+  "points_for": 3145.0,
+  "points_against": 3364.4,
+  "titles": 0,
+  "runners_up": 0,
+  "thirds": 0,
+  "lasts": 0,
+  "seasons": [
+    {
+      "year": 2023,
+      "team_name": "1 Percent Poot",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "points_for": 1595.3,
+      "points_against": 1634.8,
+      "finish": 8,
+      "league_size": 12
+    },
+    {
+      "year": 2024,
+      "team_name": "4 Percent P00T",
+      "wins": 4,
+      "losses": 10,
+      "ties": 0,
+      "points_for": 1549.8,
+      "points_against": 1729.6,
+      "finish": 11,
+      "league_size": 12
+    }
+  ],
+  "win_pct": 35.7,
+  "games": 28
+}

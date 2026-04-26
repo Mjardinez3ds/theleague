@@ -1,0 +1,28 @@
+{
+  "owner": "Christopher J.",
+  "slug": "christopher-j",
+  "wins": 9,
+  "losses": 5,
+  "ties": 0,
+  "points_for": 1723.3,
+  "points_against": 1618.2,
+  "titles": 0,
+  "runners_up": 0,
+  "thirds": 0,
+  "lasts": 0,
+  "seasons": [
+    {
+      "year": 2025,
+      "team_name": "Christopher's Cool Team",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "points_for": 1723.3,
+      "points_against": 1618.2,
+      "finish": 6,
+      "league_size": 12
+    }
+  ],
+  "win_pct": 64.3,
+  "games": 14
+}

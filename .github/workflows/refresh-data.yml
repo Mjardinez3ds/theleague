@@ -1,0 +1,36 @@
+name: Refresh league data
+
+on:
+  schedule:
+    # Every hour during NFL season; adjust as needed.
+    - cron: "15 * * * *"
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install espn-api
+      - run: python scripts/build_data.py
+        env:
+          ESPN_S2: ${{ secrets.ESPN_S2 }}
+          ESPN_SWID: ${{ secrets.ESPN_SWID }}
+          ESPN_LEAGUE_ID: ${{ secrets.ESPN_LEAGUE_ID }}
+          ESPN_CURRENT_YEAR: ${{ vars.ESPN_CURRENT_YEAR }}
+      - name: Commit refreshed data
+        run: |
+          git config user.name "league-bot"
+          git config user.email "bot@theleague.local"
+          if [ -n "$(git status --porcelain public/data)" ]; then
+            git add public/data
+            git commit -m "chore: refresh data $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          else
+            echo "No changes."
+          fi

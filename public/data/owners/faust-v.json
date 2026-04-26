@@ -1,0 +1,28 @@
+{
+  "owner": "Faust V.",
+  "slug": "faust-v",
+  "wins": 7,
+  "losses": 7,
+  "ties": 0,
+  "points_for": 1497.6,
+  "points_against": 1474.7,
+  "titles": 0,
+  "runners_up": 0,
+  "thirds": 0,
+  "lasts": 0,
+  "seasons": [
+    {
+      "year": 2024,
+      "team_name": "The Old Hunters",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1497.6,
+      "points_against": 1474.7,
+      "finish": 10,
+      "league_size": 12
+    }
+  ],
+  "win_pct": 50.0,
+  "games": 14
+}

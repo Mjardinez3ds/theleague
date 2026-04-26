@@ -1,0 +1,172 @@
+{
+  "seasons": [
+    {
+      "year": 2025,
+      "league_name": "The League 2025",
+      "champion": {
+        "id": 10,
+        "team_name": "Shy Squad",
+        "owner": "Super S.",
+        "owner_slug": "super-s",
+        "wins": 10,
+        "losses": 4,
+        "ties": 0,
+        "points_for": 1901.6,
+        "points_against": 1499.9,
+        "logo_url": "https://i.pinimg.com/564x/3c/53/58/3c53587ccf03f397cb74e9790c4d4f68.jpg",
+        "finish": 1
+      },
+      "runner_up": {
+        "id": 1,
+        "team_name": "Buck Swope",
+        "owner": "Chris P.",
+        "owner_slug": "chris-p",
+        "wins": 9,
+        "losses": 5,
+        "ties": 0,
+        "points_for": 1857.3,
+        "points_against": 1771.5,
+        "logo_url": "https://mystique-api.fantasy.espn.com/apis/v1/domains/lm/images/e4f015a0-b95a-11f0-8306-0b32d1884cc7",
+        "finish": 2
+      },
+      "third": {
+        "id": 12,
+        "team_name": "Choosing Violence",
+        "owner": "Ricky C.",
+        "owner_slug": "ricky-c",
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "points_for": 1576.8,
+        "points_against": 1605.0,
+        "logo_url": "https://mystique-api.fantasy.espn.com/apis/v1/domains/lm/images/5e4f0e00-7e2e-11f0-89de-d1ac062a5dc6",
+        "finish": 3
+      },
+      "last": {
+        "id": 2,
+        "team_name": "Alien vs Deshaun",
+        "owner": "Kevin Ll.",
+        "owner_slug": "kevin-ll",
+        "wins": 6,
+        "losses": 8,
+        "ties": 0,
+        "points_for": 1718.1,
+        "points_against": 1689.9,
+        "logo_url": "https://g.espncdn.com/lm-static/logo-packs/ffl/CreepShow-ToddDetwiler/CreepShow-01.svg",
+        "finish": 12
+      }
+    },
+    {
+      "year": 2024,
+      "league_name": "The League 2024",
+      "champion": {
+        "id": 6,
+        "team_name": "Lose2aG00n3r",
+        "owner": "Kevin L.",
+        "owner_slug": "kevin-l",
+        "wins": 9,
+        "losses": 5,
+        "ties": 0,
+        "points_for": 1870.4,
+        "points_against": 1783.3,
+        "logo_url": "https://m.media-amazon.com/images/I/B1pppR4gVKL._CLa%7C2140%2C2000%7C61BkRXTX1sL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_UY1000_.png",
+        "finish": 1
+      },
+      "runner_up": {
+        "id": 1,
+        "team_name": "Perc Angle",
+        "owner": "Chris P.",
+        "owner_slug": "chris-p",
+        "wins": 9,
+        "losses": 5,
+        "ties": 0,
+        "points_for": 1800.3,
+        "points_against": 1677.5,
+        "logo_url": "https://crazytights.ovh/pics/1/31/w01-o31-p01_th.jpg",
+        "finish": 2
+      },
+      "third": {
+        "id": 5,
+        "team_name": "TWO PIECE W A BISCUIT",
+        "owner": "George D.",
+        "owner_slug": "george-d",
+        "wins": 8,
+        "losses": 6,
+        "ties": 0,
+        "points_for": 1743.8,
+        "points_against": 1749.4,
+        "logo_url": "https://s3-media0.fl.yelpcdn.com/bphoto/bNyGqXQYoWlmqYIPcTMaZw/348s.jpg",
+        "finish": 3
+      },
+      "last": {
+        "id": 8,
+        "team_name": "Chubba Missile Crisis",
+        "owner": "derf p.",
+        "owner_slug": "derf-p",
+        "wins": 5,
+        "losses": 9,
+        "ties": 0,
+        "points_for": 1517.5,
+        "points_against": 1629.2,
+        "logo_url": "https://g.espncdn.com/lm-static/logo-packs/ffl/Blockparty-RobbHars/blockplayers-06.svg",
+        "finish": 12
+      }
+    },
+    {
+      "year": 2023,
+      "league_name": "The League 2023",
+      "champion": {
+        "id": 8,
+        "team_name": "Loco Moco",
+        "owner": "derf p.",
+        "owner_slug": "derf-p",
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "points_for": 1695.8,
+        "points_against": 1619.4,
+        "logo_url": "https://popmenucloud.com/ojqmdykv/04f1c134-c1d4-4dc6-aac4-df408b8b91e6.jpg",
+        "finish": 1
+      },
+      "runner_up": {
+        "id": 10,
+        "team_name": "ALVINNNN",
+        "owner": "Abraham P.",
+        "owner_slug": "abraham-p",
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "points_for": 1583.4,
+        "points_against": 1568.5,
+        "logo_url": "https://g.espncdn.com/lm-static/logo-packs/ffl/AtTheStadium-RobbHarskamp/At_The_Stadium_01.svg",
+        "finish": 2
+      },
+      "third": {
+        "id": 1,
+        "team_name": "Paul Giamatti in Big Fat Liar",
+        "owner": "Chris P.",
+        "owner_slug": "chris-p",
+        "wins": 10,
+        "losses": 4,
+        "ties": 0,
+        "points_for": 1772.2,
+        "points_against": 1665.4,
+        "logo_url": "https://m.media-amazon.com/images/M/MV5BMTUwMzI5MTcxNl5BMl5BanBnXkFtZTYwNzIyNjU3._V1_.jpg",
+        "finish": 3
+      },
+      "last": {
+        "id": 6,
+        "team_name": "DECAPITATED WEASEL",
+        "owner": "Kevin L.",
+        "owner_slug": "kevin-l",
+        "wins": 5,
+        "losses": 9,
+        "ties": 0,
+        "points_for": 1527.8,
+        "points_against": 1692.5,
+        "logo_url": "https://s.turbifycdn.com/aah/amigofoods/dominican-republic-flag-17.png",
+        "finish": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "owner": "Anthony R.",
+  "slug": "anthony-r",
+  "wins": 6,
+  "losses": 8,
+  "ties": 0,
+  "points_for": 1652.1,
+  "points_against": 1773.0,
+  "titles": 0,
+  "runners_up": 0,
+  "thirds": 0,
+  "lasts": 0,
+  "seasons": [
+    {
+      "year": 2023,
+      "team_name": "UrMom Stillsquirts",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "points_for": 1652.1,
+      "points_against": 1773.0,
+      "finish": 7,
+      "league_size": 12
+    }
+  ],
+  "win_pct": 42.9,
+  "games": 14
+}

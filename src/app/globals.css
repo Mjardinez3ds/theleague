@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #0a0e1a;
+  --bg-elev: #131826;
+  --bg-elev-2: #1a2030;
+  --border: #252d40;
+  --text: #ebeff5;
+  --text-muted: #8a94a8;
+  --accent: #ffc400;
+  --accent-dim: #806300;
+  --green: #50c878;
+  --red: #dc5a5a;
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --safe-top: env(safe-area-inset-top, 0px);
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-bg-elev: var(--bg-elev);
+  --color-bg-elev-2: var(--bg-elev-2);
+  --color-border-app: var(--border);
+  --color-text: var(--text);
+  --color-text-muted: var(--text-muted);
+  --color-accent: var(--accent);
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+html, body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, system-ui, sans-serif;
+  font-feature-settings: "tnum" 1;
+  overscroll-behavior-y: none;
+}
+
+body {
+  min-height: 100dvh;
+  padding-top: var(--safe-top);
+}
+
+::-webkit-scrollbar { width: 0; height: 0; }
+
+@layer utilities {
+  .text-muted { color: var(--text-muted); }
+  .bg-elev    { background: var(--bg-elev); }
+  .bg-elev-2  { background: var(--bg-elev-2); }
+  .border-app { border-color: var(--border); }
+  .text-accent { color: var(--accent); }
+  .bg-accent   { background: var(--accent); }
+}

@@ -1,0 +1,50 @@
+{
+  "owner": "Kevin Ll.",
+  "slug": "kevin-ll",
+  "wins": 19,
+  "losses": 23,
+  "ties": 0,
+  "points_for": 4894.9,
+  "points_against": 4940.3,
+  "titles": 0,
+  "runners_up": 0,
+  "thirds": 0,
+  "lasts": 1,
+  "seasons": [
+    {
+      "year": 2023,
+      "team_name": "Liang le gusta bicho",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1456.8,
+      "points_against": 1602.4,
+      "finish": 10,
+      "league_size": 12
+    },
+    {
+      "year": 2024,
+      "team_name": "Alien vs Deshaun",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "points_for": 1719.9,
+      "points_against": 1647.9,
+      "finish": 9,
+      "league_size": 12
+    },
+    {
+      "year": 2025,
+      "team_name": "Alien vs Deshaun",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "points_for": 1718.1,
+      "points_against": 1689.9,
+      "finish": 12,
+      "league_size": 12
+    }
+  ],
+  "win_pct": 45.2,
+  "games": 42
+}

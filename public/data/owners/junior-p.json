@@ -1,0 +1,50 @@
+{
+  "owner": "Junior P.",
+  "slug": "junior-p",
+  "wins": 21,
+  "losses": 21,
+  "ties": 0,
+  "points_for": 5086.1,
+  "points_against": 5200.0,
+  "titles": 0,
+  "runners_up": 0,
+  "thirds": 0,
+  "lasts": 0,
+  "seasons": [
+    {
+      "year": 2023,
+      "team_name": "Punchmade Joonyer",
+      "wins": 8,
+      "losses": 6,
+      "ties": 0,
+      "points_for": 1887.8,
+      "points_against": 1829.0,
+      "finish": 6,
+      "league_size": 12
+    },
+    {
+      "year": 2024,
+      "team_name": "e-",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "points_for": 1726.1,
+      "points_against": 1782.4,
+      "finish": 8,
+      "league_size": 12
+    },
+    {
+      "year": 2025,
+      "team_name": "SWEENEY'S B00BS",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1472.2,
+      "points_against": 1588.6,
+      "finish": 7,
+      "league_size": 12
+    }
+  ],
+  "win_pct": 50.0,
+  "games": 42
+}

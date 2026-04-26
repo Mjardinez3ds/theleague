@@ -1,0 +1,672 @@
+{
+  "owners": [
+    {
+      "owner": "Super S.",
+      "slug": "super-s",
+      "wins": 19,
+      "losses": 9,
+      "ties": 0,
+      "points_for": 3564.3,
+      "points_against": 3037.7,
+      "titles": 1,
+      "runners_up": 0,
+      "thirds": 0,
+      "lasts": 0,
+      "seasons": [
+        {
+          "year": 2024,
+          "team_name": "Shy Squad",
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "points_for": 1662.8,
+          "points_against": 1537.8,
+          "finish": 6,
+          "league_size": 12
+        },
+        {
+          "year": 2025,
+          "team_name": "Shy Squad",
+          "wins": 10,
+          "losses": 4,
+          "ties": 0,
+          "points_for": 1901.6,
+          "points_against": 1499.9,
+          "finish": 1,
+          "league_size": 12
+        }
+      ],
+      "win_pct": 67.9,
+      "games": 28
+    },
+    {
+      "owner": "Chris P.",
+      "slug": "chris-p",
+      "wins": 28,
+      "losses": 14,
+      "ties": 0,
+      "points_for": 5429.7,
+      "points_against": 5114.5,
+      "titles": 0,
+      "runners_up": 2,
+      "thirds": 1,
+      "lasts": 0,
+      "seasons": [
+        {
+          "year": 2023,
+          "team_name": "Paul Giamatti in Big Fat Liar",
+          "wins": 10,
+          "losses": 4,
+          "ties": 0,
+          "points_for": 1772.2,
+          "points_against": 1665.4,
+          "finish": 3,
+          "league_size": 12
+        },
+        {
+          "year": 2024,
+          "team_name": "Perc Angle",
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "points_for": 1800.3,
+          "points_against": 1677.5,
+          "finish": 2,
+          "league_size": 12
+        },
+        {
+          "year": 2025,
+          "team_name": "Buck Swope",
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "points_for": 1857.3,
+          "points_against": 1771.5,
+          "finish": 2,
+          "league_size": 12
+        }
+      ],
+      "win_pct": 66.7,
+      "games": 42
+    },
+    {
+      "owner": "Christopher J.",
+      "slug": "christopher-j",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "points_for": 1723.3,
+      "points_against": 1618.2,
+      "titles": 0,
+      "runners_up": 0,
+      "thirds": 0,
+      "lasts": 0,
+      "seasons": [
+        {
+          "year": 2025,
+          "team_name": "Christopher's Cool Team",
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "points_for": 1723.3,
+          "points_against": 1618.2,
+          "finish": 6,
+          "league_size": 12
+        }
+      ],
+      "win_pct": 64.3,
+      "games": 14
+    },
+    {
+      "owner": "Ricky C.",
+      "slug": "ricky-c",
+      "wins": 16,
+      "losses": 12,
+      "ties": 0,
+      "points_for": 3250.7,
+      "points_against": 3168.9,
+      "titles": 0,
+      "runners_up": 0,
+      "thirds": 1,
+      "lasts": 0,
+      "seasons": [
+        {
+          "year": 2023,
+          "team_name": "Team Cano",
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "points_for": 1673.8,
+          "points_against": 1563.9,
+          "finish": 4,
+          "league_size": 12
+        },
+        {
+          "year": 2025,
+          "team_name": "Choosing Violence",
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "points_for": 1576.8,
+          "points_against": 1605.0,
+          "finish": 3,
+          "league_size": 12
+        }
+      ],
+      "win_pct": 57.1,
+      "games": 28
+    },
+    {
+      "owner": "Kevin L.",
+      "slug": "kevin-l",
+      "wins": 22,
+      "losses": 19,
+      "ties": 1,
+      "points_for": 4996.9,
+      "points_against": 5071.8,
+      "titles": 1,
+      "runners_up": 0,
+      "thirds": 0,
+      "lasts": 1,
+      "seasons": [
+        {
+          "year": 2023,
+          "team_name": "DECAPITATED WEASEL",
+          "wins": 5,
+          "losses": 9,
+          "ties": 0,
+          "points_for": 1527.8,
+          "points_against": 1692.5,
+          "finish": 12,
+          "league_size": 12
+        },
+        {
+          "year": 2024,
+          "team_name": "Lose2aG00n3r",
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "points_for": 1870.4,
+          "points_against": 1783.3,
+          "finish": 1,
+          "league_size": 12
+        },
+        {
+          "year": 2025,
+          "team_name": "CuckforBuck",
+          "wins": 8,
+          "losses": 5,
+          "ties": 1,
+          "points_for": 1598.6,
+          "points_against": 1596.0,
+          "finish": 5,
+          "league_size": 12
+        }
+      ],
+      "win_pct": 53.6,
+      "games": 42
+    },
+    {
+      "owner": "Junior P.",
+      "slug": "junior-p",
+      "wins": 21,
+      "losses": 21,
+      "ties": 0,
+      "points_for": 5086.1,
+      "points_against": 5200.0,
+      "titles": 0,
+      "runners_up": 0,
+      "thirds": 0,
+      "lasts": 0,
+      "seasons": [
+        {
+          "year": 2023,
+          "team_name": "Punchmade Joonyer",
+          "wins": 8,
+          "losses": 6,
+          "ties": 0,
+          "points_for": 1887.8,
+          "points_against": 1829.0,
+          "finish": 6,
+          "league_size": 12
+        },
+        {
+          "year": 2024,
+          "team_name": "e-",
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "points_for": 1726.1,
+          "points_against": 1782.4,
+          "finish": 8,
+          "league_size": 12
+        },
+        {
+          "year": 2025,
+          "team_name": "SWEENEY'S B00BS",
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "points_for": 1472.2,
+          "points_against": 1588.6,
+          "finish": 7,
+          "league_size": 12
+        }
+      ],
+      "win_pct": 50.0,
+      "games": 42
+    },
+    {
+      "owner": "Abraham P.",
+      "slug": "abraham-p",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1583.4,
+      "points_against": 1568.5,
+      "titles": 0,
+      "runners_up": 1,
+      "thirds": 0,
+      "lasts": 0,
+      "seasons": [
+        {
+          "year": 2023,
+          "team_name": "ALVINNNN",
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "points_for": 1583.4,
+          "points_against": 1568.5,
+          "finish": 2,
+          "league_size": 12
+        }
+      ],
+      "win_pct": 50.0,
+      "games": 14
+    },
+    {
+      "owner": "Faust V.",
+      "slug": "faust-v",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1497.6,
+      "points_against": 1474.7,
+      "titles": 0,
+      "runners_up": 0,
+      "thirds": 0,
+      "lasts": 0,
+      "seasons": [
+        {
+          "year": 2024,
+          "team_name": "The Old Hunters",
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "points_for": 1497.6,
+          "points_against": 1474.7,
+          "finish": 10,
+          "league_size": 12
+        }
+      ],
+      "win_pct": 50.0,
+      "games": 14
+    },
+    {
+      "owner": "Marcus J.",
+      "slug": "marcus-j",
+      "wins": 20,
+      "losses": 22,
+      "ties": 0,
+      "points_for": 4793.7,
+      "points_against": 5001.9,
+      "titles": 0,
+      "runners_up": 0,
+      "thirds": 0,
+      "lasts": 0,
+      "seasons": [
+        {
+          "year": 2023,
+          "team_name": "Psychological Operations",
+          "wins": 8,
+          "losses": 6,
+          "ties": 0,
+          "points_for": 1620.7,
+          "points_against": 1630.8,
+          "finish": 5,
+          "league_size": 12
+        },
+        {
+          "year": 2024,
+          "team_name": "Saquon Barkley",
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "points_for": 1631.3,
+          "points_against": 1719.3,
+          "finish": 4,
+          "league_size": 12
+        },
+        {
+          "year": 2025,
+          "team_name": "Ramsey Sporting Goods",
+          "wins": 5,
+          "losses": 9,
+          "ties": 0,
+          "points_for": 1541.7,
+          "points_against": 1651.8,
+          "finish": 11,
+          "league_size": 12
+        }
+      ],
+      "win_pct": 47.6,
+      "games": 42
+    },
+    {
+      "owner": "George D.",
+      "slug": "george-d",
+      "wins": 20,
+      "losses": 22,
+      "ties": 0,
+      "points_for": 4978.0,
+      "points_against": 5102.2,
+      "titles": 0,
+      "runners_up": 0,
+      "thirds": 1,
+      "lasts": 0,
+      "seasons": [
+        {
+          "year": 2023,
+          "team_name": "Tony Pollard Therapy Club ",
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "points_for": 1556.4,
+          "points_against": 1608.5,
+          "finish": 11,
+          "league_size": 12
+        },
+        {
+          "year": 2024,
+          "team_name": "TWO PIECE W A BISCUIT",
+          "wins": 8,
+          "losses": 6,
+          "ties": 0,
+          "points_for": 1743.8,
+          "points_against": 1749.4,
+          "finish": 3,
+          "league_size": 12
+        },
+        {
+          "year": 2025,
+          "team_name": "Farmed",
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "points_for": 1677.8,
+          "points_against": 1744.3,
+          "finish": 10,
+          "league_size": 12
+        }
+      ],
+      "win_pct": 47.6,
+      "games": 42
+    },
+    {
+      "owner": "Devon M.",
+      "slug": "devon-m",
+      "wins": 20,
+      "losses": 22,
+      "ties": 0,
+      "points_for": 5118.1,
+      "points_against": 4962.7,
+      "titles": 0,
+      "runners_up": 0,
+      "thirds": 0,
+      "lasts": 0,
+      "seasons": [
+        {
+          "year": 2023,
+          "team_name": "Breece\u2019s Pieces",
+          "wins": 5,
+          "losses": 9,
+          "ties": 0,
+          "points_for": 1804.4,
+          "points_against": 1638.4,
+          "finish": 9,
+          "league_size": 12
+        },
+        {
+          "year": 2024,
+          "team_name": "24 Garrett Gold ",
+          "wins": 8,
+          "losses": 6,
+          "ties": 0,
+          "points_for": 1606.2,
+          "points_against": 1630.7,
+          "finish": 5,
+          "league_size": 12
+        },
+        {
+          "year": 2025,
+          "team_name": "No Chase No Case",
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "points_for": 1707.5,
+          "points_against": 1693.6,
+          "finish": 4,
+          "league_size": 12
+        }
+      ],
+      "win_pct": 47.6,
+      "games": 42
+    },
+    {
+      "owner": "Kevin Ll.",
+      "slug": "kevin-ll",
+      "wins": 19,
+      "losses": 23,
+      "ties": 0,
+      "points_for": 4894.9,
+      "points_against": 4940.3,
+      "titles": 0,
+      "runners_up": 0,
+      "thirds": 0,
+      "lasts": 1,
+      "seasons": [
+        {
+          "year": 2023,
+          "team_name": "Liang le gusta bicho",
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "points_for": 1456.8,
+          "points_against": 1602.4,
+          "finish": 10,
+          "league_size": 12
+        },
+        {
+          "year": 2024,
+          "team_name": "Alien vs Deshaun",
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "points_for": 1719.9,
+          "points_against": 1647.9,
+          "finish": 9,
+          "league_size": 12
+        },
+        {
+          "year": 2025,
+          "team_name": "Alien vs Deshaun",
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "points_for": 1718.1,
+          "points_against": 1689.9,
+          "finish": 12,
+          "league_size": 12
+        }
+      ],
+      "win_pct": 45.2,
+      "games": 42
+    },
+    {
+      "owner": "Anthony R.",
+      "slug": "anthony-r",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "points_for": 1652.1,
+      "points_against": 1773.0,
+      "titles": 0,
+      "runners_up": 0,
+      "thirds": 0,
+      "lasts": 0,
+      "seasons": [
+        {
+          "year": 2023,
+          "team_name": "UrMom Stillsquirts",
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "points_for": 1652.1,
+          "points_against": 1773.0,
+          "finish": 7,
+          "league_size": 12
+        }
+      ],
+      "win_pct": 42.9,
+      "games": 14
+    },
+    {
+      "owner": "derf p.",
+      "slug": "derf-p",
+      "wins": 16,
+      "losses": 25,
+      "ties": 1,
+      "points_for": 4679.2,
+      "points_against": 4800.7,
+      "titles": 1,
+      "runners_up": 0,
+      "thirds": 0,
+      "lasts": 1,
+      "seasons": [
+        {
+          "year": 2023,
+          "team_name": "Loco Moco",
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "points_for": 1695.8,
+          "points_against": 1619.4,
+          "finish": 1,
+          "league_size": 12
+        },
+        {
+          "year": 2024,
+          "team_name": "Chubba Missile Crisis",
+          "wins": 5,
+          "losses": 9,
+          "ties": 0,
+          "points_for": 1517.5,
+          "points_against": 1629.2,
+          "finish": 12,
+          "league_size": 12
+        },
+        {
+          "year": 2025,
+          "team_name": "Dynomite",
+          "wins": 4,
+          "losses": 9,
+          "ties": 1,
+          "points_for": 1465.9,
+          "points_against": 1552.1,
+          "finish": 9,
+          "league_size": 12
+        }
+      ],
+      "win_pct": 39.3,
+      "games": 42
+    },
+    {
+      "owner": "Matthew T.",
+      "slug": "matthew-t",
+      "wins": 11,
+      "losses": 17,
+      "ties": 0,
+      "points_for": 3046.3,
+      "points_against": 3240.0,
+      "titles": 0,
+      "runners_up": 0,
+      "thirds": 0,
+      "lasts": 0,
+      "seasons": [
+        {
+          "year": 2024,
+          "team_name": "Maybe Nix Year",
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "points_for": 1717.1,
+          "points_against": 1681.1,
+          "finish": 7,
+          "league_size": 12
+        },
+        {
+          "year": 2025,
+          "team_name": "Big Nix Energy",
+          "wins": 5,
+          "losses": 9,
+          "ties": 0,
+          "points_for": 1329.1,
+          "points_against": 1558.9,
+          "finish": 8,
+          "league_size": 12
+        }
+      ],
+      "win_pct": 39.3,
+      "games": 28
+    },
+    {
+      "owner": "Denniell G.",
+      "slug": "denniell-g",
+      "wins": 10,
+      "losses": 18,
+      "ties": 0,
+      "points_for": 3145.0,
+      "points_against": 3364.4,
+      "titles": 0,
+      "runners_up": 0,
+      "thirds": 0,
+      "lasts": 0,
+      "seasons": [
+        {
+          "year": 2023,
+          "team_name": "1 Percent Poot",
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "points_for": 1595.3,
+          "points_against": 1634.8,
+          "finish": 8,
+          "league_size": 12
+        },
+        {
+          "year": 2024,
+          "team_name": "4 Percent P00T",
+          "wins": 4,
+          "losses": 10,
+          "ties": 0,
+          "points_for": 1549.8,
+          "points_against": 1729.6,
+          "finish": 11,
+          "league_size": 12
+        }
+      ],
+      "win_pct": 35.7,
+      "games": 28
+    }
+  ]
+}

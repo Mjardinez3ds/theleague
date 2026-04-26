@@ -1,0 +1,50 @@
+{
+  "owner": "George D.",
+  "slug": "george-d",
+  "wins": 20,
+  "losses": 22,
+  "ties": 0,
+  "points_for": 4978.0,
+  "points_against": 5102.2,
+  "titles": 0,
+  "runners_up": 0,
+  "thirds": 1,
+  "lasts": 0,
+  "seasons": [
+    {
+      "year": 2023,
+      "team_name": "Tony Pollard Therapy Club ",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "points_for": 1556.4,
+      "points_against": 1608.5,
+      "finish": 11,
+      "league_size": 12
+    },
+    {
+      "year": 2024,
+      "team_name": "TWO PIECE W A BISCUIT",
+      "wins": 8,
+      "losses": 6,
+      "ties": 0,
+      "points_for": 1743.8,
+      "points_against": 1749.4,
+      "finish": 3,
+      "league_size": 12
+    },
+    {
+      "year": 2025,
+      "team_name": "Farmed",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "points_for": 1677.8,
+      "points_against": 1744.3,
+      "finish": 10,
+      "league_size": 12
+    }
+  ],
+  "win_pct": 47.6,
+  "games": 42
+}

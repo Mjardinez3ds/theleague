@@ -1,0 +1,39 @@
+{
+  "owner": "Ricky C.",
+  "slug": "ricky-c",
+  "wins": 16,
+  "losses": 12,
+  "ties": 0,
+  "points_for": 3250.7,
+  "points_against": 3168.9,
+  "titles": 0,
+  "runners_up": 0,
+  "thirds": 1,
+  "lasts": 0,
+  "seasons": [
+    {
+      "year": 2023,
+      "team_name": "Team Cano",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "points_for": 1673.8,
+      "points_against": 1563.9,
+      "finish": 4,
+      "league_size": 12
+    },
+    {
+      "year": 2025,
+      "team_name": "Choosing Violence",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1576.8,
+      "points_against": 1605.0,
+      "finish": 3,
+      "league_size": 12
+    }
+  ],
+  "win_pct": 57.1,
+  "games": 28
+}
