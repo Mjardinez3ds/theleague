@@ -33,6 +33,7 @@ algorithm described below. Keep the two implementations in sync.
 ## Stack
 
 - **Next.js 16 (App Router)** — fully prerendered with `force-static`.
+- **Static export** — `next.config.ts` sets `output: "export"`, so production builds emit an `out/` directory.
 - **TypeScript** — strict.
 - **Tailwind CSS v4** — design tokens declared in `globals.css` via `@theme inline`.
 - **lucide-react** — icon set used by the bottom tab bar.
@@ -194,19 +195,29 @@ ipconfig                  # find IPv4 Address
 
 ## Deployment plan (when we're ready)
 
-1. Create a new GitHub repo `theleague-web` (private OK).
-2. `git init && git add . && git commit && git push`.
-3. Cloudflare Pages → Create project → connect GitHub → pick repo. Auto-detects
-   Next.js. Build command `npm run build`. Output dir `.next`.
-4. Set repo **Secrets**: `ESPN_S2`, `ESPN_SWID`, `ESPN_LEAGUE_ID`.
-5. Set repo **Variables**: `ESPN_CURRENT_YEAR=2025` (bump in July when ESPN
+1. GitHub repo exists at `https://github.com/Mjardinez3ds/theleague.git` on branch `main`.
+2. Cloudflare Pages → Create project → connect GitHub → pick `Mjardinez3ds/theleague`.
+3. Use **Next.js (Static HTML Export)** as the framework preset.
+4. Build settings:
+   - Build command: `npx next build`
+   - Build output directory: `out`
+   - Production branch: `main`
+5. Set repo **Secrets**: `ESPN_S2`, `ESPN_SWID`, `ESPN_LEAGUE_ID`.
+6. Set repo **Variables**: `ESPN_CURRENT_YEAR=2025` (bump in July when ESPN
    creates the new season).
-6. The hourly GitHub Action will commit fresh data; Cloudflare auto-redeploys
+7. The hourly GitHub Action will commit fresh data; Cloudflare auto-redeploys
    on push.
 
 Free subdomain: `theleague-web.pages.dev`. Custom `.com` is optional and
 plugs in via Cloudflare's DNS (cheap registrar like Cloudflare itself or
 Porkbun, ~$10/yr).
+
+### Verified deployment state
+
+- Local git repo initialized and pushed to GitHub.
+- Static export verified with a successful production build on `2026-04-26`.
+- `out/` is the correct Cloudflare Pages output directory for this project shape.
+- The older `.next` output-directory note was incorrect for the current config.
 
 ---
 
