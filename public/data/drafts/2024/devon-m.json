@@ -1,0 +1,98 @@
+[
+  {
+    "round": 1,
+    "pick": 11,
+    "player": "Garrett Wilson",
+    "position": ""
+  },
+  {
+    "round": 2,
+    "pick": 2,
+    "player": "Saquon Barkley",
+    "position": ""
+  },
+  {
+    "round": 3,
+    "pick": 11,
+    "player": "Deebo Samuel Sr.",
+    "position": ""
+  },
+  {
+    "round": 4,
+    "pick": 2,
+    "player": "Kenneth Walker III",
+    "position": ""
+  },
+  {
+    "round": 5,
+    "pick": 11,
+    "player": "Calvin Ridley",
+    "position": ""
+  },
+  {
+    "round": 6,
+    "pick": 2,
+    "player": "Evan Engram",
+    "position": ""
+  },
+  {
+    "round": 7,
+    "pick": 11,
+    "player": "Courtland Sutton",
+    "position": ""
+  },
+  {
+    "round": 8,
+    "pick": 2,
+    "player": "Tyjae Spears",
+    "position": ""
+  },
+  {
+    "round": 9,
+    "pick": 11,
+    "player": "Austin Ekeler",
+    "position": ""
+  },
+  {
+    "round": 10,
+    "pick": 2,
+    "player": "Aaron Rodgers",
+    "position": ""
+  },
+  {
+    "round": 11,
+    "pick": 11,
+    "player": "DeMario Douglas",
+    "position": ""
+  },
+  {
+    "round": 12,
+    "pick": 2,
+    "player": "Brandin Cooks",
+    "position": ""
+  },
+  {
+    "round": 13,
+    "pick": 11,
+    "player": "Taysom Hill",
+    "position": ""
+  },
+  {
+    "round": 14,
+    "pick": 2,
+    "player": "Jared Goff",
+    "position": ""
+  },
+  {
+    "round": 15,
+    "pick": 11,
+    "player": "Ka'imi Fairbairn",
+    "position": ""
+  },
+  {
+    "round": 16,
+    "pick": 2,
+    "player": "Kalif Raymond",
+    "position": ""
+  }
+]

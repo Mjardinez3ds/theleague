@@ -1,0 +1,98 @@
+[
+  {
+    "round": 1,
+    "pick": 2,
+    "player": "Tyreek Hill",
+    "position": ""
+  },
+  {
+    "round": 2,
+    "pick": 11,
+    "player": "Jalen Hurts",
+    "position": ""
+  },
+  {
+    "round": 3,
+    "pick": 2,
+    "player": "DeVonta Smith",
+    "position": ""
+  },
+  {
+    "round": 4,
+    "pick": 11,
+    "player": "Kenneth Walker III",
+    "position": ""
+  },
+  {
+    "round": 5,
+    "pick": 2,
+    "player": "Rachaad White",
+    "position": ""
+  },
+  {
+    "round": 6,
+    "pick": 11,
+    "player": "Drake London",
+    "position": ""
+  },
+  {
+    "round": 7,
+    "pick": 2,
+    "player": "George Pickens",
+    "position": ""
+  },
+  {
+    "round": 8,
+    "pick": 11,
+    "player": "Khalil Herbert",
+    "position": ""
+  },
+  {
+    "round": 9,
+    "pick": 2,
+    "player": "Zach Charbonnet",
+    "position": ""
+  },
+  {
+    "round": 10,
+    "pick": 11,
+    "player": "Brian Robinson Jr.",
+    "position": ""
+  },
+  {
+    "round": 11,
+    "pick": 2,
+    "player": "David Njoku",
+    "position": ""
+  },
+  {
+    "round": 12,
+    "pick": 11,
+    "player": "Dalton Kincaid",
+    "position": ""
+  },
+  {
+    "round": 13,
+    "pick": 2,
+    "player": "Nico Collins",
+    "position": ""
+  },
+  {
+    "round": 14,
+    "pick": 11,
+    "player": "Eagles D/ST",
+    "position": ""
+  },
+  {
+    "round": 15,
+    "pick": 2,
+    "player": "Brock Purdy",
+    "position": ""
+  },
+  {
+    "round": 16,
+    "pick": 11,
+    "player": "Cameron Dicker",
+    "position": ""
+  }
+]

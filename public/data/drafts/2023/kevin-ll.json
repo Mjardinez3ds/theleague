@@ -1,0 +1,98 @@
+[
+  {
+    "round": 1,
+    "pick": 10,
+    "player": "Travis Kelce",
+    "position": ""
+  },
+  {
+    "round": 2,
+    "pick": 3,
+    "player": "Stefon Diggs",
+    "position": ""
+  },
+  {
+    "round": 3,
+    "pick": 10,
+    "player": "Aaron Jones",
+    "position": ""
+  },
+  {
+    "round": 4,
+    "pick": 3,
+    "player": "Joe Burrow",
+    "position": ""
+  },
+  {
+    "round": 5,
+    "pick": 10,
+    "player": "James Conner",
+    "position": ""
+  },
+  {
+    "round": 6,
+    "pick": 3,
+    "player": "Jerry Jeudy",
+    "position": ""
+  },
+  {
+    "round": 7,
+    "pick": 10,
+    "player": "Michael Pittman Jr.",
+    "position": ""
+  },
+  {
+    "round": 8,
+    "pick": 3,
+    "player": "Brandin Cooks",
+    "position": ""
+  },
+  {
+    "round": 9,
+    "pick": 10,
+    "player": "JuJu Smith-Schuster",
+    "position": ""
+  },
+  {
+    "round": 10,
+    "pick": 3,
+    "player": "Samaje Perine",
+    "position": ""
+  },
+  {
+    "round": 11,
+    "pick": 10,
+    "player": "Elijah Moore",
+    "position": ""
+  },
+  {
+    "round": 12,
+    "pick": 3,
+    "player": "Jets D/ST",
+    "position": ""
+  },
+  {
+    "round": 13,
+    "pick": 10,
+    "player": "Rashod Bateman",
+    "position": ""
+  },
+  {
+    "round": 14,
+    "pick": 3,
+    "player": "Evan McPherson",
+    "position": ""
+  },
+  {
+    "round": 15,
+    "pick": 10,
+    "player": "Geno Smith",
+    "position": ""
+  },
+  {
+    "round": 16,
+    "pick": 3,
+    "player": "Jeff Wilson Jr.",
+    "position": ""
+  }
+]

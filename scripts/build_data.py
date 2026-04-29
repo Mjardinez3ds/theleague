@@ -299,6 +299,50 @@ def main():
         "seasons": sorted(history, key=lambda x: -x["year"]),
     })
 
+    # ---------- draft picks (one file per owner per year) ----------
+    for yr, lg in leagues_by_year.items():
+        try:
+            draft_picks = lg.draft  # list of Pick objects
+        except Exception as e:
+            print(f"  ! no draft data for {yr}: {e}")
+            continue
+        if not draft_picks:
+            print(f"  ! empty draft for {yr}")
+            continue
+
+        picks_by_slug: dict[str, list] = {}
+        for pick in draft_picks:
+            team = getattr(pick, "team", None)
+            if team is None:
+                continue
+            raw_id = _raw_owner_id(team)
+            cid = canonical_by_raw.get(raw_id, "")
+            slug = slug_by_canonical.get(cid, "unknown")
+
+            player_name = getattr(pick, "playerName", "") or ""
+            round_num   = getattr(pick, "round_num", 0) or 0
+            round_pick  = getattr(pick, "round_pick", 0) or 0
+
+            # Try to grab position from nested player object
+            position = ""
+            try:
+                position = pick.player.position or ""
+            except Exception:
+                pass
+
+            picks_by_slug.setdefault(slug, []).append({
+                "round":  round_num,
+                "pick":   round_pick,
+                "player": player_name,
+                "position": position,
+            })
+
+        total = sum(len(v) for v in picks_by_slug.values())
+        for slug, picks in picks_by_slug.items():
+            picks.sort(key=lambda p: (p["round"], p["pick"]))
+            write_json(f"drafts/{yr}/{slug}.json", picks)
+        print(f"  draft {yr}: {total} picks across {len(picks_by_slug)} teams")
+
     print(f"\nDone in {time.time()-started:.1f}s. Files in {OUT_DIR}")
 
 

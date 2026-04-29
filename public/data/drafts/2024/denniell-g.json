@@ -1,0 +1,98 @@
+[
+  {
+    "round": 1,
+    "pick": 2,
+    "player": "Tyreek Hill",
+    "position": ""
+  },
+  {
+    "round": 2,
+    "pick": 11,
+    "player": "Josh Jacobs",
+    "position": ""
+  },
+  {
+    "round": 3,
+    "pick": 2,
+    "player": "Sam LaPorta",
+    "position": ""
+  },
+  {
+    "round": 4,
+    "pick": 11,
+    "player": "Tank Dell",
+    "position": ""
+  },
+  {
+    "round": 5,
+    "pick": 2,
+    "player": "DJ Moore",
+    "position": ""
+  },
+  {
+    "round": 6,
+    "pick": 11,
+    "player": "Dak Prescott",
+    "position": ""
+  },
+  {
+    "round": 7,
+    "pick": 2,
+    "player": "Jaxon Smith-Njigba",
+    "position": ""
+  },
+  {
+    "round": 8,
+    "pick": 11,
+    "player": "Hollywood Brown",
+    "position": ""
+  },
+  {
+    "round": 9,
+    "pick": 2,
+    "player": "Nick Chubb",
+    "position": ""
+  },
+  {
+    "round": 10,
+    "pick": 11,
+    "player": "T.J. Hockenson",
+    "position": ""
+  },
+  {
+    "round": 11,
+    "pick": 2,
+    "player": "Romeo Doubs",
+    "position": ""
+  },
+  {
+    "round": 12,
+    "pick": 11,
+    "player": "J.K. Dobbins",
+    "position": ""
+  },
+  {
+    "round": 13,
+    "pick": 2,
+    "player": "Brock Purdy",
+    "position": ""
+  },
+  {
+    "round": 14,
+    "pick": 11,
+    "player": "Ricky Pearsall",
+    "position": ""
+  },
+  {
+    "round": 15,
+    "pick": 2,
+    "player": "Rashod Bateman",
+    "position": ""
+  },
+  {
+    "round": 16,
+    "pick": 11,
+    "player": "Cairo Santos",
+    "position": ""
+  }
+]

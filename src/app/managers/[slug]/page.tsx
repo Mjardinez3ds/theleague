@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
 import { getOwner, getCareers } from "@/lib/data";
+import { SeasonCard } from "@/components/SeasonCard";
 
 export const dynamic = "force-static";
 
@@ -100,41 +101,14 @@ export default async function ManagerPage({
         SEASON BY SEASON
       </p>
       <ul className="space-y-2">
-        {sortedSeasons.map((s) => {
-          const fin = finishLabel(s.finish, s.league_size);
-          return (
-            <li
-              key={s.year}
-              className="rounded-xl border border-app bg-elev p-3"
-            >
-              <div className="flex items-baseline justify-between">
-                <div>
-                  <div className="text-xl font-extrabold leading-none">
-                    {s.year}
-                  </div>
-                  <div className="text-xs text-muted mt-1 truncate">
-                    {s.team_name}
-                  </div>
-                </div>
-                <div className="text-right">
-                  <div className="text-lg font-bold tabular-nums">
-                    {s.wins}-{s.losses}
-                    {s.ties ? `-${s.ties}` : ""}
-                  </div>
-                  <div className={`text-[11px] font-bold ${fin.color}`}>
-                    {fin.text}
-                  </div>
-                </div>
-              </div>
-              <div className="mt-2 grid grid-cols-2 text-xs text-muted">
-                <span>PF {s.points_for.toFixed(1)}</span>
-                <span className="text-right">
-                  PA {s.points_against.toFixed(1)}
-                </span>
-              </div>
-            </li>
-          );
-        })}
+        {sortedSeasons.map((s) => (
+          <SeasonCard
+            key={s.year}
+            season={s}
+            slug={slug}
+            finLabel={finishLabel(s.finish, s.league_size)}
+          />
+        ))}
       </ul>
     </div>
   );
