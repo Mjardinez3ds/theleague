@@ -82,6 +82,25 @@ export type Career = {
   seasons: CareerSeason[];
 };
 
+export type TradeSide = {
+  team_name: string;
+  owner: string;
+  owner_slug: string;
+  gave: string[];
+  got: string[];
+};
+
+export type Trade = {
+  date: string;
+  sides: TradeSide[];
+};
+
+export type TradesData = {
+  year: number;
+  count: number;
+  trades: Trade[];
+};
+
 export const getLeagueMeta = () => readJson<LeagueMeta>("league.json");
 export const getStandings = (year: number) =>
   readJson<Standings>(`standings/${year}.json`);
@@ -91,3 +110,5 @@ export const getCareers = () =>
   readJson<{ owners: Career[] }>("careers.json");
 export const getOwner = (slug: string) =>
   readJson<Career>(`owners/${slug}.json`);
+export const getTrades = (year: number) =>
+  readJson<TradesData>(`trades/${year}.json`);

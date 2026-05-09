@@ -1,0 +1,1294 @@
+{
+  "year": 2023,
+  "count": 44,
+  "trades": [
+    {
+      "date": "2023-11-28",
+      "sides": [
+        {
+          "team_name": "Paul Giamatti in Big Fat Liar",
+          "owner": "Chris P.",
+          "owner_slug": "chris-p",
+          "gave": [
+            "Samaje Perine",
+            "Javonte Williams"
+          ],
+          "got": [
+            "DJ Moore"
+          ]
+        },
+        {
+          "team_name": "Loco Moco",
+          "owner": "derf p.",
+          "owner_slug": "derf-p",
+          "gave": [
+            "DJ Moore"
+          ],
+          "got": [
+            "Samaje Perine",
+            "Javonte Williams"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-28",
+      "sides": [
+        {
+          "team_name": "ALVINNNN",
+          "owner": "Abraham P.",
+          "owner_slug": "abraham-p",
+          "gave": [
+            "Alvin Kamara"
+          ],
+          "got": [
+            "DeVonta Smith"
+          ]
+        },
+        {
+          "team_name": "Psychological Operations",
+          "owner": "Marcus J.",
+          "owner_slug": "marcus-j",
+          "gave": [
+            "DeVonta Smith"
+          ],
+          "got": [
+            "Alvin Kamara"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-28",
+      "sides": [
+        {
+          "team_name": "DECAPITATED WEASEL",
+          "owner": "Kevin L.",
+          "owner_slug": "kevin-l",
+          "gave": [
+            "A.J. Brown",
+            "Zack Moss",
+            "Brandin Cooks"
+          ],
+          "got": [
+            "Deebo Samuel",
+            "Jahmyr Gibbs",
+            "Gabe Davis"
+          ]
+        },
+        {
+          "team_name": "1 Percent Poot",
+          "owner": "Denniell G.",
+          "owner_slug": "denniell-g",
+          "gave": [
+            "Deebo Samuel",
+            "Jahmyr Gibbs",
+            "Gabe Davis"
+          ],
+          "got": [
+            "A.J. Brown",
+            "Zack Moss",
+            "Brandin Cooks"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-28",
+      "sides": [
+        {
+          "team_name": "Tony Pollard Therapy Club ",
+          "owner": "George D.",
+          "owner_slug": "george-d",
+          "gave": [
+            "Tee Higgins",
+            "Jahan Dotson"
+          ],
+          "got": [
+            "Josh Downs"
+          ]
+        },
+        {
+          "team_name": "ALVINNNN",
+          "owner": "Abraham P.",
+          "owner_slug": "abraham-p",
+          "gave": [
+            "Josh Downs"
+          ],
+          "got": [
+            "Tee Higgins",
+            "Jahan Dotson"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-28",
+      "sides": [
+        {
+          "team_name": "Paul Giamatti in Big Fat Liar",
+          "owner": "Chris P.",
+          "owner_slug": "chris-p",
+          "gave": [
+            "Samaje Perine"
+          ],
+          "got": [
+            "Courtland Sutton"
+          ]
+        },
+        {
+          "team_name": "Team Cano",
+          "owner": "Ricky C.",
+          "owner_slug": "ricky-c",
+          "gave": [
+            "Courtland Sutton"
+          ],
+          "got": [
+            "Samaje Perine"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-28",
+      "sides": [
+        {
+          "team_name": "Breece\u2019s Pieces",
+          "owner": "Devon M.",
+          "owner_slug": "devon-m",
+          "gave": [
+            "Travis Etienne Jr.",
+            "Keenan Allen"
+          ],
+          "got": [
+            "David Montgomery",
+            "DeVonta Smith",
+            "Drake London"
+          ]
+        },
+        {
+          "team_name": "Psychological Operations",
+          "owner": "Marcus J.",
+          "owner_slug": "marcus-j",
+          "gave": [
+            "David Montgomery",
+            "DeVonta Smith",
+            "Drake London"
+          ],
+          "got": [
+            "Travis Etienne Jr.",
+            "Keenan Allen"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-22",
+      "sides": [
+        {
+          "team_name": "ALVINNNN",
+          "owner": "Abraham P.",
+          "owner_slug": "abraham-p",
+          "gave": [
+            "Alvin Kamara"
+          ],
+          "got": [
+            "Jerome Ford",
+            "Drake London"
+          ]
+        },
+        {
+          "team_name": "Psychological Operations",
+          "owner": "Marcus J.",
+          "owner_slug": "marcus-j",
+          "gave": [
+            "Jerome Ford",
+            "Drake London"
+          ],
+          "got": [
+            "Alvin Kamara"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-22",
+      "sides": [
+        {
+          "team_name": "Liang le gusta bicho",
+          "owner": "Kevin Ll.",
+          "owner_slug": "kevin-ll",
+          "gave": [
+            "Stefon Diggs"
+          ],
+          "got": [
+            "A.J. Brown"
+          ]
+        },
+        {
+          "team_name": "DECAPITATED WEASEL",
+          "owner": "Kevin L.",
+          "owner_slug": "kevin-l",
+          "gave": [
+            "A.J. Brown"
+          ],
+          "got": [
+            "Stefon Diggs"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-16",
+      "sides": [
+        {
+          "team_name": "Tony Pollard Therapy Club ",
+          "owner": "George D.",
+          "owner_slug": "george-d",
+          "gave": [
+            "Rhamondre Stevenson"
+          ],
+          "got": [
+            "Christian Kirk"
+          ]
+        },
+        {
+          "team_name": "Liang le gusta bicho",
+          "owner": "Kevin Ll.",
+          "owner_slug": "kevin-ll",
+          "gave": [
+            "Christian Kirk"
+          ],
+          "got": [
+            "Rhamondre Stevenson"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-14",
+      "sides": [
+        {
+          "team_name": "Tony Pollard Therapy Club ",
+          "owner": "George D.",
+          "owner_slug": "george-d",
+          "gave": [
+            "Jaxon Smith-Njigba",
+            "Tony Pollard"
+          ],
+          "got": [
+            "Rachaad White"
+          ]
+        },
+        {
+          "team_name": "Punchmade Joonyer",
+          "owner": "Junior P.",
+          "owner_slug": "junior-p",
+          "gave": [
+            "Rachaad White"
+          ],
+          "got": [
+            "Jaxon Smith-Njigba",
+            "Tony Pollard"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-14",
+      "sides": [
+        {
+          "team_name": "DECAPITATED WEASEL",
+          "owner": "Kevin L.",
+          "owner_slug": "kevin-l",
+          "gave": [
+            "Brandin Cooks",
+            "Alexander Mattison",
+            "Calvin Ridley"
+          ],
+          "got": [
+            "Aaron Jones",
+            "Michael Pittman Jr."
+          ]
+        },
+        {
+          "team_name": "Liang le gusta bicho",
+          "owner": "Kevin Ll.",
+          "owner_slug": "kevin-ll",
+          "gave": [
+            "Aaron Jones",
+            "Michael Pittman Jr."
+          ],
+          "got": [
+            "Brandin Cooks",
+            "Alexander Mattison",
+            "Calvin Ridley"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-14",
+      "sides": [
+        {
+          "team_name": "Tony Pollard Therapy Club ",
+          "owner": "George D.",
+          "owner_slug": "george-d",
+          "gave": [
+            "Sam LaPorta",
+            "Tony Pollard"
+          ],
+          "got": [
+            "Jerome Ford",
+            "DeVonta Smith"
+          ]
+        },
+        {
+          "team_name": "Psychological Operations",
+          "owner": "Marcus J.",
+          "owner_slug": "marcus-j",
+          "gave": [
+            "Jerome Ford",
+            "DeVonta Smith"
+          ],
+          "got": [
+            "Sam LaPorta",
+            "Tony Pollard"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-14",
+      "sides": [
+        {
+          "team_name": "Psychological Operations",
+          "owner": "Marcus J.",
+          "owner_slug": "marcus-j",
+          "gave": [
+            "DeMario Douglas"
+          ],
+          "got": [
+            "Brock Purdy"
+          ]
+        },
+        {
+          "team_name": "DECAPITATED WEASEL",
+          "owner": "Kevin L.",
+          "owner_slug": "kevin-l",
+          "gave": [
+            "Brock Purdy"
+          ],
+          "got": [
+            "DeMario Douglas"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-14",
+      "sides": [
+        {
+          "team_name": "Tony Pollard Therapy Club ",
+          "owner": "George D.",
+          "owner_slug": "george-d",
+          "gave": [
+            "Darrell Henderson Jr.",
+            "Tee Higgins"
+          ],
+          "got": [
+            "Diontae Johnson"
+          ]
+        },
+        {
+          "team_name": "Team Cano",
+          "owner": "Ricky C.",
+          "owner_slug": "ricky-c",
+          "gave": [
+            "Diontae Johnson"
+          ],
+          "got": [
+            "Darrell Henderson Jr.",
+            "Tee Higgins"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-11",
+      "sides": [
+        {
+          "team_name": "Psychological Operations",
+          "owner": "Marcus J.",
+          "owner_slug": "marcus-j",
+          "gave": [
+            "Drake London",
+            "Jerome Ford"
+          ],
+          "got": [
+            "Joe Mixon"
+          ]
+        },
+        {
+          "team_name": "ALVINNNN",
+          "owner": "Abraham P.",
+          "owner_slug": "abraham-p",
+          "gave": [
+            "Joe Mixon"
+          ],
+          "got": [
+            "Drake London",
+            "Jerome Ford"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-11",
+      "sides": [
+        {
+          "team_name": "Punchmade Joonyer",
+          "owner": "Junior P.",
+          "owner_slug": "junior-p",
+          "gave": [
+            "Brian Robinson Jr."
+          ],
+          "got": [
+            "Jordan Addison"
+          ]
+        },
+        {
+          "team_name": "Loco Moco",
+          "owner": "derf p.",
+          "owner_slug": "derf-p",
+          "gave": [
+            "Jordan Addison"
+          ],
+          "got": [
+            "Brian Robinson Jr."
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-10",
+      "sides": [
+        {
+          "team_name": "DECAPITATED WEASEL",
+          "owner": "Kevin L.",
+          "owner_slug": "kevin-l",
+          "gave": [
+            "Jared Goff",
+            "A.J. Brown"
+          ],
+          "got": [
+            "Tua Tagovailoa",
+            "Jaylen Waddle",
+            "DeVonta Smith"
+          ]
+        },
+        {
+          "team_name": "1 Percent Poot",
+          "owner": "Denniell G.",
+          "owner_slug": "denniell-g",
+          "gave": [
+            "Tua Tagovailoa",
+            "Jaylen Waddle",
+            "DeVonta Smith"
+          ],
+          "got": [
+            "Jared Goff",
+            "A.J. Brown"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-10",
+      "sides": [
+        {
+          "team_name": "Paul Giamatti in Big Fat Liar",
+          "owner": "Chris P.",
+          "owner_slug": "chris-p",
+          "gave": [
+            "Javonte Williams"
+          ],
+          "got": [
+            "Rashee Rice"
+          ]
+        },
+        {
+          "team_name": "Psychological Operations",
+          "owner": "Marcus J.",
+          "owner_slug": "marcus-j",
+          "gave": [
+            "Rashee Rice"
+          ],
+          "got": [
+            "Javonte Williams"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-10",
+      "sides": [
+        {
+          "team_name": "Psychological Operations",
+          "owner": "Marcus J.",
+          "owner_slug": "marcus-j",
+          "gave": [
+            "Rashee Rice"
+          ],
+          "got": [
+            "Kyler Murray"
+          ]
+        },
+        {
+          "team_name": "Punchmade Joonyer",
+          "owner": "Junior P.",
+          "owner_slug": "junior-p",
+          "gave": [
+            "Kyler Murray"
+          ],
+          "got": [
+            "Rashee Rice"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-04",
+      "sides": [
+        {
+          "team_name": "Paul Giamatti in Big Fat Liar",
+          "owner": "Chris P.",
+          "owner_slug": "chris-p",
+          "gave": [
+            "Romeo Doubs",
+            "AJ Dillon"
+          ],
+          "got": [
+            "Quentin Johnston"
+          ]
+        },
+        {
+          "team_name": "DECAPITATED WEASEL",
+          "owner": "Kevin L.",
+          "owner_slug": "kevin-l",
+          "gave": [
+            "Quentin Johnston"
+          ],
+          "got": [
+            "Romeo Doubs",
+            "AJ Dillon"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-03",
+      "sides": [
+        {
+          "team_name": "Psychological Operations",
+          "owner": "Marcus J.",
+          "owner_slug": "marcus-j",
+          "gave": [
+            "Christian Kirk"
+          ],
+          "got": [
+            "Zack Moss",
+            "Darrell Henderson Jr."
+          ]
+        },
+        {
+          "team_name": "Tony Pollard Therapy Club ",
+          "owner": "George D.",
+          "owner_slug": "george-d",
+          "gave": [
+            "Zack Moss",
+            "Darrell Henderson Jr."
+          ],
+          "got": [
+            "Christian Kirk"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-03",
+      "sides": [
+        {
+          "team_name": "DECAPITATED WEASEL",
+          "owner": "Kevin L.",
+          "owner_slug": "kevin-l",
+          "gave": [
+            "Khalil Herbert",
+            "Amari Cooper",
+            "D'Onta Foreman"
+          ],
+          "got": [
+            "Michael Pittman Jr.",
+            "Aaron Jones"
+          ]
+        },
+        {
+          "team_name": "Liang le gusta bicho",
+          "owner": "Kevin Ll.",
+          "owner_slug": "kevin-ll",
+          "gave": [
+            "Michael Pittman Jr.",
+            "Aaron Jones"
+          ],
+          "got": [
+            "Khalil Herbert",
+            "Amari Cooper",
+            "D'Onta Foreman"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-02",
+      "sides": [
+        {
+          "team_name": "Paul Giamatti in Big Fat Liar",
+          "owner": "Chris P.",
+          "owner_slug": "chris-p",
+          "gave": [
+            "Romeo Doubs",
+            "Alexander Mattison",
+            "Josh Downs"
+          ],
+          "got": [
+            "Jaleel McLaughlin",
+            "Javonte Williams",
+            "Chris Godwin"
+          ]
+        },
+        {
+          "team_name": "ALVINNNN",
+          "owner": "Abraham P.",
+          "owner_slug": "abraham-p",
+          "gave": [
+            "Jaleel McLaughlin",
+            "Javonte Williams",
+            "Chris Godwin"
+          ],
+          "got": [
+            "Romeo Doubs",
+            "Alexander Mattison",
+            "Josh Downs"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-02",
+      "sides": [
+        {
+          "team_name": "DECAPITATED WEASEL",
+          "owner": "Kevin L.",
+          "owner_slug": "kevin-l",
+          "gave": [
+            "Quentin Johnston",
+            "Derrick Henry"
+          ],
+          "got": [
+            "Aaron Jones",
+            "Michael Pittman Jr."
+          ]
+        },
+        {
+          "team_name": "Liang le gusta bicho",
+          "owner": "Kevin Ll.",
+          "owner_slug": "kevin-ll",
+          "gave": [
+            "Aaron Jones",
+            "Michael Pittman Jr."
+          ],
+          "got": [
+            "Quentin Johnston",
+            "Derrick Henry"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-02",
+      "sides": [
+        {
+          "team_name": "Punchmade Joonyer",
+          "owner": "Junior P.",
+          "owner_slug": "junior-p",
+          "gave": [
+            "Dallas Goedert"
+          ],
+          "got": [
+            "Jerry Jeudy"
+          ]
+        },
+        {
+          "team_name": "Breece\u2019s Pieces",
+          "owner": "Devon M.",
+          "owner_slug": "devon-m",
+          "gave": [
+            "Jerry Jeudy"
+          ],
+          "got": [
+            "Dallas Goedert"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-10-24",
+      "sides": [
+        {
+          "team_name": "1 Percent Poot",
+          "owner": "Denniell G.",
+          "owner_slug": "denniell-g",
+          "gave": [
+            "Drake London"
+          ],
+          "got": [
+            "Gabe Davis"
+          ]
+        },
+        {
+          "team_name": "Psychological Operations",
+          "owner": "Marcus J.",
+          "owner_slug": "marcus-j",
+          "gave": [
+            "Gabe Davis"
+          ],
+          "got": [
+            "Drake London"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-10-24",
+      "sides": [
+        {
+          "team_name": "Loco Moco",
+          "owner": "derf p.",
+          "owner_slug": "derf-p",
+          "gave": [
+            "Tyjae Spears"
+          ],
+          "got": [
+            "Gabe Davis"
+          ]
+        },
+        {
+          "team_name": "Psychological Operations",
+          "owner": "Marcus J.",
+          "owner_slug": "marcus-j",
+          "gave": [
+            "Gabe Davis"
+          ],
+          "got": [
+            "Tyjae Spears"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-10-18",
+      "sides": [
+        {
+          "team_name": "Psychological Operations",
+          "owner": "Marcus J.",
+          "owner_slug": "marcus-j",
+          "gave": [
+            "Wan'Dale Robinson"
+          ],
+          "got": [
+            "Ezekiel Elliott"
+          ]
+        },
+        {
+          "team_name": "Breece\u2019s Pieces",
+          "owner": "Devon M.",
+          "owner_slug": "devon-m",
+          "gave": [
+            "Ezekiel Elliott"
+          ],
+          "got": [
+            "Wan'Dale Robinson"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-10-11",
+      "sides": [
+        {
+          "team_name": "UrMom Stillsquirts",
+          "owner": "Anthony R.",
+          "owner_slug": "anthony-r",
+          "gave": [
+            "Puka Nacua"
+          ],
+          "got": [
+            "Justin Jefferson"
+          ]
+        },
+        {
+          "team_name": "Psychological Operations",
+          "owner": "Marcus J.",
+          "owner_slug": "marcus-j",
+          "gave": [
+            "Justin Jefferson"
+          ],
+          "got": [
+            "Puka Nacua"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-10-11",
+      "sides": [
+        {
+          "team_name": "Psychological Operations",
+          "owner": "Marcus J.",
+          "owner_slug": "marcus-j",
+          "gave": [
+            "Justin Jefferson"
+          ],
+          "got": [
+            "Michael Pittman Jr."
+          ]
+        },
+        {
+          "team_name": "Liang le gusta bicho",
+          "owner": "Kevin Ll.",
+          "owner_slug": "kevin-ll",
+          "gave": [
+            "Michael Pittman Jr."
+          ],
+          "got": [
+            "Justin Jefferson"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-10-11",
+      "sides": [
+        {
+          "team_name": "Psychological Operations",
+          "owner": "Marcus J.",
+          "owner_slug": "marcus-j",
+          "gave": [
+            "Justin Jefferson"
+          ],
+          "got": [
+            "Davante Adams"
+          ]
+        },
+        {
+          "team_name": "Loco Moco",
+          "owner": "derf p.",
+          "owner_slug": "derf-p",
+          "gave": [
+            "Davante Adams"
+          ],
+          "got": [
+            "Justin Jefferson"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-10-11",
+      "sides": [
+        {
+          "team_name": "Paul Giamatti in Big Fat Liar",
+          "owner": "Chris P.",
+          "owner_slug": "chris-p",
+          "gave": [
+            "Jake Ferguson",
+            "Chris Olave",
+            "Alexander Mattison"
+          ],
+          "got": [
+            "A.J. Brown"
+          ]
+        },
+        {
+          "team_name": "DECAPITATED WEASEL",
+          "owner": "Kevin L.",
+          "owner_slug": "kevin-l",
+          "gave": [
+            "A.J. Brown"
+          ],
+          "got": [
+            "Jake Ferguson",
+            "Chris Olave",
+            "Alexander Mattison"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-10-10",
+      "sides": [
+        {
+          "team_name": "1 Percent Poot",
+          "owner": "Denniell G.",
+          "owner_slug": "denniell-g",
+          "gave": [
+            "Jahmyr Gibbs",
+            "Luke Musgrave",
+            "Trevor Lawrence",
+            "Zay Flowers"
+          ],
+          "got": [
+            "Sam LaPorta",
+            "DeVonta Smith"
+          ]
+        },
+        {
+          "team_name": "Tony Pollard Therapy Club ",
+          "owner": "George D.",
+          "owner_slug": "george-d",
+          "gave": [
+            "Sam LaPorta",
+            "DeVonta Smith"
+          ],
+          "got": [
+            "Jahmyr Gibbs",
+            "Luke Musgrave",
+            "Trevor Lawrence",
+            "Zay Flowers"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-10-06",
+      "sides": [
+        {
+          "team_name": "Tony Pollard Therapy Club ",
+          "owner": "George D.",
+          "owner_slug": "george-d",
+          "gave": [
+            "Jaxon Smith-Njigba",
+            "Rashid Shaheed",
+            "Tee Higgins"
+          ],
+          "got": [
+            "Breece Hall",
+            "Wan'Dale Robinson"
+          ]
+        },
+        {
+          "team_name": "Psychological Operations",
+          "owner": "Marcus J.",
+          "owner_slug": "marcus-j",
+          "gave": [
+            "Breece Hall",
+            "Wan'Dale Robinson"
+          ],
+          "got": [
+            "Jaxon Smith-Njigba",
+            "Rashid Shaheed",
+            "Tee Higgins"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-10-06",
+      "sides": [
+        {
+          "team_name": "Paul Giamatti in Big Fat Liar",
+          "owner": "Chris P.",
+          "owner_slug": "chris-p",
+          "gave": [
+            "Alexander Mattison",
+            "Marquise Brown"
+          ],
+          "got": [
+            "CeeDee Lamb"
+          ]
+        },
+        {
+          "team_name": "Breece\u2019s Pieces",
+          "owner": "Devon M.",
+          "owner_slug": "devon-m",
+          "gave": [
+            "CeeDee Lamb"
+          ],
+          "got": [
+            "Alexander Mattison",
+            "Marquise Brown"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-10-03",
+      "sides": [
+        {
+          "team_name": "Punchmade Joonyer",
+          "owner": "Junior P.",
+          "owner_slug": "junior-p",
+          "gave": [
+            "DJ Chark Jr.",
+            "Dallas Goedert"
+          ],
+          "got": [
+            "Quentin Johnston",
+            "Joshua Palmer"
+          ]
+        },
+        {
+          "team_name": "DECAPITATED WEASEL",
+          "owner": "Kevin L.",
+          "owner_slug": "kevin-l",
+          "gave": [
+            "Quentin Johnston",
+            "Joshua Palmer"
+          ],
+          "got": [
+            "DJ Chark Jr.",
+            "Dallas Goedert"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-09-30",
+      "sides": [
+        {
+          "team_name": "1 Percent Poot",
+          "owner": "Denniell G.",
+          "owner_slug": "denniell-g",
+          "gave": [
+            "Jalin Hyatt"
+          ],
+          "got": [
+            "Quentin Johnston"
+          ]
+        },
+        {
+          "team_name": "DECAPITATED WEASEL",
+          "owner": "Kevin L.",
+          "owner_slug": "kevin-l",
+          "gave": [
+            "Quentin Johnston"
+          ],
+          "got": [
+            "Jalin Hyatt"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-09-30",
+      "sides": [
+        {
+          "team_name": "DECAPITATED WEASEL",
+          "owner": "Kevin L.",
+          "owner_slug": "kevin-l",
+          "gave": [
+            "Quentin Johnston"
+          ],
+          "got": [
+            "Joshua Kelley"
+          ]
+        },
+        {
+          "team_name": "Psychological Operations",
+          "owner": "Marcus J.",
+          "owner_slug": "marcus-j",
+          "gave": [
+            "Joshua Kelley"
+          ],
+          "got": [
+            "Quentin Johnston"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-09-27",
+      "sides": [
+        {
+          "team_name": "Paul Giamatti in Big Fat Liar",
+          "owner": "Chris P.",
+          "owner_slug": "chris-p",
+          "gave": [
+            "Kenneth Gainwell"
+          ],
+          "got": [
+            "Elijah Moore"
+          ]
+        },
+        {
+          "team_name": "Liang le gusta bicho",
+          "owner": "Kevin Ll.",
+          "owner_slug": "kevin-ll",
+          "gave": [
+            "Elijah Moore"
+          ],
+          "got": [
+            "Kenneth Gainwell"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-09-26",
+      "sides": [
+        {
+          "team_name": "Punchmade Joonyer",
+          "owner": "Junior P.",
+          "owner_slug": "junior-p",
+          "gave": [
+            "Drake London",
+            "Rachaad White",
+            "DeVonta Smith"
+          ],
+          "got": [
+            "Justin Jefferson"
+          ]
+        },
+        {
+          "team_name": "Psychological Operations",
+          "owner": "Marcus J.",
+          "owner_slug": "marcus-j",
+          "gave": [
+            "Justin Jefferson"
+          ],
+          "got": [
+            "Drake London",
+            "Rachaad White",
+            "DeVonta Smith"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-09-19",
+      "sides": [
+        {
+          "team_name": "Tony Pollard Therapy Club ",
+          "owner": "George D.",
+          "owner_slug": "george-d",
+          "gave": [
+            "Jahan Dotson",
+            "Breece Hall"
+          ],
+          "got": [
+            "Tee Higgins"
+          ]
+        },
+        {
+          "team_name": "Psychological Operations",
+          "owner": "Marcus J.",
+          "owner_slug": "marcus-j",
+          "gave": [
+            "Tee Higgins"
+          ],
+          "got": [
+            "Jahan Dotson",
+            "Breece Hall"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-09-19",
+      "sides": [
+        {
+          "team_name": "Breece\u2019s Pieces",
+          "owner": "Devon M.",
+          "owner_slug": "devon-m",
+          "gave": [
+            "Travis Etienne Jr."
+          ],
+          "got": [
+            "Tee Higgins"
+          ]
+        },
+        {
+          "team_name": "Psychological Operations",
+          "owner": "Marcus J.",
+          "owner_slug": "marcus-j",
+          "gave": [
+            "Tee Higgins"
+          ],
+          "got": [
+            "Travis Etienne Jr."
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-09-19",
+      "sides": [
+        {
+          "team_name": "Tony Pollard Therapy Club ",
+          "owner": "George D.",
+          "owner_slug": "george-d",
+          "gave": [
+            "Brandon Aiyuk"
+          ],
+          "got": [
+            "Tua Tagovailoa",
+            "Kadarius Toney"
+          ]
+        },
+        {
+          "team_name": "1 Percent Poot",
+          "owner": "Denniell G.",
+          "owner_slug": "denniell-g",
+          "gave": [
+            "Tua Tagovailoa",
+            "Kadarius Toney"
+          ],
+          "got": [
+            "Brandon Aiyuk"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-09-19",
+      "sides": [
+        {
+          "team_name": "1 Percent Poot",
+          "owner": "Denniell G.",
+          "owner_slug": "denniell-g",
+          "gave": [
+            "Kadarius Toney",
+            "Ezekiel Elliott",
+            "Jonathan Taylor"
+          ],
+          "got": [
+            "Tee Higgins"
+          ]
+        },
+        {
+          "team_name": "Psychological Operations",
+          "owner": "Marcus J.",
+          "owner_slug": "marcus-j",
+          "gave": [
+            "Tee Higgins"
+          ],
+          "got": [
+            "Kadarius Toney",
+            "Ezekiel Elliott",
+            "Jonathan Taylor"
+          ]
+        }
+      ]
+    }
+  ]
+}

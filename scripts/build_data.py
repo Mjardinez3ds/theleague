@@ -17,17 +17,18 @@ import time
 from pathlib import Path
 from datetime import datetime, timezone
 
+import requests as _requests
 from espn_api.football import League
 
 # ---------- Config ----------
 LEAGUE_ID = int(os.getenv("ESPN_LEAGUE_ID", "1917791320"))
 ESPN_S2 = os.getenv(
     "ESPN_S2",
-    "AEBgeEACkDsmYKvK9FhtZsXekjWtXeBhY2mhPLEgf%2FNkRVjeV6NuguCM4K5z9754kioaThp"
-    "wUmVr%2Bc8QA5StYKkrs1sl2hLKfKDhJSaE2y8xRS%2BVogTDbbPj8H8OB4iMesG%2F5Z%2BMb"
-    "HBeONDFgeapigyI3cFey37KVGpyEELYaPG%2BOulsS7vxfN6ItjSUW7680dPaNEh6J2QD7mWkd"
-    "0lrCQZfH6DY119CO9ZpH36yltah3BYbcMhczURaVycYYngfnfa7C2PzNsFiUxC%2B6QSuP9gxv"
-    "5e9Q2n1Qe6%2FhOFXmbAHIA%3D%3D",
+    "AEBMwbLFpn%2BnPQ%2BhMkaekhc1jIAEeFYzrmWDgFBei3LC3GRVLGTlworTzLRoPQLTpW%2Ff"
+    "BTXRdzuU7J9qSzsRjP%2BOTj6KT3bt03S1C0%2FtDD6Os57aC99lI%2B0bhmr%2BHhUIRxmzPX"
+    "5M3%2Brs9Mq5mw4UBG%2FSUy7fJv9J9AzZorNU47ZZ4rbwJDO3jkR%2BLRhcQLmX0td%2FdgMN"
+    "rOD56TPmXPePbDw8xzLzYSI344LUYpSjEevln4w2ZqnMagMB5IdI18L9idqvAh9mPXBR7GlNwj"
+    "9UYp2bf0CRnGZHVz07c0GNPDBmkg%3D%3D",
 )
 ESPN_SWID = os.getenv("ESPN_SWID", "{9A38199A-B48F-429C-8231-3CF96680FD9E}")
 
@@ -146,6 +147,145 @@ def build_owner_resolution(teams_by_year: dict[int, list]):
         seen[s] = n + 1
 
     return canonical_by_raw, display_by_canonical, slug_by_canonical
+
+
+def build_trades(
+    leagues_by_year: dict[int, League],
+    canonical_by_raw: dict,
+    display_by_canonical: dict,
+    slug_by_canonical: dict,
+) -> None:
+    """
+    Fetch completed trades for each season via the mTransactions2 API view.
+
+    ESPN's /communication/ endpoint is unreliable from Python (WAF blocks,
+    endpoint behaves differently than in a browser session).  Instead we use
+    the league's mTransactions2 view which is available per scoring period.
+
+    Strategy per season year
+    ────────────────────────
+    1. Fetch mTransactions2 for weeks 1-18, deduplicate by transaction id.
+    2. Collect EXECUTED TRADE_ACCEPTs  (tells us a trade went through).
+    3. Collect CANCELED TRADE_PROPOSALs that contain TRADE-type items
+       (these have the player-movement details from declined/accepted proposals).
+    4. For each accept, pick the most-recent proposal submitted *before* it
+       that involves the same two teams — that proposal is the one that got
+       accepted.  Mark it used so it isn't matched twice.
+    5. Resolve team-ids → owner display names; player-ids → player names.
+    """
+    _lm = "https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl"
+    cookies = {"espn_s2": ESPN_S2, "SWID": ESPN_SWID}
+
+    for yr, lg in sorted(leagues_by_year.items()):
+        ep = f"{_lm}/seasons/{yr}/segments/0/leagues/{LEAGUE_ID}"
+
+        # team_id → (owner_display, owner_slug, team_name)
+        team_disp: dict[int, tuple[str, str, str]] = {}
+        for team in lg.teams:
+            raw_id = _raw_owner_id(team)
+            cid = canonical_by_raw.get(raw_id, "")
+            ow = display_by_canonical.get(cid, "?")
+            slug = slug_by_canonical.get(cid, "unknown")
+            team_disp[team.team_id] = (ow, slug, team.team_name)
+
+        # player_id → name string  (espn-api stores them as plain strings)
+        player_map: dict[int, str] = getattr(lg, "player_map", {})
+
+        def _pname(pid: int) -> str:
+            name = player_map.get(pid)
+            return str(name) if name else f"#{pid}"
+
+        # Fetch all transactions across the full season
+        all_txns: dict[str, dict] = {}
+        for week in range(1, 19):
+            try:
+                r = _requests.get(
+                    ep,
+                    params={"view": "mTransactions2", "scoringPeriodId": week},
+                    cookies=cookies,
+                    timeout=15,
+                )
+                if r.ok:
+                    for t in r.json().get("transactions", []):
+                        all_txns[t["id"]] = t
+            except Exception as exc:
+                print(f"  ! trade fetch week {week} yr {yr}: {exc}")
+            time.sleep(0.5)
+
+        accepts_exec = sorted(
+            [t for t in all_txns.values()
+             if t.get("type") == "TRADE_ACCEPT" and t.get("status") == "EXECUTED"],
+            key=lambda t: t["proposedDate"],
+        )
+        canceled_proposals = [
+            t for t in all_txns.values()
+            if t.get("type") == "TRADE_PROPOSAL"
+            and t.get("status") == "CANCELED"
+            and any(i.get("type") == "TRADE" for i in t.get("items", []))
+        ]
+
+        used_ids: set[str] = set()
+        trades: list[dict] = []
+
+        for accept in accepts_exec:
+            accept_team = accept["teamId"]
+            accept_date = accept["proposedDate"]
+
+            # Find the best-matching canceled proposal
+            candidates = [
+                prop for prop in canceled_proposals
+                if prop["id"] not in used_ids
+                and prop["proposedDate"] <= accept_date
+                and _proposal_involves_two_teams(prop, accept_team)
+            ]
+            if not candidates:
+                continue
+
+            best = max(candidates, key=lambda p: p["proposedDate"])
+            used_ids.add(best["id"])
+
+            trade_items = [i for i in best["items"] if i.get("type") == "TRADE"]
+            date_str = datetime.fromtimestamp(
+                accept_date / 1000, tz=timezone.utc
+            ).strftime("%Y-%m-%d")
+
+            sides: dict[int, dict] = {}
+            for item in trade_items:
+                ft = item["fromTeamId"]
+                tt = item["toTeamId"]
+                pid = item["playerId"]
+                for tid in (ft, tt):
+                    if tid not in sides:
+                        ow, slug, tname = team_disp.get(tid, ("?", "unknown", "?"))
+                        sides[tid] = {
+                            "team_name": tname,
+                            "owner": ow,
+                            "owner_slug": slug,
+                            "gave": [],
+                            "got": [],
+                        }
+                sides[ft]["gave"].append(_pname(pid))
+                sides[tt]["got"].append(_pname(pid))
+
+            trades.append({"date": date_str, "sides": list(sides.values())})
+
+        trades.sort(key=lambda t: t["date"], reverse=True)
+        write_json(f"trades/{yr}.json", {
+            "year": yr,
+            "count": len(trades),
+            "trades": trades,
+        })
+        print(f"  trades {yr}: {len(trades)} trades")
+
+
+def _proposal_involves_two_teams(prop: dict, target_team_id: int) -> bool:
+    """Return True if proposal's TRADE items involve exactly 2 teams, one of which is target."""
+    trade_items = [i for i in prop.get("items", []) if i.get("type") == "TRADE"]
+    all_teams = (
+        set(i["fromTeamId"] for i in trade_items) |
+        set(i["toTeamId"] for i in trade_items)
+    )
+    return target_team_id in all_teams and len(all_teams) == 2
 
 
 def make_league(year: int) -> League:
@@ -342,6 +482,12 @@ def main():
             picks.sort(key=lambda p: (p["round"], p["pick"]))
             write_json(f"drafts/{yr}/{slug}.json", picks)
         print(f"  draft {yr}: {total} picks across {len(picks_by_slug)} teams")
+
+    # ---------- trades ----------
+    try:
+        build_trades(leagues_by_year, canonical_by_raw, display_by_canonical, slug_by_canonical)
+    except Exception as e:
+        print(f"  ! trades error: {e}")
 
     print(f"\nDone in {time.time()-started:.1f}s. Files in {OUT_DIR}")
 

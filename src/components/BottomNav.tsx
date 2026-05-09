@@ -2,13 +2,13 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Trophy, Users, History, Home } from "lucide-react";
+import { ArrowLeftRight, Users, History, Home } from "lucide-react";
 
 const TABS = [
   { href: "/", label: "Standings", icon: Home },
   { href: "/managers", label: "Managers", icon: Users },
   { href: "/history", label: "History", icon: History },
-  { href: "/awards", label: "Awards", icon: Trophy },
+  { href: "/trades", label: "Trades", icon: ArrowLeftRight },
 ] as const;
 
 export default function BottomNav() {
