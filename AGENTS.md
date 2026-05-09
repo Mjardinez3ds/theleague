@@ -317,31 +317,63 @@ public ones (settings, basic standings) keep working. Refresh by:
 3. Copy `espn_s2` (URL-encoded) and `SWID` (with curly braces).
 4. Update `scripts/build_data.py` defaults *and* the GitHub Action secrets.
 
-### Trade reconstruction strategy (documented because it's non-obvious)
-The `mTransactions2` view returns transactions per `scoringPeriodId` (week).
-For each year's trades:
-1. Fetch weeks 1–18, deduplicate by transaction `id`.
-2. `TRADE_ACCEPT` (status `EXECUTED`) records confirm a trade happened —
-   but their `items` array is empty or contains DROP items, **not** the
-   player movements.
-3. `TRADE_PROPOSAL` (status `CANCELED`) records with `TRADE`-typed items
-   contain the actual player swaps. Most of these are genuine rejections,
-   but ~20 of them per year are the proposals that *got accepted* — ESPN
-   marks them CANCELED once the matching ACCEPT supersedes them.
-4. The `relatedTransactionId` on a TRADE_ACCEPT *should* point to its
-   originating proposal, but in practice that ID is **not** present in
-   any week's `mTransactions2` response. Direct `/transactions/{id}`
-   lookups also 404.
-5. **Heuristic that actually works:** for each EXECUTED TRADE_ACCEPT, find
-   the most-recent CANCELED TRADE_PROPOSAL (a) submitted before the
-   accept's `proposedDate`, (b) involving exactly two teams, one of which
-   is the accept's `teamId`. Mark proposals used so they're not double-
-   matched. This produced 20/20 correct matches for 2025 (and similarly
-   clean results for 2023/2024).
+### Trade reconstruction strategy (the long, sad story)
 
-If you ever need to debug this, the helper `_proposal_involves_two_teams`
-encodes the two-team filter, and the matching loop in `build_trades` shows
-the full picking logic with comments.
+**TL;DR — diff weekly mRoster snapshots, then attach dates from
+TRADE_ACCEPT timestamps.** All other approaches return fake or rejected
+trade data. See `build_trades` in `scripts/build_data.py` for the
+implementation.
+
+#### What doesn't work (and why we know)
+
+1. **`/communication/` endpoint** — broken from Python (see "two API hosts"
+   section above).
+2. **Matching CANCELED TRADE_PROPOSALs to TRADE_ACCEPTs by team-pair +
+   timing** — *initial heuristic, since reverted*. The CANCELED proposals
+   we can see are all `executionType: "CANCEL"` (genuine rejections /
+   withdrawals). The proposals that *got accepted* are stored elsewhere
+   (probably in /communication/) and never appear in `mTransactions2`.
+   Matching accepts to the most-recent canceled proposal between the same
+   teams was just guessing — debug analysis showed median time gaps of
+   1–24 hours and many >1 day, meaning most matches surfaced *rejected*
+   trades to the user. Don't reintroduce this approach.
+3. **`relatedTransactionId` on TRADE_ACCEPT** — points to a transaction ID
+   that is not present in any week's `mTransactions2` response, and direct
+   `/transactions/{id}` lookups 404. The accepted-proposal data really
+   isn't reachable through this view.
+4. **`acquisitionType` / `acquisitionDate` on roster entries** — both
+   return `None` for every player. ESPN doesn't populate these anymore (or
+   we're missing a view to enable them).
+
+#### What works
+
+`mRoster` returned with `scoringPeriodId=N` gives a snapshot of every
+team's roster as it was at week N. By diffing consecutive weeks we can
+detect any player whose `teamId` changed. A *trade* is identified by a
+team-pair (A, B) where at least one player moved A→B AND at least one
+moved B→A in the same week-transition — a one-directional move is just
+a waiver/drop/add and is filtered out.
+
+Then we fetch `TRADE_ACCEPT` records (EXECUTED) from `mTransactions2` to
+attach a real `proposedDate` to each detected trade — match by accepting
+team-id + week-of-detection.
+
+#### Known limitations of the diff approach
+
+- **Multiple trades in the same week between the same team pair get merged
+  into one entry**: if Team A and Team B trade twice in week 5, the diff
+  shows a single combined movement of all 4+ players. The detected count
+  is therefore a *lower bound* on actual trades (2025: 16 detected vs 20
+  TRADE_ACCEPTs in the API).
+- **Trades involving a player who is then immediately dropped won't
+  appear** — they leave no roster footprint by the next snapshot. Rare in
+  practice.
+- **3-way trades** (very rare in this league) would not match the strict
+  2-team-pair filter. Build a separate path if it ever comes up.
+- The 9-of-2025 / 15-of-2024 / 9-of-2023 unaccounted accepts are a mix of
+  the above; the data we *do* surface is correct, just slightly fewer
+  rows than the raw accept count would suggest. Better to under-report
+  truthfully than over-report with fake players.
 
 ---
 
@@ -366,6 +398,35 @@ Phase 2 candidates (pick based on which gets clicks):
 ---
 
 ## Changelog
+
+### 2026-05-08 (later) — Trade detection switched to roster-diff
+
+**Why:** Owner reported the trades page was showing trade *proposals*, not
+actually-accepted trades. Investigation confirmed: my original heuristic
+(matching EXECUTED TRADE_ACCEPTs to the most-recent CANCELED
+TRADE_PROPOSAL between the same team pair) was just guessing — the
+matched proposals had median time gaps of 1–24h from the accept and many
+>1 day, meaning the player content shown was from rejected proposals
+between those teams, not the actual accepted swap.
+
+**Fix:** Replaced the proposal-matching heuristic in `build_trades` with
+a roster-diff approach. Fetch `mRoster` per scoringPeriodId for weeks
+1–18, diff consecutive weeks to find players whose teamId changed, and
+flag any team-pair with bidirectional movement as a trade. Cross-reference
+with EXECUTED TRADE_ACCEPT records to attach the real date.
+
+**Files changed:**
+- `scripts/build_data.py` — full rewrite of `build_trades()`. Removed
+  `_proposal_involves_two_teams()` helper (no longer needed). New
+  approach is documented inline + in the "Trade reconstruction strategy"
+  section in this file.
+- `AGENTS.md` — replaced the "what works" section with the roster-diff
+  strategy + known limitations. Marked the proposal-matching approach as
+  a tried-and-rejected dead end so future agents don't reintroduce it.
+- `public/data/trades/{2023,2024,2025}.json` — regenerated. Counts now
+  35 / 23 / 16 (vs the prior 44 / 38 / 20). The shortfall is expected and
+  documented in AGENTS.md (same-week-same-pair trades merge into one
+  entry; this is acceptable because the data shown is *correct*).
 
 ### 2026-05-08 — Trade history page (`/trades`)
 
