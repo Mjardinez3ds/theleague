@@ -112,3 +112,13 @@ export const getOwner = (slug: string) =>
   readJson<Career>(`owners/${slug}.json`);
 export const getTrades = (year: number) =>
   readJson<TradesData>(`trades/${year}.json`);
+
+export type UpcomingSeason = {
+  year: number;
+  draft_date: string;        // ISO YYYY-MM-DD, used by the live countdown
+  draft_date_label: string;  // Pretty label shown in UI
+  managers: string[];
+};
+
+export const getUpcomingSeason = () =>
+  readJson<UpcomingSeason>("upcoming_season.json");
