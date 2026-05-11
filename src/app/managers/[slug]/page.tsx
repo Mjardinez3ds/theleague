@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import {
   getOwner,
   getCareers,
+  getLegacyChampions,
 } from "@/lib/data";
 import { SeasonCard } from "@/components/SeasonCard";
 
@@ -45,6 +46,14 @@ export default async function ManagerPage({
     notFound();
   }
 
+  const legacy = await getLegacyChampions();
+  const legacyTitleYears: number[] = legacy[slug] ?? [];
+  const careerTitleYears = career.seasons
+    .filter((s) => s.finish === 1)
+    .map((s) => s.year);
+  const allTitleYears = [...legacyTitleYears, ...careerTitleYears].sort();
+  const totalTitles = career.titles + legacyTitleYears.length;
+
   // ----- Derived per-season highlights -----
   const games = career.wins + career.losses + career.ties;
   const avgPFperGame = games ? career.points_for / games : 0;
@@ -80,6 +89,11 @@ export default async function ManagerPage({
           {career.seasons.length} season
           {career.seasons.length === 1 ? "" : "s"} in The League
         </p>
+        {allTitleYears.length > 0 && (
+          <p className="text-sm font-semibold text-accent mt-1">
+            🥇 {allTitleYears.join(", ")} Champion
+          </p>
+        )}
       </header>
 
       {/* Career hero card */}
@@ -99,10 +113,10 @@ export default async function ManagerPage({
           </div>
           <div className="text-right">
             <div className="flex justify-end gap-2 text-lg">
-              {career.titles > 0 && <span>🥇{career.titles}</span>}
+              {totalTitles > 0 && <span>🥇{totalTitles}</span>}
               {career.runners_up > 0 && <span>🥈{career.runners_up}</span>}
               {career.thirds > 0 && <span>🥉{career.thirds}</span>}
-              {career.titles + career.runners_up + career.thirds === 0 && (
+              {totalTitles + career.runners_up + career.thirds === 0 && (
                 <span className="text-sm text-muted">no hardware</span>
               )}
             </div>

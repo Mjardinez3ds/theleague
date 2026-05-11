@@ -1,13 +1,14 @@
 import Link from "next/link";
-import { getUpcomingSeason, getCareers, type Career } from "@/lib/data";
+import { getUpcomingSeason, getCareers, getLegacyChampions, type Career } from "@/lib/data";
 import DraftCountdown from "@/components/DraftCountdown";
 
 export const dynamic = "force-static";
 
 export default async function HomePage() {
-  const [season, { owners }] = await Promise.all([
+  const [season, { owners }, legacy] = await Promise.all([
     getUpcomingSeason(),
     getCareers(),
+    getLegacyChampions(),
   ]);
 
   const careerBySlug = new Map<string, Career>(owners.map((o) => [o.slug, o]));
@@ -36,10 +37,11 @@ export default async function HomePage() {
           {season.managers.map((m, i) => {
             const career = m.slug ? careerBySlug.get(m.slug) : null;
             const fullName = career?.owner ?? m.name;
-            const titleYears = career?.seasons
+            const careerTitleYears = career?.seasons
               .filter((s) => s.finish === 1)
-              .map((s) => s.year)
-              .sort() ?? [];
+              .map((s) => s.year) ?? [];
+            const legacyTitleYears = m.slug ? (legacy[m.slug] ?? []) : [];
+            const titleYears = [...legacyTitleYears, ...careerTitleYears].sort();
 
             const inner = (
               <>

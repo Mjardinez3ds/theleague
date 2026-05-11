@@ -127,3 +127,8 @@ export type UpcomingSeason = {
 
 export const getUpcomingSeason = () =>
   readJson<UpcomingSeason>("upcoming_season.json");
+
+// Manually maintained — championships from seasons before ESPN data exists (2021, 2022).
+// slug -> array of championship years
+export const getLegacyChampions = () =>
+  readJson<Record<string, number[]>>("legacy_champions.json");
