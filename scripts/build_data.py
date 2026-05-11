@@ -113,21 +113,15 @@ def build_owner_resolution(teams_by_year: dict[int, list]):
         cid: raw_info[cid] for cid in set(canonical_by_raw.values())
     }
 
-    # Per-owner shortest unique label.
-    # Try labels with increasing last-name letters PER owner until unique.
+    # Per-owner full-name label. Use "First Last" by default; only append a
+    # disambiguator (#2, #3…) if two owners share the exact same full name
+    # (extremely unlikely in a 12-person league).
     display_by_canonical: dict[str, str] = {}
     used_labels: set[str] = set()
-    # Sort by full-name length so simpler names get first crack at short labels.
-    for cid in sorted(canonical_info, key=lambda c: (len(canonical_info[c][1]), c)):
+    for cid in sorted(canonical_info, key=lambda c: (canonical_info[c][1].lower(), c)):
         first, last = canonical_info[cid]
-        chosen = None
-        for letters in range(1, max(1, len(last)) + 1):
-            label = _short_name(first, last, letters)
-            if label not in used_labels:
-                chosen = label
-                break
-        if not chosen:
-            chosen = f"{first} {last}".strip()
+        chosen = f"{first} {last}".strip() if last else first or "?"
+        if chosen in used_labels:
             n = 2
             base = chosen
             while chosen in used_labels:

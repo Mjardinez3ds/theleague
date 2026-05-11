@@ -1,11 +1,7 @@
-import Link from "next/link";
 import { notFound } from "next/navigation";
 import {
   getOwner,
   getCareers,
-  getLeagueMeta,
-  getTrades,
-  type Trade,
 } from "@/lib/data";
 import { SeasonCard } from "@/components/SeasonCard";
 
@@ -69,47 +65,6 @@ export default async function ManagerPage({
   )[0];
   const worstSeason = [...career.seasons].sort(
     (a, b) => a.points_for - b.points_for
-  )[0];
-
-  // ----- Trade data: collect every trade this manager was in -----
-  const meta = await getLeagueMeta();
-  const myTrades: Array<Trade & { year: number }> = [];
-  for (const yr of meta.years) {
-    try {
-      const td = await getTrades(yr);
-      for (const t of td.trades) {
-        if (t.sides.some((s) => s.owner_slug === slug)) {
-          myTrades.push({ ...t, year: yr });
-        }
-      }
-    } catch {
-      /* skip missing year */
-    }
-  }
-  myTrades.sort((a, b) => b.date.localeCompare(a.date));
-
-  // Trade partner counts
-  const partners = new Map<string, { owner: string; count: number }>();
-  let playersGot = 0;
-  let playersGave = 0;
-  for (const t of myTrades) {
-    const mySide = t.sides.find((s) => s.owner_slug === slug);
-    if (mySide) {
-      playersGot += mySide.got.length;
-      playersGave += mySide.gave.length;
-    }
-    const partner = t.sides.find((s) => s.owner_slug !== slug);
-    if (partner) {
-      const cur = partners.get(partner.owner_slug) ?? {
-        owner: partner.owner,
-        count: 0,
-      };
-      cur.count += 1;
-      partners.set(partner.owner_slug, cur);
-    }
-  }
-  const topPartner = Array.from(partners.values()).sort(
-    (a, b) => b.count - a.count
   )[0];
 
   return (
@@ -216,33 +171,6 @@ export default async function ManagerPage({
         </section>
       )}
 
-      {/* Trade activity */}
-      {myTrades.length > 0 && (
-        <section className="rounded-2xl border border-app bg-elev p-4 mb-3">
-          <p className="text-[11px] font-bold tracking-widest text-accent mb-3">
-            TRADE ACTIVITY
-          </p>
-          <div className="grid grid-cols-3 gap-y-3 gap-x-2 mb-3">
-            <Stat label="Trades Made" value={String(myTrades.length)} />
-            <Stat label="Players Got" value={String(playersGot)} />
-            <Stat label="Players Gave" value={String(playersGave)} />
-          </div>
-          {topPartner && (
-            <div className="pt-3 border-t border-app">
-              <p className="text-[10px] tracking-wider text-muted uppercase mb-1">
-                Top Trade Partner
-              </p>
-              <p className="text-base font-bold">
-                {topPartner.owner}{" "}
-                <span className="text-muted text-sm font-normal">
-                  · {topPartner.count} deal{topPartner.count === 1 ? "" : "s"}
-                </span>
-              </p>
-            </div>
-          )}
-        </section>
-      )}
-
       {/* Season-by-season */}
       <p className="text-[11px] font-bold tracking-widest text-accent mb-2 px-1 mt-6">
         SEASON BY SEASON
@@ -258,65 +186,6 @@ export default async function ManagerPage({
         ))}
       </ul>
 
-      {/* Trade history */}
-      {myTrades.length > 0 && (
-        <>
-          <p className="text-[11px] font-bold tracking-widest text-accent mb-2 px-1">
-            TRADE HISTORY
-          </p>
-          <ul className="space-y-2">
-            {myTrades.map((t, i) => {
-              const mySide = t.sides.find((s) => s.owner_slug === slug);
-              const otherSide = t.sides.find((s) => s.owner_slug !== slug);
-              if (!mySide || !otherSide) return null;
-              return (
-                <li
-                  key={i}
-                  className="rounded-2xl border border-app bg-elev p-3"
-                >
-                  <div className="flex items-baseline justify-between mb-2">
-                    <Link
-                      href={`/managers/${otherSide.owner_slug}`}
-                      className="text-sm font-bold text-accent active:opacity-70"
-                    >
-                      vs {otherSide.owner}
-                    </Link>
-                    <span className="text-[11px] text-muted tabular-nums">
-                      {t.year} · {t.date}
-                    </span>
-                  </div>
-                  <div className="grid grid-cols-2 gap-2">
-                    <div className="rounded-lg bg-elev-2 p-2">
-                      <p className="text-[9px] font-bold tracking-widest text-muted mb-1">
-                        GAVE
-                      </p>
-                      <ul className="space-y-0.5">
-                        {mySide.gave.map((p, k) => (
-                          <li key={k} className="text-xs truncate">
-                            {p}
-                          </li>
-                        ))}
-                      </ul>
-                    </div>
-                    <div className="rounded-lg bg-elev-2 p-2">
-                      <p className="text-[9px] font-bold tracking-widest text-muted mb-1">
-                        GOT
-                      </p>
-                      <ul className="space-y-0.5">
-                        {mySide.got.map((p, k) => (
-                          <li key={k} className="text-xs truncate">
-                            {p}
-                          </li>
-                        ))}
-                      </ul>
-                    </div>
-                  </div>
-                </li>
-              );
-            })}
-          </ul>
-        </>
-      )}
     </div>
   );
 }

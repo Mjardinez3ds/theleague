@@ -7,8 +7,8 @@
       "sides": [
         {
           "team_name": "Ramsey Sporting Goods",
-          "owner": "Marcus J.",
-          "owner_slug": "marcus-j",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
           "gave": [
             "RJ Harvey"
           ],
@@ -18,8 +18,8 @@
         },
         {
           "team_name": "Farmed",
-          "owner": "George D.",
-          "owner_slug": "george-d",
+          "owner": "George Duran",
+          "owner_slug": "george-duran",
           "gave": [
             "Tyler Warren"
           ],
@@ -34,8 +34,8 @@
       "sides": [
         {
           "team_name": "Christopher's Cool Team",
-          "owner": "Christopher J.",
-          "owner_slug": "christopher-j",
+          "owner": "Christopher Jones",
+          "owner_slug": "christopher-jones",
           "gave": [
             "Stefon Diggs"
           ],
@@ -45,8 +45,8 @@
         },
         {
           "team_name": "Farmed",
-          "owner": "George D.",
-          "owner_slug": "george-d",
+          "owner": "George Duran",
+          "owner_slug": "george-duran",
           "gave": [
             "A.J. Brown"
           ],
@@ -61,8 +61,8 @@
       "sides": [
         {
           "team_name": "Buck Swope",
-          "owner": "Chris P.",
-          "owner_slug": "chris-p",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
           "gave": [
             "Xavier Worthy",
             "Zach Charbonnet",
@@ -75,8 +75,8 @@
         },
         {
           "team_name": "Dynomite",
-          "owner": "derf p.",
-          "owner_slug": "derf-p",
+          "owner": "derf punk",
+          "owner_slug": "derf-punk",
           "gave": [
             "George Kittle",
             "Jameson Williams"
@@ -94,8 +94,8 @@
       "sides": [
         {
           "team_name": "Farmed",
-          "owner": "George D.",
-          "owner_slug": "george-d",
+          "owner": "George Duran",
+          "owner_slug": "george-duran",
           "gave": [
             "Tetairoa McMillan"
           ],
@@ -105,8 +105,8 @@
         },
         {
           "team_name": "Big Nix Energy",
-          "owner": "Matthew T.",
-          "owner_slug": "matthew-t",
+          "owner": "Matthew Taylor",
+          "owner_slug": "matthew-taylor",
           "gave": [
             "Aaron Jones Sr."
           ],
@@ -121,8 +121,8 @@
       "sides": [
         {
           "team_name": "Farmed",
-          "owner": "George D.",
-          "owner_slug": "george-d",
+          "owner": "George Duran",
+          "owner_slug": "george-duran",
           "gave": [
             "Justin Jefferson"
           ],
@@ -133,8 +133,8 @@
         },
         {
           "team_name": "Dynomite",
-          "owner": "derf p.",
-          "owner_slug": "derf-p",
+          "owner": "derf punk",
+          "owner_slug": "derf-punk",
           "gave": [
             "A.J. Brown",
             "TreVeyon Henderson"
@@ -150,8 +150,8 @@
       "sides": [
         {
           "team_name": "Buck Swope",
-          "owner": "Chris P.",
-          "owner_slug": "chris-p",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
           "gave": [
             "Travis Kelce"
           ],
@@ -161,8 +161,8 @@
         },
         {
           "team_name": "Shy Squad",
-          "owner": "Super S.",
-          "owner_slug": "super-s",
+          "owner": "Super Shyguy",
+          "owner_slug": "super-shyguy",
           "gave": [
             "Dalton Kincaid"
           ],
@@ -177,8 +177,8 @@
       "sides": [
         {
           "team_name": "Ramsey Sporting Goods",
-          "owner": "Marcus J.",
-          "owner_slug": "marcus-j",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
           "gave": [
             "Kenneth Walker III"
           ],
@@ -188,8 +188,8 @@
         },
         {
           "team_name": "Shy Squad",
-          "owner": "Super S.",
-          "owner_slug": "super-s",
+          "owner": "Super Shyguy",
+          "owner_slug": "super-shyguy",
           "gave": [
             "Darnell Mooney"
           ],
@@ -204,8 +204,8 @@
       "sides": [
         {
           "team_name": "SWEENEY'S B00BS",
-          "owner": "Junior P.",
-          "owner_slug": "junior-p",
+          "owner": "Junior Peralta",
+          "owner_slug": "junior-peralta",
           "gave": [
             "Kendrick Bourne",
             "Amon-Ra St. Brown"
@@ -217,8 +217,8 @@
         },
         {
           "team_name": "No Chase No Case",
-          "owner": "Devon M.",
-          "owner_slug": "devon-m",
+          "owner": "Devon Malki",
+          "owner_slug": "devon-malki",
           "gave": [
             "DK Metcalf",
             "Rachaad White"
@@ -235,8 +235,8 @@
       "sides": [
         {
           "team_name": "Christopher's Cool Team",
-          "owner": "Christopher J.",
-          "owner_slug": "christopher-j",
+          "owner": "Christopher Jones",
+          "owner_slug": "christopher-jones",
           "gave": [
             "D'Andre Swift",
             "Chris Godwin Jr.",
@@ -249,8 +249,8 @@
         },
         {
           "team_name": "CuckforBuck",
-          "owner": "Kevin L.",
-          "owner_slug": "kevin-l",
+          "owner": "Kevin Liang",
+          "owner_slug": "kevin-liang",
           "gave": [
             "Garrett Wilson",
             "Javonte Williams"
@@ -268,8 +268,8 @@
       "sides": [
         {
           "team_name": "Ramsey Sporting Goods",
-          "owner": "Marcus J.",
-          "owner_slug": "marcus-j",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
           "gave": [
             "Ladd McConkey",
             "Troy Franklin"
@@ -281,8 +281,8 @@
         },
         {
           "team_name": "SWEENEY'S B00BS",
-          "owner": "Junior P.",
-          "owner_slug": "junior-p",
+          "owner": "Junior Peralta",
+          "owner_slug": "junior-peralta",
           "gave": [
             "Courtland Sutton",
             "Jaydon Blue"
@@ -299,8 +299,8 @@
       "sides": [
         {
           "team_name": "Ramsey Sporting Goods",
-          "owner": "Marcus J.",
-          "owner_slug": "marcus-j",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
           "gave": [
             "Ricky Pearsall"
           ],
@@ -310,8 +310,8 @@
         },
         {
           "team_name": "Farmed",
-          "owner": "George D.",
-          "owner_slug": "george-d",
+          "owner": "George Duran",
+          "owner_slug": "george-duran",
           "gave": [
             "RJ Harvey"
           ],
@@ -326,8 +326,8 @@
       "sides": [
         {
           "team_name": "CuckforBuck",
-          "owner": "Kevin L.",
-          "owner_slug": "kevin-l",
+          "owner": "Kevin Liang",
+          "owner_slug": "kevin-liang",
           "gave": [
             "James Cook III"
           ],
@@ -338,8 +338,8 @@
         },
         {
           "team_name": "No Chase No Case",
-          "owner": "Devon M.",
-          "owner_slug": "devon-m",
+          "owner": "Devon Malki",
+          "owner_slug": "devon-malki",
           "gave": [
             "Kyren Williams",
             "Jaylen Waddle"
@@ -355,8 +355,8 @@
       "sides": [
         {
           "team_name": "Ramsey Sporting Goods",
-          "owner": "Marcus J.",
-          "owner_slug": "marcus-j",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
           "gave": [
             "Amon-Ra St. Brown",
             "Tyjae Spears"
@@ -368,8 +368,8 @@
         },
         {
           "team_name": "SWEENEY'S B00BS",
-          "owner": "Junior P.",
-          "owner_slug": "junior-p",
+          "owner": "Junior Peralta",
+          "owner_slug": "junior-peralta",
           "gave": [
             "Nico Collins",
             "Jaylen Warren"
@@ -386,8 +386,8 @@
       "sides": [
         {
           "team_name": "Buck Swope",
-          "owner": "Chris P.",
-          "owner_slug": "chris-p",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
           "gave": [
             "Derrick Henry",
             "Jordan Addison"
@@ -398,8 +398,8 @@
         },
         {
           "team_name": "Big Nix Energy",
-          "owner": "Matthew T.",
-          "owner_slug": "matthew-t",
+          "owner": "Matthew Taylor",
+          "owner_slug": "matthew-taylor",
           "gave": [
             "Saquon Barkley"
           ],
@@ -415,8 +415,8 @@
       "sides": [
         {
           "team_name": "SWEENEY'S B00BS",
-          "owner": "Junior P.",
-          "owner_slug": "junior-p",
+          "owner": "Junior Peralta",
+          "owner_slug": "junior-peralta",
           "gave": [
             "DJ Moore",
             "Jerry Jeudy"
@@ -428,8 +428,8 @@
         },
         {
           "team_name": "Big Nix Energy",
-          "owner": "Matthew T.",
-          "owner_slug": "matthew-t",
+          "owner": "Matthew Taylor",
+          "owner_slug": "matthew-taylor",
           "gave": [
             "Courtland Sutton",
             "Dylan Sampson"
@@ -446,8 +446,8 @@
       "sides": [
         {
           "team_name": "Buck Swope",
-          "owner": "Chris P.",
-          "owner_slug": "chris-p",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
           "gave": [
             "Quinshon Judkins",
             "Quentin Johnston",
@@ -460,8 +460,8 @@
         },
         {
           "team_name": "Christopher's Cool Team",
-          "owner": "Christopher J.",
-          "owner_slug": "christopher-j",
+          "owner": "Christopher Jones",
+          "owner_slug": "christopher-jones",
           "gave": [
             "George Pickens",
             "Travis Kelce"
