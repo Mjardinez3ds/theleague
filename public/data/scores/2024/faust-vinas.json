@@ -4,8 +4,10 @@
     {
       "week": 1,
       "score": 127.46,
+      "team_name": "The Old Hunters",
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
+      "opponent_team": "Alien vs Deshaun",
       "opponent_score": 111.66,
       "result": "W",
       "is_playoff": false
@@ -13,8 +15,10 @@
     {
       "week": 2,
       "score": 103.9,
+      "team_name": "The Old Hunters",
       "opponent": "Super Shyguy",
       "opponent_slug": "super-shyguy",
+      "opponent_team": "Shy Squad",
       "opponent_score": 105.26,
       "result": "L",
       "is_playoff": false
@@ -22,8 +26,10 @@
     {
       "week": 3,
       "score": 86.0,
+      "team_name": "The Old Hunters",
       "opponent": "Marcus Jardinez",
       "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Saquon Barkley",
       "opponent_score": 82.64,
       "result": "W",
       "is_playoff": false
@@ -31,8 +37,10 @@
     {
       "week": 4,
       "score": 112.6,
+      "team_name": "The Old Hunters",
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
+      "opponent_team": "24 Garrett Gold ",
       "opponent_score": 98.14,
       "result": "W",
       "is_playoff": false
@@ -40,8 +48,10 @@
     {
       "week": 5,
       "score": 110.44,
+      "team_name": "The Old Hunters",
       "opponent": "Junior Peralta",
       "opponent_slug": "junior-peralta",
+      "opponent_team": "e-",
       "opponent_score": 105.46,
       "result": "W",
       "is_playoff": false
@@ -49,8 +59,10 @@
     {
       "week": 6,
       "score": 119.08,
+      "team_name": "The Old Hunters",
       "opponent": "George Duran",
       "opponent_slug": "george-duran",
+      "opponent_team": "TWO PIECE W A BISCUIT",
       "opponent_score": 126.36,
       "result": "L",
       "is_playoff": false
@@ -58,8 +70,10 @@
     {
       "week": 7,
       "score": 72.64,
+      "team_name": "The Old Hunters",
       "opponent": "Chris Peralta",
       "opponent_slug": "chris-peralta",
+      "opponent_team": "Perc Angle",
       "opponent_score": 89.44,
       "result": "L",
       "is_playoff": false
@@ -67,8 +81,10 @@
     {
       "week": 8,
       "score": 107.12,
+      "team_name": "The Old Hunters",
       "opponent": "Matthew Taylor",
       "opponent_slug": "matthew-taylor",
+      "opponent_team": "Maybe Nix Year",
       "opponent_score": 112.76,
       "result": "L",
       "is_playoff": false
@@ -76,8 +92,10 @@
     {
       "week": 9,
       "score": 93.74,
+      "team_name": "The Old Hunters",
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
+      "opponent_team": "Chubba Missile Crisis",
       "opponent_score": 111.22,
       "result": "L",
       "is_playoff": false
@@ -85,8 +103,10 @@
     {
       "week": 10,
       "score": 103.08,
+      "team_name": "The Old Hunters",
       "opponent": "Denniell Grijalva",
       "opponent_slug": "denniell-grijalva",
+      "opponent_team": "4 Percent P00T",
       "opponent_score": 75.7,
       "result": "W",
       "is_playoff": false
@@ -94,8 +114,10 @@
     {
       "week": 11,
       "score": 113.78,
+      "team_name": "The Old Hunters",
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
+      "opponent_team": "Lose2aG00n3r",
       "opponent_score": 122.16,
       "result": "L",
       "is_playoff": false
@@ -103,8 +125,10 @@
     {
       "week": 12,
       "score": 119.98,
+      "team_name": "The Old Hunters",
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
+      "opponent_team": "Alien vs Deshaun",
       "opponent_score": 110.06,
       "result": "W",
       "is_playoff": false
@@ -112,8 +136,10 @@
     {
       "week": 13,
       "score": 93.68,
+      "team_name": "The Old Hunters",
       "opponent": "Super Shyguy",
       "opponent_slug": "super-shyguy",
+      "opponent_team": "Shy Squad",
       "opponent_score": 113.42,
       "result": "L",
       "is_playoff": false
@@ -121,8 +147,10 @@
     {
       "week": 14,
       "score": 134.12,
+      "team_name": "The Old Hunters",
       "opponent": "Marcus Jardinez",
       "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Saquon Barkley",
       "opponent_score": 110.42,
       "result": "W",
       "is_playoff": false
@@ -130,8 +158,10 @@
     {
       "week": 15,
       "score": 115.06,
+      "team_name": "The Old Hunters",
       "opponent": "Junior Peralta",
       "opponent_slug": "junior-peralta",
+      "opponent_team": "e-",
       "opponent_score": 94.66,
       "result": "W",
       "is_playoff": true
@@ -139,8 +169,10 @@
     {
       "week": 16,
       "score": 72.58,
+      "team_name": "The Old Hunters",
       "opponent": "Matthew Taylor",
       "opponent_slug": "matthew-taylor",
+      "opponent_team": "Maybe Nix Year",
       "opponent_score": 133.58,
       "result": "L",
       "is_playoff": true
@@ -148,8 +180,10 @@
     {
       "week": 17,
       "score": 64.58,
+      "team_name": "The Old Hunters",
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
+      "opponent_team": "Alien vs Deshaun",
       "opponent_score": 154.28,
       "result": "L",
       "is_playoff": true
@@ -157,8 +191,10 @@
     {
       "week": 18,
       "score": 64.58,
+      "team_name": "The Old Hunters",
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
+      "opponent_team": "Alien vs Deshaun",
       "opponent_score": 154.28,
       "result": "L",
       "is_playoff": true

@@ -4,8 +4,10 @@
     {
       "week": 1,
       "score": 130.56,
+      "team_name": "Tony Pollard Therapy Club ",
       "opponent": "Junior Peralta",
       "opponent_slug": "junior-peralta",
+      "opponent_team": "Punchmade Joonyer",
       "opponent_score": 122.0,
       "result": "W",
       "is_playoff": false
@@ -13,8 +15,10 @@
     {
       "week": 2,
       "score": 122.34,
+      "team_name": "Tony Pollard Therapy Club ",
       "opponent": "Denniell Grijalva",
       "opponent_slug": "denniell-grijalva",
+      "opponent_team": "1 Percent Poot",
       "opponent_score": 88.64,
       "result": "W",
       "is_playoff": false
@@ -22,8 +26,10 @@
     {
       "week": 3,
       "score": 102.78,
+      "team_name": "Tony Pollard Therapy Club ",
       "opponent": "Chris Peralta",
       "opponent_slug": "chris-peralta",
+      "opponent_team": "Paul Giamatti in Big Fat Liar",
       "opponent_score": 144.58,
       "result": "L",
       "is_playoff": false
@@ -31,8 +37,10 @@
     {
       "week": 4,
       "score": 95.24,
+      "team_name": "Tony Pollard Therapy Club ",
       "opponent": "Anthony Richardson",
       "opponent_slug": "anthony-richardson",
+      "opponent_team": "UrMom Stillsquirts",
       "opponent_score": 112.48,
       "result": "L",
       "is_playoff": false
@@ -40,8 +48,10 @@
     {
       "week": 5,
       "score": 60.58,
+      "team_name": "Tony Pollard Therapy Club ",
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
+      "opponent_team": "Loco Moco",
       "opponent_score": 84.44,
       "result": "L",
       "is_playoff": false
@@ -49,8 +59,10 @@
     {
       "week": 6,
       "score": 99.54,
+      "team_name": "Tony Pollard Therapy Club ",
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
+      "opponent_team": "Team Cano",
       "opponent_score": 79.54,
       "result": "W",
       "is_playoff": false
@@ -58,8 +70,10 @@
     {
       "week": 7,
       "score": 106.56,
+      "team_name": "Tony Pollard Therapy Club ",
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
+      "opponent_team": "DECAPITATED WEASEL",
       "opponent_score": 93.86,
       "result": "W",
       "is_playoff": false
@@ -67,8 +81,10 @@
     {
       "week": 8,
       "score": 90.58,
+      "team_name": "Tony Pollard Therapy Club ",
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
+      "opponent_team": "Liang le gusta bicho",
       "opponent_score": 108.62,
       "result": "L",
       "is_playoff": false
@@ -76,8 +92,10 @@
     {
       "week": 9,
       "score": 125.0,
+      "team_name": "Tony Pollard Therapy Club ",
       "opponent": "Abraham Pinales",
       "opponent_slug": "abraham-pinales",
+      "opponent_team": "ALVINNNN",
       "opponent_score": 108.22,
       "result": "W",
       "is_playoff": false
@@ -85,8 +103,10 @@
     {
       "week": 10,
       "score": 119.58,
+      "team_name": "Tony Pollard Therapy Club ",
       "opponent": "Marcus Jardinez",
       "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Psychological Operations",
       "opponent_score": 137.0,
       "result": "L",
       "is_playoff": false
@@ -94,8 +114,10 @@
     {
       "week": 11,
       "score": 117.94,
+      "team_name": "Tony Pollard Therapy Club ",
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
+      "opponent_team": "Breece\u2019s Pieces",
       "opponent_score": 103.96,
       "result": "W",
       "is_playoff": false
@@ -103,8 +125,10 @@
     {
       "week": 12,
       "score": 150.76,
+      "team_name": "Tony Pollard Therapy Club ",
       "opponent": "Junior Peralta",
       "opponent_slug": "junior-peralta",
+      "opponent_team": "Punchmade Joonyer",
       "opponent_score": 174.3,
       "result": "L",
       "is_playoff": false
@@ -112,8 +136,10 @@
     {
       "week": 13,
       "score": 141.72,
+      "team_name": "Tony Pollard Therapy Club ",
       "opponent": "Denniell Grijalva",
       "opponent_slug": "denniell-grijalva",
+      "opponent_team": "1 Percent Poot",
       "opponent_score": 145.36,
       "result": "L",
       "is_playoff": false
@@ -121,8 +147,10 @@
     {
       "week": 14,
       "score": 93.22,
+      "team_name": "Tony Pollard Therapy Club ",
       "opponent": "Chris Peralta",
       "opponent_slug": "chris-peralta",
+      "opponent_team": "Paul Giamatti in Big Fat Liar",
       "opponent_score": 105.54,
       "result": "L",
       "is_playoff": false
@@ -130,8 +158,10 @@
     {
       "week": 15,
       "score": 64.9,
+      "team_name": "Tony Pollard Therapy Club ",
       "opponent": "Denniell Grijalva",
       "opponent_slug": "denniell-grijalva",
+      "opponent_team": "1 Percent Poot",
       "opponent_score": 125.36,
       "result": "L",
       "is_playoff": true
@@ -139,8 +169,10 @@
     {
       "week": 16,
       "score": 85.7,
+      "team_name": "Tony Pollard Therapy Club ",
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
+      "opponent_team": "Breece\u2019s Pieces",
       "opponent_score": 132.62,
       "result": "L",
       "is_playoff": true
@@ -148,8 +180,10 @@
     {
       "week": 17,
       "score": 112.6,
+      "team_name": "Tony Pollard Therapy Club ",
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
+      "opponent_team": "DECAPITATED WEASEL",
       "opponent_score": 112.5,
       "result": "W",
       "is_playoff": true
@@ -157,8 +191,10 @@
     {
       "week": 18,
       "score": 112.6,
+      "team_name": "Tony Pollard Therapy Club ",
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
+      "opponent_team": "DECAPITATED WEASEL",
       "opponent_score": 112.5,
       "result": "W",
       "is_playoff": true

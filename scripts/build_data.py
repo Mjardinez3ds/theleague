@@ -370,14 +370,15 @@ def build_scores(
         # Regular-season week count from league settings (default 14)
         reg_weeks = getattr(lg.settings, "reg_season_count", 14)
 
-        # team_id -> (display, slug)
-        team_disp: dict[int, tuple[str, str]] = {}
+        # team_id -> (display, slug, team_name)
+        team_disp: dict[int, tuple[str, str, str]] = {}
         for team in lg.teams:
             raw_id = _raw_owner_id(team)
             cid = canonical_by_raw.get(raw_id, "")
             team_disp[team.team_id] = (
                 display_by_canonical.get(cid, "?"),
                 slug_by_canonical.get(cid, "unknown"),
+                team.team_name or "?",
             )
 
         scores_by_slug: dict[str, list] = {
@@ -409,16 +410,18 @@ def build_scores(
                 if h_score == 0 and a_score == 0:
                     continue
 
-                h_disp, h_slug = team_disp.get(h_team.team_id, ("?", "unknown"))
-                a_disp, a_slug = team_disp.get(a_team.team_id, ("?", "unknown"))
+                h_disp, h_slug, h_tname = team_disp.get(h_team.team_id, ("?", "unknown", "?"))
+                a_disp, a_slug, a_tname = team_disp.get(a_team.team_id, ("?", "unknown", "?"))
                 is_playoff = bool(getattr(m, "is_playoff", week > reg_weeks))
 
                 if h_slug in scores_by_slug:
                     scores_by_slug[h_slug].append({
                         "week": week,
                         "score": h_score,
+                        "team_name": h_tname,
                         "opponent": a_disp,
                         "opponent_slug": a_slug,
+                        "opponent_team": a_tname,
                         "opponent_score": a_score,
                         "result": _result(h_score, a_score),
                         "is_playoff": is_playoff,
@@ -427,8 +430,10 @@ def build_scores(
                     scores_by_slug[a_slug].append({
                         "week": week,
                         "score": a_score,
+                        "team_name": a_tname,
                         "opponent": h_disp,
                         "opponent_slug": h_slug,
+                        "opponent_team": h_tname,
                         "opponent_score": h_score,
                         "result": _result(a_score, h_score),
                         "is_playoff": is_playoff,

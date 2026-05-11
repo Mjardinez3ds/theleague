@@ -4,8 +4,10 @@
     {
       "week": 1,
       "score": 116.62,
+      "team_name": "CuckforBuck",
       "opponent": "Marcus Jardinez",
       "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Ramsey Sporting Goods",
       "opponent_score": 95.68,
       "result": "W",
       "is_playoff": false
@@ -13,8 +15,10 @@
     {
       "week": 2,
       "score": 162.08,
+      "team_name": "CuckforBuck",
       "opponent": "George Duran",
       "opponent_slug": "george-duran",
+      "opponent_team": "Farmed",
       "opponent_score": 113.74,
       "result": "W",
       "is_playoff": false
@@ -22,8 +26,10 @@
     {
       "week": 3,
       "score": 132.4,
+      "team_name": "CuckforBuck",
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
+      "opponent_team": "Alien vs Deshaun",
       "opponent_score": 118.52,
       "result": "W",
       "is_playoff": false
@@ -31,8 +37,10 @@
     {
       "week": 4,
       "score": 113.72,
+      "team_name": "CuckforBuck",
       "opponent": "Super Shyguy",
       "opponent_slug": "super-shyguy",
+      "opponent_team": "Shy Squad",
       "opponent_score": 112.9,
       "result": "W",
       "is_playoff": false
@@ -40,8 +48,10 @@
     {
       "week": 5,
       "score": 172.96,
+      "team_name": "CuckforBuck",
       "opponent": "Chris Peralta",
       "opponent_slug": "chris-peralta",
+      "opponent_team": "Buck Swope",
       "opponent_score": 164.12,
       "result": "W",
       "is_playoff": false
@@ -49,8 +59,10 @@
     {
       "week": 6,
       "score": 104.98,
+      "team_name": "CuckforBuck",
       "opponent": "Christopher Jones",
       "opponent_slug": "christopher-jones",
+      "opponent_team": "Christopher's Cool Team",
       "opponent_score": 138.14,
       "result": "L",
       "is_playoff": false
@@ -58,8 +70,10 @@
     {
       "week": 7,
       "score": 93.54,
+      "team_name": "CuckforBuck",
       "opponent": "Junior Peralta",
       "opponent_slug": "junior-peralta",
+      "opponent_team": "SWEENEY'S B00BS",
       "opponent_score": 68.82,
       "result": "W",
       "is_playoff": false
@@ -67,8 +81,10 @@
     {
       "week": 8,
       "score": 104.08,
+      "team_name": "CuckforBuck",
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
+      "opponent_team": "Dynomite",
       "opponent_score": 104.08,
       "result": "T",
       "is_playoff": false
@@ -76,8 +92,10 @@
     {
       "week": 9,
       "score": 118.2,
+      "team_name": "CuckforBuck",
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
+      "opponent_team": "Choosing Violence",
       "opponent_score": 151.02,
       "result": "L",
       "is_playoff": false
@@ -85,8 +103,10 @@
     {
       "week": 10,
       "score": 133.5,
+      "team_name": "CuckforBuck",
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
+      "opponent_team": "No Chase No Case",
       "opponent_score": 110.02,
       "result": "W",
       "is_playoff": false
@@ -94,8 +114,10 @@
     {
       "week": 11,
       "score": 46.74,
+      "team_name": "CuckforBuck",
       "opponent": "Matthew Taylor",
       "opponent_slug": "matthew-taylor",
+      "opponent_team": "Big Nix Energy",
       "opponent_score": 92.42,
       "result": "L",
       "is_playoff": false
@@ -103,8 +125,10 @@
     {
       "week": 12,
       "score": 85.26,
+      "team_name": "CuckforBuck",
       "opponent": "Marcus Jardinez",
       "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Ramsey Sporting Goods",
       "opponent_score": 115.06,
       "result": "L",
       "is_playoff": false
@@ -112,8 +136,10 @@
     {
       "week": 13,
       "score": 100.94,
+      "team_name": "CuckforBuck",
       "opponent": "George Duran",
       "opponent_slug": "george-duran",
+      "opponent_team": "Farmed",
       "opponent_score": 114.64,
       "result": "L",
       "is_playoff": false
@@ -121,8 +147,10 @@
     {
       "week": 14,
       "score": 113.56,
+      "team_name": "CuckforBuck",
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
+      "opponent_team": "Alien vs Deshaun",
       "opponent_score": 96.86,
       "result": "W",
       "is_playoff": false
@@ -130,8 +158,10 @@
     {
       "week": 15,
       "score": 110.72,
+      "team_name": "CuckforBuck",
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
+      "opponent_team": "No Chase No Case",
       "opponent_score": 160.96,
       "result": "L",
       "is_playoff": true
@@ -139,8 +169,10 @@
     {
       "week": 16,
       "score": 107.7,
+      "team_name": "CuckforBuck",
       "opponent": "Christopher Jones",
       "opponent_slug": "christopher-jones",
+      "opponent_team": "Christopher's Cool Team",
       "opponent_score": 122.88,
       "result": "L",
       "is_playoff": true
@@ -148,8 +180,10 @@
     {
       "week": 17,
       "score": 95.04,
+      "team_name": "CuckforBuck",
       "opponent": "Christopher Jones",
       "opponent_slug": "christopher-jones",
+      "opponent_team": "Christopher's Cool Team",
       "opponent_score": 63.46,
       "result": "W",
       "is_playoff": true
@@ -157,8 +191,10 @@
     {
       "week": 18,
       "score": 95.04,
+      "team_name": "CuckforBuck",
       "opponent": "Christopher Jones",
       "opponent_slug": "christopher-jones",
+      "opponent_team": "Christopher's Cool Team",
       "opponent_score": 63.46,
       "result": "W",
       "is_playoff": true

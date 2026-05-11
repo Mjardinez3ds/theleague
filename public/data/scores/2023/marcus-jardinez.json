@@ -4,8 +4,10 @@
     {
       "week": 1,
       "score": 96.24,
+      "team_name": "Psychological Operations",
       "opponent": "Anthony Richardson",
       "opponent_slug": "anthony-richardson",
+      "opponent_team": "UrMom Stillsquirts",
       "opponent_score": 94.96,
       "result": "W",
       "is_playoff": false
@@ -13,8 +15,10 @@
     {
       "week": 2,
       "score": 126.94,
+      "team_name": "Psychological Operations",
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
+      "opponent_team": "Loco Moco",
       "opponent_score": 172.08,
       "result": "L",
       "is_playoff": false
@@ -22,8 +26,10 @@
     {
       "week": 3,
       "score": 87.96,
+      "team_name": "Psychological Operations",
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
+      "opponent_team": "Team Cano",
       "opponent_score": 112.54,
       "result": "L",
       "is_playoff": false
@@ -31,8 +37,10 @@
     {
       "week": 4,
       "score": 181.34,
+      "team_name": "Psychological Operations",
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
+      "opponent_team": "DECAPITATED WEASEL",
       "opponent_score": 135.62,
       "result": "W",
       "is_playoff": false
@@ -40,8 +48,10 @@
     {
       "week": 5,
       "score": 99.56,
+      "team_name": "Psychological Operations",
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
+      "opponent_team": "Liang le gusta bicho",
       "opponent_score": 99.98,
       "result": "L",
       "is_playoff": false
@@ -49,8 +59,10 @@
     {
       "week": 6,
       "score": 63.72,
+      "team_name": "Psychological Operations",
       "opponent": "Abraham Pinales",
       "opponent_slug": "abraham-pinales",
+      "opponent_team": "ALVINNNN",
       "opponent_score": 89.86,
       "result": "L",
       "is_playoff": false
@@ -58,8 +70,10 @@
     {
       "week": 7,
       "score": 128.4,
+      "team_name": "Psychological Operations",
       "opponent": "Denniell Grijalva",
       "opponent_slug": "denniell-grijalva",
+      "opponent_team": "1 Percent Poot",
       "opponent_score": 107.64,
       "result": "W",
       "is_playoff": false
@@ -67,8 +81,10 @@
     {
       "week": 8,
       "score": 85.9,
+      "team_name": "Psychological Operations",
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
+      "opponent_team": "Breece\u2019s Pieces",
       "opponent_score": 174.86,
       "result": "L",
       "is_playoff": false
@@ -76,8 +92,10 @@
     {
       "week": 9,
       "score": 148.0,
+      "team_name": "Psychological Operations",
       "opponent": "Junior Peralta",
       "opponent_slug": "junior-peralta",
+      "opponent_team": "Punchmade Joonyer",
       "opponent_score": 103.58,
       "result": "W",
       "is_playoff": false
@@ -85,8 +103,10 @@
     {
       "week": 10,
       "score": 137.0,
+      "team_name": "Psychological Operations",
       "opponent": "George Duran",
       "opponent_slug": "george-duran",
+      "opponent_team": "Tony Pollard Therapy Club ",
       "opponent_score": 119.58,
       "result": "W",
       "is_playoff": false
@@ -94,8 +114,10 @@
     {
       "week": 11,
       "score": 116.44,
+      "team_name": "Psychological Operations",
       "opponent": "Chris Peralta",
       "opponent_slug": "chris-peralta",
+      "opponent_team": "Paul Giamatti in Big Fat Liar",
       "opponent_score": 78.58,
       "result": "W",
       "is_playoff": false
@@ -103,8 +125,10 @@
     {
       "week": 12,
       "score": 131.08,
+      "team_name": "Psychological Operations",
       "opponent": "Anthony Richardson",
       "opponent_slug": "anthony-richardson",
+      "opponent_team": "UrMom Stillsquirts",
       "opponent_score": 119.48,
       "result": "W",
       "is_playoff": false
@@ -112,8 +136,10 @@
     {
       "week": 13,
       "score": 113.98,
+      "team_name": "Psychological Operations",
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
+      "opponent_team": "Loco Moco",
       "opponent_score": 85.08,
       "result": "W",
       "is_playoff": false
@@ -121,8 +147,10 @@
     {
       "week": 14,
       "score": 104.12,
+      "team_name": "Psychological Operations",
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
+      "opponent_team": "Team Cano",
       "opponent_score": 136.96,
       "result": "L",
       "is_playoff": false
@@ -130,8 +158,10 @@
     {
       "week": 15,
       "score": 104.34,
+      "team_name": "Psychological Operations",
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
+      "opponent_team": "Loco Moco",
       "opponent_score": 160.54,
       "result": "L",
       "is_playoff": true
@@ -139,8 +169,10 @@
     {
       "week": 16,
       "score": 142.3,
+      "team_name": "Psychological Operations",
       "opponent": "Junior Peralta",
       "opponent_slug": "junior-peralta",
+      "opponent_team": "Punchmade Joonyer",
       "opponent_score": 105.22,
       "result": "W",
       "is_playoff": true
@@ -148,8 +180,10 @@
     {
       "week": 17,
       "score": 135.02,
+      "team_name": "Psychological Operations",
       "opponent": "Junior Peralta",
       "opponent_slug": "junior-peralta",
+      "opponent_team": "Punchmade Joonyer",
       "opponent_score": 92.38,
       "result": "W",
       "is_playoff": true
@@ -157,8 +191,10 @@
     {
       "week": 18,
       "score": 135.02,
+      "team_name": "Psychological Operations",
       "opponent": "Junior Peralta",
       "opponent_slug": "junior-peralta",
+      "opponent_team": "Punchmade Joonyer",
       "opponent_score": 92.38,
       "result": "W",
       "is_playoff": true

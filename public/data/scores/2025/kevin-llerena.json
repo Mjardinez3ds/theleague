@@ -4,8 +4,10 @@
     {
       "week": 1,
       "score": 115.42,
+      "team_name": "Alien vs Deshaun",
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
+      "opponent_team": "No Chase No Case",
       "opponent_score": 115.82,
       "result": "L",
       "is_playoff": false
@@ -13,8 +15,10 @@
     {
       "week": 2,
       "score": 130.74,
+      "team_name": "Alien vs Deshaun",
       "opponent": "Marcus Jardinez",
       "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Ramsey Sporting Goods",
       "opponent_score": 128.1,
       "result": "W",
       "is_playoff": false
@@ -22,8 +26,10 @@
     {
       "week": 3,
       "score": 118.52,
+      "team_name": "Alien vs Deshaun",
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
+      "opponent_team": "CuckforBuck",
       "opponent_score": 132.4,
       "result": "L",
       "is_playoff": false
@@ -31,8 +37,10 @@
     {
       "week": 4,
       "score": 156.38,
+      "team_name": "Alien vs Deshaun",
       "opponent": "Chris Peralta",
       "opponent_slug": "chris-peralta",
+      "opponent_team": "Buck Swope",
       "opponent_score": 159.94,
       "result": "L",
       "is_playoff": false
@@ -40,8 +48,10 @@
     {
       "week": 5,
       "score": 124.34,
+      "team_name": "Alien vs Deshaun",
       "opponent": "Junior Peralta",
       "opponent_slug": "junior-peralta",
+      "opponent_team": "SWEENEY'S B00BS",
       "opponent_score": 100.88,
       "result": "W",
       "is_playoff": false
@@ -49,8 +59,10 @@
     {
       "week": 6,
       "score": 114.86,
+      "team_name": "Alien vs Deshaun",
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
+      "opponent_team": "Choosing Violence",
       "opponent_score": 123.1,
       "result": "L",
       "is_playoff": false
@@ -58,8 +70,10 @@
     {
       "week": 7,
       "score": 175.06,
+      "team_name": "Alien vs Deshaun",
       "opponent": "Matthew Taylor",
       "opponent_slug": "matthew-taylor",
+      "opponent_team": "Big Nix Energy",
       "opponent_score": 83.36,
       "result": "W",
       "is_playoff": false
@@ -67,8 +81,10 @@
     {
       "week": 8,
       "score": 117.9,
+      "team_name": "Alien vs Deshaun",
       "opponent": "George Duran",
       "opponent_slug": "george-duran",
+      "opponent_team": "Farmed",
       "opponent_score": 135.48,
       "result": "L",
       "is_playoff": false
@@ -76,8 +92,10 @@
     {
       "week": 9,
       "score": 143.4,
+      "team_name": "Alien vs Deshaun",
       "opponent": "Super Shyguy",
       "opponent_slug": "super-shyguy",
+      "opponent_team": "Shy Squad",
       "opponent_score": 125.0,
       "result": "W",
       "is_playoff": false
@@ -85,8 +103,10 @@
     {
       "week": 10,
       "score": 75.52,
+      "team_name": "Alien vs Deshaun",
       "opponent": "Christopher Jones",
       "opponent_slug": "christopher-jones",
+      "opponent_team": "Christopher's Cool Team",
       "opponent_score": 127.7,
       "result": "L",
       "is_playoff": false
@@ -94,8 +114,10 @@
     {
       "week": 11,
       "score": 112.76,
+      "team_name": "Alien vs Deshaun",
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
+      "opponent_team": "Dynomite",
       "opponent_score": 105.02,
       "result": "W",
       "is_playoff": false
@@ -103,8 +125,10 @@
     {
       "week": 12,
       "score": 146.56,
+      "team_name": "Alien vs Deshaun",
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
+      "opponent_team": "No Chase No Case",
       "opponent_score": 134.68,
       "result": "W",
       "is_playoff": false
@@ -112,8 +136,10 @@
     {
       "week": 13,
       "score": 89.82,
+      "team_name": "Alien vs Deshaun",
       "opponent": "Marcus Jardinez",
       "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Ramsey Sporting Goods",
       "opponent_score": 104.88,
       "result": "L",
       "is_playoff": false
@@ -121,8 +147,10 @@
     {
       "week": 14,
       "score": 96.86,
+      "team_name": "Alien vs Deshaun",
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
+      "opponent_team": "CuckforBuck",
       "opponent_score": 113.56,
       "result": "L",
       "is_playoff": false
@@ -130,8 +158,10 @@
     {
       "week": 15,
       "score": 97.34,
+      "team_name": "Alien vs Deshaun",
       "opponent": "Junior Peralta",
       "opponent_slug": "junior-peralta",
+      "opponent_team": "SWEENEY'S B00BS",
       "opponent_score": 128.44,
       "result": "L",
       "is_playoff": true
@@ -139,8 +169,10 @@
     {
       "week": 16,
       "score": 74.18,
+      "team_name": "Alien vs Deshaun",
       "opponent": "Matthew Taylor",
       "opponent_slug": "matthew-taylor",
+      "opponent_team": "Big Nix Energy",
       "opponent_score": 93.44,
       "result": "L",
       "is_playoff": true
@@ -148,8 +180,10 @@
     {
       "week": 17,
       "score": 52.7,
+      "team_name": "Alien vs Deshaun",
       "opponent": "Marcus Jardinez",
       "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Ramsey Sporting Goods",
       "opponent_score": 114.44,
       "result": "L",
       "is_playoff": true
@@ -157,8 +191,10 @@
     {
       "week": 18,
       "score": 52.7,
+      "team_name": "Alien vs Deshaun",
       "opponent": "Marcus Jardinez",
       "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Ramsey Sporting Goods",
       "opponent_score": 114.44,
       "result": "L",
       "is_playoff": true

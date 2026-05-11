@@ -4,8 +4,10 @@
     {
       "week": 1,
       "score": 106.52,
+      "team_name": "Christopher's Cool Team",
       "opponent": "Junior Peralta",
       "opponent_slug": "junior-peralta",
+      "opponent_team": "SWEENEY'S B00BS",
       "opponent_score": 102.28,
       "result": "W",
       "is_playoff": false
@@ -13,8 +15,10 @@
     {
       "week": 2,
       "score": 87.4,
+      "team_name": "Christopher's Cool Team",
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
+      "opponent_team": "Choosing Violence",
       "opponent_score": 125.12,
       "result": "L",
       "is_playoff": false
@@ -22,8 +26,10 @@
     {
       "week": 3,
       "score": 67.6,
+      "team_name": "Christopher's Cool Team",
       "opponent": "Matthew Taylor",
       "opponent_slug": "matthew-taylor",
+      "opponent_team": "Big Nix Energy",
       "opponent_score": 111.42,
       "result": "L",
       "is_playoff": false
@@ -31,8 +37,10 @@
     {
       "week": 4,
       "score": 197.5,
+      "team_name": "Christopher's Cool Team",
       "opponent": "George Duran",
       "opponent_slug": "george-duran",
+      "opponent_team": "Farmed",
       "opponent_score": 147.84,
       "result": "W",
       "is_playoff": false
@@ -40,8 +48,10 @@
     {
       "week": 5,
       "score": 124.86,
+      "team_name": "Christopher's Cool Team",
       "opponent": "Super Shyguy",
       "opponent_slug": "super-shyguy",
+      "opponent_team": "Shy Squad",
       "opponent_score": 129.9,
       "result": "L",
       "is_playoff": false
@@ -49,8 +59,10 @@
     {
       "week": 6,
       "score": 138.14,
+      "team_name": "Christopher's Cool Team",
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
+      "opponent_team": "CuckforBuck",
       "opponent_score": 104.98,
       "result": "W",
       "is_playoff": false
@@ -58,8 +70,10 @@
     {
       "week": 7,
       "score": 113.04,
+      "team_name": "Christopher's Cool Team",
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
+      "opponent_team": "Dynomite",
       "opponent_score": 109.32,
       "result": "W",
       "is_playoff": false
@@ -67,8 +81,10 @@
     {
       "week": 8,
       "score": 120.42,
+      "team_name": "Christopher's Cool Team",
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
+      "opponent_team": "No Chase No Case",
       "opponent_score": 166.42,
       "result": "L",
       "is_playoff": false
@@ -76,8 +92,10 @@
     {
       "week": 9,
       "score": 153.64,
+      "team_name": "Christopher's Cool Team",
       "opponent": "Marcus Jardinez",
       "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Ramsey Sporting Goods",
       "opponent_score": 107.26,
       "result": "W",
       "is_playoff": false
@@ -85,8 +103,10 @@
     {
       "week": 10,
       "score": 127.7,
+      "team_name": "Christopher's Cool Team",
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
+      "opponent_team": "Alien vs Deshaun",
       "opponent_score": 75.52,
       "result": "W",
       "is_playoff": false
@@ -94,8 +114,10 @@
     {
       "week": 11,
       "score": 100.8,
+      "team_name": "Christopher's Cool Team",
       "opponent": "Chris Peralta",
       "opponent_slug": "chris-peralta",
+      "opponent_team": "Buck Swope",
       "opponent_score": 159.92,
       "result": "L",
       "is_playoff": false
@@ -103,8 +125,10 @@
     {
       "week": 12,
       "score": 142.82,
+      "team_name": "Christopher's Cool Team",
       "opponent": "Junior Peralta",
       "opponent_slug": "junior-peralta",
+      "opponent_team": "SWEENEY'S B00BS",
       "opponent_score": 82.04,
       "result": "W",
       "is_playoff": false
@@ -112,8 +136,10 @@
     {
       "week": 13,
       "score": 134.52,
+      "team_name": "Christopher's Cool Team",
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
+      "opponent_team": "Choosing Violence",
       "opponent_score": 96.32,
       "result": "W",
       "is_playoff": false
@@ -121,8 +147,10 @@
     {
       "week": 14,
       "score": 108.34,
+      "team_name": "Christopher's Cool Team",
       "opponent": "Matthew Taylor",
       "opponent_slug": "matthew-taylor",
+      "opponent_team": "Big Nix Energy",
       "opponent_score": 99.86,
       "result": "W",
       "is_playoff": false
@@ -130,8 +158,10 @@
     {
       "week": 15,
       "score": 134.12,
+      "team_name": "Christopher's Cool Team",
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
+      "opponent_team": "Choosing Violence",
       "opponent_score": 137.02,
       "result": "L",
       "is_playoff": true
@@ -139,8 +169,10 @@
     {
       "week": 16,
       "score": 122.88,
+      "team_name": "Christopher's Cool Team",
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
+      "opponent_team": "CuckforBuck",
       "opponent_score": 107.7,
       "result": "W",
       "is_playoff": true
@@ -148,8 +180,10 @@
     {
       "week": 17,
       "score": 63.46,
+      "team_name": "Christopher's Cool Team",
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
+      "opponent_team": "CuckforBuck",
       "opponent_score": 95.04,
       "result": "L",
       "is_playoff": true
@@ -157,8 +191,10 @@
     {
       "week": 18,
       "score": 63.46,
+      "team_name": "Christopher's Cool Team",
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
+      "opponent_team": "CuckforBuck",
       "opponent_score": 95.04,
       "result": "L",
       "is_playoff": true

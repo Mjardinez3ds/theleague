@@ -4,8 +4,10 @@
     {
       "week": 1,
       "score": 86.06,
+      "team_name": "Loco Moco",
       "opponent": "Abraham Pinales",
       "opponent_slug": "abraham-pinales",
+      "opponent_team": "ALVINNNN",
       "opponent_score": 126.14,
       "result": "L",
       "is_playoff": false
@@ -13,8 +15,10 @@
     {
       "week": 2,
       "score": 172.08,
+      "team_name": "Loco Moco",
       "opponent": "Marcus Jardinez",
       "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Psychological Operations",
       "opponent_score": 126.94,
       "result": "W",
       "is_playoff": false
@@ -22,8 +26,10 @@
     {
       "week": 3,
       "score": 154.48,
+      "team_name": "Loco Moco",
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
+      "opponent_team": "Breece\u2019s Pieces",
       "opponent_score": 145.42,
       "result": "W",
       "is_playoff": false
@@ -31,8 +37,10 @@
     {
       "week": 4,
       "score": 109.74,
+      "team_name": "Loco Moco",
       "opponent": "Junior Peralta",
       "opponent_slug": "junior-peralta",
+      "opponent_team": "Punchmade Joonyer",
       "opponent_score": 125.26,
       "result": "L",
       "is_playoff": false
@@ -40,8 +48,10 @@
     {
       "week": 5,
       "score": 84.44,
+      "team_name": "Loco Moco",
       "opponent": "George Duran",
       "opponent_slug": "george-duran",
+      "opponent_team": "Tony Pollard Therapy Club ",
       "opponent_score": 60.58,
       "result": "W",
       "is_playoff": false
@@ -49,8 +59,10 @@
     {
       "week": 6,
       "score": 119.52,
+      "team_name": "Loco Moco",
       "opponent": "Chris Peralta",
       "opponent_slug": "chris-peralta",
+      "opponent_team": "Paul Giamatti in Big Fat Liar",
       "opponent_score": 128.44,
       "result": "L",
       "is_playoff": false
@@ -58,8 +70,10 @@
     {
       "week": 7,
       "score": 157.68,
+      "team_name": "Loco Moco",
       "opponent": "Anthony Richardson",
       "opponent_slug": "anthony-richardson",
+      "opponent_team": "UrMom Stillsquirts",
       "opponent_score": 86.16,
       "result": "W",
       "is_playoff": false
@@ -67,8 +81,10 @@
     {
       "week": 8,
       "score": 105.58,
+      "team_name": "Loco Moco",
       "opponent": "Denniell Grijalva",
       "opponent_slug": "denniell-grijalva",
+      "opponent_team": "1 Percent Poot",
       "opponent_score": 165.46,
       "result": "L",
       "is_playoff": false
@@ -76,8 +92,10 @@
     {
       "week": 9,
       "score": 94.78,
+      "team_name": "Loco Moco",
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
+      "opponent_team": "Team Cano",
       "opponent_score": 98.08,
       "result": "L",
       "is_playoff": false
@@ -85,8 +103,10 @@
     {
       "week": 10,
       "score": 103.12,
+      "team_name": "Loco Moco",
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
+      "opponent_team": "DECAPITATED WEASEL",
       "opponent_score": 106.52,
       "result": "L",
       "is_playoff": false
@@ -94,8 +114,10 @@
     {
       "week": 11,
       "score": 149.76,
+      "team_name": "Loco Moco",
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
+      "opponent_team": "Liang le gusta bicho",
       "opponent_score": 86.4,
       "result": "W",
       "is_playoff": false
@@ -103,8 +125,10 @@
     {
       "week": 12,
       "score": 133.38,
+      "team_name": "Loco Moco",
       "opponent": "Abraham Pinales",
       "opponent_slug": "abraham-pinales",
+      "opponent_team": "ALVINNNN",
       "opponent_score": 118.36,
       "result": "W",
       "is_playoff": false
@@ -112,8 +136,10 @@
     {
       "week": 13,
       "score": 85.08,
+      "team_name": "Loco Moco",
       "opponent": "Marcus Jardinez",
       "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Psychological Operations",
       "opponent_score": 113.98,
       "result": "L",
       "is_playoff": false
@@ -121,8 +147,10 @@
     {
       "week": 14,
       "score": 140.14,
+      "team_name": "Loco Moco",
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
+      "opponent_team": "Breece\u2019s Pieces",
       "opponent_score": 131.64,
       "result": "W",
       "is_playoff": false
@@ -130,8 +158,10 @@
     {
       "week": 15,
       "score": 160.54,
+      "team_name": "Loco Moco",
       "opponent": "Marcus Jardinez",
       "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Psychological Operations",
       "opponent_score": 104.34,
       "result": "W",
       "is_playoff": true
@@ -139,8 +169,10 @@
     {
       "week": 16,
       "score": 97.58,
+      "team_name": "Loco Moco",
       "opponent": "Chris Peralta",
       "opponent_slug": "chris-peralta",
+      "opponent_team": "Paul Giamatti in Big Fat Liar",
       "opponent_score": 94.6,
       "result": "W",
       "is_playoff": true
@@ -148,8 +180,10 @@
     {
       "week": 17,
       "score": 114.94,
+      "team_name": "Loco Moco",
       "opponent": "Abraham Pinales",
       "opponent_slug": "abraham-pinales",
+      "opponent_team": "ALVINNNN",
       "opponent_score": 101.66,
       "result": "W",
       "is_playoff": true
@@ -157,8 +191,10 @@
     {
       "week": 18,
       "score": 114.94,
+      "team_name": "Loco Moco",
       "opponent": "Abraham Pinales",
       "opponent_slug": "abraham-pinales",
+      "opponent_team": "ALVINNNN",
       "opponent_score": 101.66,
       "result": "W",
       "is_playoff": true

@@ -4,8 +4,10 @@
     {
       "week": 1,
       "score": 112.06,
+      "team_name": "Choosing Violence",
       "opponent": "Super Shyguy",
       "opponent_slug": "super-shyguy",
+      "opponent_team": "Shy Squad",
       "opponent_score": 141.98,
       "result": "L",
       "is_playoff": false
@@ -13,8 +15,10 @@
     {
       "week": 2,
       "score": 125.12,
+      "team_name": "Choosing Violence",
       "opponent": "Christopher Jones",
       "opponent_slug": "christopher-jones",
+      "opponent_team": "Christopher's Cool Team",
       "opponent_score": 87.4,
       "result": "W",
       "is_playoff": false
@@ -22,8 +26,10 @@
     {
       "week": 3,
       "score": 115.12,
+      "team_name": "Choosing Violence",
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
+      "opponent_team": "Dynomite",
       "opponent_score": 97.62,
       "result": "W",
       "is_playoff": false
@@ -31,8 +37,10 @@
     {
       "week": 4,
       "score": 123.56,
+      "team_name": "Choosing Violence",
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
+      "opponent_team": "No Chase No Case",
       "opponent_score": 125.8,
       "result": "L",
       "is_playoff": false
@@ -40,8 +48,10 @@
     {
       "week": 5,
       "score": 134.32,
+      "team_name": "Choosing Violence",
       "opponent": "Marcus Jardinez",
       "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Ramsey Sporting Goods",
       "opponent_score": 85.72,
       "result": "W",
       "is_playoff": false
@@ -49,8 +59,10 @@
     {
       "week": 6,
       "score": 123.1,
+      "team_name": "Choosing Violence",
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
+      "opponent_team": "Alien vs Deshaun",
       "opponent_score": 114.86,
       "result": "W",
       "is_playoff": false
@@ -58,8 +70,10 @@
     {
       "week": 7,
       "score": 105.42,
+      "team_name": "Choosing Violence",
       "opponent": "Chris Peralta",
       "opponent_slug": "chris-peralta",
+      "opponent_team": "Buck Swope",
       "opponent_score": 112.26,
       "result": "L",
       "is_playoff": false
@@ -67,8 +81,10 @@
     {
       "week": 8,
       "score": 96.52,
+      "team_name": "Choosing Violence",
       "opponent": "Junior Peralta",
       "opponent_slug": "junior-peralta",
+      "opponent_team": "SWEENEY'S B00BS",
       "opponent_score": 135.78,
       "result": "L",
       "is_playoff": false
@@ -76,8 +92,10 @@
     {
       "week": 9,
       "score": 151.02,
+      "team_name": "Choosing Violence",
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
+      "opponent_team": "CuckforBuck",
       "opponent_score": 118.2,
       "result": "W",
       "is_playoff": false
@@ -85,8 +103,10 @@
     {
       "week": 10,
       "score": 105.84,
+      "team_name": "Choosing Violence",
       "opponent": "Matthew Taylor",
       "opponent_slug": "matthew-taylor",
+      "opponent_team": "Big Nix Energy",
       "opponent_score": 101.24,
       "result": "W",
       "is_playoff": false
@@ -94,8 +114,10 @@
     {
       "week": 11,
       "score": 131.38,
+      "team_name": "Choosing Violence",
       "opponent": "George Duran",
       "opponent_slug": "george-duran",
+      "opponent_team": "Farmed",
       "opponent_score": 90.0,
       "result": "W",
       "is_playoff": false
@@ -103,8 +125,10 @@
     {
       "week": 12,
       "score": 52.92,
+      "team_name": "Choosing Violence",
       "opponent": "Super Shyguy",
       "opponent_slug": "super-shyguy",
+      "opponent_team": "Shy Squad",
       "opponent_score": 126.36,
       "result": "L",
       "is_playoff": false
@@ -112,8 +136,10 @@
     {
       "week": 13,
       "score": 96.32,
+      "team_name": "Choosing Violence",
       "opponent": "Christopher Jones",
       "opponent_slug": "christopher-jones",
+      "opponent_team": "Christopher's Cool Team",
       "opponent_score": 134.52,
       "result": "L",
       "is_playoff": false
@@ -121,8 +147,10 @@
     {
       "week": 14,
       "score": 104.14,
+      "team_name": "Choosing Violence",
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
+      "opponent_team": "Dynomite",
       "opponent_score": 133.28,
       "result": "L",
       "is_playoff": false
@@ -130,8 +158,10 @@
     {
       "week": 15,
       "score": 137.02,
+      "team_name": "Choosing Violence",
       "opponent": "Christopher Jones",
       "opponent_slug": "christopher-jones",
+      "opponent_team": "Christopher's Cool Team",
       "opponent_score": 134.12,
       "result": "W",
       "is_playoff": true
@@ -139,8 +169,10 @@
     {
       "week": 16,
       "score": 105.4,
+      "team_name": "Choosing Violence",
       "opponent": "Chris Peralta",
       "opponent_slug": "chris-peralta",
+      "opponent_team": "Buck Swope",
       "opponent_score": 171.26,
       "result": "L",
       "is_playoff": true
@@ -148,8 +180,10 @@
     {
       "week": 17,
       "score": 123.08,
+      "team_name": "Choosing Violence",
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
+      "opponent_team": "No Chase No Case",
       "opponent_score": 106.16,
       "result": "W",
       "is_playoff": true
@@ -157,8 +191,10 @@
     {
       "week": 18,
       "score": 123.08,
+      "team_name": "Choosing Violence",
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
+      "opponent_team": "No Chase No Case",
       "opponent_score": 106.16,
       "result": "W",
       "is_playoff": true

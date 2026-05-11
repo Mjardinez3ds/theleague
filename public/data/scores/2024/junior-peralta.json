@@ -4,8 +4,10 @@
     {
       "week": 1,
       "score": 142.52,
+      "team_name": "e-",
       "opponent": "George Duran",
       "opponent_slug": "george-duran",
+      "opponent_team": "TWO PIECE W A BISCUIT",
       "opponent_score": 102.28,
       "result": "W",
       "is_playoff": false
@@ -13,8 +15,10 @@
     {
       "week": 2,
       "score": 111.0,
+      "team_name": "e-",
       "opponent": "Chris Peralta",
       "opponent_slug": "chris-peralta",
+      "opponent_team": "Perc Angle",
       "opponent_score": 124.96,
       "result": "L",
       "is_playoff": false
@@ -22,8 +26,10 @@
     {
       "week": 3,
       "score": 145.58,
+      "team_name": "e-",
       "opponent": "Matthew Taylor",
       "opponent_slug": "matthew-taylor",
+      "opponent_team": "Maybe Nix Year",
       "opponent_score": 119.08,
       "result": "W",
       "is_playoff": false
@@ -31,8 +37,10 @@
     {
       "week": 4,
       "score": 117.12,
+      "team_name": "e-",
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
+      "opponent_team": "Chubba Missile Crisis",
       "opponent_score": 112.0,
       "result": "W",
       "is_playoff": false
@@ -40,8 +48,10 @@
     {
       "week": 5,
       "score": 105.46,
+      "team_name": "e-",
       "opponent": "Faust Vinas",
       "opponent_slug": "faust-vinas",
+      "opponent_team": "The Old Hunters",
       "opponent_score": 110.44,
       "result": "L",
       "is_playoff": false
@@ -49,8 +59,10 @@
     {
       "week": 6,
       "score": 130.42,
+      "team_name": "e-",
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
+      "opponent_team": "Lose2aG00n3r",
       "opponent_score": 168.6,
       "result": "L",
       "is_playoff": false
@@ -58,8 +70,10 @@
     {
       "week": 7,
       "score": 104.7,
+      "team_name": "e-",
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
+      "opponent_team": "Alien vs Deshaun",
       "opponent_score": 100.24,
       "result": "W",
       "is_playoff": false
@@ -67,8 +81,10 @@
     {
       "week": 8,
       "score": 117.04,
+      "team_name": "e-",
       "opponent": "Super Shyguy",
       "opponent_slug": "super-shyguy",
+      "opponent_team": "Shy Squad",
       "opponent_score": 151.92,
       "result": "L",
       "is_playoff": false
@@ -76,8 +92,10 @@
     {
       "week": 9,
       "score": 151.7,
+      "team_name": "e-",
       "opponent": "Marcus Jardinez",
       "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Saquon Barkley",
       "opponent_score": 142.6,
       "result": "W",
       "is_playoff": false
@@ -85,8 +103,10 @@
     {
       "week": 10,
       "score": 99.48,
+      "team_name": "e-",
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
+      "opponent_team": "24 Garrett Gold ",
       "opponent_score": 105.44,
       "result": "L",
       "is_playoff": false
@@ -94,8 +114,10 @@
     {
       "week": 11,
       "score": 135.28,
+      "team_name": "e-",
       "opponent": "Denniell Grijalva",
       "opponent_slug": "denniell-grijalva",
+      "opponent_team": "4 Percent P00T",
       "opponent_score": 139.18,
       "result": "L",
       "is_playoff": false
@@ -103,8 +125,10 @@
     {
       "week": 12,
       "score": 99.32,
+      "team_name": "e-",
       "opponent": "George Duran",
       "opponent_slug": "george-duran",
+      "opponent_team": "TWO PIECE W A BISCUIT",
       "opponent_score": 137.8,
       "result": "L",
       "is_playoff": false
@@ -112,8 +136,10 @@
     {
       "week": 13,
       "score": 128.46,
+      "team_name": "e-",
       "opponent": "Chris Peralta",
       "opponent_slug": "chris-peralta",
+      "opponent_team": "Perc Angle",
       "opponent_score": 152.84,
       "result": "L",
       "is_playoff": false
@@ -121,8 +147,10 @@
     {
       "week": 14,
       "score": 138.04,
+      "team_name": "e-",
       "opponent": "Matthew Taylor",
       "opponent_slug": "matthew-taylor",
+      "opponent_team": "Maybe Nix Year",
       "opponent_score": 115.02,
       "result": "W",
       "is_playoff": false
@@ -130,8 +158,10 @@
     {
       "week": 15,
       "score": 94.66,
+      "team_name": "e-",
       "opponent": "Faust Vinas",
       "opponent_slug": "faust-vinas",
+      "opponent_team": "The Old Hunters",
       "opponent_score": 115.06,
       "result": "L",
       "is_playoff": true
@@ -139,8 +169,10 @@
     {
       "week": 16,
       "score": 121.08,
+      "team_name": "e-",
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
+      "opponent_team": "Chubba Missile Crisis",
       "opponent_score": 111.64,
       "result": "W",
       "is_playoff": true
@@ -148,8 +180,10 @@
     {
       "week": 17,
       "score": 87.1,
+      "team_name": "e-",
       "opponent": "Matthew Taylor",
       "opponent_slug": "matthew-taylor",
+      "opponent_team": "Maybe Nix Year",
       "opponent_score": 117.52,
       "result": "L",
       "is_playoff": true
@@ -157,8 +191,10 @@
     {
       "week": 18,
       "score": 87.1,
+      "team_name": "e-",
       "opponent": "Matthew Taylor",
       "opponent_slug": "matthew-taylor",
+      "opponent_team": "Maybe Nix Year",
       "opponent_score": 117.52,
       "result": "L",
       "is_playoff": true

@@ -4,8 +4,10 @@
     {
       "week": 1,
       "score": 95.68,
+      "team_name": "Ramsey Sporting Goods",
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
+      "opponent_team": "CuckforBuck",
       "opponent_score": 116.62,
       "result": "L",
       "is_playoff": false
@@ -13,8 +15,10 @@
     {
       "week": 2,
       "score": 128.1,
+      "team_name": "Ramsey Sporting Goods",
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
+      "opponent_team": "Alien vs Deshaun",
       "opponent_score": 130.74,
       "result": "L",
       "is_playoff": false
@@ -22,8 +26,10 @@
     {
       "week": 3,
       "score": 148.02,
+      "team_name": "Ramsey Sporting Goods",
       "opponent": "Chris Peralta",
       "opponent_slug": "chris-peralta",
+      "opponent_team": "Buck Swope",
       "opponent_score": 111.54,
       "result": "W",
       "is_playoff": false
@@ -31,8 +37,10 @@
     {
       "week": 4,
       "score": 111.12,
+      "team_name": "Ramsey Sporting Goods",
       "opponent": "Junior Peralta",
       "opponent_slug": "junior-peralta",
+      "opponent_team": "SWEENEY'S B00BS",
       "opponent_score": 138.76,
       "result": "L",
       "is_playoff": false
@@ -40,8 +48,10 @@
     {
       "week": 5,
       "score": 85.72,
+      "team_name": "Ramsey Sporting Goods",
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
+      "opponent_team": "Choosing Violence",
       "opponent_score": 134.32,
       "result": "L",
       "is_playoff": false
@@ -49,8 +59,10 @@
     {
       "week": 6,
       "score": 111.64,
+      "team_name": "Ramsey Sporting Goods",
       "opponent": "Matthew Taylor",
       "opponent_slug": "matthew-taylor",
+      "opponent_team": "Big Nix Energy",
       "opponent_score": 65.7,
       "result": "W",
       "is_playoff": false
@@ -58,8 +70,10 @@
     {
       "week": 7,
       "score": 118.18,
+      "team_name": "Ramsey Sporting Goods",
       "opponent": "George Duran",
       "opponent_slug": "george-duran",
+      "opponent_team": "Farmed",
       "opponent_score": 137.16,
       "result": "L",
       "is_playoff": false
@@ -67,8 +81,10 @@
     {
       "week": 8,
       "score": 89.48,
+      "team_name": "Ramsey Sporting Goods",
       "opponent": "Super Shyguy",
       "opponent_slug": "super-shyguy",
+      "opponent_team": "Shy Squad",
       "opponent_score": 151.56,
       "result": "L",
       "is_playoff": false
@@ -76,8 +92,10 @@
     {
       "week": 9,
       "score": 107.26,
+      "team_name": "Ramsey Sporting Goods",
       "opponent": "Christopher Jones",
       "opponent_slug": "christopher-jones",
+      "opponent_team": "Christopher's Cool Team",
       "opponent_score": 153.64,
       "result": "L",
       "is_playoff": false
@@ -85,8 +103,10 @@
     {
       "week": 10,
       "score": 86.5,
+      "team_name": "Ramsey Sporting Goods",
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
+      "opponent_team": "Dynomite",
       "opponent_score": 110.7,
       "result": "L",
       "is_playoff": false
@@ -94,8 +114,10 @@
     {
       "week": 11,
       "score": 111.54,
+      "team_name": "Ramsey Sporting Goods",
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
+      "opponent_team": "No Chase No Case",
       "opponent_score": 97.44,
       "result": "W",
       "is_playoff": false
@@ -103,8 +125,10 @@
     {
       "week": 12,
       "score": 115.06,
+      "team_name": "Ramsey Sporting Goods",
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
+      "opponent_team": "CuckforBuck",
       "opponent_score": 85.26,
       "result": "W",
       "is_playoff": false
@@ -112,8 +136,10 @@
     {
       "week": 13,
       "score": 104.88,
+      "team_name": "Ramsey Sporting Goods",
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
+      "opponent_team": "Alien vs Deshaun",
       "opponent_score": 89.82,
       "result": "W",
       "is_playoff": false
@@ -121,8 +147,10 @@
     {
       "week": 14,
       "score": 128.48,
+      "team_name": "Ramsey Sporting Goods",
       "opponent": "Chris Peralta",
       "opponent_slug": "chris-peralta",
+      "opponent_team": "Buck Swope",
       "opponent_score": 128.54,
       "result": "L",
       "is_playoff": false
@@ -130,8 +158,10 @@
     {
       "week": 15,
       "score": 110.0,
+      "team_name": "Ramsey Sporting Goods",
       "opponent": "George Duran",
       "opponent_slug": "george-duran",
+      "opponent_team": "Farmed",
       "opponent_score": 132.36,
       "result": "L",
       "is_playoff": true
@@ -139,8 +169,10 @@
     {
       "week": 16,
       "score": 121.9,
+      "team_name": "Ramsey Sporting Goods",
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
+      "opponent_team": "Dynomite",
       "opponent_score": 133.7,
       "result": "L",
       "is_playoff": true
@@ -148,8 +180,10 @@
     {
       "week": 17,
       "score": 114.44,
+      "team_name": "Ramsey Sporting Goods",
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
+      "opponent_team": "Alien vs Deshaun",
       "opponent_score": 52.7,
       "result": "W",
       "is_playoff": true
@@ -157,8 +191,10 @@
     {
       "week": 18,
       "score": 114.44,
+      "team_name": "Ramsey Sporting Goods",
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
+      "opponent_team": "Alien vs Deshaun",
       "opponent_score": 52.7,
       "result": "W",
       "is_playoff": true

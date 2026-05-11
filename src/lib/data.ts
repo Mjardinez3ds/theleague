@@ -136,8 +136,10 @@ export const getLegacyChampions = () =>
 export type WeekResult = {
   week: number;
   score: number;
+  team_name: string;
   opponent: string;
   opponent_slug: string;
+  opponent_team: string;
   opponent_score: number;
   result: "W" | "L" | "T";
   is_playoff: boolean;

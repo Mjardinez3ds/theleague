@@ -199,9 +199,14 @@ function WeekTable({ weeks }: { weeks: WeekResult[] }) {
               </span>
               <Link
                 href={`/managers/${w.opponent_slug}`}
-                className="text-sm truncate pr-1 active:opacity-70"
+                className="min-w-0 pr-1 active:opacity-70"
               >
-                {w.opponent}
+                <div className="text-sm font-semibold truncate">
+                  {w.opponent_team}
+                </div>
+                <div className="text-[11px] text-muted truncate">
+                  {w.opponent}
+                </div>
               </Link>
               <span
                 className={`text-right text-sm font-bold tabular-nums ${resultColor}`}

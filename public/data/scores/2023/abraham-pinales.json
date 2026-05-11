@@ -4,8 +4,10 @@
     {
       "week": 1,
       "score": 126.14,
+      "team_name": "ALVINNNN",
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
+      "opponent_team": "Loco Moco",
       "opponent_score": 86.06,
       "result": "W",
       "is_playoff": false
@@ -13,8 +15,10 @@
     {
       "week": 2,
       "score": 85.66,
+      "team_name": "ALVINNNN",
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
+      "opponent_team": "Team Cano",
       "opponent_score": 126.6,
       "result": "L",
       "is_playoff": false
@@ -22,8 +26,10 @@
     {
       "week": 3,
       "score": 107.12,
+      "team_name": "ALVINNNN",
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
+      "opponent_team": "DECAPITATED WEASEL",
       "opponent_score": 109.9,
       "result": "L",
       "is_playoff": false
@@ -31,8 +37,10 @@
     {
       "week": 4,
       "score": 119.0,
+      "team_name": "ALVINNNN",
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
+      "opponent_team": "Liang le gusta bicho",
       "opponent_score": 92.6,
       "result": "W",
       "is_playoff": false
@@ -40,8 +48,10 @@
     {
       "week": 5,
       "score": 139.46,
+      "team_name": "ALVINNNN",
       "opponent": "Denniell Grijalva",
       "opponent_slug": "denniell-grijalva",
+      "opponent_team": "1 Percent Poot",
       "opponent_score": 82.52,
       "result": "W",
       "is_playoff": false
@@ -49,8 +59,10 @@
     {
       "week": 6,
       "score": 89.86,
+      "team_name": "ALVINNNN",
       "opponent": "Marcus Jardinez",
       "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Psychological Operations",
       "opponent_score": 63.72,
       "result": "W",
       "is_playoff": false
@@ -58,8 +70,10 @@
     {
       "week": 7,
       "score": 116.8,
+      "team_name": "ALVINNNN",
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
+      "opponent_team": "Breece\u2019s Pieces",
       "opponent_score": 95.96,
       "result": "W",
       "is_playoff": false
@@ -67,8 +81,10 @@
     {
       "week": 8,
       "score": 138.86,
+      "team_name": "ALVINNNN",
       "opponent": "Junior Peralta",
       "opponent_slug": "junior-peralta",
+      "opponent_team": "Punchmade Joonyer",
       "opponent_score": 134.36,
       "result": "W",
       "is_playoff": false
@@ -76,8 +92,10 @@
     {
       "week": 9,
       "score": 108.22,
+      "team_name": "ALVINNNN",
       "opponent": "George Duran",
       "opponent_slug": "george-duran",
+      "opponent_team": "Tony Pollard Therapy Club ",
       "opponent_score": 125.0,
       "result": "L",
       "is_playoff": false
@@ -85,8 +103,10 @@
     {
       "week": 10,
       "score": 101.78,
+      "team_name": "ALVINNNN",
       "opponent": "Chris Peralta",
       "opponent_slug": "chris-peralta",
+      "opponent_team": "Paul Giamatti in Big Fat Liar",
       "opponent_score": 136.72,
       "result": "L",
       "is_playoff": false
@@ -94,8 +114,10 @@
     {
       "week": 11,
       "score": 115.4,
+      "team_name": "ALVINNNN",
       "opponent": "Anthony Richardson",
       "opponent_slug": "anthony-richardson",
+      "opponent_team": "UrMom Stillsquirts",
       "opponent_score": 129.7,
       "result": "L",
       "is_playoff": false
@@ -103,8 +125,10 @@
     {
       "week": 12,
       "score": 118.36,
+      "team_name": "ALVINNNN",
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
+      "opponent_team": "Loco Moco",
       "opponent_score": 133.38,
       "result": "L",
       "is_playoff": false
@@ -112,8 +136,10 @@
     {
       "week": 13,
       "score": 97.14,
+      "team_name": "ALVINNNN",
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
+      "opponent_team": "Team Cano",
       "opponent_score": 147.94,
       "result": "L",
       "is_playoff": false
@@ -121,8 +147,10 @@
     {
       "week": 14,
       "score": 119.62,
+      "team_name": "ALVINNNN",
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
+      "opponent_team": "DECAPITATED WEASEL",
       "opponent_score": 104.02,
       "result": "W",
       "is_playoff": false
@@ -130,8 +158,10 @@
     {
       "week": 15,
       "score": 120.94,
+      "team_name": "ALVINNNN",
       "opponent": "Junior Peralta",
       "opponent_slug": "junior-peralta",
+      "opponent_team": "Punchmade Joonyer",
       "opponent_score": 111.72,
       "result": "W",
       "is_playoff": true
@@ -139,8 +169,10 @@
     {
       "week": 16,
       "score": 98.78,
+      "team_name": "ALVINNNN",
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
+      "opponent_team": "Team Cano",
       "opponent_score": 97.32,
       "result": "W",
       "is_playoff": true
@@ -148,8 +180,10 @@
     {
       "week": 17,
       "score": 101.66,
+      "team_name": "ALVINNNN",
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
+      "opponent_team": "Loco Moco",
       "opponent_score": 114.94,
       "result": "L",
       "is_playoff": true
@@ -157,8 +191,10 @@
     {
       "week": 18,
       "score": 101.66,
+      "team_name": "ALVINNNN",
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
+      "opponent_team": "Loco Moco",
       "opponent_score": 114.94,
       "result": "L",
       "is_playoff": true

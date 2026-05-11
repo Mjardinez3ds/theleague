@@ -4,8 +4,10 @@
     {
       "week": 1,
       "score": 115.38,
+      "team_name": "Perc Angle",
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
+      "opponent_team": "24 Garrett Gold ",
       "opponent_score": 121.38,
       "result": "L",
       "is_playoff": false
@@ -13,8 +15,10 @@
     {
       "week": 2,
       "score": 124.96,
+      "team_name": "Perc Angle",
       "opponent": "Junior Peralta",
       "opponent_slug": "junior-peralta",
+      "opponent_team": "e-",
       "opponent_score": 111.0,
       "result": "W",
       "is_playoff": false
@@ -22,8 +26,10 @@
     {
       "week": 3,
       "score": 143.56,
+      "team_name": "Perc Angle",
       "opponent": "George Duran",
       "opponent_slug": "george-duran",
+      "opponent_team": "TWO PIECE W A BISCUIT",
       "opponent_score": 121.68,
       "result": "W",
       "is_playoff": false
@@ -31,8 +37,10 @@
     {
       "week": 4,
       "score": 101.72,
+      "team_name": "Perc Angle",
       "opponent": "Denniell Grijalva",
       "opponent_slug": "denniell-grijalva",
+      "opponent_team": "4 Percent P00T",
       "opponent_score": 99.98,
       "result": "W",
       "is_playoff": false
@@ -40,8 +48,10 @@
     {
       "week": 5,
       "score": 137.72,
+      "team_name": "Perc Angle",
       "opponent": "Matthew Taylor",
       "opponent_slug": "matthew-taylor",
+      "opponent_team": "Maybe Nix Year",
       "opponent_score": 158.92,
       "result": "L",
       "is_playoff": false
@@ -49,8 +59,10 @@
     {
       "week": 6,
       "score": 109.66,
+      "team_name": "Perc Angle",
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
+      "opponent_team": "Chubba Missile Crisis",
       "opponent_score": 82.28,
       "result": "W",
       "is_playoff": false
@@ -58,8 +70,10 @@
     {
       "week": 7,
       "score": 89.44,
+      "team_name": "Perc Angle",
       "opponent": "Faust Vinas",
       "opponent_slug": "faust-vinas",
+      "opponent_team": "The Old Hunters",
       "opponent_score": 72.64,
       "result": "W",
       "is_playoff": false
@@ -67,8 +81,10 @@
     {
       "week": 8,
       "score": 132.04,
+      "team_name": "Perc Angle",
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
+      "opponent_team": "Lose2aG00n3r",
       "opponent_score": 161.9,
       "result": "L",
       "is_playoff": false
@@ -76,8 +92,10 @@
     {
       "week": 9,
       "score": 127.56,
+      "team_name": "Perc Angle",
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
+      "opponent_team": "Alien vs Deshaun",
       "opponent_score": 143.92,
       "result": "L",
       "is_playoff": false
@@ -85,8 +103,10 @@
     {
       "week": 10,
       "score": 129.18,
+      "team_name": "Perc Angle",
       "opponent": "Super Shyguy",
       "opponent_slug": "super-shyguy",
+      "opponent_team": "Shy Squad",
       "opponent_score": 94.4,
       "result": "W",
       "is_playoff": false
@@ -94,8 +114,10 @@
     {
       "week": 11,
       "score": 140.44,
+      "team_name": "Perc Angle",
       "opponent": "Marcus Jardinez",
       "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Saquon Barkley",
       "opponent_score": 159.34,
       "result": "L",
       "is_playoff": false
@@ -103,8 +125,10 @@
     {
       "week": 12,
       "score": 111.7,
+      "team_name": "Perc Angle",
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
+      "opponent_team": "24 Garrett Gold ",
       "opponent_score": 108.18,
       "result": "W",
       "is_playoff": false
@@ -112,8 +136,10 @@
     {
       "week": 13,
       "score": 152.84,
+      "team_name": "Perc Angle",
       "opponent": "Junior Peralta",
       "opponent_slug": "junior-peralta",
+      "opponent_team": "e-",
       "opponent_score": 128.46,
       "result": "W",
       "is_playoff": false
@@ -121,8 +147,10 @@
     {
       "week": 14,
       "score": 184.12,
+      "team_name": "Perc Angle",
       "opponent": "George Duran",
       "opponent_slug": "george-duran",
+      "opponent_team": "TWO PIECE W A BISCUIT",
       "opponent_score": 113.46,
       "result": "W",
       "is_playoff": false
@@ -130,8 +158,10 @@
     {
       "week": 16,
       "score": 207.72,
+      "team_name": "Perc Angle",
       "opponent": "Marcus Jardinez",
       "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Saquon Barkley",
       "opponent_score": 97.04,
       "result": "W",
       "is_playoff": true
@@ -139,8 +169,10 @@
     {
       "week": 17,
       "score": 137.98,
+      "team_name": "Perc Angle",
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
+      "opponent_team": "Lose2aG00n3r",
       "opponent_score": 170.96,
       "result": "L",
       "is_playoff": true
@@ -148,8 +180,10 @@
     {
       "week": 18,
       "score": 137.98,
+      "team_name": "Perc Angle",
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
+      "opponent_team": "Lose2aG00n3r",
       "opponent_score": 170.96,
       "result": "L",
       "is_playoff": true
