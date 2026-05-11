@@ -61,7 +61,7 @@ export default async function MinimalPreviewPage() {
             </p>
           </div>
           <ul className="divide-y divide-[#1a1a1a]/10">
-            {season.managers.map((name, i) => (
+            {season.managers.map((m, i) => (
               <li
                 key={i}
                 className="flex items-baseline gap-4 py-3"
@@ -76,7 +76,7 @@ export default async function MinimalPreviewPage() {
                   className="text-[16px] font-normal flex-1"
                   style={{ fontFamily: "Georgia, serif" }}
                 >
-                  {name}
+                  {m.name}
                 </span>
               </li>
             ))}

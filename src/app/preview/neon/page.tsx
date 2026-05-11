@@ -55,7 +55,7 @@ export default async function NeonPreviewPage() {
             </p>
           </div>
           <ul className="grid grid-cols-2 gap-2">
-            {season.managers.map((name, i) => (
+            {season.managers.map((m, i) => (
               <li
                 key={i}
                 className="border border-zinc-800 bg-zinc-950 px-3 py-2.5 active:bg-zinc-900"
@@ -65,7 +65,7 @@ export default async function NeonPreviewPage() {
                     #{String(i + 1).padStart(2, "0")}
                   </span>
                   <span className="text-[14px] font-bold uppercase tracking-tight truncate">
-                    {name}
+                    {m.name}
                   </span>
                 </div>
                 <div className="text-[9px] tracking-widest text-zinc-600 mt-0.5">

@@ -60,18 +60,18 @@ export default async function SleeperPreviewPage() {
           </span>
         </div>
         <ul className="rounded-2xl bg-zinc-900/80 ring-1 ring-zinc-800 overflow-hidden">
-          {season.managers.map((name, i) => (
+          {season.managers.map((m, i) => (
             <li
               key={i}
               className="flex items-center gap-3 px-3 py-3 border-b border-zinc-800 last:border-0 active:bg-zinc-800/60"
             >
-              <Avatar name={name} index={i} />
+              <Avatar name={m.name} index={i} />
               <div className="min-w-0 flex-1">
                 <div className="text-[15px] font-bold leading-tight truncate">
-                  {name}
+                  {m.name}
                 </div>
                 <div className="text-[11px] text-zinc-500 tracking-wide">
-                  @{slug(name)}
+                  @{slug(m.name)}
                 </div>
               </div>
               <span className="rounded-md bg-emerald-500/10 px-1.5 py-0.5 text-[9px] font-black tracking-wider text-emerald-400 ring-1 ring-emerald-500/20">

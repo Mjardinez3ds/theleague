@@ -64,7 +64,7 @@ export default async function RetroPreviewPage() {
             — Confirmed Managers —
           </p>
           <ul className="border-2 border-[#1a2b4a]/30 bg-white/30">
-            {season.managers.map((name, i) => (
+            {season.managers.map((m, i) => (
               <li
                 key={i}
                 className="flex items-baseline gap-3 px-4 py-2.5 border-b border-dashed border-[#1a2b4a]/20 last:border-0"
@@ -74,7 +74,7 @@ export default async function RetroPreviewPage() {
                   {String(i + 1).padStart(2, "0")}.
                 </span>
                 <span className="text-[15px] font-semibold flex-1">
-                  {name}
+                  {m.name}
                 </span>
                 <span className="text-[10px] tracking-widest text-[#1a2b4a]/50">
                   ✓ IN
