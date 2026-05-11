@@ -187,17 +187,6 @@
       "opponent_score": 85.4,
       "result": "L",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 77.1,
-      "team_name": "Big Nix Energy",
-      "opponent": "Junior Peralta",
-      "opponent_slug": "junior-peralta",
-      "opponent_team": "SWEENEY'S B00BS",
-      "opponent_score": 85.4,
-      "result": "L",
-      "is_playoff": true
     }
   ]
 }

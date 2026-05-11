@@ -187,17 +187,6 @@
       "opponent_score": 92.38,
       "result": "W",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 135.02,
-      "team_name": "Psychological Operations",
-      "opponent": "Junior Peralta",
-      "opponent_slug": "junior-peralta",
-      "opponent_team": "Punchmade Joonyer",
-      "opponent_score": 92.38,
-      "result": "W",
-      "is_playoff": true
     }
   ]
 }

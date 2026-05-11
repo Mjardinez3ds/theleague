@@ -187,17 +187,6 @@
       "opponent_score": 108.28,
       "result": "W",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 109.28,
-      "team_name": "24 Garrett Gold ",
-      "opponent": "Super Shyguy",
-      "opponent_slug": "super-shyguy",
-      "opponent_team": "Shy Squad",
-      "opponent_score": 108.28,
-      "result": "W",
-      "is_playoff": true
     }
   ]
 }

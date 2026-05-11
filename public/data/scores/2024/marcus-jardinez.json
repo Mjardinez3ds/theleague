@@ -187,17 +187,6 @@
       "opponent_score": 175.44,
       "result": "L",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 84.0,
-      "team_name": "Saquon Barkley",
-      "opponent": "George Duran",
-      "opponent_slug": "george-duran",
-      "opponent_team": "TWO PIECE W A BISCUIT",
-      "opponent_score": 175.44,
-      "result": "L",
-      "is_playoff": true
     }
   ]
 }

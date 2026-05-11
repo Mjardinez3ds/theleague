@@ -187,17 +187,6 @@
       "opponent_score": 63.46,
       "result": "W",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 95.04,
-      "team_name": "CuckforBuck",
-      "opponent": "Christopher Jones",
-      "opponent_slug": "christopher-jones",
-      "opponent_team": "Christopher's Cool Team",
-      "opponent_score": 63.46,
-      "result": "W",
-      "is_playoff": true
     }
   ]
 }

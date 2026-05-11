@@ -187,17 +187,6 @@
       "opponent_score": 112.6,
       "result": "L",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 112.5,
-      "team_name": "DECAPITATED WEASEL",
-      "opponent": "George Duran",
-      "opponent_slug": "george-duran",
-      "opponent_team": "Tony Pollard Therapy Club ",
-      "opponent_score": 112.6,
-      "result": "L",
-      "is_playoff": true
     }
   ]
 }

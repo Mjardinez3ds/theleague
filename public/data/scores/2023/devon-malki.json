@@ -187,17 +187,6 @@
       "opponent_score": 60.58,
       "result": "W",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 139.4,
-      "team_name": "Breece\u2019s Pieces",
-      "opponent": "Kevin Llerena",
-      "opponent_slug": "kevin-llerena",
-      "opponent_team": "Liang le gusta bicho",
-      "opponent_score": 60.58,
-      "result": "W",
-      "is_playoff": true
     }
   ]
 }

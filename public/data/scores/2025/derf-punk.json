@@ -187,17 +187,6 @@
       "opponent_score": 113.08,
       "result": "W",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 126.02,
-      "team_name": "Dynomite",
-      "opponent": "George Duran",
-      "opponent_slug": "george-duran",
-      "opponent_team": "Farmed",
-      "opponent_score": 113.08,
-      "result": "W",
-      "is_playoff": true
     }
   ]
 }

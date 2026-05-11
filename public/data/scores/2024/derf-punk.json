@@ -187,17 +187,6 @@
       "opponent_score": 119.7,
       "result": "L",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 74.48,
-      "team_name": "Chubba Missile Crisis",
-      "opponent": "Denniell Grijalva",
-      "opponent_slug": "denniell-grijalva",
-      "opponent_team": "4 Percent P00T",
-      "opponent_score": 119.7,
-      "result": "L",
-      "is_playoff": true
     }
   ]
 }

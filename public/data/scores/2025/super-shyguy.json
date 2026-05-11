@@ -176,17 +176,6 @@
       "opponent_score": 113.58,
       "result": "W",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 128.8,
-      "team_name": "Shy Squad",
-      "opponent": "Chris Peralta",
-      "opponent_slug": "chris-peralta",
-      "opponent_team": "Buck Swope",
-      "opponent_score": 113.58,
-      "result": "W",
-      "is_playoff": true
     }
   ]
 }

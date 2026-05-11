@@ -187,17 +187,6 @@
       "opponent_score": 95.04,
       "result": "L",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 63.46,
-      "team_name": "Christopher's Cool Team",
-      "opponent": "Kevin Liang",
-      "opponent_slug": "kevin-liang",
-      "opponent_team": "CuckforBuck",
-      "opponent_score": 95.04,
-      "result": "L",
-      "is_playoff": true
     }
   ]
 }

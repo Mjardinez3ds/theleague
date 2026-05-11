@@ -187,17 +187,6 @@
       "opponent_score": 101.66,
       "result": "W",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 114.94,
-      "team_name": "Loco Moco",
-      "opponent": "Abraham Pinales",
-      "opponent_slug": "abraham-pinales",
-      "opponent_team": "ALVINNNN",
-      "opponent_score": 101.66,
-      "result": "W",
-      "is_playoff": true
     }
   ]
 }

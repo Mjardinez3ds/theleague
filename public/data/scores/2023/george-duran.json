@@ -187,17 +187,6 @@
       "opponent_score": 112.5,
       "result": "W",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 112.6,
-      "team_name": "Tony Pollard Therapy Club ",
-      "opponent": "Kevin Liang",
-      "opponent_slug": "kevin-liang",
-      "opponent_team": "DECAPITATED WEASEL",
-      "opponent_score": 112.5,
-      "result": "W",
-      "is_playoff": true
     }
   ]
 }

@@ -176,17 +176,6 @@
       "opponent_score": 137.98,
       "result": "W",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 170.96,
-      "team_name": "Lose2aG00n3r",
-      "opponent": "Chris Peralta",
-      "opponent_slug": "chris-peralta",
-      "opponent_team": "Perc Angle",
-      "opponent_score": 137.98,
-      "result": "W",
-      "is_playoff": true
     }
   ]
 }

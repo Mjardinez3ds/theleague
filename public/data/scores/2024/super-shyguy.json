@@ -187,17 +187,6 @@
       "opponent_score": 109.28,
       "result": "L",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 108.28,
-      "team_name": "Shy Squad",
-      "opponent": "Devon Malki",
-      "opponent_slug": "devon-malki",
-      "opponent_team": "24 Garrett Gold ",
-      "opponent_score": 109.28,
-      "result": "L",
-      "is_playoff": true
     }
   ]
 }

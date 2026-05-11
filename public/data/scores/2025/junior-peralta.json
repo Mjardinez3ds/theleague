@@ -187,17 +187,6 @@
       "opponent_score": 77.1,
       "result": "W",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 85.4,
-      "team_name": "SWEENEY'S B00BS",
-      "opponent": "Matthew Taylor",
-      "opponent_slug": "matthew-taylor",
-      "opponent_team": "Big Nix Energy",
-      "opponent_score": 77.1,
-      "result": "W",
-      "is_playoff": true
     }
   ]
 }

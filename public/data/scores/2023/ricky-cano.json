@@ -176,17 +176,6 @@
       "opponent_score": 166.8,
       "result": "L",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 113.88,
-      "team_name": "Team Cano",
-      "opponent": "Chris Peralta",
-      "opponent_slug": "chris-peralta",
-      "opponent_team": "Paul Giamatti in Big Fat Liar",
-      "opponent_score": 166.8,
-      "result": "L",
-      "is_playoff": true
     }
   ]
 }

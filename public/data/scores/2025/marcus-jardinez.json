@@ -187,17 +187,6 @@
       "opponent_score": 52.7,
       "result": "W",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 114.44,
-      "team_name": "Ramsey Sporting Goods",
-      "opponent": "Kevin Llerena",
-      "opponent_slug": "kevin-llerena",
-      "opponent_team": "Alien vs Deshaun",
-      "opponent_score": 52.7,
-      "result": "W",
-      "is_playoff": true
     }
   ]
 }

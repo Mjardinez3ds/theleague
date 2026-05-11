@@ -187,17 +187,6 @@
       "opponent_score": 126.02,
       "result": "L",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 113.08,
-      "team_name": "Farmed",
-      "opponent": "derf punk",
-      "opponent_slug": "derf-punk",
-      "opponent_team": "Dynomite",
-      "opponent_score": 126.02,
-      "result": "L",
-      "is_playoff": true
     }
   ]
 }

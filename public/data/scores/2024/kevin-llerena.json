@@ -187,17 +187,6 @@
       "opponent_score": 64.58,
       "result": "W",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 154.28,
-      "team_name": "Alien vs Deshaun",
-      "opponent": "Faust Vinas",
-      "opponent_slug": "faust-vinas",
-      "opponent_team": "The Old Hunters",
-      "opponent_score": 64.58,
-      "result": "W",
-      "is_playoff": true
     }
   ]
 }

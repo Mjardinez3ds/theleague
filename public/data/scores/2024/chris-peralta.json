@@ -176,17 +176,6 @@
       "opponent_score": 170.96,
       "result": "L",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 137.98,
-      "team_name": "Perc Angle",
-      "opponent": "Kevin Liang",
-      "opponent_slug": "kevin-liang",
-      "opponent_team": "Lose2aG00n3r",
-      "opponent_score": 170.96,
-      "result": "L",
-      "is_playoff": true
     }
   ]
 }

@@ -176,17 +176,6 @@
       "opponent_score": 128.8,
       "result": "L",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 113.58,
-      "team_name": "Buck Swope",
-      "opponent": "Super Shyguy",
-      "opponent_slug": "super-shyguy",
-      "opponent_team": "Shy Squad",
-      "opponent_score": 128.8,
-      "result": "L",
-      "is_playoff": true
     }
   ]
 }

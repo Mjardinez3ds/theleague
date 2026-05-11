@@ -187,17 +187,6 @@
       "opponent_score": 105.68,
       "result": "L",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 87.12,
-      "team_name": "1 Percent Poot",
-      "opponent": "Anthony Richardson",
-      "opponent_slug": "anthony-richardson",
-      "opponent_team": "UrMom Stillsquirts",
-      "opponent_score": 105.68,
-      "result": "L",
-      "is_playoff": true
     }
   ]
 }

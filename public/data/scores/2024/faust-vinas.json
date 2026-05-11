@@ -187,17 +187,6 @@
       "opponent_score": 154.28,
       "result": "L",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 64.58,
-      "team_name": "The Old Hunters",
-      "opponent": "Kevin Llerena",
-      "opponent_slug": "kevin-llerena",
-      "opponent_team": "Alien vs Deshaun",
-      "opponent_score": 154.28,
-      "result": "L",
-      "is_playoff": true
     }
   ]
 }

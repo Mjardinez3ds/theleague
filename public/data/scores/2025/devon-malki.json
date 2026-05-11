@@ -187,17 +187,6 @@
       "opponent_score": 123.08,
       "result": "L",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 106.16,
-      "team_name": "No Chase No Case",
-      "opponent": "Ricky Cano",
-      "opponent_slug": "ricky-cano",
-      "opponent_team": "Choosing Violence",
-      "opponent_score": 123.08,
-      "result": "L",
-      "is_playoff": true
     }
   ]
 }

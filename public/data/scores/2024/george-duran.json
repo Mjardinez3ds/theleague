@@ -187,17 +187,6 @@
       "opponent_score": 84.0,
       "result": "W",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 175.44,
-      "team_name": "TWO PIECE W A BISCUIT",
-      "opponent": "Marcus Jardinez",
-      "opponent_slug": "marcus-jardinez",
-      "opponent_team": "Saquon Barkley",
-      "opponent_score": 84.0,
-      "result": "W",
-      "is_playoff": true
     }
   ]
 }

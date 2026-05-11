@@ -187,17 +187,6 @@
       "opponent_score": 135.02,
       "result": "L",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 92.38,
-      "team_name": "Punchmade Joonyer",
-      "opponent": "Marcus Jardinez",
-      "opponent_slug": "marcus-jardinez",
-      "opponent_team": "Psychological Operations",
-      "opponent_score": 135.02,
-      "result": "L",
-      "is_playoff": true
     }
   ]
 }

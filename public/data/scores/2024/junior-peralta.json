@@ -187,17 +187,6 @@
       "opponent_score": 117.52,
       "result": "L",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 87.1,
-      "team_name": "e-",
-      "opponent": "Matthew Taylor",
-      "opponent_slug": "matthew-taylor",
-      "opponent_team": "Maybe Nix Year",
-      "opponent_score": 117.52,
-      "result": "L",
-      "is_playoff": true
     }
   ]
 }

@@ -443,8 +443,24 @@ def build_scores(
         for slug, weeks in scores_by_slug.items():
             if weeks:
                 weeks.sort(key=lambda w: w["week"])
-                write_json(f"scores/{yr}/{slug}.json", {"year": yr, "weeks": weeks})
-                total += len(weeks)
+
+                # ESPN 2-week playoff matchups: box_scores() returns the same
+                # cumulative score for BOTH weeks of the combined period
+                # (e.g. wk 17 and wk 18 show identical scores). Deduplicate
+                # by dropping any playoff week whose (opponent, score, opp_score)
+                # triple was already seen in a previous week.
+                deduped = []
+                seen_playoff: set = set()
+                for w in weeks:
+                    if w["is_playoff"]:
+                        key = (w["opponent_slug"], w["score"], w["opponent_score"])
+                        if key in seen_playoff:
+                            continue
+                        seen_playoff.add(key)
+                    deduped.append(w)
+
+                write_json(f"scores/{yr}/{slug}.json", {"year": yr, "weeks": deduped})
+                total += len(deduped)
         print(f"  scores {yr}: {total} matchup records across {len(scores_by_slug)} teams")
 
 

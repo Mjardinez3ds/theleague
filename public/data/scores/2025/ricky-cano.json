@@ -187,17 +187,6 @@
       "opponent_score": 106.16,
       "result": "W",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 123.08,
-      "team_name": "Choosing Violence",
-      "opponent": "Devon Malki",
-      "opponent_slug": "devon-malki",
-      "opponent_team": "No Chase No Case",
-      "opponent_score": 106.16,
-      "result": "W",
-      "is_playoff": true
     }
   ]
 }

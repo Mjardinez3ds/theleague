@@ -176,17 +176,6 @@
       "opponent_score": 113.88,
       "result": "W",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 166.8,
-      "team_name": "Paul Giamatti in Big Fat Liar",
-      "opponent": "Ricky Cano",
-      "opponent_slug": "ricky-cano",
-      "opponent_team": "Team Cano",
-      "opponent_score": 113.88,
-      "result": "W",
-      "is_playoff": true
     }
   ]
 }

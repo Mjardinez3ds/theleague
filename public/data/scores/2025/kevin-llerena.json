@@ -187,17 +187,6 @@
       "opponent_score": 114.44,
       "result": "L",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 52.7,
-      "team_name": "Alien vs Deshaun",
-      "opponent": "Marcus Jardinez",
-      "opponent_slug": "marcus-jardinez",
-      "opponent_team": "Ramsey Sporting Goods",
-      "opponent_score": 114.44,
-      "result": "L",
-      "is_playoff": true
     }
   ]
 }

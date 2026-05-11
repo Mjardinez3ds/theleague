@@ -187,17 +187,6 @@
       "opponent_score": 87.1,
       "result": "W",
       "is_playoff": true
-    },
-    {
-      "week": 18,
-      "score": 117.52,
-      "team_name": "Maybe Nix Year",
-      "opponent": "Junior Peralta",
-      "opponent_slug": "junior-peralta",
-      "opponent_team": "e-",
-      "opponent_score": 87.1,
-      "result": "W",
-      "is_playoff": true
     }
   ]
 }
