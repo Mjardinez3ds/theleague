@@ -1,0 +1,1062 @@
+{
+  "year": 2023,
+  "rounds": 16,
+  "slots": [
+    {
+      "slot": 1,
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "picks": [
+        {
+          "round": 1,
+          "player": "Justin Jefferson",
+          "position": ""
+        },
+        {
+          "round": 2,
+          "player": "Mark Andrews",
+          "position": ""
+        },
+        {
+          "round": 3,
+          "player": "Tee Higgins",
+          "position": ""
+        },
+        {
+          "round": 4,
+          "player": "Justin Fields",
+          "position": ""
+        },
+        {
+          "round": 5,
+          "player": "Cam Akers",
+          "position": ""
+        },
+        {
+          "round": 6,
+          "player": "Christian Kirk",
+          "position": ""
+        },
+        {
+          "round": 7,
+          "player": "David Montgomery",
+          "position": ""
+        },
+        {
+          "round": 8,
+          "player": "Gabe Davis",
+          "position": ""
+        },
+        {
+          "round": 9,
+          "player": "Antonio Gibson",
+          "position": ""
+        },
+        {
+          "round": 10,
+          "player": "Jayden Reed",
+          "position": ""
+        },
+        {
+          "round": 11,
+          "player": "Marvin Mims Jr.",
+          "position": ""
+        },
+        {
+          "round": 12,
+          "player": "Tank Bigsby",
+          "position": ""
+        },
+        {
+          "round": 13,
+          "player": "Tyjae Spears",
+          "position": ""
+        },
+        {
+          "round": 14,
+          "player": "Marquez Valdes-Scantling",
+          "position": ""
+        },
+        {
+          "round": 15,
+          "player": "Titans D/ST",
+          "position": ""
+        },
+        {
+          "round": 16,
+          "player": "Brandon McManus",
+          "position": ""
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "picks": [
+        {
+          "round": 1,
+          "player": "Tyreek Hill",
+          "position": ""
+        },
+        {
+          "round": 2,
+          "player": "Jalen Hurts",
+          "position": ""
+        },
+        {
+          "round": 3,
+          "player": "DeVonta Smith",
+          "position": ""
+        },
+        {
+          "round": 4,
+          "player": "Kenneth Walker III",
+          "position": ""
+        },
+        {
+          "round": 5,
+          "player": "Rachaad White",
+          "position": ""
+        },
+        {
+          "round": 6,
+          "player": "Drake London",
+          "position": ""
+        },
+        {
+          "round": 7,
+          "player": "George Pickens",
+          "position": ""
+        },
+        {
+          "round": 8,
+          "player": "Khalil Herbert",
+          "position": ""
+        },
+        {
+          "round": 9,
+          "player": "Zach Charbonnet",
+          "position": ""
+        },
+        {
+          "round": 10,
+          "player": "Brian Robinson Jr.",
+          "position": ""
+        },
+        {
+          "round": 11,
+          "player": "David Njoku",
+          "position": ""
+        },
+        {
+          "round": 12,
+          "player": "Dalton Kincaid",
+          "position": ""
+        },
+        {
+          "round": 13,
+          "player": "Nico Collins",
+          "position": ""
+        },
+        {
+          "round": 14,
+          "player": "Eagles D/ST",
+          "position": ""
+        },
+        {
+          "round": 15,
+          "player": "Brock Purdy",
+          "position": ""
+        },
+        {
+          "round": 16,
+          "player": "Cameron Dicker",
+          "position": ""
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Team Cano",
+      "picks": [
+        {
+          "round": 1,
+          "player": "Christian McCaffrey",
+          "position": ""
+        },
+        {
+          "round": 2,
+          "player": "DK Metcalf",
+          "position": ""
+        },
+        {
+          "round": 3,
+          "player": "Najee Harris",
+          "position": ""
+        },
+        {
+          "round": 4,
+          "player": "DeAndre Hopkins",
+          "position": ""
+        },
+        {
+          "round": 5,
+          "player": "Diontae Johnson",
+          "position": ""
+        },
+        {
+          "round": 6,
+          "player": "George Kittle",
+          "position": ""
+        },
+        {
+          "round": 7,
+          "player": "Deshaun Watson",
+          "position": ""
+        },
+        {
+          "round": 8,
+          "player": "Courtland Sutton",
+          "position": ""
+        },
+        {
+          "round": 9,
+          "player": "AJ Dillon",
+          "position": ""
+        },
+        {
+          "round": 10,
+          "player": "Dalton Schultz",
+          "position": ""
+        },
+        {
+          "round": 11,
+          "player": "Steelers D/ST",
+          "position": ""
+        },
+        {
+          "round": 12,
+          "player": "Chase Claypool",
+          "position": ""
+        },
+        {
+          "round": 13,
+          "player": "Adam Thielen",
+          "position": ""
+        },
+        {
+          "round": 14,
+          "player": "Graham Gano",
+          "position": ""
+        },
+        {
+          "round": 15,
+          "player": "Kenny Pickett",
+          "position": ""
+        },
+        {
+          "round": 16,
+          "player": "Evan Hull",
+          "position": ""
+        }
+      ]
+    },
+    {
+      "slot": 4,
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "picks": [
+        {
+          "round": 1,
+          "player": "Ja'Marr Chase",
+          "position": ""
+        },
+        {
+          "round": 2,
+          "player": "Chris Olave",
+          "position": ""
+        },
+        {
+          "round": 3,
+          "player": "Patrick Mahomes",
+          "position": ""
+        },
+        {
+          "round": 4,
+          "player": "Alexander Mattison",
+          "position": ""
+        },
+        {
+          "round": 5,
+          "player": "Darren Waller",
+          "position": ""
+        },
+        {
+          "round": 6,
+          "player": "Mike Williams",
+          "position": ""
+        },
+        {
+          "round": 7,
+          "player": "Isiah Pacheco",
+          "position": ""
+        },
+        {
+          "round": 8,
+          "player": "Marquise Brown",
+          "position": ""
+        },
+        {
+          "round": 9,
+          "player": "Treylon Burks",
+          "position": ""
+        },
+        {
+          "round": 10,
+          "player": "Jaylen Warren",
+          "position": ""
+        },
+        {
+          "round": 11,
+          "player": "De'Von Achane",
+          "position": ""
+        },
+        {
+          "round": 12,
+          "player": "Deon Jackson",
+          "position": ""
+        },
+        {
+          "round": 13,
+          "player": "Jonathan Mingo",
+          "position": ""
+        },
+        {
+          "round": 14,
+          "player": "Ravens D/ST",
+          "position": ""
+        },
+        {
+          "round": 15,
+          "player": "Younghoe Koo",
+          "position": ""
+        },
+        {
+          "round": 16,
+          "player": "Rashee Rice",
+          "position": ""
+        }
+      ]
+    },
+    {
+      "slot": 5,
+      "owner": "Abraham Pinales",
+      "owner_slug": "abraham-pinales",
+      "team_name": "ALVINNNN",
+      "picks": [
+        {
+          "round": 1,
+          "player": "Austin Ekeler",
+          "position": ""
+        },
+        {
+          "round": 2,
+          "player": "Joe Mixon",
+          "position": ""
+        },
+        {
+          "round": 3,
+          "player": "Josh Allen",
+          "position": ""
+        },
+        {
+          "round": 4,
+          "player": "Alvin Kamara",
+          "position": ""
+        },
+        {
+          "round": 5,
+          "player": "Chris Godwin",
+          "position": ""
+        },
+        {
+          "round": 6,
+          "player": "Kyle Pitts",
+          "position": ""
+        },
+        {
+          "round": 7,
+          "player": "Javonte Williams",
+          "position": ""
+        },
+        {
+          "round": 8,
+          "player": "Michael Thomas",
+          "position": ""
+        },
+        {
+          "round": 9,
+          "player": "Jakobi Meyers",
+          "position": ""
+        },
+        {
+          "round": 10,
+          "player": "49ers D/ST",
+          "position": ""
+        },
+        {
+          "round": 11,
+          "player": "Patriots D/ST",
+          "position": ""
+        },
+        {
+          "round": 12,
+          "player": "DJ Chark Jr.",
+          "position": ""
+        },
+        {
+          "round": 13,
+          "player": "Cole Kmet",
+          "position": ""
+        },
+        {
+          "round": 14,
+          "player": "Kirk Cousins",
+          "position": ""
+        },
+        {
+          "round": 15,
+          "player": "Rondale Moore",
+          "position": ""
+        },
+        {
+          "round": 16,
+          "player": "Tyler Bass",
+          "position": ""
+        }
+      ]
+    },
+    {
+      "slot": 6,
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "picks": [
+        {
+          "round": 1,
+          "player": "Tony Pollard",
+          "position": ""
+        },
+        {
+          "round": 2,
+          "player": "Amon-Ra St. Brown",
+          "position": ""
+        },
+        {
+          "round": 3,
+          "player": "Calvin Ridley",
+          "position": ""
+        },
+        {
+          "round": 4,
+          "player": "Rhamondre Stevenson",
+          "position": ""
+        },
+        {
+          "round": 5,
+          "player": "Breece Hall",
+          "position": ""
+        },
+        {
+          "round": 6,
+          "player": "Brandon Aiyuk",
+          "position": ""
+        },
+        {
+          "round": 7,
+          "player": "Jahan Dotson",
+          "position": ""
+        },
+        {
+          "round": 8,
+          "player": "Jaxon Smith-Njigba",
+          "position": ""
+        },
+        {
+          "round": 9,
+          "player": "Daniel Jones",
+          "position": ""
+        },
+        {
+          "round": 10,
+          "player": "Jerick McKinnon",
+          "position": ""
+        },
+        {
+          "round": 11,
+          "player": "Sam LaPorta",
+          "position": ""
+        },
+        {
+          "round": 12,
+          "player": "Chigoziem Okonkwo",
+          "position": ""
+        },
+        {
+          "round": 13,
+          "player": "Jameson Williams",
+          "position": ""
+        },
+        {
+          "round": 14,
+          "player": "Commanders D/ST",
+          "position": ""
+        },
+        {
+          "round": 15,
+          "player": "Rashid Shaheed",
+          "position": ""
+        },
+        {
+          "round": 16,
+          "player": "Chad Ryland",
+          "position": ""
+        }
+      ]
+    },
+    {
+      "slot": 7,
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "picks": [
+        {
+          "round": 1,
+          "player": "Bijan Robinson",
+          "position": ""
+        },
+        {
+          "round": 2,
+          "player": "Cooper Kupp",
+          "position": ""
+        },
+        {
+          "round": 3,
+          "player": "Josh Jacobs",
+          "position": ""
+        },
+        {
+          "round": 4,
+          "player": "Deebo Samuel",
+          "position": ""
+        },
+        {
+          "round": 5,
+          "player": "Justin Herbert",
+          "position": ""
+        },
+        {
+          "round": 6,
+          "player": "Tyler Lockett",
+          "position": ""
+        },
+        {
+          "round": 7,
+          "player": "Skyy Moore",
+          "position": ""
+        },
+        {
+          "round": 8,
+          "player": "J.K. Dobbins",
+          "position": ""
+        },
+        {
+          "round": 9,
+          "player": "Pat Freiermuth",
+          "position": ""
+        },
+        {
+          "round": 10,
+          "player": "Anthony Richardson",
+          "position": ""
+        },
+        {
+          "round": 11,
+          "player": "Saints D/ST",
+          "position": ""
+        },
+        {
+          "round": 12,
+          "player": "Justin Tucker",
+          "position": ""
+        },
+        {
+          "round": 13,
+          "player": "Van Jefferson",
+          "position": ""
+        },
+        {
+          "round": 14,
+          "player": "Roschon Johnson",
+          "position": ""
+        },
+        {
+          "round": 15,
+          "player": "Tank Dell",
+          "position": ""
+        },
+        {
+          "round": 16,
+          "player": "Darnell Mooney",
+          "position": ""
+        }
+      ]
+    },
+    {
+      "slot": 8,
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "picks": [
+        {
+          "round": 1,
+          "player": "Saquon Barkley",
+          "position": ""
+        },
+        {
+          "round": 2,
+          "player": "Jaylen Waddle",
+          "position": ""
+        },
+        {
+          "round": 3,
+          "player": "Jahmyr Gibbs",
+          "position": ""
+        },
+        {
+          "round": 4,
+          "player": "Christian Watson",
+          "position": ""
+        },
+        {
+          "round": 5,
+          "player": "Trevor Lawrence",
+          "position": ""
+        },
+        {
+          "round": 6,
+          "player": "Jonathan Taylor",
+          "position": ""
+        },
+        {
+          "round": 7,
+          "player": "Evan Engram",
+          "position": ""
+        },
+        {
+          "round": 8,
+          "player": "Zay Flowers",
+          "position": ""
+        },
+        {
+          "round": 9,
+          "player": "Ezekiel Elliott",
+          "position": ""
+        },
+        {
+          "round": 10,
+          "player": "Kadarius Toney",
+          "position": ""
+        },
+        {
+          "round": 11,
+          "player": "Tyler Boyd",
+          "position": ""
+        },
+        {
+          "round": 12,
+          "player": "Tua Tagovailoa",
+          "position": ""
+        },
+        {
+          "round": 13,
+          "player": "John Metchie III",
+          "position": ""
+        },
+        {
+          "round": 14,
+          "player": "Mecole Hardman",
+          "position": ""
+        },
+        {
+          "round": 15,
+          "player": "Harrison Butker",
+          "position": ""
+        },
+        {
+          "round": 16,
+          "player": "Jaguars D/ST",
+          "position": ""
+        }
+      ]
+    },
+    {
+      "slot": 9,
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "DECAPITATED WEASEL",
+      "picks": [
+        {
+          "round": 1,
+          "player": "Garrett Wilson",
+          "position": ""
+        },
+        {
+          "round": 2,
+          "player": "A.J. Brown",
+          "position": ""
+        },
+        {
+          "round": 3,
+          "player": "Dameon Pierce",
+          "position": ""
+        },
+        {
+          "round": 4,
+          "player": "Amari Cooper",
+          "position": ""
+        },
+        {
+          "round": 5,
+          "player": "DJ Moore",
+          "position": ""
+        },
+        {
+          "round": 6,
+          "player": "Dalvin Cook",
+          "position": ""
+        },
+        {
+          "round": 7,
+          "player": "Quentin Johnston",
+          "position": ""
+        },
+        {
+          "round": 8,
+          "player": "Jamaal Williams",
+          "position": ""
+        },
+        {
+          "round": 9,
+          "player": "Jalin Hyatt",
+          "position": ""
+        },
+        {
+          "round": 10,
+          "player": "Aaron Rodgers",
+          "position": ""
+        },
+        {
+          "round": 11,
+          "player": "Juwan Johnson",
+          "position": ""
+        },
+        {
+          "round": 12,
+          "player": "Cowboys D/ST",
+          "position": ""
+        },
+        {
+          "round": 13,
+          "player": "Devin Singletary",
+          "position": ""
+        },
+        {
+          "round": 14,
+          "player": "Zay Jones",
+          "position": ""
+        },
+        {
+          "round": 15,
+          "player": "Jason Myers",
+          "position": ""
+        },
+        {
+          "round": 16,
+          "player": "Jared Goff",
+          "position": ""
+        }
+      ]
+    },
+    {
+      "slot": 10,
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "picks": [
+        {
+          "round": 1,
+          "player": "Travis Kelce",
+          "position": ""
+        },
+        {
+          "round": 2,
+          "player": "Stefon Diggs",
+          "position": ""
+        },
+        {
+          "round": 3,
+          "player": "Aaron Jones",
+          "position": ""
+        },
+        {
+          "round": 4,
+          "player": "Joe Burrow",
+          "position": ""
+        },
+        {
+          "round": 5,
+          "player": "James Conner",
+          "position": ""
+        },
+        {
+          "round": 6,
+          "player": "Jerry Jeudy",
+          "position": ""
+        },
+        {
+          "round": 7,
+          "player": "Michael Pittman Jr.",
+          "position": ""
+        },
+        {
+          "round": 8,
+          "player": "Brandin Cooks",
+          "position": ""
+        },
+        {
+          "round": 9,
+          "player": "JuJu Smith-Schuster",
+          "position": ""
+        },
+        {
+          "round": 10,
+          "player": "Samaje Perine",
+          "position": ""
+        },
+        {
+          "round": 11,
+          "player": "Elijah Moore",
+          "position": ""
+        },
+        {
+          "round": 12,
+          "player": "Jets D/ST",
+          "position": ""
+        },
+        {
+          "round": 13,
+          "player": "Rashod Bateman",
+          "position": ""
+        },
+        {
+          "round": 14,
+          "player": "Evan McPherson",
+          "position": ""
+        },
+        {
+          "round": 15,
+          "player": "Geno Smith",
+          "position": ""
+        },
+        {
+          "round": 16,
+          "player": "Jeff Wilson Jr.",
+          "position": ""
+        }
+      ]
+    },
+    {
+      "slot": 11,
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "picks": [
+        {
+          "round": 1,
+          "player": "Davante Adams",
+          "position": ""
+        },
+        {
+          "round": 2,
+          "player": "Derrick Henry",
+          "position": ""
+        },
+        {
+          "round": 3,
+          "player": "Lamar Jackson",
+          "position": ""
+        },
+        {
+          "round": 4,
+          "player": "T.J. Hockenson",
+          "position": ""
+        },
+        {
+          "round": 5,
+          "player": "James Cook",
+          "position": ""
+        },
+        {
+          "round": 6,
+          "player": "Terry McLaurin",
+          "position": ""
+        },
+        {
+          "round": 7,
+          "player": "Jordan Addison",
+          "position": ""
+        },
+        {
+          "round": 8,
+          "player": "D'Andre Swift",
+          "position": ""
+        },
+        {
+          "round": 9,
+          "player": "Raheem Mostert",
+          "position": ""
+        },
+        {
+          "round": 10,
+          "player": "Rashaad Penny",
+          "position": ""
+        },
+        {
+          "round": 11,
+          "player": "Michael Gallup",
+          "position": ""
+        },
+        {
+          "round": 12,
+          "player": "K.J. Osborn",
+          "position": ""
+        },
+        {
+          "round": 13,
+          "player": "Daniel Carlson",
+          "position": ""
+        },
+        {
+          "round": 14,
+          "player": "Bills D/ST",
+          "position": ""
+        },
+        {
+          "round": 15,
+          "player": "Damien Harris",
+          "position": ""
+        },
+        {
+          "round": 16,
+          "player": "Tyler Higbee",
+          "position": ""
+        }
+      ]
+    },
+    {
+      "slot": 12,
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Breece\u2019s Pieces",
+      "picks": [
+        {
+          "round": 1,
+          "player": "Nick Chubb",
+          "position": ""
+        },
+        {
+          "round": 2,
+          "player": "CeeDee Lamb",
+          "position": ""
+        },
+        {
+          "round": 3,
+          "player": "Travis Etienne Jr.",
+          "position": ""
+        },
+        {
+          "round": 4,
+          "player": "Keenan Allen",
+          "position": ""
+        },
+        {
+          "round": 5,
+          "player": "Mike Evans",
+          "position": ""
+        },
+        {
+          "round": 6,
+          "player": "Miles Sanders",
+          "position": ""
+        },
+        {
+          "round": 7,
+          "player": "Dallas Goedert",
+          "position": ""
+        },
+        {
+          "round": 8,
+          "player": "Dak Prescott",
+          "position": ""
+        },
+        {
+          "round": 9,
+          "player": "Odell Beckham Jr.",
+          "position": ""
+        },
+        {
+          "round": 10,
+          "player": "Tyler Allgeier",
+          "position": ""
+        },
+        {
+          "round": 11,
+          "player": "Elijah Mitchell",
+          "position": ""
+        },
+        {
+          "round": 12,
+          "player": "Allen Lazard",
+          "position": ""
+        },
+        {
+          "round": 13,
+          "player": "Jerome Ford",
+          "position": ""
+        },
+        {
+          "round": 14,
+          "player": "Dolphins D/ST",
+          "position": ""
+        },
+        {
+          "round": 15,
+          "player": "Tutu Atwell",
+          "position": ""
+        },
+        {
+          "round": 16,
+          "player": "Greg Zuerlein",
+          "position": ""
+        }
+      ]
+    }
+  ]
+}

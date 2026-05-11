@@ -162,3 +162,20 @@ export type DraftPick = {
 
 export const getDraftPicks = (year: number, slug: string) =>
   readJson<DraftPick[]>(`drafts/${year}/${slug}.json`);
+
+export type DraftSlot = {
+  slot: number;
+  owner: string;
+  owner_slug: string;
+  team_name: string;
+  picks: { round: number; player: string; position: string }[];
+};
+
+export type DraftBoardData = {
+  year: number;
+  rounds: number;
+  slots: DraftSlot[];
+};
+
+export const getDraftBoard = (year: number) =>
+  readJson<DraftBoardData>(`draft_board/${year}.json`);

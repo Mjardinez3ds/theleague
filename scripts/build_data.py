@@ -627,9 +627,53 @@ def main():
             })
 
         total = sum(len(v) for v in picks_by_slug.values())
+
+        # Slug -> display name reverse lookup
+        slug_to_display = {v: display_by_canonical[k]
+                           for k, v in slug_by_canonical.items()
+                           if k in display_by_canonical}
+        # Slug -> team name for this year
+        slug_to_team: dict[str, str] = {}
+        for t in lg.teams:
+            raw_id = _raw_owner_id(t)
+            cid = canonical_by_raw.get(raw_id, "")
+            s = slug_by_canonical.get(cid, "unknown")
+            slug_to_team[s] = t.team_name or "?"
+
         for slug, picks in picks_by_slug.items():
             picks.sort(key=lambda p: (p["round"], p["pick"]))
             write_json(f"drafts/{yr}/{slug}.json", picks)
+
+        # Draft board: one file per year with all picks in slot order
+        # Draft slot = pick number in round 1 (snake draft)
+        slot_by_slug: dict[str, int] = {}
+        for s, picks in picks_by_slug.items():
+            r1 = next((p for p in picks if p["round"] == 1), None)
+            if r1:
+                slot_by_slug[s] = r1["pick"]
+
+        max_round = max(
+            (p["round"] for picks in picks_by_slug.values() for p in picks),
+            default=0
+        )
+
+        board_slots = []
+        for s in sorted(slot_by_slug, key=lambda x: slot_by_slug[x]):
+            round_picks = sorted(picks_by_slug[s], key=lambda p: p["round"])
+            board_slots.append({
+                "slot":       slot_by_slug[s],
+                "owner":      slug_to_display.get(s, "?"),
+                "owner_slug": s,
+                "team_name":  slug_to_team.get(s, "?"),
+                "picks": [
+                    {"round": p["round"], "player": p["player"], "position": p["position"]}
+                    for p in round_picks
+                ],
+            })
+
+        write_json(f"draft_board/{yr}.json", {
+            "year": yr, "rounds": max_round, "slots": board_slots,
+        })
         print(f"  draft {yr}: {total} picks across {len(picks_by_slug)} teams")
 
     # ---------- trades ----------
