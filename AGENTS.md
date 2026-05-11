@@ -403,6 +403,38 @@ Phase 2 candidates (pick based on which gets clicks):
 
 ## Changelog
 
+### 2026-05-10 (later × 2) — Manager profile pages: stats, highlights, trade history
+
+**Why:** Owner asked what richer per-manager stats we could surface.
+First batch ships everything that's derivable from data we already pull;
+deeper stats (single-week records, bench points, H2H records, streaks)
+need new ESPN API pulls and are queued in the Roadmap.
+
+**Files changed:**
+- `src/app/managers/[slug]/page.tsx` — major expansion. Now loads
+  `getLeagueMeta()` + `getTrades(yr)` for every season to find every
+  trade involving this manager. Sections in render order:
+  1. Header (existing)
+  2. Career hero card — W-L, win%, trophies, toilet bowls (existing,
+     polished). 🚽 emoji added for last-place finishes.
+  3. **NEW: At-a-glance** — Avg PF/Game, Avg PA/Game, Point Differential
+     (+green / -red), Best Finish, Worst Finish, Avg Finish.
+     `ordinal()` helper added for "1st / 2nd / 3rd" display.
+  4. **NEW: Highlights** — best scoring season + lowest scoring season
+     with year, team name, total PF.
+  5. **NEW: Trade Activity** — total trades, players got, players gave,
+     top trade partner with deal count.
+  6. Season-by-season list (existing — `SeasonCard` with draft picks).
+  7. **NEW: Trade History** — every trade this manager was in, sorted
+     newest first, shown as compact GAVE/GOT cards with the partner's
+     name linked to their profile.
+- `AGENTS.md` — changelog updates (this entry).
+
+**Performance note:** trade-list fetch happens at *build* time (server
+component, force-static). 12 manager pages × 3 trade-year files = 36
+small JSON reads during static generation. No runtime cost; the rendered
+HTML is fully static.
+
 ### 2026-05-10 (later) — Standings page now defaults to All-Time
 
 **Why:** Owner wanted the standings page to lead with all-time records
