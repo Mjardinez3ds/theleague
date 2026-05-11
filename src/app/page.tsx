@@ -28,17 +28,35 @@ export default async function HomePage() {
           🏈 CONFIRMED MANAGERS · {season.managers.length}
         </p>
         <ul className="rounded-2xl border border-app bg-elev overflow-hidden">
-          {season.managers.map((name, i) => (
-            <li
-              key={i}
-              className="flex items-center gap-3 px-4 py-3 border-b border-app last:border-0"
-            >
-              <span className="w-7 text-right text-xs font-bold text-muted tabular-nums">
-                {i + 1}
-              </span>
-              <span className="text-[15px] font-semibold">{name}</span>
-            </li>
-          ))}
+          {season.managers.map((m, i) => {
+            const inner = (
+              <>
+                <span className="w-7 text-right text-xs font-bold text-muted tabular-nums">
+                  {i + 1}
+                </span>
+                <span className="flex-1 text-[15px] font-semibold">{m.name}</span>
+                {m.slug && (
+                  <span className="text-xs text-accent">→</span>
+                )}
+              </>
+            );
+            return (
+              <li key={i} className="border-b border-app last:border-0">
+                {m.slug ? (
+                  <Link
+                    href={`/managers/${m.slug}`}
+                    className="flex items-center gap-3 px-4 py-3 active:bg-elev-2"
+                  >
+                    {inner}
+                  </Link>
+                ) : (
+                  <div className="flex items-center gap-3 px-4 py-3">
+                    {inner}
+                  </div>
+                )}
+              </li>
+            );
+          })}
         </ul>
       </section>
 
