@@ -1,11 +1,16 @@
 import Link from "next/link";
-import { getUpcomingSeason } from "@/lib/data";
+import { getUpcomingSeason, getCareers, type Career } from "@/lib/data";
 import DraftCountdown from "@/components/DraftCountdown";
 
 export const dynamic = "force-static";
 
 export default async function HomePage() {
-  const season = await getUpcomingSeason();
+  const [season, { owners }] = await Promise.all([
+    getUpcomingSeason(),
+    getCareers(),
+  ]);
+
+  const careerBySlug = new Map<string, Career>(owners.map((o) => [o.slug, o]));
 
   return (
     <div className="px-4 pt-6 pb-4 space-y-6">
@@ -29,17 +34,29 @@ export default async function HomePage() {
         </p>
         <ul className="rounded-2xl border border-app bg-elev overflow-hidden">
           {season.managers.map((m, i) => {
+            const career = m.slug ? careerBySlug.get(m.slug) : null;
+            const fullName = career?.owner ?? m.name;
+            const titleYears = career?.seasons
+              .filter((s) => s.finish === 1)
+              .map((s) => s.year)
+              .sort() ?? [];
+
             const inner = (
               <>
-                <span className="w-7 text-right text-xs font-bold text-muted tabular-nums">
+                <span className="w-7 text-right text-xs font-bold text-muted tabular-nums shrink-0">
                   {i + 1}
                 </span>
-                <span className="flex-1 text-[15px] font-semibold">{m.name}</span>
-                {m.slug && (
-                  <span className="text-xs text-accent">→</span>
-                )}
+                <span className="flex-1 min-w-0">
+                  <span className="text-[15px] font-semibold">{fullName}</span>
+                  {titleYears.length > 0 && (
+                    <span className="text-accent text-xs font-semibold ml-2">
+                      · {titleYears.join(", ")} Champion
+                    </span>
+                  )}
+                </span>
               </>
             );
+
             return (
               <li key={i} className="border-b border-app last:border-0">
                 {m.slug ? (
