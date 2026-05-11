@@ -3,90 +3,90 @@
     "round": 1,
     "pick": 12,
     "player": "De'Von Achane",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 2,
     "pick": 1,
     "player": "Derrick Henry",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 3,
     "pick": 12,
     "player": "Jaxon Smith-Njigba",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 4,
     "pick": 1,
     "player": "Xavier Worthy",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 5,
     "pick": 12,
     "player": "Emeka Egbuka",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 6,
     "pick": 1,
     "player": "Travis Hunter",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 7,
     "pick": 12,
     "player": "Jordan Addison",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 8,
     "pick": 1,
     "player": "Zach Charbonnet",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 9,
     "pick": 12,
     "player": "Josh Downs",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 10,
     "pick": 1,
     "player": "Braelon Allen",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 11,
     "pick": 12,
     "player": "Dak Prescott",
-    "position": ""
+    "position": "QB"
   },
   {
     "round": 12,
     "pick": 1,
     "player": "Jake Ferguson",
-    "position": ""
+    "position": "TE"
   },
   {
     "round": 13,
     "pick": 12,
     "player": "Will Shipley",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 14,
     "pick": 1,
     "player": "DJ Giddens",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 15,
     "pick": 12,
     "player": "Wil Lutz",
-    "position": ""
+    "position": "K"
   }
 ]

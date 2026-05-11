@@ -3,90 +3,90 @@
     "round": 1,
     "pick": 8,
     "player": "Nico Collins",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 2,
     "pick": 5,
     "player": "Chase Brown",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 3,
     "pick": 8,
     "player": "Tyreek Hill",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 4,
     "pick": 5,
     "player": "DJ Moore",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 5,
     "pick": 8,
     "player": "Jerry Jeudy",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 6,
     "pick": 5,
     "player": "Matthew Golden",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 7,
     "pick": 8,
     "player": "Jaylen Warren",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 8,
     "pick": 5,
     "player": "Baker Mayfield",
-    "position": ""
+    "position": "QB"
   },
   {
     "round": 9,
     "pick": 8,
     "player": "Jauan Jennings",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 10,
     "pick": 5,
     "player": "Nick Chubb",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 11,
     "pick": 8,
     "player": "Jaydon Blue",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 12,
     "pick": 5,
     "player": "Dallas Goedert",
-    "position": ""
+    "position": "TE"
   },
   {
     "round": 13,
     "pick": 8,
     "player": "Brenton Strange",
-    "position": ""
+    "position": "TE"
   },
   {
     "round": 14,
     "pick": 5,
     "player": "Malik Washington",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 15,
     "pick": 8,
     "player": "Tyler Loop",
-    "position": ""
+    "position": "K"
   }
 ]

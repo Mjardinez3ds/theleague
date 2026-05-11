@@ -3,61 +3,61 @@
     "round": 1,
     "pick": 11,
     "player": "Ashton Jeanty",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 2,
     "pick": 2,
     "player": "Drake London",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 3,
     "pick": 11,
     "player": "Jayden Daniels",
-    "position": ""
+    "position": "QB"
   },
   {
     "round": 4,
     "pick": 2,
     "player": "Marvin Harrison Jr.",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 5,
     "pick": 11,
     "player": "George Pickens",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 6,
     "pick": 2,
     "player": "D'Andre Swift",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 7,
     "pick": 11,
     "player": "Travis Kelce",
-    "position": ""
+    "position": "TE"
   },
   {
     "round": 8,
     "pick": 2,
     "player": "Stefon Diggs",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 9,
     "pick": 11,
     "player": "Kyle Pitts Sr.",
-    "position": ""
+    "position": "TE"
   },
   {
     "round": 10,
     "pick": 2,
     "player": "Chris Godwin Jr.",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 11,
@@ -69,24 +69,24 @@
     "round": 12,
     "pick": 2,
     "player": "Jerome Ford",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 13,
     "pick": 11,
     "player": "Kyler Murray",
-    "position": ""
+    "position": "QB"
   },
   {
     "round": 14,
     "pick": 2,
     "player": "Kareem Hunt",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 15,
     "pick": 11,
     "player": "Cairo Santos",
-    "position": ""
+    "position": "K"
   }
 ]

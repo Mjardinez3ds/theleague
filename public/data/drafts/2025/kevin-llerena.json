@@ -3,90 +3,90 @@
     "round": 1,
     "pick": 6,
     "player": "Christian McCaffrey",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 2,
     "pick": 7,
     "player": "Josh Jacobs",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 3,
     "pick": 6,
     "player": "Davante Adams",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 4,
     "pick": 7,
     "player": "Joe Burrow",
-    "position": ""
+    "position": "QB"
   },
   {
     "round": 5,
     "pick": 6,
     "player": "Chuba Hubbard",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 6,
     "pick": 7,
     "player": "Jakobi Meyers",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 7,
     "pick": 6,
     "player": "Michael Pittman Jr.",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 8,
     "pick": 7,
     "player": "Mark Andrews",
-    "position": ""
+    "position": "TE"
   },
   {
     "round": 9,
     "pick": 6,
     "player": "Austin Ekeler",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 10,
     "pick": 7,
     "player": "Keenan Allen",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 11,
     "pick": 6,
     "player": "Rashod Bateman",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 12,
     "pick": 7,
     "player": "Zach Ertz",
-    "position": ""
+    "position": "TE"
   },
   {
     "round": 13,
     "pick": 6,
     "player": "Jared Goff",
-    "position": ""
+    "position": "QB"
   },
   {
     "round": 14,
     "pick": 7,
     "player": "Rico Dowdle",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 15,
     "pick": 6,
     "player": "Harrison Butker",
-    "position": ""
+    "position": "K"
   }
 ]

@@ -3,79 +3,79 @@
     "round": 1,
     "pick": 7,
     "player": "CeeDee Lamb",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 2,
     "pick": 6,
     "player": "Jonathan Taylor",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 3,
     "pick": 7,
     "player": "Trey McBride",
-    "position": ""
+    "position": "TE"
   },
   {
     "round": 4,
     "pick": 6,
     "player": "Jalen Hurts",
-    "position": ""
+    "position": "QB"
   },
   {
     "round": 5,
     "pick": 7,
     "player": "Tony Pollard",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 6,
     "pick": 6,
     "player": "Zay Flowers",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 7,
     "pick": 7,
     "player": "Chris Olave",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 8,
     "pick": 6,
     "player": "Travis Etienne Jr.",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 9,
     "pick": 7,
     "player": "J.K. Dobbins",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 10,
     "pick": 6,
     "player": "Darnell Mooney",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 11,
     "pick": 7,
     "player": "Brandon Aubrey",
-    "position": ""
+    "position": "K"
   },
   {
     "round": 12,
     "pick": 6,
     "player": "Dalton Kincaid",
-    "position": ""
+    "position": "TE"
   },
   {
     "round": 13,
     "pick": 7,
     "player": "Wan'Dale Robinson",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 14,
@@ -87,6 +87,6 @@
     "round": 15,
     "pick": 7,
     "player": "Caleb Williams",
-    "position": ""
+    "position": "QB"
   }
 ]

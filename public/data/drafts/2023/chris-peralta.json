@@ -3,96 +3,96 @@
     "round": 1,
     "pick": 4,
     "player": "Ja'Marr Chase",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 2,
     "pick": 9,
     "player": "Chris Olave",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 3,
     "pick": 4,
     "player": "Patrick Mahomes",
-    "position": ""
+    "position": "QB"
   },
   {
     "round": 4,
     "pick": 9,
     "player": "Alexander Mattison",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 5,
     "pick": 4,
     "player": "Darren Waller",
-    "position": ""
+    "position": "TE"
   },
   {
     "round": 6,
     "pick": 9,
     "player": "Mike Williams",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 7,
     "pick": 4,
     "player": "Isiah Pacheco",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 8,
     "pick": 9,
     "player": "Marquise Brown",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 9,
     "pick": 4,
     "player": "Treylon Burks",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 10,
     "pick": 9,
     "player": "Jaylen Warren",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 11,
     "pick": 4,
     "player": "De'Von Achane",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 12,
     "pick": 9,
     "player": "Deon Jackson",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 13,
     "pick": 4,
     "player": "Jonathan Mingo",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 14,
     "pick": 9,
     "player": "Ravens D/ST",
-    "position": ""
+    "position": "D/ST"
   },
   {
     "round": 15,
     "pick": 4,
     "player": "Younghoe Koo",
-    "position": ""
+    "position": "K"
   },
   {
     "round": 16,
     "pick": 9,
     "player": "Rashee Rice",
-    "position": ""
+    "position": "WR"
   }
 ]

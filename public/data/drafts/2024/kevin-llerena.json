@@ -3,96 +3,96 @@
     "round": 1,
     "pick": 12,
     "player": "Jonathan Taylor",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 2,
     "pick": 1,
     "player": "Jahmyr Gibbs",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 3,
     "pick": 12,
     "player": "Stefon Diggs",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 4,
     "pick": 1,
     "player": "Michael Pittman Jr.",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 5,
     "pick": 12,
     "player": "Joe Burrow",
-    "position": ""
+    "position": "QB"
   },
   {
     "round": 6,
     "pick": 1,
     "player": "Chris Godwin",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 7,
     "pick": 12,
     "player": "Kyle Pitts",
-    "position": ""
+    "position": "TE"
   },
   {
     "round": 8,
     "pick": 1,
     "player": "Jordan Addison",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 9,
     "pick": 12,
     "player": "Jerry Jeudy",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 10,
     "pick": 1,
     "player": "Ezekiel Elliott",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 11,
     "pick": 12,
     "player": "Curtis Samuel",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 12,
     "pick": 1,
     "player": "Gabe Davis",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 13,
     "pick": 12,
     "player": "Jake Elliott",
-    "position": ""
+    "position": "K"
   },
   {
     "round": 14,
     "pick": 1,
     "player": "Pat Freiermuth",
-    "position": ""
+    "position": "TE"
   },
   {
     "round": 15,
     "pick": 12,
     "player": "Tyler Conklin",
-    "position": ""
+    "position": "TE"
   },
   {
     "round": 16,
     "pick": 1,
     "player": "Demarcus Robinson",
-    "position": ""
+    "position": "WR"
   }
 ]

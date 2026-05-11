@@ -3,96 +3,96 @@
     "round": 1,
     "pick": 5,
     "player": "CeeDee Lamb",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 2,
     "pick": 8,
     "player": "Drake London",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 3,
     "pick": 5,
     "player": "Brandon Aiyuk",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 4,
     "pick": 8,
     "player": "Zay Flowers",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 5,
     "pick": 5,
     "player": "Jalen Hurts",
-    "position": ""
+    "position": "QB"
   },
   {
     "round": 6,
     "pick": 8,
     "player": "Xavier Worthy",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 7,
     "pick": 5,
     "player": "Javonte Williams",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 8,
     "pick": 8,
     "player": "Devin Singletary",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 9,
     "pick": 5,
     "player": "David Njoku",
-    "position": ""
+    "position": "TE"
   },
   {
     "round": 10,
     "pick": 8,
     "player": "Blake Corum",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 11,
     "pick": 5,
     "player": "Rashid Shaheed",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 12,
     "pick": 8,
     "player": "Jordan Mason",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 13,
     "pick": 5,
     "player": "Ray Davis",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 14,
     "pick": 8,
     "player": "Braelon Allen",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 15,
     "pick": 5,
     "player": "Kimani Vidal",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 16,
     "pick": 8,
     "player": "Greg Zuerlein",
-    "position": ""
+    "position": "K"
   }
 ]

@@ -3,90 +3,90 @@
     "round": 1,
     "pick": 1,
     "player": "Saquon Barkley",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 2,
     "pick": 12,
     "player": "Lamar Jackson",
-    "position": ""
+    "position": "QB"
   },
   {
     "round": 3,
     "pick": 1,
     "player": "Alvin Kamara",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 4,
     "pick": 12,
     "player": "Mike Evans",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 5,
     "pick": 1,
     "player": "Courtland Sutton",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 6,
     "pick": 12,
     "player": "Aaron Jones Sr.",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 7,
     "pick": 1,
     "player": "Tyrone Tracy Jr.",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 8,
     "pick": 12,
     "player": "David Njoku",
-    "position": ""
+    "position": "TE"
   },
   {
     "round": 9,
     "pick": 1,
     "player": "Jayden Reed",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 10,
     "pick": 12,
     "player": "Xavier Legette",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 11,
     "pick": 1,
     "player": "Najee Harris",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 12,
     "pick": 12,
     "player": "Jake Bates",
-    "position": ""
+    "position": "K"
   },
   {
     "round": 13,
     "pick": 1,
     "player": "DeMario Douglas",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 14,
     "pick": 12,
     "player": "Justice Hill",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 15,
     "pick": 1,
     "player": "Dameon Pierce",
-    "position": ""
+    "position": "RB"
   }
 ]

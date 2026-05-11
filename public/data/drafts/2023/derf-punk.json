@@ -3,96 +3,96 @@
     "round": 1,
     "pick": 11,
     "player": "Davante Adams",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 2,
     "pick": 2,
     "player": "Derrick Henry",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 3,
     "pick": 11,
     "player": "Lamar Jackson",
-    "position": ""
+    "position": "QB"
   },
   {
     "round": 4,
     "pick": 2,
     "player": "T.J. Hockenson",
-    "position": ""
+    "position": "TE"
   },
   {
     "round": 5,
     "pick": 11,
     "player": "James Cook",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 6,
     "pick": 2,
     "player": "Terry McLaurin",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 7,
     "pick": 11,
     "player": "Jordan Addison",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 8,
     "pick": 2,
     "player": "D'Andre Swift",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 9,
     "pick": 11,
     "player": "Raheem Mostert",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 10,
     "pick": 2,
     "player": "Rashaad Penny",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 11,
     "pick": 11,
     "player": "Michael Gallup",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 12,
     "pick": 2,
     "player": "K.J. Osborn",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 13,
     "pick": 11,
     "player": "Daniel Carlson",
-    "position": ""
+    "position": "K"
   },
   {
     "round": 14,
     "pick": 2,
     "player": "Bills D/ST",
-    "position": ""
+    "position": "D/ST"
   },
   {
     "round": 15,
     "pick": 11,
     "player": "Damien Harris",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 16,
     "pick": 2,
     "player": "Tyler Higbee",
-    "position": ""
+    "position": "TE"
   }
 ]

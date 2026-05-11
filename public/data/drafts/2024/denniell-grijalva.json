@@ -3,96 +3,96 @@
     "round": 1,
     "pick": 2,
     "player": "Tyreek Hill",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 2,
     "pick": 11,
     "player": "Josh Jacobs",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 3,
     "pick": 2,
     "player": "Sam LaPorta",
-    "position": ""
+    "position": "TE"
   },
   {
     "round": 4,
     "pick": 11,
     "player": "Tank Dell",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 5,
     "pick": 2,
     "player": "DJ Moore",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 6,
     "pick": 11,
     "player": "Dak Prescott",
-    "position": ""
+    "position": "QB"
   },
   {
     "round": 7,
     "pick": 2,
     "player": "Jaxon Smith-Njigba",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 8,
     "pick": 11,
     "player": "Hollywood Brown",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 9,
     "pick": 2,
     "player": "Nick Chubb",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 10,
     "pick": 11,
     "player": "T.J. Hockenson",
-    "position": ""
+    "position": "TE"
   },
   {
     "round": 11,
     "pick": 2,
     "player": "Romeo Doubs",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 12,
     "pick": 11,
     "player": "J.K. Dobbins",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 13,
     "pick": 2,
     "player": "Brock Purdy",
-    "position": ""
+    "position": "QB"
   },
   {
     "round": 14,
     "pick": 11,
     "player": "Ricky Pearsall",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 15,
     "pick": 2,
     "player": "Rashod Bateman",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 16,
     "pick": 11,
     "player": "Cairo Santos",
-    "position": ""
+    "position": "K"
   }
 ]

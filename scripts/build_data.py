@@ -355,7 +355,7 @@ def build_scores(
     canonical_by_raw: dict,
     display_by_canonical: dict,
     slug_by_canonical: dict,
-) -> None:
+) -> dict:
     """
     Fetch weekly matchup scores for every manager in every season.
 
@@ -365,7 +365,11 @@ def build_scores(
         public/data/scores/{year}/{slug}.json
     Schema: { year, weeks: [{week, score, opponent, opponent_slug,
                               opponent_score, result, is_playoff}] }
+
+    Returns: {year: {playerId: position}} — player positions gleaned from
+    box score lineup slots, used by the draft-pick builder below.
     """
+    positions_by_year: dict[int, dict[int, str]] = {}
     for yr, lg in sorted(leagues_by_year.items()):
         # Regular-season week count from league settings (default 14)
         reg_weeks = getattr(lg.settings, "reg_season_count", 14)
@@ -389,6 +393,9 @@ def build_scores(
         def _result(my: float, opp: float) -> str:
             return "W" if my > opp else ("T" if my == opp else "L")
 
+        yr_positions: dict[int, str] = {}
+        positions_by_year[yr] = yr_positions
+
         for week in range(1, 19):
             try:
                 matchups = lg.box_scores(week)
@@ -396,6 +403,15 @@ def build_scores(
                 break
             if not matchups:
                 break
+
+            # Collect playerId -> position from lineup slots
+            for m in matchups:
+                for lineup in (getattr(m, "home_lineup", []), getattr(m, "away_lineup", [])):
+                    for pl in (lineup or []):
+                        pid = getattr(pl, "playerId", None)
+                        pos = getattr(pl, "position", "") or ""
+                        if pid and pos and pid not in yr_positions:
+                            yr_positions[pid] = pos
 
             for m in matchups:
                 h_team = getattr(m, "home_team", None)
@@ -462,6 +478,8 @@ def build_scores(
                 write_json(f"scores/{yr}/{slug}.json", {"year": yr, "weeks": deduped})
                 total += len(deduped)
         print(f"  scores {yr}: {total} matchup records across {len(scores_by_slug)} teams")
+
+    return positions_by_year
 
 
 def main():
@@ -588,6 +606,13 @@ def main():
         "seasons": sorted(history, key=lambda x: -x["year"]),
     })
 
+    # ---------- weekly scores (runs first so we get playerId->position map) ----------
+    player_positions: dict[int, dict[int, str]] = {}
+    try:
+        player_positions = build_scores(leagues_by_year, canonical_by_raw, display_by_canonical, slug_by_canonical)
+    except Exception as e:
+        print(f"  ! scores error: {e}")
+
     # ---------- draft picks (one file per owner per year) ----------
     for yr, lg in leagues_by_year.items():
         try:
@@ -598,6 +623,8 @@ def main():
         if not draft_picks:
             print(f"  ! empty draft for {yr}")
             continue
+
+        yr_pos_map = player_positions.get(yr, {})
 
         picks_by_slug: dict[str, list] = {}
         for pick in draft_picks:
@@ -611,13 +638,10 @@ def main():
             player_name = getattr(pick, "playerName", "") or ""
             round_num   = getattr(pick, "round_num", 0) or 0
             round_pick  = getattr(pick, "round_pick", 0) or 0
+            player_id   = getattr(pick, "playerId", None)
 
-            # Try to grab position from nested player object
-            position = ""
-            try:
-                position = pick.player.position or ""
-            except Exception:
-                pass
+            # Look up position from box-score lineup data (pick.player doesn't exist)
+            position = yr_pos_map.get(player_id, "") if player_id else ""
 
             picks_by_slug.setdefault(slug, []).append({
                 "round":  round_num,
@@ -681,12 +705,6 @@ def main():
         build_trades(leagues_by_year, canonical_by_raw, display_by_canonical, slug_by_canonical)
     except Exception as e:
         print(f"  ! trades error: {e}")
-
-    # ---------- weekly scores ----------
-    try:
-        build_scores(leagues_by_year, canonical_by_raw, display_by_canonical, slug_by_canonical)
-    except Exception as e:
-        print(f"  ! scores error: {e}")
 
     print(f"\nDone in {time.time()-started:.1f}s. Files in {OUT_DIR}")
 

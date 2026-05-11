@@ -3,96 +3,96 @@
     "round": 1,
     "pick": 7,
     "player": "Ja'Marr Chase",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 2,
     "pick": 6,
     "player": "Chris Olave",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 3,
     "pick": 7,
     "player": "James Cook",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 4,
     "pick": 6,
     "player": "Rashee Rice",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 5,
     "pick": 7,
     "player": "Anthony Richardson",
-    "position": ""
+    "position": "QB"
   },
   {
     "round": 6,
     "pick": 6,
     "player": "D'Andre Swift",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 7,
     "pick": 7,
     "player": "Brian Thomas Jr.",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 8,
     "pick": 6,
     "player": "Jerome Ford",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 9,
     "pick": 7,
     "player": "Jayden Daniels",
-    "position": ""
+    "position": "QB"
   },
   {
     "round": 10,
     "pick": 6,
     "player": "Brock Bowers",
-    "position": ""
+    "position": "TE"
   },
   {
     "round": 11,
     "pick": 7,
     "player": "Rico Dowdle",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 12,
     "pick": 6,
     "player": "Adonai Mitchell",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 13,
     "pick": 7,
     "player": "Jaylen Wright",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 14,
     "pick": 6,
     "player": "Khalil Herbert",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 15,
     "pick": 7,
     "player": "Tyrone Tracy Jr.",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 16,
     "pick": 6,
     "player": "Evan McPherson",
-    "position": ""
+    "position": "K"
   }
 ]

@@ -3,90 +3,90 @@
     "round": 1,
     "pick": 2,
     "player": "Bijan Robinson",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 2,
     "pick": 11,
     "player": "Tee Higgins",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 3,
     "pick": 2,
     "player": "Josh Allen",
-    "position": ""
+    "position": "QB"
   },
   {
     "round": 4,
     "pick": 11,
     "player": "James Conner",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 5,
     "pick": 2,
     "player": "Terry McLaurin",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 6,
     "pick": 11,
     "player": "T.J. Hockenson",
-    "position": ""
+    "position": "TE"
   },
   {
     "round": 7,
     "pick": 2,
     "player": "Rome Odunze",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 8,
     "pick": 11,
     "player": "Evan Engram",
-    "position": ""
+    "position": "TE"
   },
   {
     "round": 9,
     "pick": 2,
     "player": "Rhamondre Stevenson",
-    "position": ""
+    "position": "RB"
   },
   {
     "round": 10,
     "pick": 11,
     "player": "Rashid Shaheed",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 11,
     "pick": 2,
     "player": "C.J. Stroud",
-    "position": ""
+    "position": "QB"
   },
   {
     "round": 12,
     "pick": 11,
     "player": "Marvin Mims Jr.",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 13,
     "pick": 2,
     "player": "Cedric Tillman",
-    "position": ""
+    "position": "WR"
   },
   {
     "round": 14,
     "pick": 11,
     "player": "Chase McLaughlin",
-    "position": ""
+    "position": "K"
   },
   {
     "round": 15,
     "pick": 2,
     "player": "Darius Slayton",
-    "position": ""
+    "position": "WR"
   }
 ]
