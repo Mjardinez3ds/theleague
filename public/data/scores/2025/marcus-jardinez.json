@@ -1,0 +1,167 @@
+{
+  "year": 2025,
+  "weeks": [
+    {
+      "week": 1,
+      "score": 95.68,
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "opponent_score": 116.62,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "score": 128.1,
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "opponent_score": 130.74,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "score": 148.02,
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "opponent_score": 111.54,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "score": 111.12,
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "opponent_score": 138.76,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "score": 85.72,
+      "opponent": "Ricky Cano",
+      "opponent_slug": "ricky-cano",
+      "opponent_score": 134.32,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "score": 111.64,
+      "opponent": "Matthew Taylor",
+      "opponent_slug": "matthew-taylor",
+      "opponent_score": 65.7,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "score": 118.18,
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "opponent_score": 137.16,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "score": 89.48,
+      "opponent": "Super Shyguy",
+      "opponent_slug": "super-shyguy",
+      "opponent_score": 151.56,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "score": 107.26,
+      "opponent": "Christopher Jones",
+      "opponent_slug": "christopher-jones",
+      "opponent_score": 153.64,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "score": 86.5,
+      "opponent": "derf punk",
+      "opponent_slug": "derf-punk",
+      "opponent_score": 110.7,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "score": 111.54,
+      "opponent": "Devon Malki",
+      "opponent_slug": "devon-malki",
+      "opponent_score": 97.44,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "score": 115.06,
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "opponent_score": 85.26,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "score": 104.88,
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "opponent_score": 89.82,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "score": 128.48,
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "opponent_score": 128.54,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 15,
+      "score": 110.0,
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "opponent_score": 132.36,
+      "result": "L",
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "score": 121.9,
+      "opponent": "derf punk",
+      "opponent_slug": "derf-punk",
+      "opponent_score": 133.7,
+      "result": "L",
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "score": 114.44,
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "opponent_score": 52.7,
+      "result": "W",
+      "is_playoff": true
+    },
+    {
+      "week": 18,
+      "score": 114.44,
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "opponent_score": 52.7,
+      "result": "W",
+      "is_playoff": true
+    }
+  ]
+}

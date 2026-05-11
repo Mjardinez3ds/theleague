@@ -132,3 +132,31 @@ export const getUpcomingSeason = () =>
 // slug -> array of championship years
 export const getLegacyChampions = () =>
   readJson<Record<string, number[]>>("legacy_champions.json");
+
+export type WeekResult = {
+  week: number;
+  score: number;
+  opponent: string;
+  opponent_slug: string;
+  opponent_score: number;
+  result: "W" | "L" | "T";
+  is_playoff: boolean;
+};
+
+export type ManagerScores = {
+  year: number;
+  weeks: WeekResult[];
+};
+
+export const getManagerScores = (year: number, slug: string) =>
+  readJson<ManagerScores>(`scores/${year}/${slug}.json`);
+
+export type DraftPick = {
+  round: number;
+  pick: number;
+  player: string;
+  position: string;
+};
+
+export const getDraftPicks = (year: number, slug: string) =>
+  readJson<DraftPick[]>(`drafts/${year}/${slug}.json`);

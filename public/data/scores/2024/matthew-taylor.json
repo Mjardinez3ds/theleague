@@ -1,0 +1,167 @@
+{
+  "year": 2024,
+  "weeks": [
+    {
+      "week": 1,
+      "score": 137.02,
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "opponent_score": 83.12,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "score": 108.38,
+      "opponent": "Devon Malki",
+      "opponent_slug": "devon-malki",
+      "opponent_score": 118.74,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "score": 119.08,
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "opponent_score": 145.58,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "score": 114.44,
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "opponent_score": 129.68,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "score": 158.92,
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "opponent_score": 137.72,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "score": 96.42,
+      "opponent": "Denniell Grijalva",
+      "opponent_slug": "denniell-grijalva",
+      "opponent_score": 113.1,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "score": 164.34,
+      "opponent": "derf punk",
+      "opponent_slug": "derf-punk",
+      "opponent_score": 130.68,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "score": 112.76,
+      "opponent": "Faust Vinas",
+      "opponent_slug": "faust-vinas",
+      "opponent_score": 107.12,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "score": 126.1,
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "opponent_score": 139.5,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "score": 121.2,
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "opponent_score": 118.02,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "score": 110.28,
+      "opponent": "Super Shyguy",
+      "opponent_slug": "super-shyguy",
+      "opponent_score": 135.0,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "score": 101.78,
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "opponent_score": 107.26,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "score": 131.38,
+      "opponent": "Devon Malki",
+      "opponent_slug": "devon-malki",
+      "opponent_score": 77.5,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "score": 115.02,
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "opponent_score": 138.04,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 15,
+      "score": 200.0,
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "opponent_score": 94.34,
+      "result": "W",
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "score": 133.58,
+      "opponent": "Faust Vinas",
+      "opponent_slug": "faust-vinas",
+      "opponent_score": 72.58,
+      "result": "W",
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "score": 117.52,
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "opponent_score": 87.1,
+      "result": "W",
+      "is_playoff": true
+    },
+    {
+      "week": 18,
+      "score": 117.52,
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "opponent_score": 87.1,
+      "result": "W",
+      "is_playoff": true
+    }
+  ]
+}

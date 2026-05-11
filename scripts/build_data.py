@@ -350,6 +350,99 @@ def serialize_team(team, finish: int | None, owner_display: str, owner_slug: str
     }
 
 
+def build_scores(
+    leagues_by_year: dict,
+    canonical_by_raw: dict,
+    display_by_canonical: dict,
+    slug_by_canonical: dict,
+) -> None:
+    """
+    Fetch weekly matchup scores for every manager in every season.
+
+    Calls lg.scoreboard(scoring_period=N) for weeks 1-18, collecting the
+    team score and opponent for each matchup. Skips weeks where both sides
+    scored 0 (unplayed / bye). Saves one file per manager per year:
+        public/data/scores/{year}/{slug}.json
+    Schema: { year, weeks: [{week, score, opponent, opponent_slug,
+                              opponent_score, result, is_playoff}] }
+    """
+    for yr, lg in sorted(leagues_by_year.items()):
+        # Regular-season week count from league settings (default 14)
+        reg_weeks = getattr(lg.settings, "reg_season_count", 14)
+
+        # team_id -> (display, slug)
+        team_disp: dict[int, tuple[str, str]] = {}
+        for team in lg.teams:
+            raw_id = _raw_owner_id(team)
+            cid = canonical_by_raw.get(raw_id, "")
+            team_disp[team.team_id] = (
+                display_by_canonical.get(cid, "?"),
+                slug_by_canonical.get(cid, "unknown"),
+            )
+
+        scores_by_slug: dict[str, list] = {
+            slug_by_canonical.get(canonical_by_raw.get(_raw_owner_id(t), ""), "unknown"): []
+            for t in lg.teams
+        }
+
+        def _result(my: float, opp: float) -> str:
+            return "W" if my > opp else ("T" if my == opp else "L")
+
+        for week in range(1, 19):
+            try:
+                matchups = lg.box_scores(week)
+            except Exception:
+                break
+            if not matchups:
+                break
+
+            for m in matchups:
+                h_team = getattr(m, "home_team", None)
+                a_team = getattr(m, "away_team", None)
+                if h_team is None or a_team is None:
+                    continue
+
+                h_score = round(float(getattr(m, "home_score", 0) or 0), 2)
+                a_score = round(float(getattr(m, "away_score", 0) or 0), 2)
+
+                # Skip unplayed matchups
+                if h_score == 0 and a_score == 0:
+                    continue
+
+                h_disp, h_slug = team_disp.get(h_team.team_id, ("?", "unknown"))
+                a_disp, a_slug = team_disp.get(a_team.team_id, ("?", "unknown"))
+                is_playoff = bool(getattr(m, "is_playoff", week > reg_weeks))
+
+                if h_slug in scores_by_slug:
+                    scores_by_slug[h_slug].append({
+                        "week": week,
+                        "score": h_score,
+                        "opponent": a_disp,
+                        "opponent_slug": a_slug,
+                        "opponent_score": a_score,
+                        "result": _result(h_score, a_score),
+                        "is_playoff": is_playoff,
+                    })
+                if a_slug in scores_by_slug:
+                    scores_by_slug[a_slug].append({
+                        "week": week,
+                        "score": a_score,
+                        "opponent": h_disp,
+                        "opponent_slug": h_slug,
+                        "opponent_score": h_score,
+                        "result": _result(a_score, h_score),
+                        "is_playoff": is_playoff,
+                    })
+
+        total = 0
+        for slug, weeks in scores_by_slug.items():
+            if weeks:
+                weeks.sort(key=lambda w: w["week"])
+                write_json(f"scores/{yr}/{slug}.json", {"year": yr, "weeks": weeks})
+                total += len(weeks)
+        print(f"  scores {yr}: {total} matchup records across {len(scores_by_slug)} teams")
+
+
 def main():
     print(f"Building site data for league {LEAGUE_ID}…")
     started = time.time()
@@ -523,6 +616,12 @@ def main():
         build_trades(leagues_by_year, canonical_by_raw, display_by_canonical, slug_by_canonical)
     except Exception as e:
         print(f"  ! trades error: {e}")
+
+    # ---------- weekly scores ----------
+    try:
+        build_scores(leagues_by_year, canonical_by_raw, display_by_canonical, slug_by_canonical)
+    except Exception as e:
+        print(f"  ! scores error: {e}")
 
     print(f"\nDone in {time.time()-started:.1f}s. Files in {OUT_DIR}")
 

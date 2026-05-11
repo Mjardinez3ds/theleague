@@ -1,0 +1,167 @@
+{
+  "year": 2023,
+  "weeks": [
+    {
+      "week": 1,
+      "score": 122.0,
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "opponent_score": 130.56,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "score": 168.92,
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "opponent_score": 133.5,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "score": 129.48,
+      "opponent": "Anthony Richardson",
+      "opponent_slug": "anthony-richardson",
+      "opponent_score": 125.2,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "score": 125.26,
+      "opponent": "derf punk",
+      "opponent_slug": "derf-punk",
+      "opponent_score": 109.74,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "score": 160.72,
+      "opponent": "Ricky Cano",
+      "opponent_slug": "ricky-cano",
+      "opponent_score": 121.56,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "score": 126.0,
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "opponent_score": 104.6,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "score": 145.96,
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "opponent_score": 99.6,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "score": 134.36,
+      "opponent": "Abraham Pinales",
+      "opponent_slug": "abraham-pinales",
+      "opponent_score": 138.86,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "score": 103.58,
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "opponent_score": 148.0,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "score": 101.76,
+      "opponent": "Devon Malki",
+      "opponent_slug": "devon-malki",
+      "opponent_score": 169.96,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "score": 126.5,
+      "opponent": "Denniell Grijalva",
+      "opponent_slug": "denniell-grijalva",
+      "opponent_score": 115.24,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "score": 174.3,
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "opponent_score": 150.76,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "score": 155.42,
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "opponent_score": 166.62,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "score": 113.58,
+      "opponent": "Anthony Richardson",
+      "opponent_slug": "anthony-richardson",
+      "opponent_score": 114.84,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 15,
+      "score": 111.72,
+      "opponent": "Abraham Pinales",
+      "opponent_slug": "abraham-pinales",
+      "opponent_score": 120.94,
+      "result": "L",
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "score": 105.22,
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "opponent_score": 142.3,
+      "result": "L",
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "score": 92.38,
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "opponent_score": 135.02,
+      "result": "L",
+      "is_playoff": true
+    },
+    {
+      "week": 18,
+      "score": 92.38,
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "opponent_score": 135.02,
+      "result": "L",
+      "is_playoff": true
+    }
+  ]
+}

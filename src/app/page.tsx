@@ -81,12 +81,6 @@ export default async function HomePage() {
 
       <section className="space-y-2">
         <Link
-          href="/standings"
-          className="block rounded-xl border border-app bg-elev px-4 py-3 text-sm font-semibold active:bg-elev-2"
-        >
-          View 2025 Standings <span className="text-accent">→</span>
-        </Link>
-        <Link
           href="/history"
           className="block rounded-xl border border-app bg-elev px-4 py-3 text-sm font-semibold active:bg-elev-2"
         >
