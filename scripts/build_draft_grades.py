@@ -254,9 +254,32 @@ def median(xs: list[float]) -> float:
     return s[n//2] if n % 2 else (s[n//2 - 1] + s[n//2]) / 2
 
 
+def write_raw_adp(year: int, adp_list: list[dict]) -> None:
+    """
+    Persist the raw ADP fetch to disk so we never lose this data even if
+    Fantasy Football Calculator and FantasyPros both go away.
+    Output: public/data/adp/{year}.json
+    """
+    if not adp_list:
+        return
+    out_dir = OUT_DIR / "adp"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    payload = {
+        "year": year,
+        "fetched_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+        "count": len(adp_list),
+        "players": adp_list,
+    }
+    (out_dir / f"{year}.json").write_text(
+        json.dumps(payload, indent=2), encoding="utf-8"
+    )
+    print(f"  wrote raw ADP archive: adp/{year}.json ({len(adp_list)} players)")
+
+
 def build_year(year: int) -> int:
     """Build draft grades for one year. Returns count of files written."""
     adp_list = fetch_adp(year)
+    write_raw_adp(year, adp_list)  # Archive raw ADP for resilience
     players = fetch_player_points(year)
     actual_ranks = position_rankings(players)
     adp_ranks = adp_position_rankings(adp_list)

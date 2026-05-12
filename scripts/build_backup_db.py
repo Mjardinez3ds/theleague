@@ -242,10 +242,25 @@ CREATE TABLE IF NOT EXISTS trade_players (
     player_name TEXT    NOT NULL
 );
 
+-- ADP archive (loaded from public/data/adp/{year}.json, populated by
+-- build_draft_grades.py). Stored here so SQLite has the complete picture
+-- even if Fantasy Football Calculator and FantasyPros both go down.
+CREATE TABLE IF NOT EXISTS adp_picks (
+    year       INTEGER NOT NULL,
+    name       TEXT    NOT NULL,
+    position   TEXT,
+    team       TEXT,
+    adp        REAL,
+    adp_format TEXT,
+    stdev      REAL,
+    PRIMARY KEY (year, name)
+);
+
 CREATE INDEX IF NOT EXISTS idx_roster_year_week  ON roster_slots(year, week);
 CREATE INDEX IF NOT EXISTS idx_roster_owner      ON roster_slots(owner_slug);
 CREATE INDEX IF NOT EXISTS idx_matchups_year     ON matchups(year);
 CREATE INDEX IF NOT EXISTS idx_trades_year       ON trades(year);
+CREATE INDEX IF NOT EXISTS idx_adp_year          ON adp_picks(year);
 """
 
 
@@ -483,6 +498,36 @@ def main():
     conn.commit()
     print(f"  {trade_count} trades imported")
 
+    # ── ADP archive (loaded from JSONs written by build_draft_grades.py) ──
+    print("\nImporting ADP archive...")
+    adp_dir = Path(__file__).resolve().parent.parent / "public" / "data" / "adp"
+    adp_count = 0
+    if adp_dir.exists():
+        import json as _json
+        for f in sorted(adp_dir.glob("*.json")):
+            payload = _json.loads(f.read_text(encoding="utf-8"))
+            yr = payload["year"]
+            for p in payload.get("players", []):
+                conn.execute(
+                    "INSERT OR REPLACE INTO adp_picks "
+                    "(year, name, position, team, adp, adp_format, stdev) "
+                    "VALUES (?,?,?,?,?,?,?)",
+                    (
+                        yr,
+                        p.get("name", ""),
+                        p.get("position", ""),
+                        p.get("team", ""),
+                        p.get("adp"),
+                        p.get("adp_formatted"),
+                        p.get("stdev"),
+                    ),
+                )
+                adp_count += 1
+        conn.commit()
+        print(f"  {adp_count} ADP rows imported across {len(list(adp_dir.glob('*.json')))} years")
+    else:
+        print("  (no public/data/adp/ directory — run build_draft_grades.py first to populate)")
+
     # ── Meta ──────────────────────────────────────────────────────────────
     conn.execute("INSERT OR REPLACE INTO meta VALUES ('league_id', ?)", (str(LEAGUE_ID),))
     conn.execute("INSERT OR REPLACE INTO meta VALUES ('years', ?)",     (str(years),))
@@ -492,7 +537,7 @@ def main():
 
     # ── Summary ───────────────────────────────────────────────────────────
     print("\n-- Database summary ------------------------------------------")
-    for table in ("owners", "teams", "matchups", "roster_slots", "draft_picks", "trades", "trade_players"):
+    for table in ("owners", "teams", "matchups", "roster_slots", "draft_picks", "trades", "trade_players", "adp_picks"):
         n = conn.execute(f"SELECT COUNT(*) FROM {table}").fetchone()[0]
         print(f"  {table:<16} {n:>6} rows")
     conn.close()
