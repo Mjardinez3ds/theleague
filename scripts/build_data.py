@@ -370,6 +370,8 @@ def build_scores(
     box score lineup slots, used by the draft-pick builder below.
     """
     positions_by_year: dict[int, dict[int, str]] = {}
+    # h2h[my_slug][opp_slug] = {wins, losses, ties, pf, pa}
+    h2h: dict[str, dict[str, dict]] = {}
     for yr, lg in sorted(leagues_by_year.items()):
         # Regular-season week count from league settings (default 14)
         reg_weeks = getattr(lg.settings, "reg_season_count", 14)
@@ -477,7 +479,35 @@ def build_scores(
 
                 write_json(f"scores/{yr}/{slug}.json", {"year": yr, "weeks": deduped})
                 total += len(deduped)
+
+                # Accumulate H2H — keyed by (my_slug, opp_slug)
+                for w in deduped:
+                    opp = w["opponent_slug"]
+                    rec = h2h.setdefault(slug, {}).setdefault(opp, {
+                        "opponent": w["opponent"],
+                        "opponent_slug": opp,
+                        "wins": 0, "losses": 0, "ties": 0,
+                        "pf": 0.0, "pa": 0.0,
+                    })
+                    if w["result"] == "W":   rec["wins"]   += 1
+                    elif w["result"] == "L": rec["losses"] += 1
+                    else:                    rec["ties"]   += 1
+                    rec["pf"] += w["score"]
+                    rec["pa"] += w["opponent_score"]
+
         print(f"  scores {yr}: {total} matchup records across {len(scores_by_slug)} teams")
+
+    # Write H2H files — one per manager, sorted by games played desc
+    for slug, opponents in h2h.items():
+        records = sorted(
+            opponents.values(),
+            key=lambda r: -(r["wins"] + r["losses"] + r["ties"]),
+        )
+        for r in records:
+            r["pf"] = round(r["pf"], 2)
+            r["pa"] = round(r["pa"], 2)
+        write_json(f"h2h/{slug}.json", {"slug": slug, "records": records})
+    print(f"  h2h: wrote {len(h2h)} files")
 
     return positions_by_year
 

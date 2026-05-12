@@ -179,3 +179,21 @@ export type DraftBoardData = {
 
 export const getDraftBoard = (year: number) =>
   readJson<DraftBoardData>(`draft_board/${year}.json`);
+
+export type H2HRecord = {
+  opponent: string;
+  opponent_slug: string;
+  wins: number;
+  losses: number;
+  ties: number;
+  pf: number;
+  pa: number;
+};
+
+export type H2HData = {
+  slug: string;
+  records: H2HRecord[];
+};
+
+export const getH2H = (slug: string) =>
+  readJson<H2HData>(`h2h/${slug}.json`);

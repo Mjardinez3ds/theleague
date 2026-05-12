@@ -1,0 +1,131 @@
+{
+  "slug": "denniell-grijalva",
+  "records": [
+    {
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "wins": 2,
+      "losses": 4,
+      "ties": 0,
+      "pf": 579.16,
+      "pa": 617.1
+    },
+    {
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "wins": 2,
+      "losses": 3,
+      "ties": 0,
+      "pf": 599.52,
+      "pa": 630.28
+    },
+    {
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "wins": 2,
+      "losses": 2,
+      "ties": 0,
+      "pf": 484.02,
+      "pa": 464.24
+    },
+    {
+      "opponent": "derf punk",
+      "opponent_slug": "derf-punk",
+      "wins": 2,
+      "losses": 2,
+      "ties": 0,
+      "pf": 511.0,
+      "pa": 426.78
+    },
+    {
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "wins": 0,
+      "losses": 2,
+      "ties": 0,
+      "pf": 209.16,
+      "pa": 227.34
+    },
+    {
+      "opponent": "Anthony Richardson",
+      "opponent_slug": "anthony-richardson",
+      "wins": 1,
+      "losses": 1,
+      "ties": 0,
+      "pf": 211.0,
+      "pa": 223.36
+    },
+    {
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "wins": 0,
+      "losses": 2,
+      "ties": 0,
+      "pf": 189.64,
+      "pa": 268.46
+    },
+    {
+      "opponent": "Devon Malki",
+      "opponent_slug": "devon-malki",
+      "wins": 0,
+      "losses": 2,
+      "ties": 0,
+      "pf": 196.96,
+      "pa": 233.78
+    },
+    {
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "wins": 1,
+      "losses": 1,
+      "ties": 0,
+      "pf": 254.42,
+      "pa": 261.78
+    },
+    {
+      "opponent": "Abraham Pinales",
+      "opponent_slug": "abraham-pinales",
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "pf": 82.52,
+      "pa": 139.46
+    },
+    {
+      "opponent": "Ricky Cano",
+      "opponent_slug": "ricky-cano",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pf": 142.14,
+      "pa": 124.46
+    },
+    {
+      "opponent": "Super Shyguy",
+      "opponent_slug": "super-shyguy",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pf": 125.24,
+      "pa": 108.94
+    },
+    {
+      "opponent": "Matthew Taylor",
+      "opponent_slug": "matthew-taylor",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pf": 113.1,
+      "pa": 96.42
+    },
+    {
+      "opponent": "Faust Vinas",
+      "opponent_slug": "faust-vinas",
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "pf": 75.7,
+      "pa": 103.08
+    }
+  ]
+}

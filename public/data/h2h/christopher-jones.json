@@ -1,0 +1,104 @@
+{
+  "slug": "christopher-jones",
+  "records": [
+    {
+      "opponent": "Ricky Cano",
+      "opponent_slug": "ricky-cano",
+      "wins": 1,
+      "losses": 2,
+      "ties": 0,
+      "pf": 356.04,
+      "pa": 358.46
+    },
+    {
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "wins": 2,
+      "losses": 1,
+      "ties": 0,
+      "pf": 324.48,
+      "pa": 307.72
+    },
+    {
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "wins": 2,
+      "losses": 0,
+      "ties": 0,
+      "pf": 249.34,
+      "pa": 184.32
+    },
+    {
+      "opponent": "Matthew Taylor",
+      "opponent_slug": "matthew-taylor",
+      "wins": 1,
+      "losses": 1,
+      "ties": 0,
+      "pf": 175.94,
+      "pa": 211.28
+    },
+    {
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pf": 197.5,
+      "pa": 147.84
+    },
+    {
+      "opponent": "Super Shyguy",
+      "opponent_slug": "super-shyguy",
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "pf": 124.86,
+      "pa": 129.9
+    },
+    {
+      "opponent": "derf punk",
+      "opponent_slug": "derf-punk",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pf": 113.04,
+      "pa": 109.32
+    },
+    {
+      "opponent": "Devon Malki",
+      "opponent_slug": "devon-malki",
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "pf": 120.42,
+      "pa": 166.42
+    },
+    {
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pf": 153.64,
+      "pa": 107.26
+    },
+    {
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pf": 127.7,
+      "pa": 75.52
+    },
+    {
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "pf": 100.8,
+      "pa": 159.92
+    }
+  ]
+}
