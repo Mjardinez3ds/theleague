@@ -51,8 +51,9 @@ export default async function ManagerPage({
   const careerTitleYears = career.seasons
     .filter((s) => s.finish === 1)
     .map((s) => s.year);
+  // career.titles already includes legacy titles (merged in build_data.py)
   const allTitleYears = [...legacyTitleYears, ...careerTitleYears].sort();
-  const totalTitles = career.titles + legacyTitleYears.length;
+  const totalTitles = career.titles;
 
   // ----- Derived per-season highlights -----
   const games = career.wins + career.losses + career.ties;

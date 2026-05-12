@@ -594,6 +594,17 @@ def main():
         d["win_pct"] = round((d["wins"] + 0.5 * d["ties"]) / games * 100, 1) if games else 0
         d["games"] = games
 
+    # Merge legacy championships (pre-ESPN-data seasons, manually maintained)
+    # Only bumps the title count — no placeholder seasons injected, since those
+    # leagues are deleted and we have no real data for them.
+    legacy_path = OUT_DIR / "legacy_champions.json"
+    if legacy_path.exists():
+        legacy: dict[str, list[int]] = json.loads(legacy_path.read_text(encoding="utf-8"))
+        for slug, yrs in legacy.items():
+            if slug in careers:
+                careers[slug]["titles"] += len(yrs)
+        print(f"  legacy champions merged: {legacy}")
+
     write_json("careers.json", {
         "owners": sorted(careers.values(), key=lambda x: -x["win_pct"]),
     })
