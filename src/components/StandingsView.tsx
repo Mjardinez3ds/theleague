@@ -90,13 +90,11 @@ function AllTimeTable({ careers }: { careers: Career[] }) {
   // careers is already sorted by win_pct desc in build_data.py
   return (
     <section className="rounded-2xl border border-app bg-elev overflow-hidden">
-      <div className="grid grid-cols-[28px_1fr_56px_46px_56px_56px] items-center px-3 py-2 text-[10px] font-semibold tracking-wider text-muted uppercase border-b border-app">
+      <div className="grid grid-cols-[28px_1fr_64px_46px] items-center px-3 py-2 text-[10px] font-semibold tracking-wider text-muted uppercase border-b border-app">
         <div>#</div>
         <div>Owner</div>
         <div className="text-right">W-L</div>
         <div className="text-right">Win%</div>
-        <div className="text-right">PF</div>
-        <div className="text-right">PA</div>
       </div>
       <ul>
         {careers.map((o, i) => {
@@ -112,7 +110,7 @@ function AllTimeTable({ careers }: { careers: Career[] }) {
           return (
             <li
               key={o.slug}
-              className="grid grid-cols-[28px_1fr_56px_46px_56px_56px] items-center px-3 py-3 border-b border-app last:border-0 active:bg-elev-2"
+              className="grid grid-cols-[28px_1fr_64px_46px] items-center px-3 py-3 border-b border-app last:border-0 active:bg-elev-2"
             >
               <span className={`text-sm font-bold ${trophyColor}`}>
                 {rank}
@@ -137,12 +135,6 @@ function AllTimeTable({ careers }: { careers: Career[] }) {
               </span>
               <span className="text-right text-sm font-semibold tabular-nums text-accent">
                 {o.win_pct.toFixed(1)}
-              </span>
-              <span className="text-right text-sm tabular-nums">
-                {o.points_for.toFixed(0)}
-              </span>
-              <span className="text-right text-sm text-muted tabular-nums">
-                {o.points_against.toFixed(0)}
               </span>
             </li>
           );
