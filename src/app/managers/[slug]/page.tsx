@@ -64,7 +64,10 @@ export default async function ManagerPage({
   const finishes = career.seasons
     .map((s) => s.finish)
     .filter((f): f is number => f != null);
-  const bestFinish = finishes.length ? Math.min(...finishes) : null;
+  // If they have legacy championship years, their best finish is at least 1st
+  const bestFinish = legacyTitleYears.length > 0
+    ? 1
+    : finishes.length ? Math.min(...finishes) : null;
   const worstFinish = finishes.length ? Math.max(...finishes) : null;
   const avgFinish =
     finishes.length ? finishes.reduce((a, b) => a + b, 0) / finishes.length : null;
