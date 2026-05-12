@@ -1,0 +1,249 @@
+{
+  "year": 2025,
+  "slug": "george-duran",
+  "grade": "B",
+  "rank": 5,
+  "of": 12,
+  "median_value": 0,
+  "avg_value": -5.91,
+  "graded_pick_count": 11,
+  "steals_count": 4,
+  "busts_count": 3,
+  "steals": [
+    {
+      "round": 10,
+      "pick": 4,
+      "player": "Luther Burden III",
+      "position": "WR",
+      "actual_pts": 104.4,
+      "actual_pos_rank": 50,
+      "adp_pos_rank": 62,
+      "adp_pick": "176.20",
+      "value": 12
+    },
+    {
+      "round": 4,
+      "pick": 4,
+      "player": "Tetairoa McMillan",
+      "position": "WR",
+      "actual_pts": 176.4,
+      "actual_pos_rank": 15,
+      "adp_pos_rank": 25,
+      "adp_pick": "58.70",
+      "value": 10
+    },
+    {
+      "round": 2,
+      "pick": 4,
+      "player": "Puka Nacua",
+      "position": "WR",
+      "actual_pts": 310.5,
+      "actual_pos_rank": 1,
+      "adp_pos_rank": 6,
+      "adp_pick": "11.30",
+      "value": 5
+    },
+    {
+      "round": 7,
+      "pick": 9,
+      "player": "Tyler Warren",
+      "position": "TE",
+      "actual_pts": 150.5,
+      "actual_pos_rank": 5,
+      "adp_pos_rank": 10,
+      "adp_pick": "88.70",
+      "value": 5
+    }
+  ],
+  "busts": [
+    {
+      "round": 13,
+      "pick": 9,
+      "player": "Christian Kirk",
+      "position": "WR",
+      "actual_pts": 43.9,
+      "actual_pos_rank": 107,
+      "adp_pos_rank": 55,
+      "adp_pick": "151.00",
+      "value": -52
+    },
+    {
+      "round": 1,
+      "pick": 9,
+      "player": "Justin Jefferson",
+      "position": "WR",
+      "actual_pts": 159.5,
+      "actual_pos_rank": 25,
+      "adp_pos_rank": 3,
+      "adp_pick": "5.00",
+      "value": -22
+    },
+    {
+      "round": 3,
+      "pick": 9,
+      "player": "Omarion Hampton",
+      "position": "RB",
+      "actual_pts": 119.7,
+      "actual_pos_rank": 36,
+      "adp_pos_rank": 14,
+      "adp_pick": "35.80",
+      "value": -22
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 9,
+      "player": "Justin Jefferson",
+      "position": "WR",
+      "actual_pts": 159.5,
+      "actual_pos_rank": 25,
+      "adp_pos_rank": 3,
+      "adp_pick": "5.00",
+      "value": -22
+    },
+    {
+      "round": 2,
+      "pick": 4,
+      "player": "Puka Nacua",
+      "position": "WR",
+      "actual_pts": 310.5,
+      "actual_pos_rank": 1,
+      "adp_pos_rank": 6,
+      "adp_pick": "11.30",
+      "value": 5
+    },
+    {
+      "round": 3,
+      "pick": 9,
+      "player": "Omarion Hampton",
+      "position": "RB",
+      "actual_pts": 119.7,
+      "actual_pos_rank": 36,
+      "adp_pos_rank": 14,
+      "adp_pick": "35.80",
+      "value": -22
+    },
+    {
+      "round": 4,
+      "pick": 4,
+      "player": "Tetairoa McMillan",
+      "position": "WR",
+      "actual_pts": 176.4,
+      "actual_pos_rank": 15,
+      "adp_pos_rank": 25,
+      "adp_pick": "58.70",
+      "value": 10
+    },
+    {
+      "round": 5,
+      "pick": 9,
+      "player": "RJ Harvey",
+      "position": "RB",
+      "actual_pts": 183.1,
+      "actual_pos_rank": 21,
+      "adp_pos_rank": 23,
+      "adp_pick": "60.80",
+      "value": 2
+    },
+    {
+      "round": 6,
+      "pick": 4,
+      "player": "Rashee Rice",
+      "position": "WR",
+      "actual_pts": 123.6,
+      "actual_pos_rank": 41,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 7,
+      "pick": 9,
+      "player": "Tyler Warren",
+      "position": "TE",
+      "actual_pts": 150.5,
+      "actual_pos_rank": 5,
+      "adp_pos_rank": 10,
+      "adp_pick": "88.70",
+      "value": 5
+    },
+    {
+      "round": 8,
+      "pick": 4,
+      "player": "Bo Nix",
+      "position": "QB",
+      "actual_pts": 354.8,
+      "actual_pos_rank": 8,
+      "adp_pos_rank": 8,
+      "adp_pick": "70.70",
+      "value": 0
+    },
+    {
+      "round": 9,
+      "pick": 9,
+      "player": "Cam Skattebo",
+      "position": "RB",
+      "actual_pts": 115.7,
+      "actual_pos_rank": 39,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 10,
+      "pick": 4,
+      "player": "Luther Burden III",
+      "position": "WR",
+      "actual_pts": 104.4,
+      "actual_pos_rank": 50,
+      "adp_pos_rank": 62,
+      "adp_pick": "176.20",
+      "value": 12
+    },
+    {
+      "round": 11,
+      "pick": 9,
+      "player": "Tucker Kraft",
+      "position": "TE",
+      "actual_pts": 101.2,
+      "actual_pos_rank": 21,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 12,
+      "pick": 4,
+      "player": "Dylan Sampson",
+      "position": "RB",
+      "actual_pts": 71.1,
+      "actual_pos_rank": 56,
+      "adp_pos_rank": 53,
+      "adp_pick": "171.70",
+      "value": -3
+    },
+    {
+      "round": 13,
+      "pick": 9,
+      "player": "Christian Kirk",
+      "position": "WR",
+      "actual_pts": 43.9,
+      "actual_pos_rank": 107,
+      "adp_pos_rank": 55,
+      "adp_pick": "151.00",
+      "value": -52
+    },
+    {
+      "round": 15,
+      "pick": 9,
+      "player": "Keaton Mitchell",
+      "position": "RB",
+      "actual_pts": 50.9,
+      "actual_pos_rank": 66,
+      "adp_pos_rank": 66,
+      "adp_pick": "240.50",
+      "value": 0
+    }
+  ]
+}

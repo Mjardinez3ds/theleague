@@ -1,0 +1,271 @@
+{
+  "year": 2025,
+  "slug": "kevin-llerena",
+  "grade": "A",
+  "rank": 2,
+  "of": 12,
+  "median_value": 4.0,
+  "avg_value": 0.58,
+  "graded_pick_count": 12,
+  "steals_count": 7,
+  "busts_count": 4,
+  "steals": [
+    {
+      "round": 14,
+      "pick": 7,
+      "player": "Rico Dowdle",
+      "position": "RB",
+      "actual_pts": 196.8,
+      "actual_pos_rank": 17,
+      "adp_pos_rank": 56,
+      "adp_pick": "189.00",
+      "value": 39
+    },
+    {
+      "round": 7,
+      "pick": 6,
+      "player": "Michael Pittman Jr.",
+      "position": "WR",
+      "actual_pts": 162.4,
+      "actual_pos_rank": 22,
+      "adp_pos_rank": 47,
+      "adp_pick": "112.30",
+      "value": 25
+    },
+    {
+      "round": 10,
+      "pick": 7,
+      "player": "Keenan Allen",
+      "position": "WR",
+      "actual_pts": 142.2,
+      "actual_pos_rank": 34,
+      "adp_pos_rank": 53,
+      "adp_pick": "146.80",
+      "value": 19
+    },
+    {
+      "round": 3,
+      "pick": 6,
+      "player": "Davante Adams",
+      "position": "WR",
+      "actual_pts": 192.9,
+      "actual_pos_rank": 8,
+      "adp_pos_rank": 18,
+      "adp_pick": "40.30",
+      "value": 10
+    },
+    {
+      "round": 6,
+      "pick": 7,
+      "player": "Jakobi Meyers",
+      "position": "WR",
+      "actual_pts": 138.3,
+      "actual_pos_rank": 35,
+      "adp_pos_rank": 40,
+      "adp_pick": "90.80",
+      "value": 5
+    }
+  ],
+  "busts": [
+    {
+      "round": 11,
+      "pick": 6,
+      "player": "Rashod Bateman",
+      "position": "WR",
+      "actual_pts": 45.9,
+      "actual_pos_rank": 101,
+      "adp_pos_rank": 60,
+      "adp_pick": "172.20",
+      "value": -41
+    },
+    {
+      "round": 4,
+      "pick": 7,
+      "player": "Joe Burrow",
+      "position": "QB",
+      "actual_pts": 168.5,
+      "actual_pos_rank": 28,
+      "adp_pos_rank": 4,
+      "adp_pick": "33.30",
+      "value": -24
+    },
+    {
+      "round": 5,
+      "pick": 6,
+      "player": "Chuba Hubbard",
+      "position": "RB",
+      "actual_pts": 110.4,
+      "actual_pos_rank": 40,
+      "adp_pos_rank": 19,
+      "adp_pick": "46.20",
+      "value": -21
+    },
+    {
+      "round": 8,
+      "pick": 7,
+      "player": "Mark Andrews",
+      "position": "TE",
+      "actual_pts": 107.0,
+      "actual_pos_rank": 16,
+      "adp_pos_rank": 7,
+      "adp_pick": "74.30",
+      "value": -9
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 6,
+      "player": "Christian McCaffrey",
+      "position": "RB",
+      "actual_pts": 365.6,
+      "actual_pos_rank": 1,
+      "adp_pos_rank": 4,
+      "adp_pick": "8.20",
+      "value": 3
+    },
+    {
+      "round": 2,
+      "pick": 7,
+      "player": "Josh Jacobs",
+      "position": "RB",
+      "actual_pts": 219.1,
+      "actual_pos_rank": 12,
+      "adp_pos_rank": 8,
+      "adp_pick": "16.00",
+      "value": -4
+    },
+    {
+      "round": 3,
+      "pick": 6,
+      "player": "Davante Adams",
+      "position": "WR",
+      "actual_pts": 192.9,
+      "actual_pos_rank": 8,
+      "adp_pos_rank": 18,
+      "adp_pick": "40.30",
+      "value": 10
+    },
+    {
+      "round": 4,
+      "pick": 7,
+      "player": "Joe Burrow",
+      "position": "QB",
+      "actual_pts": 168.5,
+      "actual_pos_rank": 28,
+      "adp_pos_rank": 4,
+      "adp_pick": "33.30",
+      "value": -24
+    },
+    {
+      "round": 5,
+      "pick": 6,
+      "player": "Chuba Hubbard",
+      "position": "RB",
+      "actual_pts": 110.4,
+      "actual_pos_rank": 40,
+      "adp_pos_rank": 19,
+      "adp_pick": "46.20",
+      "value": -21
+    },
+    {
+      "round": 6,
+      "pick": 7,
+      "player": "Jakobi Meyers",
+      "position": "WR",
+      "actual_pts": 138.3,
+      "actual_pos_rank": 35,
+      "adp_pos_rank": 40,
+      "adp_pick": "90.80",
+      "value": 5
+    },
+    {
+      "round": 7,
+      "pick": 6,
+      "player": "Michael Pittman Jr.",
+      "position": "WR",
+      "actual_pts": 162.4,
+      "actual_pos_rank": 22,
+      "adp_pos_rank": 47,
+      "adp_pick": "112.30",
+      "value": 25
+    },
+    {
+      "round": 8,
+      "pick": 7,
+      "player": "Mark Andrews",
+      "position": "TE",
+      "actual_pts": 107.0,
+      "actual_pos_rank": 16,
+      "adp_pos_rank": 7,
+      "adp_pick": "74.30",
+      "value": -9
+    },
+    {
+      "round": 9,
+      "pick": 6,
+      "player": "Austin Ekeler",
+      "position": "RB",
+      "actual_pts": 10.6,
+      "actual_pos_rank": 102,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 10,
+      "pick": 7,
+      "player": "Keenan Allen",
+      "position": "WR",
+      "actual_pts": 142.2,
+      "actual_pos_rank": 34,
+      "adp_pos_rank": 53,
+      "adp_pick": "146.80",
+      "value": 19
+    },
+    {
+      "round": 11,
+      "pick": 6,
+      "player": "Rashod Bateman",
+      "position": "WR",
+      "actual_pts": 45.9,
+      "actual_pos_rank": 101,
+      "adp_pos_rank": 60,
+      "adp_pick": "172.20",
+      "value": -41
+    },
+    {
+      "round": 12,
+      "pick": 7,
+      "player": "Zach Ertz",
+      "position": "TE",
+      "actual_pts": 101.4,
+      "actual_pos_rank": 20,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 13,
+      "pick": 6,
+      "player": "Jared Goff",
+      "position": "QB",
+      "actual_pts": 365.1,
+      "actual_pos_rank": 7,
+      "adp_pos_rank": 12,
+      "adp_pick": "105.70",
+      "value": 5
+    },
+    {
+      "round": 14,
+      "pick": 7,
+      "player": "Rico Dowdle",
+      "position": "RB",
+      "actual_pts": 196.8,
+      "actual_pos_rank": 17,
+      "adp_pos_rank": 56,
+      "adp_pick": "189.00",
+      "value": 39
+    }
+  ]
+}

@@ -25,6 +25,7 @@ import time
 from pathlib import Path
 
 import requests
+from bs4 import BeautifulSoup
 
 # Reuse the ESPN League factory + paths from build_data
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -34,25 +35,95 @@ OUT_DIR = bd.OUT_DIR
 DRAFTS_DIR = OUT_DIR / "drafts"
 GRADES_DIR = OUT_DIR / "draft_grades"
 
-# Years we have ADP for. 2025 returns "No ADP data found" from FFC.
-ADP_YEARS = [2023, 2024]
+# All seasons we want to grade. FFC has 2023+2024, FantasyPros covers 2025.
+ADP_YEARS = [2023, 2024, 2025]
 
 GRADED_POSITIONS = {"QB", "RB", "WR", "TE"}
 
-
-def adp_url(year: int) -> str:
-    return f"https://fantasyfootballcalculator.com/api/v1/adp/ppr?teams=12&year={year}"
+UA = {"User-Agent": "Mozilla/5.0 (compatible; theleague-web/1.0)"}
 
 
-def fetch_adp(year: int) -> list[dict]:
-    """Returns list of {name, position, team, adp, adp_formatted, stdev}."""
-    print(f"  fetching ADP for {year}…")
-    r = requests.get(adp_url(year), timeout=30)
+def fetch_adp_ffc(year: int) -> list[dict]:
+    """Fantasy Football Calculator's free API. Returns [] if unavailable."""
+    url = f"https://fantasyfootballcalculator.com/api/v1/adp/ppr?teams=12&year={year}"
+    print(f"  fetching ADP from FFC for {year}…")
+    r = requests.get(url, timeout=30)
     r.raise_for_status()
     data = r.json()
     if data.get("status") != "Success":
-        raise RuntimeError(f"ADP fetch failed for {year}: {data}")
+        return []
     return data.get("players", [])
+
+
+_ADP_TEAM_RE = re.compile(r"^(.*?)([A-Z]{2,3})(?:\([^)]+\))?$")
+_ADP_POS_RE = re.compile(r"^([A-Z]+)(\d+)?$")
+
+def fetch_adp_fantasypros(year: int) -> list[dict]:
+    """
+    Scrape FantasyPros' PPR overall ADP archive page. Used for years that FFC
+    doesn't have (currently 2025).
+    Table cell format:
+      [rank, "Player NameTEAM(bye)", "WR1", ..., "1.0", "1"]
+    """
+    url = f"https://www.fantasypros.com/nfl/adp/ppr-overall.php?year={year}"
+    print(f"  fetching ADP from FantasyPros for {year}…")
+    r = requests.get(url, headers=UA, timeout=30)
+    r.raise_for_status()
+    soup = BeautifulSoup(r.text, "html.parser")
+    table = soup.find("table", id="data")
+    if not table:
+        return []
+
+    out: list[dict] = []
+    for tr in table.find("tbody").find_all("tr"):
+        cells = [td.get_text(strip=True) for td in tr.find_all("td")]
+        if len(cells) < 4:
+            continue
+        # Column 1: "Ja'Marr ChaseCIN(10)" -> name=Ja'Marr Chase, team=CIN
+        raw = cells[1]
+        # Strip the (bye) suffix
+        raw = re.sub(r"\([^)]*\)$", "", raw).strip()
+        m = _ADP_TEAM_RE.match(raw)
+        if m:
+            name = m.group(1).strip()
+            team = m.group(2)
+        else:
+            name, team = raw, ""
+
+        # Column 2: position rank like "WR1", "RB12"
+        pos_m = _ADP_POS_RE.match(cells[2] or "")
+        position = pos_m.group(1) if pos_m else ""
+
+        # ADP is the second-to-last column (last is std dev / vs ECR)
+        try:
+            adp = float(cells[-2])
+        except (ValueError, IndexError):
+            continue
+
+        # Translate FantasyPros' "DST" to our "D/ST" convention
+        if position == "DST":
+            position = "D/ST"
+
+        # FantasyPros ADP is already in "round.pick" format (e.g. 18.05 = R18 P5)
+        out.append({
+            "name": name,
+            "position": position,
+            "team": team,
+            "adp": adp,
+            "adp_formatted": f"{int(adp)}.{int(round((adp - int(adp)) * 100)):02d}",
+        })
+    return out
+
+
+def fetch_adp(year: int) -> list[dict]:
+    """Try FFC first (cleaner data), fall back to FantasyPros."""
+    try:
+        ffc = fetch_adp_ffc(year)
+        if ffc:
+            return ffc
+    except Exception as e:
+        print(f"  ! FFC fetch failed for {year}: {e}")
+    return fetch_adp_fantasypros(year)
 
 
 def normalize_name(name: str) -> str:

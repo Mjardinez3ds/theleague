@@ -1,0 +1,260 @@
+{
+  "year": 2025,
+  "slug": "christopher-jones",
+  "grade": "A+",
+  "rank": 1,
+  "of": 12,
+  "median_value": 4.0,
+  "avg_value": 1.4,
+  "graded_pick_count": 10,
+  "steals_count": 5,
+  "busts_count": 4,
+  "steals": [
+    {
+      "round": 14,
+      "pick": 2,
+      "player": "Kareem Hunt",
+      "position": "RB",
+      "actual_pts": 136.4,
+      "actual_pos_rank": 30,
+      "adp_pos_rank": 58,
+      "adp_pick": "206.30",
+      "value": 28
+    },
+    {
+      "round": 5,
+      "pick": 11,
+      "player": "George Pickens",
+      "position": "WR",
+      "actual_pts": 245.4,
+      "actual_pos_rank": 5,
+      "adp_pos_rank": 29,
+      "adp_pick": "65.70",
+      "value": 24
+    },
+    {
+      "round": 8,
+      "pick": 2,
+      "player": "Stefon Diggs",
+      "position": "WR",
+      "actual_pts": 167.8,
+      "actual_pos_rank": 18,
+      "adp_pos_rank": 39,
+      "adp_pick": "87.50",
+      "value": 21
+    },
+    {
+      "round": 9,
+      "pick": 11,
+      "player": "Kyle Pitts Sr.",
+      "position": "TE",
+      "actual_pts": 166.8,
+      "actual_pos_rank": 2,
+      "adp_pos_rank": 14,
+      "adp_pick": "135.70",
+      "value": 12
+    },
+    {
+      "round": 6,
+      "pick": 2,
+      "player": "D'Andre Swift",
+      "position": "RB",
+      "actual_pts": 211.6,
+      "actual_pos_rank": 15,
+      "adp_pos_rank": 21,
+      "adp_pick": "56.20",
+      "value": 6
+    }
+  ],
+  "busts": [
+    {
+      "round": 10,
+      "pick": 2,
+      "player": "Chris Godwin Jr.",
+      "position": "WR",
+      "actual_pts": 66.5,
+      "actual_pos_rank": 79,
+      "adp_pos_rank": 45,
+      "adp_pick": "107.00",
+      "value": -34
+    },
+    {
+      "round": 4,
+      "pick": 2,
+      "player": "Marvin Harrison Jr.",
+      "position": "WR",
+      "actual_pts": 107.3,
+      "actual_pos_rank": 49,
+      "adp_pos_rank": 19,
+      "adp_pick": "41.80",
+      "value": -30
+    },
+    {
+      "round": 2,
+      "pick": 2,
+      "player": "Drake London",
+      "position": "WR",
+      "actual_pts": 167.9,
+      "actual_pos_rank": 17,
+      "adp_pos_rank": 9,
+      "adp_pick": "19.20",
+      "value": -8
+    },
+    {
+      "round": 1,
+      "pick": 11,
+      "player": "Ashton Jeanty",
+      "position": "RB",
+      "actual_pts": 217.6,
+      "actual_pos_rank": 13,
+      "adp_pos_rank": 6,
+      "adp_pick": "10.70",
+      "value": -7
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 11,
+      "player": "Ashton Jeanty",
+      "position": "RB",
+      "actual_pts": 217.6,
+      "actual_pos_rank": 13,
+      "adp_pos_rank": 6,
+      "adp_pick": "10.70",
+      "value": -7
+    },
+    {
+      "round": 2,
+      "pick": 2,
+      "player": "Drake London",
+      "position": "WR",
+      "actual_pts": 167.9,
+      "actual_pos_rank": 17,
+      "adp_pos_rank": 9,
+      "adp_pick": "19.20",
+      "value": -8
+    },
+    {
+      "round": 3,
+      "pick": 11,
+      "player": "Jayden Daniels",
+      "position": "QB",
+      "actual_pts": 130.3,
+      "actual_pos_rank": 34,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 4,
+      "pick": 2,
+      "player": "Marvin Harrison Jr.",
+      "position": "WR",
+      "actual_pts": 107.3,
+      "actual_pos_rank": 49,
+      "adp_pos_rank": 19,
+      "adp_pick": "41.80",
+      "value": -30
+    },
+    {
+      "round": 5,
+      "pick": 11,
+      "player": "George Pickens",
+      "position": "WR",
+      "actual_pts": 245.4,
+      "actual_pos_rank": 5,
+      "adp_pos_rank": 29,
+      "adp_pick": "65.70",
+      "value": 24
+    },
+    {
+      "round": 6,
+      "pick": 2,
+      "player": "D'Andre Swift",
+      "position": "RB",
+      "actual_pts": 211.6,
+      "actual_pos_rank": 15,
+      "adp_pos_rank": 21,
+      "adp_pick": "56.20",
+      "value": 6
+    },
+    {
+      "round": 7,
+      "pick": 11,
+      "player": "Travis Kelce",
+      "position": "TE",
+      "actual_pts": 155.2,
+      "actual_pos_rank": 3,
+      "adp_pos_rank": 5,
+      "adp_pick": "62.50",
+      "value": 2
+    },
+    {
+      "round": 8,
+      "pick": 2,
+      "player": "Stefon Diggs",
+      "position": "WR",
+      "actual_pts": 167.8,
+      "actual_pos_rank": 18,
+      "adp_pos_rank": 39,
+      "adp_pick": "87.50",
+      "value": 21
+    },
+    {
+      "round": 9,
+      "pick": 11,
+      "player": "Kyle Pitts Sr.",
+      "position": "TE",
+      "actual_pts": 166.8,
+      "actual_pos_rank": 2,
+      "adp_pos_rank": 14,
+      "adp_pick": "135.70",
+      "value": 12
+    },
+    {
+      "round": 10,
+      "pick": 2,
+      "player": "Chris Godwin Jr.",
+      "position": "WR",
+      "actual_pts": 66.5,
+      "actual_pos_rank": 79,
+      "adp_pos_rank": 45,
+      "adp_pick": "107.00",
+      "value": -34
+    },
+    {
+      "round": 12,
+      "pick": 2,
+      "player": "Jerome Ford",
+      "position": "RB",
+      "actual_pts": 30.6,
+      "actual_pos_rank": 75,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 13,
+      "pick": 11,
+      "player": "Kyler Murray",
+      "position": "QB",
+      "actual_pts": 89.8,
+      "actual_pos_rank": 38,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 14,
+      "pick": 2,
+      "player": "Kareem Hunt",
+      "position": "RB",
+      "actual_pts": 136.4,
+      "actual_pos_rank": 30,
+      "adp_pos_rank": 58,
+      "adp_pick": "206.30",
+      "value": 28
+    }
+  ]
+}

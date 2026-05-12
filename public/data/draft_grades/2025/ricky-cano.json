@@ -1,0 +1,260 @@
+{
+  "year": 2025,
+  "slug": "ricky-cano",
+  "grade": "C",
+  "rank": 8,
+  "of": 12,
+  "median_value": -4,
+  "avg_value": -6.54,
+  "graded_pick_count": 13,
+  "steals_count": 3,
+  "busts_count": 6,
+  "steals": [
+    {
+      "round": 15,
+      "pick": 2,
+      "player": "Darius Slayton",
+      "position": "WR",
+      "actual_pts": 80.3,
+      "actual_pos_rank": 64,
+      "adp_pos_rank": 87,
+      "adp_pick": "278.00",
+      "value": 23
+    },
+    {
+      "round": 9,
+      "pick": 2,
+      "player": "Rhamondre Stevenson",
+      "position": "RB",
+      "actual_pts": 162.8,
+      "actual_pos_rank": 25,
+      "adp_pos_rank": 38,
+      "adp_pick": "114.20",
+      "value": 13
+    },
+    {
+      "round": 10,
+      "pick": 11,
+      "player": "Rashid Shaheed",
+      "position": "WR",
+      "actual_pts": 127.1,
+      "actual_pos_rank": 39,
+      "adp_pos_rank": 52,
+      "adp_pick": "145.50",
+      "value": 13
+    }
+  ],
+  "busts": [
+    {
+      "round": 5,
+      "pick": 2,
+      "player": "Terry McLaurin",
+      "position": "WR",
+      "actual_pts": 95.2,
+      "actual_pos_rank": 54,
+      "adp_pos_rank": 15,
+      "adp_pick": "39.30",
+      "value": -39
+    },
+    {
+      "round": 13,
+      "pick": 2,
+      "player": "Cedric Tillman",
+      "position": "WR",
+      "actual_pts": 49.5,
+      "actual_pos_rank": 98,
+      "adp_pos_rank": 66,
+      "adp_pick": "199.30",
+      "value": -32
+    },
+    {
+      "round": 6,
+      "pick": 11,
+      "player": "T.J. Hockenson",
+      "position": "TE",
+      "actual_pts": 87.3,
+      "actual_pos_rank": 26,
+      "adp_pos_rank": 6,
+      "adp_pick": "63.50",
+      "value": -20
+    },
+    {
+      "round": 8,
+      "pick": 11,
+      "player": "Evan Engram",
+      "position": "TE",
+      "actual_pts": 77.8,
+      "actual_pos_rank": 29,
+      "adp_pos_rank": 9,
+      "adp_pick": "84.70",
+      "value": -20
+    },
+    {
+      "round": 12,
+      "pick": 11,
+      "player": "Marvin Mims Jr.",
+      "position": "WR",
+      "actual_pts": 74.5,
+      "actual_pos_rank": 67,
+      "adp_pos_rank": 57,
+      "adp_pick": "151.70",
+      "value": -10
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 2,
+      "player": "Bijan Robinson",
+      "position": "RB",
+      "actual_pts": 331.3,
+      "actual_pos_rank": 3,
+      "adp_pos_rank": 1,
+      "adp_pick": "2.20",
+      "value": -2
+    },
+    {
+      "round": 2,
+      "pick": 11,
+      "player": "Tee Higgins",
+      "position": "WR",
+      "actual_pts": 182.1,
+      "actual_pos_rank": 12,
+      "adp_pos_rank": 12,
+      "adp_pick": "31.30",
+      "value": 0
+    },
+    {
+      "round": 3,
+      "pick": 2,
+      "player": "Josh Allen",
+      "position": "QB",
+      "actual_pts": 414.6,
+      "actual_pos_rank": 2,
+      "adp_pos_rank": 1,
+      "adp_pick": "20.20",
+      "value": -1
+    },
+    {
+      "round": 4,
+      "pick": 11,
+      "player": "James Conner",
+      "position": "RB",
+      "actual_pts": 29.3,
+      "actual_pos_rank": 78,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 5,
+      "pick": 2,
+      "player": "Terry McLaurin",
+      "position": "WR",
+      "actual_pts": 95.2,
+      "actual_pos_rank": 54,
+      "adp_pos_rank": 15,
+      "adp_pick": "39.30",
+      "value": -39
+    },
+    {
+      "round": 6,
+      "pick": 11,
+      "player": "T.J. Hockenson",
+      "position": "TE",
+      "actual_pts": 87.3,
+      "actual_pos_rank": 26,
+      "adp_pos_rank": 6,
+      "adp_pick": "63.50",
+      "value": -20
+    },
+    {
+      "round": 7,
+      "pick": 2,
+      "player": "Rome Odunze",
+      "position": "WR",
+      "actual_pts": 124.1,
+      "actual_pos_rank": 40,
+      "adp_pos_rank": 34,
+      "adp_pick": "81.30",
+      "value": -6
+    },
+    {
+      "round": 8,
+      "pick": 11,
+      "player": "Evan Engram",
+      "position": "TE",
+      "actual_pts": 77.8,
+      "actual_pos_rank": 29,
+      "adp_pos_rank": 9,
+      "adp_pick": "84.70",
+      "value": -20
+    },
+    {
+      "round": 9,
+      "pick": 2,
+      "player": "Rhamondre Stevenson",
+      "position": "RB",
+      "actual_pts": 162.8,
+      "actual_pos_rank": 25,
+      "adp_pos_rank": 38,
+      "adp_pick": "114.20",
+      "value": 13
+    },
+    {
+      "round": 10,
+      "pick": 11,
+      "player": "Rashid Shaheed",
+      "position": "WR",
+      "actual_pts": 127.1,
+      "actual_pos_rank": 39,
+      "adp_pos_rank": 52,
+      "adp_pick": "145.50",
+      "value": 13
+    },
+    {
+      "round": 11,
+      "pick": 2,
+      "player": "C.J. Stroud",
+      "position": "QB",
+      "actual_pts": 246.5,
+      "actual_pos_rank": 21,
+      "adp_pos_rank": 17,
+      "adp_pick": "130.80",
+      "value": -4
+    },
+    {
+      "round": 12,
+      "pick": 11,
+      "player": "Marvin Mims Jr.",
+      "position": "WR",
+      "actual_pts": 74.5,
+      "actual_pos_rank": 67,
+      "adp_pos_rank": 57,
+      "adp_pick": "151.70",
+      "value": -10
+    },
+    {
+      "round": 13,
+      "pick": 2,
+      "player": "Cedric Tillman",
+      "position": "WR",
+      "actual_pts": 49.5,
+      "actual_pos_rank": 98,
+      "adp_pos_rank": 66,
+      "adp_pick": "199.30",
+      "value": -32
+    },
+    {
+      "round": 15,
+      "pick": 2,
+      "player": "Darius Slayton",
+      "position": "WR",
+      "actual_pts": 80.3,
+      "actual_pos_rank": 64,
+      "adp_pos_rank": 87,
+      "adp_pick": "278.00",
+      "value": 23
+    }
+  ]
+}

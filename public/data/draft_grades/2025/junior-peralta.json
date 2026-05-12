@@ -1,0 +1,271 @@
+{
+  "year": 2025,
+  "slug": "junior-peralta",
+  "grade": "B",
+  "rank": 6,
+  "of": 12,
+  "median_value": -2,
+  "avg_value": -2.77,
+  "graded_pick_count": 13,
+  "steals_count": 4,
+  "busts_count": 6,
+  "steals": [
+    {
+      "round": 14,
+      "pick": 5,
+      "player": "Malik Washington",
+      "position": "WR",
+      "actual_pts": 93.7,
+      "actual_pos_rank": 56,
+      "adp_pos_rank": 118,
+      "adp_pick": "324.30",
+      "value": 62
+    },
+    {
+      "round": 9,
+      "pick": 8,
+      "player": "Jauan Jennings",
+      "position": "WR",
+      "actual_pts": 145.8,
+      "actual_pos_rank": 31,
+      "adp_pos_rank": 46,
+      "adp_pick": "109.70",
+      "value": 15
+    },
+    {
+      "round": 7,
+      "pick": 8,
+      "player": "Jaylen Warren",
+      "position": "RB",
+      "actual_pts": 197.1,
+      "actual_pos_rank": 16,
+      "adp_pos_rank": 29,
+      "adp_pick": "87.50",
+      "value": 13
+    },
+    {
+      "round": 12,
+      "pick": 5,
+      "player": "Dallas Goedert",
+      "position": "TE",
+      "actual_pts": 155.1,
+      "actual_pos_rank": 4,
+      "adp_pos_rank": 16,
+      "adp_pick": "142.30",
+      "value": 12
+    }
+  ],
+  "busts": [
+    {
+      "round": 6,
+      "pick": 5,
+      "player": "Matthew Golden",
+      "position": "WR",
+      "actual_pts": 55.5,
+      "actual_pos_rank": 89,
+      "adp_pos_rank": 41,
+      "adp_pick": "92.20",
+      "value": -48
+    },
+    {
+      "round": 11,
+      "pick": 8,
+      "player": "Jaydon Blue",
+      "position": "RB",
+      "actual_pts": 19.9,
+      "actual_pos_rank": 89,
+      "adp_pos_rank": 46,
+      "adp_pick": "142.30",
+      "value": -43
+    },
+    {
+      "round": 5,
+      "pick": 8,
+      "player": "Jerry Jeudy",
+      "position": "WR",
+      "actual_pts": 95.7,
+      "actual_pos_rank": 53,
+      "adp_pos_rank": 33,
+      "adp_pick": "74.50",
+      "value": -20
+    },
+    {
+      "round": 10,
+      "pick": 5,
+      "player": "Nick Chubb",
+      "position": "RB",
+      "actual_pts": 81.8,
+      "actual_pos_rank": 54,
+      "adp_pos_rank": 42,
+      "adp_pick": "128.80",
+      "value": -12
+    },
+    {
+      "round": 4,
+      "pick": 5,
+      "player": "DJ Moore",
+      "position": "WR",
+      "actual_pts": 147.2,
+      "actual_pos_rank": 30,
+      "adp_pos_rank": 21,
+      "adp_pick": "49.70",
+      "value": -9
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 8,
+      "player": "Nico Collins",
+      "position": "WR",
+      "actual_pts": 190.7,
+      "actual_pos_rank": 9,
+      "adp_pos_rank": 7,
+      "adp_pick": "13.20",
+      "value": -2
+    },
+    {
+      "round": 2,
+      "pick": 5,
+      "player": "Chase Brown",
+      "position": "RB",
+      "actual_pts": 248.1,
+      "actual_pos_rank": 8,
+      "adp_pos_rank": 10,
+      "adp_pick": "21.20",
+      "value": 2
+    },
+    {
+      "round": 3,
+      "pick": 8,
+      "player": "Tyreek Hill",
+      "position": "WR",
+      "actual_pts": 43.0,
+      "actual_pos_rank": 108,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 4,
+      "pick": 5,
+      "player": "DJ Moore",
+      "position": "WR",
+      "actual_pts": 147.2,
+      "actual_pos_rank": 30,
+      "adp_pos_rank": 21,
+      "adp_pick": "49.70",
+      "value": -9
+    },
+    {
+      "round": 5,
+      "pick": 8,
+      "player": "Jerry Jeudy",
+      "position": "WR",
+      "actual_pts": 95.7,
+      "actual_pos_rank": 53,
+      "adp_pos_rank": 33,
+      "adp_pick": "74.50",
+      "value": -20
+    },
+    {
+      "round": 6,
+      "pick": 5,
+      "player": "Matthew Golden",
+      "position": "WR",
+      "actual_pts": 55.5,
+      "actual_pos_rank": 89,
+      "adp_pos_rank": 41,
+      "adp_pick": "92.20",
+      "value": -48
+    },
+    {
+      "round": 7,
+      "pick": 8,
+      "player": "Jaylen Warren",
+      "position": "RB",
+      "actual_pts": 197.1,
+      "actual_pos_rank": 16,
+      "adp_pos_rank": 29,
+      "adp_pick": "87.50",
+      "value": 13
+    },
+    {
+      "round": 8,
+      "pick": 5,
+      "player": "Baker Mayfield",
+      "position": "QB",
+      "actual_pts": 323.9,
+      "actual_pos_rank": 12,
+      "adp_pos_rank": 7,
+      "adp_pick": "62.50",
+      "value": -5
+    },
+    {
+      "round": 9,
+      "pick": 8,
+      "player": "Jauan Jennings",
+      "position": "WR",
+      "actual_pts": 145.8,
+      "actual_pos_rank": 31,
+      "adp_pos_rank": 46,
+      "adp_pick": "109.70",
+      "value": 15
+    },
+    {
+      "round": 10,
+      "pick": 5,
+      "player": "Nick Chubb",
+      "position": "RB",
+      "actual_pts": 81.8,
+      "actual_pos_rank": 54,
+      "adp_pos_rank": 42,
+      "adp_pick": "128.80",
+      "value": -12
+    },
+    {
+      "round": 11,
+      "pick": 8,
+      "player": "Jaydon Blue",
+      "position": "RB",
+      "actual_pts": 19.9,
+      "actual_pos_rank": 89,
+      "adp_pos_rank": 46,
+      "adp_pick": "142.30",
+      "value": -43
+    },
+    {
+      "round": 12,
+      "pick": 5,
+      "player": "Dallas Goedert",
+      "position": "TE",
+      "actual_pts": 155.1,
+      "actual_pos_rank": 4,
+      "adp_pos_rank": 16,
+      "adp_pick": "142.30",
+      "value": 12
+    },
+    {
+      "round": 13,
+      "pick": 8,
+      "player": "Brenton Strange",
+      "position": "TE",
+      "actual_pts": 95.0,
+      "actual_pos_rank": 23,
+      "adp_pos_rank": 22,
+      "adp_pick": "197.50",
+      "value": -1
+    },
+    {
+      "round": 14,
+      "pick": 5,
+      "player": "Malik Washington",
+      "position": "WR",
+      "actual_pts": 93.7,
+      "actual_pos_rank": 56,
+      "adp_pos_rank": 118,
+      "adp_pick": "324.30",
+      "value": 62
+    }
+  ]
+}

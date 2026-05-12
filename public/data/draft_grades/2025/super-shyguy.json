@@ -1,0 +1,260 @@
+{
+  "year": 2025,
+  "slug": "super-shyguy",
+  "grade": "B+",
+  "rank": 3,
+  "of": 12,
+  "median_value": 1,
+  "avg_value": 5.54,
+  "graded_pick_count": 13,
+  "steals_count": 6,
+  "busts_count": 4,
+  "steals": [
+    {
+      "round": 13,
+      "pick": 7,
+      "player": "Wan'Dale Robinson",
+      "position": "WR",
+      "actual_pts": 171.9,
+      "actual_pos_rank": 16,
+      "adp_pos_rank": 64,
+      "adp_pick": "189.30",
+      "value": 48
+    },
+    {
+      "round": 7,
+      "pick": 7,
+      "player": "Chris Olave",
+      "position": "WR",
+      "actual_pts": 218.0,
+      "actual_pos_rank": 6,
+      "adp_pos_rank": 35,
+      "adp_pick": "82.30",
+      "value": 29
+    },
+    {
+      "round": 6,
+      "pick": 6,
+      "player": "Zay Flowers",
+      "position": "WR",
+      "actual_pts": 200.3,
+      "actual_pos_rank": 7,
+      "adp_pos_rank": 27,
+      "adp_pick": "61.80",
+      "value": 20
+    },
+    {
+      "round": 8,
+      "pick": 6,
+      "player": "Travis Etienne Jr.",
+      "position": "RB",
+      "actual_pts": 235.9,
+      "actual_pos_rank": 10,
+      "adp_pos_rank": 30,
+      "adp_pick": "98.80",
+      "value": 20
+    },
+    {
+      "round": 15,
+      "pick": 7,
+      "player": "Caleb Williams",
+      "position": "QB",
+      "actual_pts": 371.2,
+      "actual_pos_rank": 6,
+      "adp_pos_rank": 15,
+      "adp_pick": "122.20",
+      "value": 9
+    }
+  ],
+  "busts": [
+    {
+      "round": 10,
+      "pick": 6,
+      "player": "Darnell Mooney",
+      "position": "WR",
+      "actual_pts": 66.3,
+      "actual_pos_rank": 80,
+      "adp_pos_rank": 51,
+      "adp_pick": "139.50",
+      "value": -29
+    },
+    {
+      "round": 1,
+      "pick": 7,
+      "player": "CeeDee Lamb",
+      "position": "WR",
+      "actual_pts": 163.4,
+      "actual_pos_rank": 20,
+      "adp_pos_rank": 2,
+      "adp_pick": "5.00",
+      "value": -18
+    },
+    {
+      "round": 9,
+      "pick": 7,
+      "player": "J.K. Dobbins",
+      "position": "RB",
+      "actual_pts": 110.4,
+      "actual_pos_rank": 41,
+      "adp_pos_rank": 34,
+      "adp_pick": "104.80",
+      "value": -7
+    },
+    {
+      "round": 12,
+      "pick": 6,
+      "player": "Dalton Kincaid",
+      "position": "TE",
+      "actual_pts": 106.6,
+      "actual_pos_rank": 18,
+      "adp_pos_rank": 13,
+      "adp_pick": "129.80",
+      "value": -5
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 7,
+      "player": "CeeDee Lamb",
+      "position": "WR",
+      "actual_pts": 163.4,
+      "actual_pos_rank": 20,
+      "adp_pos_rank": 2,
+      "adp_pick": "5.00",
+      "value": -18
+    },
+    {
+      "round": 2,
+      "pick": 6,
+      "player": "Jonathan Taylor",
+      "position": "RB",
+      "actual_pts": 339.3,
+      "actual_pos_rank": 2,
+      "adp_pos_rank": 9,
+      "adp_pick": "19.80",
+      "value": 7
+    },
+    {
+      "round": 3,
+      "pick": 7,
+      "player": "Trey McBride",
+      "position": "TE",
+      "actual_pts": 252.9,
+      "actual_pos_rank": 1,
+      "adp_pos_rank": 2,
+      "adp_pick": "28.00",
+      "value": 1
+    },
+    {
+      "round": 4,
+      "pick": 6,
+      "player": "Jalen Hurts",
+      "position": "QB",
+      "actual_pts": 349.1,
+      "actual_pos_rank": 9,
+      "adp_pos_rank": 5,
+      "adp_pick": "35.20",
+      "value": -4
+    },
+    {
+      "round": 5,
+      "pick": 7,
+      "player": "Tony Pollard",
+      "position": "RB",
+      "actual_pts": 169.3,
+      "actual_pos_rank": 24,
+      "adp_pos_rank": 25,
+      "adp_pick": "65.20",
+      "value": 1
+    },
+    {
+      "round": 6,
+      "pick": 6,
+      "player": "Zay Flowers",
+      "position": "WR",
+      "actual_pts": 200.3,
+      "actual_pos_rank": 7,
+      "adp_pos_rank": 27,
+      "adp_pick": "61.80",
+      "value": 20
+    },
+    {
+      "round": 7,
+      "pick": 7,
+      "player": "Chris Olave",
+      "position": "WR",
+      "actual_pts": 218.0,
+      "actual_pos_rank": 6,
+      "adp_pos_rank": 35,
+      "adp_pick": "82.30",
+      "value": 29
+    },
+    {
+      "round": 8,
+      "pick": 6,
+      "player": "Travis Etienne Jr.",
+      "position": "RB",
+      "actual_pts": 235.9,
+      "actual_pos_rank": 10,
+      "adp_pos_rank": 30,
+      "adp_pick": "98.80",
+      "value": 20
+    },
+    {
+      "round": 9,
+      "pick": 7,
+      "player": "J.K. Dobbins",
+      "position": "RB",
+      "actual_pts": 110.4,
+      "actual_pos_rank": 41,
+      "adp_pos_rank": 34,
+      "adp_pick": "104.80",
+      "value": -7
+    },
+    {
+      "round": 10,
+      "pick": 6,
+      "player": "Darnell Mooney",
+      "position": "WR",
+      "actual_pts": 66.3,
+      "actual_pos_rank": 80,
+      "adp_pos_rank": 51,
+      "adp_pick": "139.50",
+      "value": -29
+    },
+    {
+      "round": 12,
+      "pick": 6,
+      "player": "Dalton Kincaid",
+      "position": "TE",
+      "actual_pts": 106.6,
+      "actual_pos_rank": 18,
+      "adp_pos_rank": 13,
+      "adp_pick": "129.80",
+      "value": -5
+    },
+    {
+      "round": 13,
+      "pick": 7,
+      "player": "Wan'Dale Robinson",
+      "position": "WR",
+      "actual_pts": 171.9,
+      "actual_pos_rank": 16,
+      "adp_pos_rank": 64,
+      "adp_pick": "189.30",
+      "value": 48
+    },
+    {
+      "round": 15,
+      "pick": 7,
+      "player": "Caleb Williams",
+      "position": "QB",
+      "actual_pts": 371.2,
+      "actual_pos_rank": 6,
+      "adp_pos_rank": 15,
+      "adp_pick": "122.20",
+      "value": 9
+    }
+  ]
+}

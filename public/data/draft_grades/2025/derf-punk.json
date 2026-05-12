@@ -1,0 +1,260 @@
+{
+  "year": 2025,
+  "slug": "derf-punk",
+  "grade": "F",
+  "rank": 11,
+  "of": 12,
+  "median_value": -5.0,
+  "avg_value": -6.64,
+  "graded_pick_count": 14,
+  "steals_count": 3,
+  "busts_count": 7,
+  "steals": [
+    {
+      "round": 5,
+      "pick": 4,
+      "player": "Jameson Williams",
+      "position": "WR",
+      "actual_pts": 187.4,
+      "actual_pos_rank": 10,
+      "adp_pos_rank": 26,
+      "adp_pick": "60.20",
+      "value": 16
+    },
+    {
+      "round": 13,
+      "pick": 4,
+      "player": "Tyler Allgeier",
+      "position": "RB",
+      "actual_pts": 116.0,
+      "actual_pos_rank": 38,
+      "adp_pos_rank": 52,
+      "adp_pick": "169.20",
+      "value": 14
+    },
+    {
+      "round": 8,
+      "pick": 9,
+      "player": "Deebo Samuel",
+      "position": "WR",
+      "actual_pts": 152.2,
+      "actual_pos_rank": 28,
+      "adp_pos_rank": 36,
+      "adp_pick": "84.00",
+      "value": 8
+    }
+  ],
+  "busts": [
+    {
+      "round": 15,
+      "pick": 4,
+      "player": "Tre' Harris",
+      "position": "WR",
+      "actual_pts": 54.4,
+      "actual_pos_rank": 94,
+      "adp_pos_rank": 59,
+      "adp_pick": "170.30",
+      "value": -35
+    },
+    {
+      "round": 11,
+      "pick": 4,
+      "player": "Trey Benson",
+      "position": "RB",
+      "actual_pts": 28.9,
+      "actual_pos_rank": 79,
+      "adp_pos_rank": 49,
+      "adp_pick": "156.50",
+      "value": -30
+    },
+    {
+      "round": 10,
+      "pick": 9,
+      "player": "Brian Robinson Jr.",
+      "position": "RB",
+      "actual_pts": 58.5,
+      "actual_pos_rank": 61,
+      "adp_pos_rank": 41,
+      "adp_pick": "126.80",
+      "value": -20
+    },
+    {
+      "round": 9,
+      "pick": 4,
+      "player": "Keon Coleman",
+      "position": "WR",
+      "actual_pts": 83.4,
+      "actual_pos_rank": 61,
+      "adp_pos_rank": 48,
+      "adp_pick": "118.00",
+      "value": -13
+    },
+    {
+      "round": 7,
+      "pick": 4,
+      "player": "Brock Purdy",
+      "position": "QB",
+      "actual_pts": 217.4,
+      "actual_pos_rank": 22,
+      "adp_pos_rank": 10,
+      "adp_pick": "100.00",
+      "value": -12
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 4,
+      "player": "Jahmyr Gibbs",
+      "position": "RB",
+      "actual_pts": 328.4,
+      "actual_pos_rank": 4,
+      "adp_pos_rank": 3,
+      "adp_pick": "4.20",
+      "value": -1
+    },
+    {
+      "round": 2,
+      "pick": 9,
+      "player": "A.J. Brown",
+      "position": "WR",
+      "actual_pts": 181.3,
+      "actual_pos_rank": 14,
+      "adp_pos_rank": 10,
+      "adp_pick": "20.30",
+      "value": -4
+    },
+    {
+      "round": 3,
+      "pick": 4,
+      "player": "TreVeyon Henderson",
+      "position": "RB",
+      "actual_pts": 188.7,
+      "actual_pos_rank": 19,
+      "adp_pos_rank": 18,
+      "adp_pick": "44.70",
+      "value": -1
+    },
+    {
+      "round": 4,
+      "pick": 9,
+      "player": "George Kittle",
+      "position": "TE",
+      "actual_pts": 133.0,
+      "actual_pos_rank": 13,
+      "adp_pos_rank": 3,
+      "adp_pick": "38.20",
+      "value": -10
+    },
+    {
+      "round": 5,
+      "pick": 4,
+      "player": "Jameson Williams",
+      "position": "WR",
+      "actual_pts": 187.4,
+      "actual_pos_rank": 10,
+      "adp_pos_rank": 26,
+      "adp_pick": "60.20",
+      "value": 16
+    },
+    {
+      "round": 6,
+      "pick": 9,
+      "player": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "actual_pts": 135.8,
+      "actual_pos_rank": 31,
+      "adp_pos_rank": 32,
+      "adp_pick": "102.20",
+      "value": 1
+    },
+    {
+      "round": 7,
+      "pick": 4,
+      "player": "Brock Purdy",
+      "position": "QB",
+      "actual_pts": 217.4,
+      "actual_pos_rank": 22,
+      "adp_pos_rank": 10,
+      "adp_pick": "100.00",
+      "value": -12
+    },
+    {
+      "round": 8,
+      "pick": 9,
+      "player": "Deebo Samuel",
+      "position": "WR",
+      "actual_pts": 152.2,
+      "actual_pos_rank": 28,
+      "adp_pos_rank": 36,
+      "adp_pick": "84.00",
+      "value": 8
+    },
+    {
+      "round": 9,
+      "pick": 4,
+      "player": "Keon Coleman",
+      "position": "WR",
+      "actual_pts": 83.4,
+      "actual_pos_rank": 61,
+      "adp_pos_rank": 48,
+      "adp_pick": "118.00",
+      "value": -13
+    },
+    {
+      "round": 10,
+      "pick": 9,
+      "player": "Brian Robinson Jr.",
+      "position": "RB",
+      "actual_pts": 58.5,
+      "actual_pos_rank": 61,
+      "adp_pos_rank": 41,
+      "adp_pick": "126.80",
+      "value": -20
+    },
+    {
+      "round": 11,
+      "pick": 4,
+      "player": "Trey Benson",
+      "position": "RB",
+      "actual_pts": 28.9,
+      "actual_pos_rank": 79,
+      "adp_pos_rank": 49,
+      "adp_pick": "156.50",
+      "value": -30
+    },
+    {
+      "round": 12,
+      "pick": 9,
+      "player": "Ray Davis",
+      "position": "RB",
+      "actual_pts": 59.1,
+      "actual_pos_rank": 60,
+      "adp_pos_rank": 54,
+      "adp_pick": "173.70",
+      "value": -6
+    },
+    {
+      "round": 13,
+      "pick": 4,
+      "player": "Tyler Allgeier",
+      "position": "RB",
+      "actual_pts": 116.0,
+      "actual_pos_rank": 38,
+      "adp_pos_rank": 52,
+      "adp_pick": "169.20",
+      "value": 14
+    },
+    {
+      "round": 15,
+      "pick": 4,
+      "player": "Tre' Harris",
+      "position": "WR",
+      "actual_pts": 54.4,
+      "actual_pos_rank": 94,
+      "adp_pos_rank": 59,
+      "adp_pick": "170.30",
+      "value": -35
+    }
+  ]
+}

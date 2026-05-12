@@ -1,0 +1,271 @@
+{
+  "year": 2025,
+  "slug": "kevin-liang",
+  "grade": "D",
+  "rank": 10,
+  "of": 12,
+  "median_value": -4,
+  "avg_value": -22.91,
+  "graded_pick_count": 11,
+  "steals_count": 4,
+  "busts_count": 5,
+  "steals": [
+    {
+      "round": 9,
+      "pick": 5,
+      "player": "Javonte Williams",
+      "position": "RB",
+      "actual_pts": 225.3,
+      "actual_pos_rank": 11,
+      "adp_pos_rank": 36,
+      "adp_pick": "111.70",
+      "value": 25
+    },
+    {
+      "round": 12,
+      "pick": 8,
+      "player": "Jayden Higgins",
+      "position": "WR",
+      "actual_pts": 109.0,
+      "actual_pos_rank": 46,
+      "adp_pos_rank": 56,
+      "adp_pick": "151.20",
+      "value": 10
+    },
+    {
+      "round": 3,
+      "pick": 5,
+      "player": "James Cook III",
+      "position": "RB",
+      "actual_pts": 285.7,
+      "actual_pos_rank": 6,
+      "adp_pos_rank": 13,
+      "adp_pick": "29.50",
+      "value": 7
+    },
+    {
+      "round": 5,
+      "pick": 5,
+      "player": "DeVonta Smith",
+      "position": "WR",
+      "actual_pts": 163.3,
+      "actual_pos_rank": 21,
+      "adp_pos_rank": 24,
+      "adp_pick": "57.70",
+      "value": 3
+    }
+  ],
+  "busts": [
+    {
+      "round": 13,
+      "pick": 5,
+      "player": "Brandon Aiyuk",
+      "position": "WR",
+      "actual_pts": 0.0,
+      "actual_pos_rank": 193,
+      "adp_pos_rank": 54,
+      "adp_pick": "147.20",
+      "value": -139
+    },
+    {
+      "round": 10,
+      "pick": 8,
+      "player": "Joe Mixon",
+      "position": "RB",
+      "actual_pts": 0.0,
+      "actual_pos_rank": 133,
+      "adp_pos_rank": 39,
+      "adp_pick": "117.50",
+      "value": -94
+    },
+    {
+      "round": 6,
+      "pick": 8,
+      "player": "Sam LaPorta",
+      "position": "TE",
+      "actual_pts": 86.9,
+      "actual_pos_rank": 27,
+      "adp_pos_rank": 4,
+      "adp_pick": "53.20",
+      "value": -23
+    },
+    {
+      "round": 2,
+      "pick": 8,
+      "player": "Bucky Irving",
+      "position": "RB",
+      "actual_pts": 123.5,
+      "actual_pos_rank": 33,
+      "adp_pos_rank": 11,
+      "adp_pick": "21.80",
+      "value": -22
+    },
+    {
+      "round": 8,
+      "pick": 8,
+      "player": "Cooper Kupp",
+      "position": "WR",
+      "actual_pts": 92.8,
+      "actual_pos_rank": 57,
+      "adp_pos_rank": 42,
+      "adp_pick": "92.50",
+      "value": -15
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 5,
+      "player": "Malik Nabers",
+      "position": "WR",
+      "actual_pts": 48.1,
+      "actual_pos_rank": 99,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 2,
+      "pick": 8,
+      "player": "Bucky Irving",
+      "position": "RB",
+      "actual_pts": 123.5,
+      "actual_pos_rank": 33,
+      "adp_pos_rank": 11,
+      "adp_pick": "21.80",
+      "value": -22
+    },
+    {
+      "round": 3,
+      "pick": 5,
+      "player": "James Cook III",
+      "position": "RB",
+      "actual_pts": 285.7,
+      "actual_pos_rank": 6,
+      "adp_pos_rank": 13,
+      "adp_pick": "29.50",
+      "value": 7
+    },
+    {
+      "round": 4,
+      "pick": 8,
+      "player": "Garrett Wilson",
+      "position": "WR",
+      "actual_pts": 81.5,
+      "actual_pos_rank": 62,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 5,
+      "pick": 5,
+      "player": "DeVonta Smith",
+      "position": "WR",
+      "actual_pts": 163.3,
+      "actual_pos_rank": 21,
+      "adp_pos_rank": 24,
+      "adp_pick": "57.70",
+      "value": 3
+    },
+    {
+      "round": 6,
+      "pick": 8,
+      "player": "Sam LaPorta",
+      "position": "TE",
+      "actual_pts": 86.9,
+      "actual_pos_rank": 27,
+      "adp_pos_rank": 4,
+      "adp_pick": "53.20",
+      "value": -23
+    },
+    {
+      "round": 7,
+      "pick": 5,
+      "player": "David Montgomery",
+      "position": "RB",
+      "actual_pts": 156.9,
+      "actual_pos_rank": 26,
+      "adp_pos_rank": 22,
+      "adp_pick": "60.50",
+      "value": -4
+    },
+    {
+      "round": 8,
+      "pick": 8,
+      "player": "Cooper Kupp",
+      "position": "WR",
+      "actual_pts": 92.8,
+      "actual_pos_rank": 57,
+      "adp_pos_rank": 42,
+      "adp_pick": "92.50",
+      "value": -15
+    },
+    {
+      "round": 9,
+      "pick": 5,
+      "player": "Javonte Williams",
+      "position": "RB",
+      "actual_pts": 225.3,
+      "actual_pos_rank": 11,
+      "adp_pos_rank": 36,
+      "adp_pick": "111.70",
+      "value": 25
+    },
+    {
+      "round": 10,
+      "pick": 8,
+      "player": "Joe Mixon",
+      "position": "RB",
+      "actual_pts": 0.0,
+      "actual_pos_rank": 133,
+      "adp_pos_rank": 39,
+      "adp_pick": "117.50",
+      "value": -94
+    },
+    {
+      "round": 11,
+      "pick": 5,
+      "player": "Colston Loveland",
+      "position": "TE",
+      "actual_pts": 136.1,
+      "actual_pos_rank": 12,
+      "adp_pos_rank": 12,
+      "adp_pick": "115.70",
+      "value": 0
+    },
+    {
+      "round": 12,
+      "pick": 8,
+      "player": "Jayden Higgins",
+      "position": "WR",
+      "actual_pts": 109.0,
+      "actual_pos_rank": 46,
+      "adp_pos_rank": 56,
+      "adp_pick": "151.20",
+      "value": 10
+    },
+    {
+      "round": 13,
+      "pick": 5,
+      "player": "Brandon Aiyuk",
+      "position": "WR",
+      "actual_pts": 0.0,
+      "actual_pos_rank": 193,
+      "adp_pos_rank": 54,
+      "adp_pick": "147.20",
+      "value": -139
+    },
+    {
+      "round": 14,
+      "pick": 8,
+      "player": "Michael Penix Jr.",
+      "position": "QB",
+      "actual_pts": 138.3,
+      "actual_pos_rank": 33,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    }
+  ]
+}

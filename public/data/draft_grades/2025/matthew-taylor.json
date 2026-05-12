@@ -1,0 +1,249 @@
+{
+  "year": 2025,
+  "slug": "matthew-taylor",
+  "grade": "F",
+  "rank": 12,
+  "of": 12,
+  "median_value": -17,
+  "avg_value": -20.54,
+  "graded_pick_count": 13,
+  "steals_count": 2,
+  "busts_count": 9,
+  "steals": [
+    {
+      "round": 5,
+      "pick": 1,
+      "player": "Courtland Sutton",
+      "position": "WR",
+      "actual_pts": 182.7,
+      "actual_pos_rank": 11,
+      "adp_pos_rank": 22,
+      "adp_pick": "52.80",
+      "value": 11
+    },
+    {
+      "round": 13,
+      "pick": 1,
+      "player": "DeMario Douglas",
+      "position": "WR",
+      "actual_pts": 80.3,
+      "actual_pos_rank": 65,
+      "adp_pos_rank": 69,
+      "adp_pick": "205.20",
+      "value": 4
+    }
+  ],
+  "busts": [
+    {
+      "round": 9,
+      "pick": 1,
+      "player": "Jayden Reed",
+      "position": "WR",
+      "actual_pts": 39.0,
+      "actual_pos_rank": 116,
+      "adp_pos_rank": 50,
+      "adp_pick": "129.00",
+      "value": -66
+    },
+    {
+      "round": 4,
+      "pick": 12,
+      "player": "Mike Evans",
+      "position": "WR",
+      "actual_pts": 69.8,
+      "actual_pos_rank": 77,
+      "adp_pos_rank": 16,
+      "adp_pick": "40.00",
+      "value": -61
+    },
+    {
+      "round": 15,
+      "pick": 1,
+      "player": "Dameon Pierce",
+      "position": "RB",
+      "actual_pts": 3.6,
+      "actual_pos_rank": 123,
+      "adp_pos_rank": 83,
+      "adp_pick": "275.30",
+      "value": -40
+    },
+    {
+      "round": 3,
+      "pick": 1,
+      "player": "Alvin Kamara",
+      "position": "RB",
+      "actual_pts": 84.2,
+      "actual_pos_rank": 50,
+      "adp_pos_rank": 15,
+      "adp_pick": "37.00",
+      "value": -35
+    },
+    {
+      "round": 8,
+      "pick": 12,
+      "player": "David Njoku",
+      "position": "TE",
+      "actual_pts": 69.8,
+      "actual_pos_rank": 32,
+      "adp_pos_rank": 8,
+      "adp_pick": "84.20",
+      "value": -24
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 1,
+      "player": "Saquon Barkley",
+      "position": "RB",
+      "actual_pts": 213.8,
+      "actual_pos_rank": 14,
+      "adp_pos_rank": 2,
+      "adp_pick": "3.70",
+      "value": -12
+    },
+    {
+      "round": 2,
+      "pick": 12,
+      "player": "Lamar Jackson",
+      "position": "QB",
+      "actual_pts": 256.9,
+      "actual_pos_rank": 20,
+      "adp_pos_rank": 2,
+      "adp_pick": "21.50",
+      "value": -18
+    },
+    {
+      "round": 3,
+      "pick": 1,
+      "player": "Alvin Kamara",
+      "position": "RB",
+      "actual_pts": 84.2,
+      "actual_pos_rank": 50,
+      "adp_pos_rank": 15,
+      "adp_pick": "37.00",
+      "value": -35
+    },
+    {
+      "round": 4,
+      "pick": 12,
+      "player": "Mike Evans",
+      "position": "WR",
+      "actual_pts": 69.8,
+      "actual_pos_rank": 77,
+      "adp_pos_rank": 16,
+      "adp_pick": "40.00",
+      "value": -61
+    },
+    {
+      "round": 5,
+      "pick": 1,
+      "player": "Courtland Sutton",
+      "position": "WR",
+      "actual_pts": 182.7,
+      "actual_pos_rank": 11,
+      "adp_pos_rank": 22,
+      "adp_pick": "52.80",
+      "value": 11
+    },
+    {
+      "round": 6,
+      "pick": 12,
+      "player": "Aaron Jones Sr.",
+      "position": "RB",
+      "actual_pts": 104.7,
+      "actual_pos_rank": 43,
+      "adp_pos_rank": 26,
+      "adp_pick": "65.30",
+      "value": -17
+    },
+    {
+      "round": 7,
+      "pick": 1,
+      "player": "Tyrone Tracy Jr.",
+      "position": "RB",
+      "actual_pts": 142.8,
+      "actual_pos_rank": 28,
+      "adp_pos_rank": 27,
+      "adp_pick": "80.70",
+      "value": -1
+    },
+    {
+      "round": 8,
+      "pick": 12,
+      "player": "David Njoku",
+      "position": "TE",
+      "actual_pts": 69.8,
+      "actual_pos_rank": 32,
+      "adp_pos_rank": 8,
+      "adp_pick": "84.20",
+      "value": -24
+    },
+    {
+      "round": 9,
+      "pick": 1,
+      "player": "Jayden Reed",
+      "position": "WR",
+      "actual_pts": 39.0,
+      "actual_pos_rank": 116,
+      "adp_pos_rank": 50,
+      "adp_pick": "129.00",
+      "value": -66
+    },
+    {
+      "round": 10,
+      "pick": 12,
+      "player": "Xavier Legette",
+      "position": "WR",
+      "actual_pts": 71.8,
+      "actual_pos_rank": 71,
+      "adp_pos_rank": 63,
+      "adp_pick": "177.20",
+      "value": -8
+    },
+    {
+      "round": 11,
+      "pick": 1,
+      "player": "Najee Harris",
+      "position": "RB",
+      "actual_pts": 10.1,
+      "actual_pos_rank": 104,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 13,
+      "pick": 1,
+      "player": "DeMario Douglas",
+      "position": "WR",
+      "actual_pts": 80.3,
+      "actual_pos_rank": 65,
+      "adp_pos_rank": 69,
+      "adp_pick": "205.20",
+      "value": 4
+    },
+    {
+      "round": 14,
+      "pick": 12,
+      "player": "Justice Hill",
+      "position": "RB",
+      "actual_pts": 54.7,
+      "actual_pos_rank": 62,
+      "adp_pos_rank": 62,
+      "adp_pick": "218.00",
+      "value": 0
+    },
+    {
+      "round": 15,
+      "pick": 1,
+      "player": "Dameon Pierce",
+      "position": "RB",
+      "actual_pts": 3.6,
+      "actual_pos_rank": 123,
+      "adp_pos_rank": 83,
+      "adp_pick": "275.30",
+      "value": -40
+    }
+  ]
+}

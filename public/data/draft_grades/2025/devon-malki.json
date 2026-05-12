@@ -1,0 +1,271 @@
+{
+  "year": 2025,
+  "slug": "devon-malki",
+  "grade": "C",
+  "rank": 7,
+  "of": 12,
+  "median_value": -2,
+  "avg_value": -5.73,
+  "graded_pick_count": 11,
+  "steals_count": 5,
+  "busts_count": 4,
+  "steals": [
+    {
+      "round": 11,
+      "pick": 3,
+      "player": "Romeo Doubs",
+      "position": "WR",
+      "actual_pts": 137.9,
+      "actual_pos_rank": 36,
+      "adp_pos_rank": 68,
+      "adp_pick": "203.70",
+      "value": 32
+    },
+    {
+      "round": 12,
+      "pick": 10,
+      "player": "Rachaad White",
+      "position": "RB",
+      "actual_pts": 123.0,
+      "actual_pos_rank": 34,
+      "adp_pos_rank": 47,
+      "adp_pick": "145.50",
+      "value": 13
+    },
+    {
+      "round": 7,
+      "pick": 3,
+      "player": "Jaylen Waddle",
+      "position": "WR",
+      "actual_pts": 162.1,
+      "actual_pos_rank": 23,
+      "adp_pos_rank": 32,
+      "adp_pick": "72.20",
+      "value": 9
+    },
+    {
+      "round": 8,
+      "pick": 10,
+      "player": "Khalil Shakir",
+      "position": "WR",
+      "actual_pts": 130.4,
+      "actual_pos_rank": 38,
+      "adp_pos_rank": 44,
+      "adp_pick": "105.70",
+      "value": 6
+    },
+    {
+      "round": 3,
+      "pick": 3,
+      "player": "Kyren Williams",
+      "position": "RB",
+      "actual_pts": 245.3,
+      "actual_pos_rank": 9,
+      "adp_pos_rank": 12,
+      "adp_pick": "24.20",
+      "value": 3
+    }
+  ],
+  "busts": [
+    {
+      "round": 13,
+      "pick": 3,
+      "player": "Adam Thielen",
+      "position": "WR",
+      "actual_pts": 30.1,
+      "actual_pos_rank": 126,
+      "adp_pos_rank": 61,
+      "adp_pick": "172.80",
+      "value": -65
+    },
+    {
+      "round": 6,
+      "pick": 10,
+      "player": "Isiah Pacheco",
+      "position": "RB",
+      "actual_pts": 77.8,
+      "actual_pos_rank": 55,
+      "adp_pos_rank": 24,
+      "adp_pick": "60.80",
+      "value": -31
+    },
+    {
+      "round": 10,
+      "pick": 10,
+      "player": "Tank Bigsby",
+      "position": "RB",
+      "actual_pts": 52.3,
+      "actual_pos_rank": 63,
+      "adp_pos_rank": 44,
+      "adp_pick": "135.20",
+      "value": -19
+    },
+    {
+      "round": 5,
+      "pick": 3,
+      "player": "DK Metcalf",
+      "position": "WR",
+      "actual_pts": 157.7,
+      "actual_pos_rank": 26,
+      "adp_pos_rank": 20,
+      "adp_pick": "49.30",
+      "value": -6
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 3,
+      "player": "Ja'Marr Chase",
+      "position": "WR",
+      "actual_pts": 251.1,
+      "actual_pos_rank": 4,
+      "adp_pos_rank": 1,
+      "adp_pick": "1.00",
+      "value": -3
+    },
+    {
+      "round": 2,
+      "pick": 10,
+      "player": "Brock Bowers",
+      "position": "TE",
+      "actual_pts": 144.2,
+      "actual_pos_rank": 9,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 3,
+      "pick": 3,
+      "player": "Kyren Williams",
+      "position": "RB",
+      "actual_pts": 245.3,
+      "actual_pos_rank": 9,
+      "adp_pos_rank": 12,
+      "adp_pick": "24.20",
+      "value": 3
+    },
+    {
+      "round": 4,
+      "pick": 10,
+      "player": "Breece Hall",
+      "position": "RB",
+      "actual_pts": 191.7,
+      "actual_pos_rank": 18,
+      "adp_pos_rank": 16,
+      "adp_pick": "38.80",
+      "value": -2
+    },
+    {
+      "round": 5,
+      "pick": 3,
+      "player": "DK Metcalf",
+      "position": "WR",
+      "actual_pts": 157.7,
+      "actual_pos_rank": 26,
+      "adp_pos_rank": 20,
+      "adp_pick": "49.30",
+      "value": -6
+    },
+    {
+      "round": 6,
+      "pick": 10,
+      "player": "Isiah Pacheco",
+      "position": "RB",
+      "actual_pts": 77.8,
+      "actual_pos_rank": 55,
+      "adp_pos_rank": 24,
+      "adp_pick": "60.80",
+      "value": -31
+    },
+    {
+      "round": 7,
+      "pick": 3,
+      "player": "Jaylen Waddle",
+      "position": "WR",
+      "actual_pts": 162.1,
+      "actual_pos_rank": 23,
+      "adp_pos_rank": 32,
+      "adp_pick": "72.20",
+      "value": 9
+    },
+    {
+      "round": 8,
+      "pick": 10,
+      "player": "Khalil Shakir",
+      "position": "WR",
+      "actual_pts": 130.4,
+      "actual_pos_rank": 38,
+      "adp_pos_rank": 44,
+      "adp_pick": "105.70",
+      "value": 6
+    },
+    {
+      "round": 9,
+      "pick": 3,
+      "player": "Patrick Mahomes",
+      "position": "QB",
+      "actual_pts": 329.2,
+      "actual_pos_rank": 11,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 10,
+      "pick": 10,
+      "player": "Tank Bigsby",
+      "position": "RB",
+      "actual_pts": 52.3,
+      "actual_pos_rank": 63,
+      "adp_pos_rank": 44,
+      "adp_pick": "135.20",
+      "value": -19
+    },
+    {
+      "round": 11,
+      "pick": 3,
+      "player": "Romeo Doubs",
+      "position": "WR",
+      "actual_pts": 137.9,
+      "actual_pos_rank": 36,
+      "adp_pos_rank": 68,
+      "adp_pick": "203.70",
+      "value": 32
+    },
+    {
+      "round": 12,
+      "pick": 10,
+      "player": "Rachaad White",
+      "position": "RB",
+      "actual_pts": 123.0,
+      "actual_pos_rank": 34,
+      "adp_pos_rank": 47,
+      "adp_pick": "145.50",
+      "value": 13
+    },
+    {
+      "round": 13,
+      "pick": 3,
+      "player": "Adam Thielen",
+      "position": "WR",
+      "actual_pts": 30.1,
+      "actual_pos_rank": 126,
+      "adp_pos_rank": 61,
+      "adp_pick": "172.80",
+      "value": -65
+    },
+    {
+      "round": 14,
+      "pick": 10,
+      "player": "Kendre Miller",
+      "position": "RB",
+      "actual_pts": 30.8,
+      "actual_pos_rank": 74,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    }
+  ]
+}

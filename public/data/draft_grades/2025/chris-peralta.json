@@ -1,0 +1,271 @@
+{
+  "year": 2025,
+  "slug": "chris-peralta",
+  "grade": "B+",
+  "rank": 4,
+  "of": 12,
+  "median_value": 1,
+  "avg_value": -8.38,
+  "graded_pick_count": 13,
+  "steals_count": 5,
+  "busts_count": 4,
+  "steals": [
+    {
+      "round": 5,
+      "pick": 12,
+      "player": "Emeka Egbuka",
+      "position": "WR",
+      "actual_pts": 164.2,
+      "actual_pos_rank": 19,
+      "adp_pos_rank": 37,
+      "adp_pick": "86.20",
+      "value": 18
+    },
+    {
+      "round": 3,
+      "pick": 12,
+      "player": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "actual_pts": 300.4,
+      "actual_pos_rank": 2,
+      "adp_pos_rank": 14,
+      "adp_pick": "34.50",
+      "value": 12
+    },
+    {
+      "round": 8,
+      "pick": 1,
+      "player": "Zach Charbonnet",
+      "position": "RB",
+      "actual_pts": 171.4,
+      "actual_pos_rank": 23,
+      "adp_pos_rank": 35,
+      "adp_pick": "110.00",
+      "value": 12
+    },
+    {
+      "round": 12,
+      "pick": 1,
+      "player": "Jake Ferguson",
+      "position": "TE",
+      "actual_pts": 147.1,
+      "actual_pos_rank": 8,
+      "adp_pos_rank": 15,
+      "adp_pick": "137.50",
+      "value": 7
+    },
+    {
+      "round": 11,
+      "pick": 12,
+      "player": "Dak Prescott",
+      "position": "QB",
+      "actual_pts": 373.8,
+      "actual_pos_rank": 5,
+      "adp_pos_rank": 11,
+      "adp_pick": "100.50",
+      "value": 6
+    }
+  ],
+  "busts": [
+    {
+      "round": 10,
+      "pick": 1,
+      "player": "Braelon Allen",
+      "position": "RB",
+      "actual_pts": 14.3,
+      "actual_pos_rank": 96,
+      "adp_pos_rank": 45,
+      "adp_pick": "137.20",
+      "value": -51
+    },
+    {
+      "round": 14,
+      "pick": 1,
+      "player": "DJ Giddens",
+      "position": "RB",
+      "actual_pts": 9.6,
+      "actual_pos_rank": 108,
+      "adp_pos_rank": 67,
+      "adp_pick": "243.50",
+      "value": -41
+    },
+    {
+      "round": 4,
+      "pick": 1,
+      "player": "Xavier Worthy",
+      "position": "WR",
+      "actual_pts": 88.9,
+      "actual_pos_rank": 59,
+      "adp_pos_rank": 23,
+      "adp_pick": "54.80",
+      "value": -36
+    },
+    {
+      "round": 13,
+      "pick": 12,
+      "player": "Will Shipley",
+      "position": "RB",
+      "actual_pts": 13.0,
+      "actual_pos_rank": 99,
+      "adp_pos_rank": 63,
+      "adp_pick": "219.80",
+      "value": -36
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 12,
+      "player": "De'Von Achane",
+      "position": "RB",
+      "actual_pts": 289.3,
+      "actual_pos_rank": 5,
+      "adp_pos_rank": 7,
+      "adp_pick": "15.00",
+      "value": 2
+    },
+    {
+      "round": 2,
+      "pick": 1,
+      "player": "Derrick Henry",
+      "position": "RB",
+      "actual_pts": 272.0,
+      "actual_pos_rank": 7,
+      "adp_pos_rank": 5,
+      "adp_pick": "10.20",
+      "value": -2
+    },
+    {
+      "round": 3,
+      "pick": 12,
+      "player": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "actual_pts": 300.4,
+      "actual_pos_rank": 2,
+      "adp_pos_rank": 14,
+      "adp_pick": "34.50",
+      "value": 12
+    },
+    {
+      "round": 4,
+      "pick": 1,
+      "player": "Xavier Worthy",
+      "position": "WR",
+      "actual_pts": 88.9,
+      "actual_pos_rank": 59,
+      "adp_pos_rank": 23,
+      "adp_pick": "54.80",
+      "value": -36
+    },
+    {
+      "round": 5,
+      "pick": 12,
+      "player": "Emeka Egbuka",
+      "position": "WR",
+      "actual_pts": 164.2,
+      "actual_pos_rank": 19,
+      "adp_pos_rank": 37,
+      "adp_pick": "86.20",
+      "value": 18
+    },
+    {
+      "round": 6,
+      "pick": 1,
+      "player": "Travis Hunter",
+      "position": "WR",
+      "actual_pts": 49.8,
+      "actual_pos_rank": 97,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 7,
+      "pick": 12,
+      "player": "Jordan Addison",
+      "position": "WR",
+      "actual_pts": 114.1,
+      "actual_pos_rank": 44,
+      "adp_pos_rank": 43,
+      "adp_pick": "95.70",
+      "value": -1
+    },
+    {
+      "round": 8,
+      "pick": 1,
+      "player": "Zach Charbonnet",
+      "position": "RB",
+      "actual_pts": 171.4,
+      "actual_pos_rank": 23,
+      "adp_pos_rank": 35,
+      "adp_pick": "110.00",
+      "value": 12
+    },
+    {
+      "round": 9,
+      "pick": 12,
+      "player": "Josh Downs",
+      "position": "WR",
+      "actual_pts": 107.4,
+      "actual_pos_rank": 48,
+      "adp_pos_rank": 49,
+      "adp_pick": "127.30",
+      "value": 1
+    },
+    {
+      "round": 10,
+      "pick": 1,
+      "player": "Braelon Allen",
+      "position": "RB",
+      "actual_pts": 14.3,
+      "actual_pos_rank": 96,
+      "adp_pos_rank": 45,
+      "adp_pick": "137.20",
+      "value": -51
+    },
+    {
+      "round": 11,
+      "pick": 12,
+      "player": "Dak Prescott",
+      "position": "QB",
+      "actual_pts": 373.8,
+      "actual_pos_rank": 5,
+      "adp_pos_rank": 11,
+      "adp_pick": "100.50",
+      "value": 6
+    },
+    {
+      "round": 12,
+      "pick": 1,
+      "player": "Jake Ferguson",
+      "position": "TE",
+      "actual_pts": 147.1,
+      "actual_pos_rank": 8,
+      "adp_pos_rank": 15,
+      "adp_pick": "137.50",
+      "value": 7
+    },
+    {
+      "round": 13,
+      "pick": 12,
+      "player": "Will Shipley",
+      "position": "RB",
+      "actual_pts": 13.0,
+      "actual_pos_rank": 99,
+      "adp_pos_rank": 63,
+      "adp_pick": "219.80",
+      "value": -36
+    },
+    {
+      "round": 14,
+      "pick": 1,
+      "player": "DJ Giddens",
+      "position": "RB",
+      "actual_pts": 9.6,
+      "actual_pos_rank": 108,
+      "adp_pos_rank": 67,
+      "adp_pick": "243.50",
+      "value": -41
+    }
+  ]
+}

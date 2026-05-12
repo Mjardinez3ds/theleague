@@ -1,0 +1,271 @@
+{
+  "year": 2025,
+  "slug": "marcus-jardinez",
+  "grade": "D",
+  "rank": 9,
+  "of": 12,
+  "median_value": -4,
+  "avg_value": -10.15,
+  "graded_pick_count": 13,
+  "steals_count": 4,
+  "busts_count": 6,
+  "steals": [
+    {
+      "round": 11,
+      "pick": 10,
+      "player": "Woody Marks",
+      "position": "RB",
+      "actual_pts": 133.1,
+      "actual_pos_rank": 32,
+      "adp_pos_rank": 61,
+      "adp_pick": "218.00",
+      "value": 29
+    },
+    {
+      "round": 14,
+      "pick": 3,
+      "player": "Jalen Coker",
+      "position": "WR",
+      "actual_pts": 73.9,
+      "actual_pos_rank": 68,
+      "adp_pos_rank": 82,
+      "adp_pick": "263.00",
+      "value": 14
+    },
+    {
+      "round": 12,
+      "pick": 3,
+      "player": "Drake Maye",
+      "position": "QB",
+      "actual_pts": 413.5,
+      "actual_pos_rank": 3,
+      "adp_pos_rank": 16,
+      "adp_pick": "128.80",
+      "value": 13
+    },
+    {
+      "round": 13,
+      "pick": 10,
+      "player": "Hunter Henry",
+      "position": "TE",
+      "actual_pts": 148.8,
+      "actual_pos_rank": 7,
+      "adp_pos_rank": 19,
+      "adp_pick": "164.70",
+      "value": 12
+    }
+  ],
+  "busts": [
+    {
+      "round": 7,
+      "pick": 10,
+      "player": "Kaleb Johnson",
+      "position": "RB",
+      "actual_pts": 8.3,
+      "actual_pos_rank": 110,
+      "adp_pos_rank": 28,
+      "adp_pick": "81.20",
+      "value": -82
+    },
+    {
+      "round": 6,
+      "pick": 3,
+      "player": "Ricky Pearsall",
+      "position": "WR",
+      "actual_pts": 70.6,
+      "actual_pos_rank": 76,
+      "adp_pos_rank": 38,
+      "adp_pick": "87.50",
+      "value": -38
+    },
+    {
+      "round": 2,
+      "pick": 3,
+      "player": "Brian Thomas Jr.",
+      "position": "WR",
+      "actual_pts": 114.8,
+      "actual_pos_rank": 43,
+      "adp_pos_rank": 8,
+      "adp_pick": "15.50",
+      "value": -35
+    },
+    {
+      "round": 3,
+      "pick": 10,
+      "player": "Ladd McConkey",
+      "position": "WR",
+      "actual_pts": 147.9,
+      "actual_pos_rank": 29,
+      "adp_pos_rank": 11,
+      "adp_pick": "25.80",
+      "value": -18
+    },
+    {
+      "round": 10,
+      "pick": 3,
+      "player": "Ollie Gordon II",
+      "position": "RB",
+      "actual_pts": 50.6,
+      "actual_pos_rank": 68,
+      "adp_pos_rank": 51,
+      "adp_pick": "161.20",
+      "value": -17
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 10,
+      "player": "Amon-Ra St. Brown",
+      "position": "WR",
+      "actual_pts": 265.5,
+      "actual_pos_rank": 3,
+      "adp_pos_rank": 5,
+      "adp_pick": "9.70",
+      "value": 2
+    },
+    {
+      "round": 2,
+      "pick": 3,
+      "player": "Brian Thomas Jr.",
+      "position": "WR",
+      "actual_pts": 114.8,
+      "actual_pos_rank": 43,
+      "adp_pos_rank": 8,
+      "adp_pick": "15.50",
+      "value": -35
+    },
+    {
+      "round": 3,
+      "pick": 10,
+      "player": "Ladd McConkey",
+      "position": "WR",
+      "actual_pts": 147.9,
+      "actual_pos_rank": 29,
+      "adp_pos_rank": 11,
+      "adp_pick": "25.80",
+      "value": -18
+    },
+    {
+      "round": 4,
+      "pick": 3,
+      "player": "Kenneth Walker III",
+      "position": "RB",
+      "actual_pts": 176.4,
+      "actual_pos_rank": 22,
+      "adp_pos_rank": 17,
+      "adp_pick": "41.00",
+      "value": -5
+    },
+    {
+      "round": 5,
+      "pick": 10,
+      "player": "Calvin Ridley",
+      "position": "WR",
+      "actual_pts": 38.8,
+      "actual_pos_rank": 117,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 6,
+      "pick": 3,
+      "player": "Ricky Pearsall",
+      "position": "WR",
+      "actual_pts": 70.6,
+      "actual_pos_rank": 76,
+      "adp_pos_rank": 38,
+      "adp_pick": "87.50",
+      "value": -38
+    },
+    {
+      "round": 7,
+      "pick": 10,
+      "player": "Kaleb Johnson",
+      "position": "RB",
+      "actual_pts": 8.3,
+      "actual_pos_rank": 110,
+      "adp_pos_rank": 28,
+      "adp_pick": "81.20",
+      "value": -82
+    },
+    {
+      "round": 8,
+      "pick": 3,
+      "player": "Jordan Mason",
+      "position": "RB",
+      "actual_pts": 121.9,
+      "actual_pos_rank": 35,
+      "adp_pos_rank": 31,
+      "adp_pick": "101.50",
+      "value": -4
+    },
+    {
+      "round": 9,
+      "pick": 10,
+      "player": "Bhayshul Tuten",
+      "position": "RB",
+      "actual_pts": 83.6,
+      "actual_pos_rank": 51,
+      "adp_pos_rank": 48,
+      "adp_pick": "148.70",
+      "value": -3
+    },
+    {
+      "round": 10,
+      "pick": 3,
+      "player": "Ollie Gordon II",
+      "position": "RB",
+      "actual_pts": 50.6,
+      "actual_pos_rank": 68,
+      "adp_pos_rank": 51,
+      "adp_pick": "161.20",
+      "value": -17
+    },
+    {
+      "round": 11,
+      "pick": 10,
+      "player": "Woody Marks",
+      "position": "RB",
+      "actual_pts": 133.1,
+      "actual_pos_rank": 32,
+      "adp_pos_rank": 61,
+      "adp_pick": "218.00",
+      "value": 29
+    },
+    {
+      "round": 12,
+      "pick": 3,
+      "player": "Drake Maye",
+      "position": "QB",
+      "actual_pts": 413.5,
+      "actual_pos_rank": 3,
+      "adp_pos_rank": 16,
+      "adp_pick": "128.80",
+      "value": 13
+    },
+    {
+      "round": 13,
+      "pick": 10,
+      "player": "Hunter Henry",
+      "position": "TE",
+      "actual_pts": 148.8,
+      "actual_pos_rank": 7,
+      "adp_pos_rank": 19,
+      "adp_pick": "164.70",
+      "value": 12
+    },
+    {
+      "round": 14,
+      "pick": 3,
+      "player": "Jalen Coker",
+      "position": "WR",
+      "actual_pts": 73.9,
+      "actual_pos_rank": 68,
+      "adp_pos_rank": 82,
+      "adp_pick": "263.00",
+      "value": 14
+    }
+  ]
+}
