@@ -20,30 +20,15 @@ function posColor(pos: string): string {
   }
 }
 
-// Inline styles — avoids Tailwind CSS ordering issues where border-app
-// (shorthand) can override border-l-{color} (longhand) in generated CSS.
-function posBorderColor(pos: string): string {
-  switch ((pos || "").toUpperCase()) {
-    case "QB":  return "#ef4444";
-    case "RB":  return "#22c55e";
-    case "WR":  return "#3b82f6";
-    case "TE":  return "#f97316";
-    case "K":   return "#a855f7";
-    case "D/ST":
-    case "DST": return "#eab308";
-    default:    return "transparent";
-  }
-}
-
 function posBgColor(pos: string): string {
   switch ((pos || "").toUpperCase()) {
-    case "QB":  return "rgba(239,68,68,0.07)";
-    case "RB":  return "rgba(34,197,94,0.07)";
-    case "WR":  return "rgba(59,130,246,0.07)";
-    case "TE":  return "rgba(249,115,22,0.07)";
-    case "K":   return "rgba(168,85,247,0.07)";
+    case "QB":  return "rgba(239,68,68,0.15)";
+    case "RB":  return "rgba(34,197,94,0.15)";
+    case "WR":  return "rgba(59,130,246,0.15)";
+    case "TE":  return "rgba(249,115,22,0.15)";
+    case "K":   return "rgba(168,85,247,0.15)";
     case "D/ST":
-    case "DST": return "rgba(234,179,8,0.07)";
+    case "DST": return "rgba(234,179,8,0.15)";
     default:    return "";
   }
 }
@@ -183,10 +168,9 @@ export default function DraftBoardView({
                         style={{
                           width: CELL_W,
                           minWidth: CELL_W,
-                          borderLeft: `2px solid ${pick ? posBorderColor(pick.position) : "transparent"}`,
                           backgroundColor: pick ? posBgColor(pick.position) : "",
                         }}
-                        className="border-r border-b border-app px-1.5 py-1.5"
+                        className="border-l border-app px-1.5 py-1.5"
                       >
                         {pick ? (
                           <>
