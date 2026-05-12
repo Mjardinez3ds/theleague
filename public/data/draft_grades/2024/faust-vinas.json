@@ -1,0 +1,271 @@
+{
+  "year": 2024,
+  "slug": "faust-vinas",
+  "grade": "F",
+  "rank": 12,
+  "of": 12,
+  "median_value": -12,
+  "avg_value": -11.77,
+  "graded_pick_count": 13,
+  "steals_count": 3,
+  "busts_count": 8,
+  "steals": [
+    {
+      "round": 9,
+      "pick": 10,
+      "player": "Chase Brown",
+      "position": "RB",
+      "actual_pts": 228.0,
+      "actual_pos_rank": 12,
+      "adp_pos_rank": 35,
+      "adp_pick": "8.08",
+      "value": 23
+    },
+    {
+      "round": 8,
+      "pick": 3,
+      "player": "Tony Pollard",
+      "position": "RB",
+      "actual_pts": 180.2,
+      "actual_pos_rank": 21,
+      "adp_pos_rank": 30,
+      "adp_pick": "7.10",
+      "value": 9
+    },
+    {
+      "round": 11,
+      "pick": 10,
+      "player": "Tyler Allgeier",
+      "position": "RB",
+      "actual_pts": 99.7,
+      "actual_pos_rank": 42,
+      "adp_pos_rank": 45,
+      "adp_pick": "11.05",
+      "value": 3
+    }
+  ],
+  "busts": [
+    {
+      "round": 2,
+      "pick": 3,
+      "player": "Isiah Pacheco",
+      "position": "RB",
+      "actual_pts": 50.9,
+      "actual_pos_rank": 63,
+      "adp_pos_rank": 10,
+      "adp_pick": "2.08",
+      "value": -53
+    },
+    {
+      "round": 7,
+      "pick": 10,
+      "player": "Christian Watson",
+      "position": "WR",
+      "actual_pts": 90.8,
+      "actual_pos_rank": 71,
+      "adp_pos_rank": 39,
+      "adp_pick": "7.12",
+      "value": -32
+    },
+    {
+      "round": 4,
+      "pick": 3,
+      "player": "Cooper Kupp",
+      "position": "WR",
+      "actual_pts": 141.5,
+      "actual_pos_rank": 40,
+      "adp_pos_rank": 10,
+      "adp_pick": "2.07",
+      "value": -30
+    },
+    {
+      "round": 12,
+      "pick": 3,
+      "player": "Trey Benson",
+      "position": "RB",
+      "actual_pts": 44.0,
+      "actual_pos_rank": 69,
+      "adp_pos_rank": 40,
+      "adp_pick": "10.01",
+      "value": -29
+    },
+    {
+      "round": 5,
+      "pick": 10,
+      "player": "C.J. Stroud",
+      "position": "QB",
+      "actual_pts": 260.4,
+      "actual_pos_rank": 18,
+      "adp_pos_rank": 5,
+      "adp_pick": "5.02",
+      "value": -13
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 10,
+      "player": "A.J. Brown",
+      "position": "WR",
+      "actual_pts": 183.4,
+      "actual_pos_rank": 18,
+      "adp_pos_rank": 6,
+      "adp_pick": "1.11",
+      "value": -12
+    },
+    {
+      "round": 2,
+      "pick": 3,
+      "player": "Isiah Pacheco",
+      "position": "RB",
+      "actual_pts": 50.9,
+      "actual_pos_rank": 63,
+      "adp_pos_rank": 10,
+      "adp_pick": "2.08",
+      "value": -53
+    },
+    {
+      "round": 3,
+      "pick": 10,
+      "player": "DK Metcalf",
+      "position": "WR",
+      "actual_pts": 158.2,
+      "actual_pos_rank": 32,
+      "adp_pos_rank": 20,
+      "adp_pick": "4.05",
+      "value": -12
+    },
+    {
+      "round": 4,
+      "pick": 3,
+      "player": "Cooper Kupp",
+      "position": "WR",
+      "actual_pts": 141.5,
+      "actual_pos_rank": 40,
+      "adp_pos_rank": 10,
+      "adp_pick": "2.07",
+      "value": -30
+    },
+    {
+      "round": 5,
+      "pick": 10,
+      "player": "C.J. Stroud",
+      "position": "QB",
+      "actual_pts": 260.4,
+      "actual_pos_rank": 18,
+      "adp_pos_rank": 5,
+      "adp_pick": "5.02",
+      "value": -13
+    },
+    {
+      "round": 6,
+      "pick": 3,
+      "player": "David Montgomery",
+      "position": "RB",
+      "actual_pts": 205.7,
+      "actual_pos_rank": 18,
+      "adp_pos_rank": 20,
+      "adp_pick": "5.07",
+      "value": 2
+    },
+    {
+      "round": 7,
+      "pick": 10,
+      "player": "Christian Watson",
+      "position": "WR",
+      "actual_pts": 90.8,
+      "actual_pos_rank": 71,
+      "adp_pos_rank": 39,
+      "adp_pick": "7.12",
+      "value": -32
+    },
+    {
+      "round": 8,
+      "pick": 3,
+      "player": "Tony Pollard",
+      "position": "RB",
+      "actual_pts": 180.2,
+      "actual_pos_rank": 21,
+      "adp_pos_rank": 30,
+      "adp_pick": "7.10",
+      "value": 9
+    },
+    {
+      "round": 9,
+      "pick": 10,
+      "player": "Chase Brown",
+      "position": "RB",
+      "actual_pts": 228.0,
+      "actual_pos_rank": 12,
+      "adp_pos_rank": 35,
+      "adp_pick": "8.08",
+      "value": 23
+    },
+    {
+      "round": 10,
+      "pick": 3,
+      "player": "Caleb Williams",
+      "position": "QB",
+      "actual_pts": 294.5,
+      "actual_pos_rank": 16,
+      "adp_pos_rank": 16,
+      "adp_pick": "10.09",
+      "value": 0
+    },
+    {
+      "round": 11,
+      "pick": 10,
+      "player": "Tyler Allgeier",
+      "position": "RB",
+      "actual_pts": 99.7,
+      "actual_pos_rank": 42,
+      "adp_pos_rank": 45,
+      "adp_pick": "11.05",
+      "value": 3
+    },
+    {
+      "round": 12,
+      "pick": 3,
+      "player": "Trey Benson",
+      "position": "RB",
+      "actual_pts": 44.0,
+      "actual_pos_rank": 69,
+      "adp_pos_rank": 40,
+      "adp_pick": "10.01",
+      "value": -29
+    },
+    {
+      "round": 14,
+      "pick": 3,
+      "player": "Trevor Lawrence",
+      "position": "QB",
+      "actual_pts": 167.2,
+      "actual_pos_rank": 27,
+      "adp_pos_rank": 18,
+      "adp_pick": "11.07",
+      "value": -9
+    },
+    {
+      "round": 15,
+      "pick": 10,
+      "player": "Hunter Henry",
+      "position": "TE",
+      "actual_pts": 112.4,
+      "actual_pos_rank": 12,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 16,
+      "pick": 3,
+      "player": "Jermaine Burton",
+      "position": "WR",
+      "actual_pts": 12.7,
+      "actual_pos_rank": 149,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    }
+  ]
+}

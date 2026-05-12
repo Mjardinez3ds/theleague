@@ -1,0 +1,293 @@
+{
+  "year": 2024,
+  "slug": "matthew-taylor",
+  "grade": "B",
+  "rank": 6,
+  "of": 12,
+  "median_value": -3,
+  "avg_value": -10.33,
+  "graded_pick_count": 15,
+  "steals_count": 5,
+  "busts_count": 7,
+  "steals": [
+    {
+      "round": 14,
+      "pick": 9,
+      "player": "Darnell Mooney",
+      "position": "WR",
+      "actual_pts": 161.2,
+      "actual_pos_rank": 31,
+      "adp_pos_rank": 67,
+      "adp_pick": "14.06",
+      "value": 36
+    },
+    {
+      "round": 16,
+      "pick": 9,
+      "player": "Bo Nix",
+      "position": "QB",
+      "actual_pts": 374.7,
+      "actual_pos_rank": 8,
+      "adp_pos_rank": 26,
+      "adp_pick": "15.10",
+      "value": 18
+    },
+    {
+      "round": 15,
+      "pick": 4,
+      "player": "Michael Wilson",
+      "position": "WR",
+      "actual_pts": 101.0,
+      "actual_pos_rank": 62,
+      "adp_pos_rank": 72,
+      "adp_pick": "15.02",
+      "value": 10
+    },
+    {
+      "round": 2,
+      "pick": 9,
+      "player": "Mike Evans",
+      "position": "WR",
+      "actual_pts": 203.4,
+      "actual_pos_rank": 9,
+      "adp_pos_rank": 17,
+      "adp_pick": "3.09",
+      "value": 8
+    },
+    {
+      "round": 4,
+      "pick": 9,
+      "player": "Lamar Jackson",
+      "position": "QB",
+      "actual_pts": 512.4,
+      "actual_pos_rank": 1,
+      "adp_pos_rank": 4,
+      "adp_pick": "4.08",
+      "value": 3
+    }
+  ],
+  "busts": [
+    {
+      "round": 7,
+      "pick": 4,
+      "player": "Zamir White",
+      "position": "RB",
+      "actual_pts": 26.3,
+      "actual_pos_rank": 88,
+      "adp_pos_rank": 26,
+      "adp_pick": "6.08",
+      "value": -62
+    },
+    {
+      "round": 12,
+      "pick": 9,
+      "player": "Mike Williams",
+      "position": "WR",
+      "actual_pts": 46.3,
+      "actual_pos_rank": 108,
+      "adp_pos_rank": 51,
+      "adp_pick": "10.08",
+      "value": -57
+    },
+    {
+      "round": 8,
+      "pick": 9,
+      "player": "Keon Coleman",
+      "position": "WR",
+      "actual_pts": 97.0,
+      "actual_pos_rank": 68,
+      "adp_pos_rank": 40,
+      "adp_pick": "8.04",
+      "value": -28
+    },
+    {
+      "round": 9,
+      "pick": 4,
+      "player": "Zack Moss",
+      "position": "RB",
+      "actual_pts": 70.4,
+      "actual_pos_rank": 52,
+      "adp_pos_rank": 27,
+      "adp_pick": "7.02",
+      "value": -25
+    },
+    {
+      "round": 11,
+      "pick": 4,
+      "player": "Tyler Lockett",
+      "position": "WR",
+      "actual_pts": 96.5,
+      "actual_pos_rank": 69,
+      "adp_pos_rank": 47,
+      "adp_pick": "9.11",
+      "value": -22
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 4,
+      "player": "Breece Hall",
+      "position": "RB",
+      "actual_pts": 212.4,
+      "actual_pos_rank": 17,
+      "adp_pos_rank": 2,
+      "adp_pick": "1.02",
+      "value": -15
+    },
+    {
+      "round": 2,
+      "pick": 9,
+      "player": "Mike Evans",
+      "position": "WR",
+      "actual_pts": 203.4,
+      "actual_pos_rank": 9,
+      "adp_pos_rank": 17,
+      "adp_pick": "3.09",
+      "value": 8
+    },
+    {
+      "round": 3,
+      "pick": 4,
+      "player": "Davante Adams",
+      "position": "WR",
+      "actual_pts": 198.8,
+      "actual_pos_rank": 14,
+      "adp_pos_rank": 11,
+      "adp_pick": "2.08",
+      "value": -3
+    },
+    {
+      "round": 4,
+      "pick": 9,
+      "player": "Lamar Jackson",
+      "position": "QB",
+      "actual_pts": 512.4,
+      "actual_pos_rank": 1,
+      "adp_pos_rank": 4,
+      "adp_pick": "4.08",
+      "value": 3
+    },
+    {
+      "round": 5,
+      "pick": 4,
+      "player": "Mark Andrews",
+      "position": "TE",
+      "actual_pts": 161.3,
+      "actual_pos_rank": 5,
+      "adp_pos_rank": 3,
+      "adp_pick": "4.05",
+      "value": -2
+    },
+    {
+      "round": 6,
+      "pick": 9,
+      "player": "Aaron Jones",
+      "position": "RB",
+      "actual_pts": 216.1,
+      "actual_pos_rank": 16,
+      "adp_pos_rank": 18,
+      "adp_pick": "4.10",
+      "value": 2
+    },
+    {
+      "round": 7,
+      "pick": 4,
+      "player": "Zamir White",
+      "position": "RB",
+      "actual_pts": 26.3,
+      "actual_pos_rank": 88,
+      "adp_pos_rank": 26,
+      "adp_pick": "6.08",
+      "value": -62
+    },
+    {
+      "round": 8,
+      "pick": 9,
+      "player": "Keon Coleman",
+      "position": "WR",
+      "actual_pts": 97.0,
+      "actual_pos_rank": 68,
+      "adp_pos_rank": 40,
+      "adp_pick": "8.04",
+      "value": -28
+    },
+    {
+      "round": 9,
+      "pick": 4,
+      "player": "Zack Moss",
+      "position": "RB",
+      "actual_pts": 70.4,
+      "actual_pos_rank": 52,
+      "adp_pos_rank": 27,
+      "adp_pick": "7.02",
+      "value": -25
+    },
+    {
+      "round": 10,
+      "pick": 9,
+      "player": "Gus Edwards",
+      "position": "RB",
+      "actual_pts": 62.6,
+      "actual_pos_rank": 57,
+      "adp_pos_rank": 39,
+      "adp_pick": "9.05",
+      "value": -18
+    },
+    {
+      "round": 11,
+      "pick": 4,
+      "player": "Tyler Lockett",
+      "position": "WR",
+      "actual_pts": 96.5,
+      "actual_pos_rank": 69,
+      "adp_pos_rank": 47,
+      "adp_pick": "9.11",
+      "value": -22
+    },
+    {
+      "round": 12,
+      "pick": 9,
+      "player": "Mike Williams",
+      "position": "WR",
+      "actual_pts": 46.3,
+      "actual_pos_rank": 108,
+      "adp_pos_rank": 51,
+      "adp_pick": "10.08",
+      "value": -57
+    },
+    {
+      "round": 14,
+      "pick": 9,
+      "player": "Darnell Mooney",
+      "position": "WR",
+      "actual_pts": 161.2,
+      "actual_pos_rank": 31,
+      "adp_pos_rank": 67,
+      "adp_pick": "14.06",
+      "value": 36
+    },
+    {
+      "round": 15,
+      "pick": 4,
+      "player": "Michael Wilson",
+      "position": "WR",
+      "actual_pts": 101.0,
+      "actual_pos_rank": 62,
+      "adp_pos_rank": 72,
+      "adp_pick": "15.02",
+      "value": 10
+    },
+    {
+      "round": 16,
+      "pick": 9,
+      "player": "Bo Nix",
+      "position": "QB",
+      "actual_pts": 374.7,
+      "actual_pos_rank": 8,
+      "adp_pos_rank": 26,
+      "adp_pick": "15.10",
+      "value": 18
+    }
+  ]
+}

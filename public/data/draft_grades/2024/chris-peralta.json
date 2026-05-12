@@ -1,0 +1,293 @@
+{
+  "year": 2024,
+  "slug": "chris-peralta",
+  "grade": "A+",
+  "rank": 1,
+  "of": 12,
+  "median_value": 3,
+  "avg_value": -9.6,
+  "graded_pick_count": 15,
+  "steals_count": 8,
+  "busts_count": 6,
+  "steals": [
+    {
+      "round": 7,
+      "pick": 7,
+      "player": "Brian Thomas Jr.",
+      "position": "WR",
+      "actual_pts": 240.5,
+      "actual_pos_rank": 4,
+      "adp_pos_rank": 50,
+      "adp_pick": "10.06",
+      "value": 46
+    },
+    {
+      "round": 15,
+      "pick": 7,
+      "player": "Tyrone Tracy Jr.",
+      "position": "RB",
+      "actual_pts": 163.3,
+      "actual_pos_rank": 26,
+      "adp_pos_rank": 60,
+      "adp_pick": "15.06",
+      "value": 34
+    },
+    {
+      "round": 11,
+      "pick": 7,
+      "player": "Rico Dowdle",
+      "position": "RB",
+      "actual_pts": 178.3,
+      "actual_pos_rank": 22,
+      "adp_pos_rank": 44,
+      "adp_pick": "10.11",
+      "value": 22
+    },
+    {
+      "round": 10,
+      "pick": 6,
+      "player": "Brock Bowers",
+      "position": "TE",
+      "actual_pts": 206.7,
+      "actual_pos_rank": 1,
+      "adp_pos_rank": 14,
+      "adp_pick": "11.02",
+      "value": 13
+    },
+    {
+      "round": 9,
+      "pick": 7,
+      "player": "Jayden Daniels",
+      "position": "QB",
+      "actual_pts": 405.8,
+      "actual_pos_rank": 5,
+      "adp_pos_rank": 13,
+      "adp_pick": "9.03",
+      "value": 8
+    }
+  ],
+  "busts": [
+    {
+      "round": 2,
+      "pick": 6,
+      "player": "Chris Olave",
+      "position": "WR",
+      "actual_pts": 60.7,
+      "actual_pos_rank": 93,
+      "adp_pos_rank": 14,
+      "adp_pick": "3.02",
+      "value": -79
+    },
+    {
+      "round": 4,
+      "pick": 6,
+      "player": "Rashee Rice",
+      "position": "WR",
+      "actual_pts": 52.9,
+      "actual_pos_rank": 98,
+      "adp_pos_rank": 32,
+      "adp_pick": "6.04",
+      "value": -66
+    },
+    {
+      "round": 12,
+      "pick": 6,
+      "player": "Adonai Mitchell",
+      "position": "WR",
+      "actual_pts": 42.3,
+      "actual_pos_rank": 112,
+      "adp_pos_rank": 66,
+      "adp_pick": "14.05",
+      "value": -46
+    },
+    {
+      "round": 14,
+      "pick": 6,
+      "player": "Khalil Herbert",
+      "position": "RB",
+      "actual_pts": 26.5,
+      "actual_pos_rank": 87,
+      "adp_pos_rank": 50,
+      "adp_pick": "12.04",
+      "value": -37
+    },
+    {
+      "round": 13,
+      "pick": 7,
+      "player": "Jaylen Wright",
+      "position": "RB",
+      "actual_pts": 25.2,
+      "actual_pos_rank": 90,
+      "adp_pos_rank": 56,
+      "adp_pick": "14.01",
+      "value": -34
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 7,
+      "player": "Ja'Marr Chase",
+      "position": "WR",
+      "actual_pts": 339.5,
+      "actual_pos_rank": 1,
+      "adp_pos_rank": 4,
+      "adp_pick": "1.07",
+      "value": 3
+    },
+    {
+      "round": 2,
+      "pick": 6,
+      "player": "Chris Olave",
+      "position": "WR",
+      "actual_pts": 60.7,
+      "actual_pos_rank": 93,
+      "adp_pos_rank": 14,
+      "adp_pick": "3.02",
+      "value": -79
+    },
+    {
+      "round": 3,
+      "pick": 7,
+      "player": "James Cook",
+      "position": "RB",
+      "actual_pts": 250.7,
+      "actual_pos_rank": 8,
+      "adp_pos_rank": 14,
+      "adp_pick": "3.06",
+      "value": 6
+    },
+    {
+      "round": 4,
+      "pick": 6,
+      "player": "Rashee Rice",
+      "position": "WR",
+      "actual_pts": 52.9,
+      "actual_pos_rank": 98,
+      "adp_pos_rank": 32,
+      "adp_pick": "6.04",
+      "value": -66
+    },
+    {
+      "round": 5,
+      "pick": 7,
+      "player": "Anthony Richardson",
+      "position": "QB",
+      "actual_pts": 178.9,
+      "actual_pos_rank": 26,
+      "adp_pos_rank": 6,
+      "adp_pick": "5.07",
+      "value": -20
+    },
+    {
+      "round": 6,
+      "pick": 6,
+      "player": "D'Andre Swift",
+      "position": "RB",
+      "actual_pts": 193.5,
+      "actual_pos_rank": 19,
+      "adp_pos_rank": 21,
+      "adp_pick": "5.09",
+      "value": 2
+    },
+    {
+      "round": 7,
+      "pick": 7,
+      "player": "Brian Thomas Jr.",
+      "position": "WR",
+      "actual_pts": 240.5,
+      "actual_pos_rank": 4,
+      "adp_pos_rank": 50,
+      "adp_pick": "10.06",
+      "value": 46
+    },
+    {
+      "round": 8,
+      "pick": 6,
+      "player": "Jerome Ford",
+      "position": "RB",
+      "actual_pts": 115.5,
+      "actual_pos_rank": 34,
+      "adp_pos_rank": 38,
+      "adp_pick": "9.02",
+      "value": 4
+    },
+    {
+      "round": 9,
+      "pick": 7,
+      "player": "Jayden Daniels",
+      "position": "QB",
+      "actual_pts": 405.8,
+      "actual_pos_rank": 5,
+      "adp_pos_rank": 13,
+      "adp_pick": "9.03",
+      "value": 8
+    },
+    {
+      "round": 10,
+      "pick": 6,
+      "player": "Brock Bowers",
+      "position": "TE",
+      "actual_pts": 206.7,
+      "actual_pos_rank": 1,
+      "adp_pos_rank": 14,
+      "adp_pick": "11.02",
+      "value": 13
+    },
+    {
+      "round": 11,
+      "pick": 7,
+      "player": "Rico Dowdle",
+      "position": "RB",
+      "actual_pts": 178.3,
+      "actual_pos_rank": 22,
+      "adp_pos_rank": 44,
+      "adp_pick": "10.11",
+      "value": 22
+    },
+    {
+      "round": 12,
+      "pick": 6,
+      "player": "Adonai Mitchell",
+      "position": "WR",
+      "actual_pts": 42.3,
+      "actual_pos_rank": 112,
+      "adp_pos_rank": 66,
+      "adp_pick": "14.05",
+      "value": -46
+    },
+    {
+      "round": 13,
+      "pick": 7,
+      "player": "Jaylen Wright",
+      "position": "RB",
+      "actual_pts": 25.2,
+      "actual_pos_rank": 90,
+      "adp_pos_rank": 56,
+      "adp_pick": "14.01",
+      "value": -34
+    },
+    {
+      "round": 14,
+      "pick": 6,
+      "player": "Khalil Herbert",
+      "position": "RB",
+      "actual_pts": 26.5,
+      "actual_pos_rank": 87,
+      "adp_pos_rank": 50,
+      "adp_pick": "12.04",
+      "value": -37
+    },
+    {
+      "round": 15,
+      "pick": 7,
+      "player": "Tyrone Tracy Jr.",
+      "position": "RB",
+      "actual_pts": 163.3,
+      "actual_pos_rank": 26,
+      "adp_pos_rank": 60,
+      "adp_pick": "15.06",
+      "value": 34
+    }
+  ]
+}

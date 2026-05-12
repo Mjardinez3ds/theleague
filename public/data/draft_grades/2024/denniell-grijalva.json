@@ -1,0 +1,293 @@
+{
+  "year": 2024,
+  "slug": "denniell-grijalva",
+  "grade": "F",
+  "rank": 11,
+  "of": 12,
+  "median_value": -8.5,
+  "avg_value": -3.79,
+  "graded_pick_count": 14,
+  "steals_count": 5,
+  "busts_count": 8,
+  "steals": [
+    {
+      "round": 15,
+      "pick": 2,
+      "player": "Rashod Bateman",
+      "position": "WR",
+      "actual_pts": 152.1,
+      "actual_pos_rank": 34,
+      "adp_pos_rank": 70,
+      "adp_pick": "15.02",
+      "value": 36
+    },
+    {
+      "round": 7,
+      "pick": 2,
+      "player": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "actual_pts": 203.0,
+      "actual_pos_rank": 10,
+      "adp_pos_rank": 41,
+      "adp_pick": "8.06",
+      "value": 31
+    },
+    {
+      "round": 12,
+      "pick": 11,
+      "player": "J.K. Dobbins",
+      "position": "RB",
+      "actual_pts": 175.8,
+      "actual_pos_rank": 23,
+      "adp_pos_rank": 43,
+      "adp_pick": "10.08",
+      "value": 20
+    },
+    {
+      "round": 2,
+      "pick": 11,
+      "player": "Josh Jacobs",
+      "position": "RB",
+      "actual_pts": 275.1,
+      "actual_pos_rank": 5,
+      "adp_pos_rank": 12,
+      "adp_pick": "2.12",
+      "value": 7
+    },
+    {
+      "round": 5,
+      "pick": 2,
+      "player": "DJ Moore",
+      "position": "WR",
+      "actual_pts": 189.1,
+      "actual_pos_rank": 16,
+      "adp_pos_rank": 22,
+      "adp_pick": "4.08",
+      "value": 6
+    }
+  ],
+  "busts": [
+    {
+      "round": 9,
+      "pick": 2,
+      "player": "Nick Chubb",
+      "position": "RB",
+      "actual_pts": 60.8,
+      "actual_pos_rank": 59,
+      "adp_pos_rank": 24,
+      "adp_pick": "6.05",
+      "value": -35
+    },
+    {
+      "round": 4,
+      "pick": 11,
+      "player": "Tank Dell",
+      "position": "WR",
+      "actual_pts": 114.5,
+      "actual_pos_rank": 53,
+      "adp_pos_rank": 29,
+      "adp_pick": "5.09",
+      "value": -24
+    },
+    {
+      "round": 6,
+      "pick": 11,
+      "player": "Dak Prescott",
+      "position": "QB",
+      "actual_pts": 138.5,
+      "actual_pos_rank": 31,
+      "adp_pos_rank": 8,
+      "adp_pick": "6.10",
+      "value": -23
+    },
+    {
+      "round": 1,
+      "pick": 2,
+      "player": "Tyreek Hill",
+      "position": "WR",
+      "actual_pts": 177.7,
+      "actual_pos_rank": 21,
+      "adp_pos_rank": 1,
+      "adp_pick": "1.03",
+      "value": -20
+    },
+    {
+      "round": 10,
+      "pick": 11,
+      "player": "T.J. Hockenson",
+      "position": "TE",
+      "actual_pts": 66.0,
+      "actual_pos_rank": 33,
+      "adp_pos_rank": 13,
+      "adp_pick": "10.11",
+      "value": -20
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 2,
+      "player": "Tyreek Hill",
+      "position": "WR",
+      "actual_pts": 177.7,
+      "actual_pos_rank": 21,
+      "adp_pos_rank": 1,
+      "adp_pick": "1.03",
+      "value": -20
+    },
+    {
+      "round": 2,
+      "pick": 11,
+      "player": "Josh Jacobs",
+      "position": "RB",
+      "actual_pts": 275.1,
+      "actual_pos_rank": 5,
+      "adp_pos_rank": 12,
+      "adp_pick": "2.12",
+      "value": 7
+    },
+    {
+      "round": 3,
+      "pick": 2,
+      "player": "Sam LaPorta",
+      "position": "TE",
+      "actual_pts": 144.6,
+      "actual_pos_rank": 7,
+      "adp_pos_rank": 2,
+      "adp_pick": "3.05",
+      "value": -5
+    },
+    {
+      "round": 4,
+      "pick": 11,
+      "player": "Tank Dell",
+      "position": "WR",
+      "actual_pts": 114.5,
+      "actual_pos_rank": 53,
+      "adp_pos_rank": 29,
+      "adp_pick": "5.09",
+      "value": -24
+    },
+    {
+      "round": 5,
+      "pick": 2,
+      "player": "DJ Moore",
+      "position": "WR",
+      "actual_pts": 189.1,
+      "actual_pos_rank": 16,
+      "adp_pos_rank": 22,
+      "adp_pick": "4.08",
+      "value": 6
+    },
+    {
+      "round": 6,
+      "pick": 11,
+      "player": "Dak Prescott",
+      "position": "QB",
+      "actual_pts": 138.5,
+      "actual_pos_rank": 31,
+      "adp_pos_rank": 8,
+      "adp_pick": "6.10",
+      "value": -23
+    },
+    {
+      "round": 7,
+      "pick": 2,
+      "player": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "actual_pts": 203.0,
+      "actual_pos_rank": 10,
+      "adp_pos_rank": 41,
+      "adp_pick": "8.06",
+      "value": 31
+    },
+    {
+      "round": 8,
+      "pick": 11,
+      "player": "Hollywood Brown",
+      "position": "WR",
+      "actual_pts": 13.6,
+      "actual_pos_rank": 146,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 9,
+      "pick": 2,
+      "player": "Nick Chubb",
+      "position": "RB",
+      "actual_pts": 60.8,
+      "actual_pos_rank": 59,
+      "adp_pos_rank": 24,
+      "adp_pick": "6.05",
+      "value": -35
+    },
+    {
+      "round": 10,
+      "pick": 11,
+      "player": "T.J. Hockenson",
+      "position": "TE",
+      "actual_pts": 66.0,
+      "actual_pos_rank": 33,
+      "adp_pos_rank": 13,
+      "adp_pick": "10.11",
+      "value": -20
+    },
+    {
+      "round": 11,
+      "pick": 2,
+      "player": "Romeo Doubs",
+      "position": "WR",
+      "actual_pts": 109.1,
+      "actual_pos_rank": 57,
+      "adp_pos_rank": 45,
+      "adp_pick": "9.07",
+      "value": -12
+    },
+    {
+      "round": 12,
+      "pick": 11,
+      "player": "J.K. Dobbins",
+      "position": "RB",
+      "actual_pts": 175.8,
+      "actual_pos_rank": 23,
+      "adp_pos_rank": 43,
+      "adp_pick": "10.08",
+      "value": 20
+    },
+    {
+      "round": 13,
+      "pick": 2,
+      "player": "Brock Purdy",
+      "position": "QB",
+      "actual_pts": 306.9,
+      "actual_pos_rank": 15,
+      "adp_pos_rank": 14,
+      "adp_pick": "9.10",
+      "value": -1
+    },
+    {
+      "round": 14,
+      "pick": 11,
+      "player": "Ricky Pearsall",
+      "position": "WR",
+      "actual_pts": 78.0,
+      "actual_pos_rank": 81,
+      "adp_pos_rank": 68,
+      "adp_pick": "14.07",
+      "value": -13
+    },
+    {
+      "round": 15,
+      "pick": 2,
+      "player": "Rashod Bateman",
+      "position": "WR",
+      "actual_pts": 152.1,
+      "actual_pos_rank": 34,
+      "adp_pos_rank": 70,
+      "adp_pick": "15.02",
+      "value": 36
+    }
+  ]
+}

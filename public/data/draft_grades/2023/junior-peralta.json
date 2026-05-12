@@ -1,0 +1,271 @@
+{
+  "year": 2023,
+  "slug": "junior-peralta",
+  "grade": "A",
+  "rank": 2,
+  "of": 12,
+  "median_value": 2.5,
+  "avg_value": 4.21,
+  "graded_pick_count": 14,
+  "steals_count": 7,
+  "busts_count": 4,
+  "steals": [
+    {
+      "round": 13,
+      "pick": 2,
+      "player": "Nico Collins",
+      "position": "WR",
+      "actual_pts": 220.4,
+      "actual_pos_rank": 9,
+      "adp_pos_rank": 52,
+      "adp_pick": "10.05",
+      "value": 43
+    },
+    {
+      "round": 5,
+      "pick": 2,
+      "player": "Rachaad White",
+      "position": "RB",
+      "actual_pts": 235.9,
+      "actual_pos_rank": 8,
+      "adp_pos_rank": 24,
+      "adp_pick": "6.08",
+      "value": 16
+    },
+    {
+      "round": 15,
+      "pick": 2,
+      "player": "Brock Purdy",
+      "position": "QB",
+      "actual_pts": 357.6,
+      "actual_pos_rank": 6,
+      "adp_pos_rank": 22,
+      "adp_pick": "13.08",
+      "value": 16
+    },
+    {
+      "round": 10,
+      "pick": 11,
+      "player": "Brian Robinson Jr.",
+      "position": "RB",
+      "actual_pts": 180.1,
+      "actual_pos_rank": 22,
+      "adp_pos_rank": 33,
+      "adp_pick": "8.10",
+      "value": 11
+    },
+    {
+      "round": 7,
+      "pick": 2,
+      "player": "George Pickens",
+      "position": "WR",
+      "actual_pts": 177.3,
+      "actual_pos_rank": 26,
+      "adp_pos_rank": 34,
+      "adp_pick": "6.10",
+      "value": 8
+    }
+  ],
+  "busts": [
+    {
+      "round": 6,
+      "pick": 11,
+      "player": "Drake London",
+      "position": "WR",
+      "actual_pts": 139.9,
+      "actual_pos_rank": 39,
+      "adp_pos_rank": 21,
+      "adp_pick": "4.08",
+      "value": -18
+    },
+    {
+      "round": 9,
+      "pick": 2,
+      "player": "Zach Charbonnet",
+      "position": "RB",
+      "actual_pts": 89.6,
+      "actual_pos_rank": 47,
+      "adp_pos_rank": 38,
+      "adp_pick": "9.11",
+      "value": -9
+    },
+    {
+      "round": 8,
+      "pick": 11,
+      "player": "Khalil Herbert",
+      "position": "RB",
+      "actual_pts": 102.5,
+      "actual_pos_rank": 42,
+      "adp_pos_rank": 34,
+      "adp_pick": "8.10",
+      "value": -8
+    },
+    {
+      "round": 3,
+      "pick": 2,
+      "player": "DeVonta Smith",
+      "position": "WR",
+      "actual_pts": 187.1,
+      "actual_pos_rank": 20,
+      "adp_pos_rank": 13,
+      "adp_pick": "2.11",
+      "value": -7
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 2,
+      "player": "Tyreek Hill",
+      "position": "WR",
+      "actual_pts": 316.9,
+      "actual_pos_rank": 2,
+      "adp_pos_rank": 3,
+      "adp_pick": "1.04",
+      "value": 1
+    },
+    {
+      "round": 2,
+      "pick": 11,
+      "player": "Jalen Hurts",
+      "position": "QB",
+      "actual_pts": 402.8,
+      "actual_pos_rank": 3,
+      "adp_pos_rank": 3,
+      "adp_pick": "3.03",
+      "value": 0
+    },
+    {
+      "round": 3,
+      "pick": 2,
+      "player": "DeVonta Smith",
+      "position": "WR",
+      "actual_pts": 187.1,
+      "actual_pos_rank": 20,
+      "adp_pos_rank": 13,
+      "adp_pick": "2.11",
+      "value": -7
+    },
+    {
+      "round": 4,
+      "pick": 11,
+      "player": "Kenneth Walker III",
+      "position": "RB",
+      "actual_pts": 184.9,
+      "actual_pos_rank": 19,
+      "adp_pos_rank": 17,
+      "adp_pick": "4.12",
+      "value": -2
+    },
+    {
+      "round": 5,
+      "pick": 2,
+      "player": "Rachaad White",
+      "position": "RB",
+      "actual_pts": 235.9,
+      "actual_pos_rank": 8,
+      "adp_pos_rank": 24,
+      "adp_pick": "6.08",
+      "value": 16
+    },
+    {
+      "round": 6,
+      "pick": 11,
+      "player": "Drake London",
+      "position": "WR",
+      "actual_pts": 139.9,
+      "actual_pos_rank": 39,
+      "adp_pos_rank": 21,
+      "adp_pick": "4.08",
+      "value": -18
+    },
+    {
+      "round": 7,
+      "pick": 2,
+      "player": "George Pickens",
+      "position": "WR",
+      "actual_pts": 177.3,
+      "actual_pos_rank": 26,
+      "adp_pos_rank": 34,
+      "adp_pick": "6.10",
+      "value": 8
+    },
+    {
+      "round": 8,
+      "pick": 11,
+      "player": "Khalil Herbert",
+      "position": "RB",
+      "actual_pts": 102.5,
+      "actual_pos_rank": 42,
+      "adp_pos_rank": 34,
+      "adp_pick": "8.10",
+      "value": -8
+    },
+    {
+      "round": 9,
+      "pick": 2,
+      "player": "Zach Charbonnet",
+      "position": "RB",
+      "actual_pts": 89.6,
+      "actual_pos_rank": 47,
+      "adp_pos_rank": 38,
+      "adp_pick": "9.11",
+      "value": -9
+    },
+    {
+      "round": 10,
+      "pick": 11,
+      "player": "Brian Robinson Jr.",
+      "position": "RB",
+      "actual_pts": 180.1,
+      "actual_pos_rank": 22,
+      "adp_pos_rank": 33,
+      "adp_pick": "8.10",
+      "value": 11
+    },
+    {
+      "round": 11,
+      "pick": 2,
+      "player": "David Njoku",
+      "position": "TE",
+      "actual_pts": 160.7,
+      "actual_pos_rank": 6,
+      "adp_pos_rank": 10,
+      "adp_pick": "9.08",
+      "value": 4
+    },
+    {
+      "round": 12,
+      "pick": 11,
+      "player": "Dalton Kincaid",
+      "position": "TE",
+      "actual_pts": 113.8,
+      "actual_pos_rank": 12,
+      "adp_pos_rank": 16,
+      "adp_pick": "13.03",
+      "value": 4
+    },
+    {
+      "round": 13,
+      "pick": 2,
+      "player": "Nico Collins",
+      "position": "WR",
+      "actual_pts": 220.4,
+      "actual_pos_rank": 9,
+      "adp_pos_rank": 52,
+      "adp_pick": "10.05",
+      "value": 43
+    },
+    {
+      "round": 15,
+      "pick": 2,
+      "player": "Brock Purdy",
+      "position": "QB",
+      "actual_pts": 357.6,
+      "actual_pos_rank": 6,
+      "adp_pos_rank": 22,
+      "adp_pick": "13.08",
+      "value": 16
+    }
+  ]
+}

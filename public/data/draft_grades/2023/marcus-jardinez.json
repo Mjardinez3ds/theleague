@@ -1,0 +1,238 @@
+{
+  "year": 2023,
+  "slug": "marcus-jardinez",
+  "grade": "D",
+  "rank": 10,
+  "of": 12,
+  "median_value": -15.0,
+  "avg_value": -15.33,
+  "graded_pick_count": 12,
+  "steals_count": 2,
+  "busts_count": 9,
+  "steals": [
+    {
+      "round": 13,
+      "pick": 1,
+      "player": "Tyjae Spears",
+      "position": "RB",
+      "actual_pts": 127.8,
+      "actual_pos_rank": 35,
+      "adp_pos_rank": 52,
+      "adp_pick": "13.07",
+      "value": 17
+    },
+    {
+      "round": 7,
+      "pick": 1,
+      "player": "David Montgomery",
+      "position": "RB",
+      "actual_pts": 199.2,
+      "actual_pos_rank": 13,
+      "adp_pos_rank": 28,
+      "adp_pick": "7.05",
+      "value": 15
+    }
+  ],
+  "busts": [
+    {
+      "round": 5,
+      "pick": 1,
+      "player": "Cam Akers",
+      "position": "RB",
+      "actual_pts": 41.2,
+      "actual_pos_rank": 67,
+      "adp_pos_rank": 22,
+      "adp_pick": "6.03",
+      "value": -45
+    },
+    {
+      "round": 12,
+      "pick": 12,
+      "player": "Tank Bigsby",
+      "position": "RB",
+      "actual_pts": 22.3,
+      "actual_pos_rank": 87,
+      "adp_pos_rank": 51,
+      "adp_pick": "12.06",
+      "value": -36
+    },
+    {
+      "round": 3,
+      "pick": 1,
+      "player": "Tee Higgins",
+      "position": "WR",
+      "actual_pts": 116.6,
+      "actual_pos_rank": 49,
+      "adp_pos_rank": 14,
+      "adp_pick": "3.03",
+      "value": -35
+    },
+    {
+      "round": 1,
+      "pick": 1,
+      "player": "Justin Jefferson",
+      "position": "WR",
+      "actual_pts": 168.2,
+      "actual_pos_rank": 29,
+      "adp_pos_rank": 1,
+      "adp_pick": "1.01",
+      "value": -28
+    },
+    {
+      "round": 11,
+      "pick": 1,
+      "player": "Marvin Mims Jr.",
+      "position": "WR",
+      "actual_pts": 59.7,
+      "actual_pos_rank": 88,
+      "adp_pos_rank": 65,
+      "adp_pick": "13.10",
+      "value": -23
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 1,
+      "player": "Justin Jefferson",
+      "position": "WR",
+      "actual_pts": 168.2,
+      "actual_pos_rank": 29,
+      "adp_pos_rank": 1,
+      "adp_pick": "1.01",
+      "value": -28
+    },
+    {
+      "round": 2,
+      "pick": 12,
+      "player": "Mark Andrews",
+      "position": "TE",
+      "actual_pts": 112.9,
+      "actual_pos_rank": 13,
+      "adp_pos_rank": 2,
+      "adp_pick": "3.05",
+      "value": -11
+    },
+    {
+      "round": 3,
+      "pick": 1,
+      "player": "Tee Higgins",
+      "position": "WR",
+      "actual_pts": 116.6,
+      "actual_pos_rank": 49,
+      "adp_pos_rank": 14,
+      "adp_pick": "3.03",
+      "value": -35
+    },
+    {
+      "round": 4,
+      "pick": 12,
+      "player": "Justin Fields",
+      "position": "QB",
+      "actual_pts": 262.2,
+      "actual_pos_rank": 19,
+      "adp_pos_rank": 6,
+      "adp_pick": "5.01",
+      "value": -13
+    },
+    {
+      "round": 5,
+      "pick": 1,
+      "player": "Cam Akers",
+      "position": "RB",
+      "actual_pts": 41.2,
+      "actual_pos_rank": 67,
+      "adp_pos_rank": 22,
+      "adp_pick": "6.03",
+      "value": -45
+    },
+    {
+      "round": 6,
+      "pick": 12,
+      "player": "Christian Kirk",
+      "position": "WR",
+      "actual_pts": 121.8,
+      "actual_pos_rank": 47,
+      "adp_pos_rank": 30,
+      "adp_pick": "5.12",
+      "value": -17
+    },
+    {
+      "round": 7,
+      "pick": 1,
+      "player": "David Montgomery",
+      "position": "RB",
+      "actual_pts": 199.2,
+      "actual_pos_rank": 13,
+      "adp_pos_rank": 28,
+      "adp_pick": "7.05",
+      "value": 15
+    },
+    {
+      "round": 8,
+      "pick": 12,
+      "player": "Gabe Davis",
+      "position": "WR",
+      "actual_pts": 138.9,
+      "actual_pos_rank": 40,
+      "adp_pos_rank": 42,
+      "adp_pick": "8.06",
+      "value": 2
+    },
+    {
+      "round": 9,
+      "pick": 1,
+      "player": "Antonio Gibson",
+      "position": "RB",
+      "actual_pts": 103.4,
+      "actual_pos_rank": 41,
+      "adp_pos_rank": 31,
+      "adp_pick": "8.05",
+      "value": -10
+    },
+    {
+      "round": 10,
+      "pick": 12,
+      "player": "Jayden Reed",
+      "position": "WR",
+      "actual_pts": 185.2,
+      "actual_pos_rank": 23,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 11,
+      "pick": 1,
+      "player": "Marvin Mims Jr.",
+      "position": "WR",
+      "actual_pts": 59.7,
+      "actual_pos_rank": 88,
+      "adp_pos_rank": 65,
+      "adp_pick": "13.10",
+      "value": -23
+    },
+    {
+      "round": 12,
+      "pick": 12,
+      "player": "Tank Bigsby",
+      "position": "RB",
+      "actual_pts": 22.3,
+      "actual_pos_rank": 87,
+      "adp_pos_rank": 51,
+      "adp_pick": "12.06",
+      "value": -36
+    },
+    {
+      "round": 13,
+      "pick": 1,
+      "player": "Tyjae Spears",
+      "position": "RB",
+      "actual_pts": 127.8,
+      "actual_pos_rank": 35,
+      "adp_pos_rank": 52,
+      "adp_pick": "13.07",
+      "value": 17
+    }
+  ]
+}

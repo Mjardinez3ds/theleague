@@ -1,0 +1,271 @@
+{
+  "year": 2023,
+  "slug": "george-duran",
+  "grade": "C",
+  "rank": 8,
+  "of": 12,
+  "median_value": -9.5,
+  "avg_value": -7.67,
+  "graded_pick_count": 12,
+  "steals_count": 4,
+  "busts_count": 7,
+  "steals": [
+    {
+      "round": 11,
+      "pick": 6,
+      "player": "Sam LaPorta",
+      "position": "TE",
+      "actual_pts": 196.3,
+      "actual_pos_rank": 1,
+      "adp_pos_rank": 18,
+      "adp_pick": "13.09",
+      "value": 17
+    },
+    {
+      "round": 6,
+      "pick": 7,
+      "player": "Brandon Aiyuk",
+      "position": "WR",
+      "actual_pts": 211.7,
+      "actual_pos_rank": 14,
+      "adp_pos_rank": 29,
+      "adp_pick": "5.09",
+      "value": 15
+    },
+    {
+      "round": 5,
+      "pick": 6,
+      "player": "Breece Hall",
+      "position": "RB",
+      "actual_pts": 252.5,
+      "actual_pos_rank": 4,
+      "adp_pos_rank": 14,
+      "adp_pick": "4.01",
+      "value": 10
+    },
+    {
+      "round": 2,
+      "pick": 7,
+      "player": "Amon-Ra St. Brown",
+      "position": "WR",
+      "actual_pts": 271.4,
+      "actual_pos_rank": 3,
+      "adp_pos_rank": 8,
+      "adp_pick": "2.01",
+      "value": 5
+    }
+  ],
+  "busts": [
+    {
+      "round": 9,
+      "pick": 6,
+      "player": "Daniel Jones",
+      "position": "QB",
+      "actual_pts": 61.0,
+      "actual_pos_rank": 44,
+      "adp_pos_rank": 14,
+      "adp_pick": "9.08",
+      "value": -30
+    },
+    {
+      "round": 4,
+      "pick": 7,
+      "player": "Rhamondre Stevenson",
+      "position": "RB",
+      "actual_pts": 126.7,
+      "actual_pos_rank": 36,
+      "adp_pos_rank": 9,
+      "adp_pick": "2.11",
+      "value": -27
+    },
+    {
+      "round": 13,
+      "pick": 6,
+      "player": "Jameson Williams",
+      "position": "WR",
+      "actual_pts": 68.3,
+      "actual_pos_rank": 81,
+      "adp_pos_rank": 55,
+      "adp_pick": "10.12",
+      "value": -26
+    },
+    {
+      "round": 7,
+      "pick": 6,
+      "player": "Jahan Dotson",
+      "position": "WR",
+      "actual_pts": 100.3,
+      "actual_pos_rank": 56,
+      "adp_pos_rank": 36,
+      "adp_pick": "7.01",
+      "value": -20
+    },
+    {
+      "round": 10,
+      "pick": 7,
+      "player": "Jerick McKinnon",
+      "position": "RB",
+      "actual_pts": 73.9,
+      "actual_pos_rank": 55,
+      "adp_pos_rank": 40,
+      "adp_pick": "10.03",
+      "value": -15
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 6,
+      "player": "Tony Pollard",
+      "position": "RB",
+      "actual_pts": 195.1,
+      "actual_pos_rank": 15,
+      "adp_pos_rank": 6,
+      "adp_pick": "2.03",
+      "value": -9
+    },
+    {
+      "round": 2,
+      "pick": 7,
+      "player": "Amon-Ra St. Brown",
+      "position": "WR",
+      "actual_pts": 271.4,
+      "actual_pos_rank": 3,
+      "adp_pos_rank": 8,
+      "adp_pick": "2.01",
+      "value": 5
+    },
+    {
+      "round": 3,
+      "pick": 6,
+      "player": "Calvin Ridley",
+      "position": "WR",
+      "actual_pts": 191.9,
+      "actual_pos_rank": 17,
+      "adp_pos_rank": 15,
+      "adp_pick": "3.05",
+      "value": -2
+    },
+    {
+      "round": 4,
+      "pick": 7,
+      "player": "Rhamondre Stevenson",
+      "position": "RB",
+      "actual_pts": 126.7,
+      "actual_pos_rank": 36,
+      "adp_pos_rank": 9,
+      "adp_pick": "2.11",
+      "value": -27
+    },
+    {
+      "round": 5,
+      "pick": 6,
+      "player": "Breece Hall",
+      "position": "RB",
+      "actual_pts": 252.5,
+      "actual_pos_rank": 4,
+      "adp_pos_rank": 14,
+      "adp_pick": "4.01",
+      "value": 10
+    },
+    {
+      "round": 6,
+      "pick": 7,
+      "player": "Brandon Aiyuk",
+      "position": "WR",
+      "actual_pts": 211.7,
+      "actual_pos_rank": 14,
+      "adp_pos_rank": 29,
+      "adp_pick": "5.09",
+      "value": 15
+    },
+    {
+      "round": 7,
+      "pick": 6,
+      "player": "Jahan Dotson",
+      "position": "WR",
+      "actual_pts": 100.3,
+      "actual_pos_rank": 56,
+      "adp_pos_rank": 36,
+      "adp_pick": "7.01",
+      "value": -20
+    },
+    {
+      "round": 8,
+      "pick": 7,
+      "player": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "actual_pts": 118.3,
+      "actual_pos_rank": 48,
+      "adp_pos_rank": 38,
+      "adp_pick": "7.11",
+      "value": -10
+    },
+    {
+      "round": 9,
+      "pick": 6,
+      "player": "Daniel Jones",
+      "position": "QB",
+      "actual_pts": 61.0,
+      "actual_pos_rank": 44,
+      "adp_pos_rank": 14,
+      "adp_pick": "9.08",
+      "value": -30
+    },
+    {
+      "round": 10,
+      "pick": 7,
+      "player": "Jerick McKinnon",
+      "position": "RB",
+      "actual_pts": 73.9,
+      "actual_pos_rank": 55,
+      "adp_pos_rank": 40,
+      "adp_pick": "10.03",
+      "value": -15
+    },
+    {
+      "round": 11,
+      "pick": 6,
+      "player": "Sam LaPorta",
+      "position": "TE",
+      "actual_pts": 196.3,
+      "actual_pos_rank": 1,
+      "adp_pos_rank": 18,
+      "adp_pick": "13.09",
+      "value": 17
+    },
+    {
+      "round": 12,
+      "pick": 7,
+      "player": "Chigoziem Okonkwo",
+      "position": "TE",
+      "actual_pts": 86.4,
+      "actual_pos_rank": 22,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 13,
+      "pick": 6,
+      "player": "Jameson Williams",
+      "position": "WR",
+      "actual_pts": 68.3,
+      "actual_pos_rank": 81,
+      "adp_pos_rank": 55,
+      "adp_pick": "10.12",
+      "value": -26
+    },
+    {
+      "round": 15,
+      "pick": 6,
+      "player": "Rashid Shaheed",
+      "position": "WR",
+      "actual_pts": 132.6,
+      "actual_pos_rank": 42,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    }
+  ]
+}

@@ -108,6 +108,7 @@ refresh independently of code deploys.
 | Path | Purpose |
 |---|---|
 | `scripts/build_data.py` | Pulls ESPN data → `public/data/*.json`. Run manually or via GitHub Action. |
+| `scripts/build_draft_grades.py` | **Run separately** after `build_data.py`. Pulls 12-team PPR ADP from Fantasy Football Calculator's free JSON API + ESPN player season totals, computes per-pick value (ADP position rank − actual position rank), grades managers on a curve within each year, writes `public/data/draft_grades/{year}/{slug}.json`. Currently grades 2023 + 2024 only — Fantasy Football Calculator doesn't archive 2025 ADP. Only QB/RB/WR/TE picks are graded (K and D/ST are dart throws). |
 | `public/data/league.json` | Meta: league name, current week, available years, last-updated timestamp. |
 | `public/data/standings/{year}.json` | One-year standings + per-team summary. |
 | `public/data/careers.json` | All owners ranked by all-time win %. |

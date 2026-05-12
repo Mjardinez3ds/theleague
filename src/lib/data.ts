@@ -197,3 +197,34 @@ export type H2HData = {
 
 export const getH2H = (slug: string) =>
   readJson<H2HData>(`h2h/${slug}.json`);
+
+export type GradedPick = {
+  round: number;
+  pick: number;
+  player: string;
+  position: string;
+  actual_pts: number;
+  actual_pos_rank: number | null;
+  adp_pos_rank: number | null;
+  adp_pick: string | null;
+  value: number | null;  // ADP rank - actual rank. +ve = steal
+};
+
+export type DraftGrades = {
+  year: number;
+  slug: string;
+  grade: string;          // "A+" .. "F"
+  rank: number;           // place among managers this year
+  of: number;             // total managers graded
+  median_value: number;
+  avg_value: number;
+  graded_pick_count: number;
+  steals_count: number;
+  busts_count: number;
+  steals: GradedPick[];
+  busts: GradedPick[];
+  all_picks: GradedPick[];
+};
+
+export const getDraftGrades = (year: number, slug: string) =>
+  readJson<DraftGrades>(`draft_grades/${year}/${slug}.json`);

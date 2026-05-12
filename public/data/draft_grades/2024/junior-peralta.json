@@ -1,0 +1,282 @@
+{
+  "year": 2024,
+  "slug": "junior-peralta",
+  "grade": "C",
+  "rank": 8,
+  "of": 12,
+  "median_value": -5,
+  "avg_value": -4.54,
+  "graded_pick_count": 13,
+  "steals_count": 5,
+  "busts_count": 8,
+  "steals": [
+    {
+      "round": 6,
+      "pick": 4,
+      "player": "Terry McLaurin",
+      "position": "WR",
+      "actual_pts": 226.8,
+      "actual_pos_rank": 6,
+      "adp_pos_rank": 35,
+      "adp_pick": "6.10",
+      "value": 29
+    },
+    {
+      "round": 14,
+      "pick": 4,
+      "player": "Antonio Gibson",
+      "position": "RB",
+      "actual_pts": 91.9,
+      "actual_pos_rank": 44,
+      "adp_pos_rank": 57,
+      "adp_pick": "14.03",
+      "value": 13
+    },
+    {
+      "round": 8,
+      "pick": 4,
+      "player": "Jayden Reed",
+      "position": "WR",
+      "actual_pts": 169.5,
+      "actual_pos_rank": 26,
+      "adp_pos_rank": 33,
+      "adp_pick": "6.05",
+      "value": 7
+    },
+    {
+      "round": 3,
+      "pick": 9,
+      "player": "De'Von Achane",
+      "position": "RB",
+      "actual_pts": 260.9,
+      "actual_pos_rank": 6,
+      "adp_pos_rank": 11,
+      "adp_pick": "2.09",
+      "value": 5
+    },
+    {
+      "round": 12,
+      "pick": 4,
+      "player": "Justin Herbert",
+      "position": "QB",
+      "actual_pts": 331.4,
+      "actual_pos_rank": 12,
+      "adp_pos_rank": 15,
+      "adp_pick": "10.07",
+      "value": 3
+    }
+  ],
+  "busts": [
+    {
+      "round": 9,
+      "pick": 9,
+      "player": "Joshua Palmer",
+      "position": "WR",
+      "actual_pts": 87.9,
+      "actual_pos_rank": 77,
+      "adp_pos_rank": 54,
+      "adp_pick": "11.10",
+      "value": -23
+    },
+    {
+      "round": 2,
+      "pick": 4,
+      "player": "Marvin Harrison Jr.",
+      "position": "WR",
+      "actual_pts": 165.5,
+      "actual_pos_rank": 29,
+      "adp_pos_rank": 8,
+      "adp_pick": "2.02",
+      "value": -21
+    },
+    {
+      "round": 10,
+      "pick": 4,
+      "player": "Jake Ferguson",
+      "position": "TE",
+      "actual_pts": 74.9,
+      "actual_pos_rank": 30,
+      "adp_pos_rank": 9,
+      "adp_pick": "8.05",
+      "value": -21
+    },
+    {
+      "round": 1,
+      "pick": 9,
+      "player": "Puka Nacua",
+      "position": "WR",
+      "actual_pts": 167.1,
+      "actual_pos_rank": 28,
+      "adp_pos_rank": 9,
+      "adp_pick": "2.03",
+      "value": -19
+    },
+    {
+      "round": 5,
+      "pick": 9,
+      "player": "George Pickens",
+      "position": "WR",
+      "actual_pts": 134.9,
+      "actual_pos_rank": 42,
+      "adp_pos_rank": 30,
+      "adp_pick": "5.12",
+      "value": -12
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 9,
+      "player": "Puka Nacua",
+      "position": "WR",
+      "actual_pts": 167.1,
+      "actual_pos_rank": 28,
+      "adp_pos_rank": 9,
+      "adp_pick": "2.03",
+      "value": -19
+    },
+    {
+      "round": 2,
+      "pick": 4,
+      "player": "Marvin Harrison Jr.",
+      "position": "WR",
+      "actual_pts": 165.5,
+      "actual_pos_rank": 29,
+      "adp_pos_rank": 8,
+      "adp_pick": "2.02",
+      "value": -21
+    },
+    {
+      "round": 3,
+      "pick": 9,
+      "player": "De'Von Achane",
+      "position": "RB",
+      "actual_pts": 260.9,
+      "actual_pos_rank": 6,
+      "adp_pos_rank": 11,
+      "adp_pick": "2.09",
+      "value": 5
+    },
+    {
+      "round": 4,
+      "pick": 4,
+      "player": "Travis Kelce",
+      "position": "TE",
+      "actual_pts": 146.9,
+      "actual_pos_rank": 6,
+      "adp_pos_rank": 1,
+      "adp_pick": "2.12",
+      "value": -5
+    },
+    {
+      "round": 5,
+      "pick": 9,
+      "player": "George Pickens",
+      "position": "WR",
+      "actual_pts": 134.9,
+      "actual_pos_rank": 42,
+      "adp_pos_rank": 30,
+      "adp_pick": "5.12",
+      "value": -12
+    },
+    {
+      "round": 6,
+      "pick": 4,
+      "player": "Terry McLaurin",
+      "position": "WR",
+      "actual_pts": 226.8,
+      "actual_pos_rank": 6,
+      "adp_pos_rank": 35,
+      "adp_pick": "6.10",
+      "value": 29
+    },
+    {
+      "round": 7,
+      "pick": 9,
+      "player": "Rhamondre Stevenson",
+      "position": "RB",
+      "actual_pts": 159.4,
+      "actual_pos_rank": 27,
+      "adp_pos_rank": 22,
+      "adp_pick": "6.02",
+      "value": -5
+    },
+    {
+      "round": 8,
+      "pick": 4,
+      "player": "Jayden Reed",
+      "position": "WR",
+      "actual_pts": 169.5,
+      "actual_pos_rank": 26,
+      "adp_pos_rank": 33,
+      "adp_pick": "6.05",
+      "value": 7
+    },
+    {
+      "round": 9,
+      "pick": 9,
+      "player": "Joshua Palmer",
+      "position": "WR",
+      "actual_pts": 87.9,
+      "actual_pos_rank": 77,
+      "adp_pos_rank": 54,
+      "adp_pick": "11.10",
+      "value": -23
+    },
+    {
+      "round": 10,
+      "pick": 4,
+      "player": "Jake Ferguson",
+      "position": "TE",
+      "actual_pts": 74.9,
+      "actual_pos_rank": 30,
+      "adp_pos_rank": 9,
+      "adp_pick": "8.05",
+      "value": -21
+    },
+    {
+      "round": 11,
+      "pick": 9,
+      "player": "Tua Tagovailoa",
+      "position": "QB",
+      "actual_pts": 219.6,
+      "actual_pos_rank": 21,
+      "adp_pos_rank": 11,
+      "adp_pick": "8.05",
+      "value": -10
+    },
+    {
+      "round": 12,
+      "pick": 4,
+      "player": "Justin Herbert",
+      "position": "QB",
+      "actual_pts": 331.4,
+      "actual_pos_rank": 12,
+      "adp_pos_rank": 15,
+      "adp_pick": "10.07",
+      "value": 3
+    },
+    {
+      "round": 14,
+      "pick": 4,
+      "player": "Antonio Gibson",
+      "position": "RB",
+      "actual_pts": 91.9,
+      "actual_pos_rank": 44,
+      "adp_pos_rank": 57,
+      "adp_pick": "14.03",
+      "value": 13
+    },
+    {
+      "round": 15,
+      "pick": 9,
+      "player": "Jalen McMillan",
+      "position": "WR",
+      "actual_pts": 116.9,
+      "actual_pos_rank": 50,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    }
+  ]
+}

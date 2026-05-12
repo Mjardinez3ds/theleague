@@ -1,0 +1,293 @@
+{
+  "year": 2024,
+  "slug": "marcus-jardinez",
+  "grade": "C",
+  "rank": 7,
+  "of": 12,
+  "median_value": -4.5,
+  "avg_value": -11.64,
+  "graded_pick_count": 14,
+  "steals_count": 5,
+  "busts_count": 7,
+  "steals": [
+    {
+      "round": 12,
+      "pick": 8,
+      "player": "Jordan Mason",
+      "position": "RB",
+      "actual_pts": 109.5,
+      "actual_pos_rank": 37,
+      "adp_pos_rank": 53,
+      "adp_pick": "13.05",
+      "value": 16
+    },
+    {
+      "round": 13,
+      "pick": 5,
+      "player": "Ray Davis",
+      "position": "RB",
+      "actual_pts": 107.6,
+      "actual_pos_rank": 38,
+      "adp_pos_rank": 52,
+      "adp_pick": "13.04",
+      "value": 14
+    },
+    {
+      "round": 2,
+      "pick": 8,
+      "player": "Drake London",
+      "position": "WR",
+      "actual_pts": 230.8,
+      "actual_pos_rank": 5,
+      "adp_pos_rank": 12,
+      "adp_pick": "2.09",
+      "value": 7
+    },
+    {
+      "round": 4,
+      "pick": 8,
+      "player": "Zay Flowers",
+      "position": "WR",
+      "actual_pts": 172.5,
+      "actual_pos_rank": 24,
+      "adp_pos_rank": 28,
+      "adp_pick": "5.09",
+      "value": 4
+    },
+    {
+      "round": 6,
+      "pick": 8,
+      "player": "Xavier Worthy",
+      "position": "WR",
+      "actual_pts": 157.7,
+      "actual_pos_rank": 33,
+      "adp_pos_rank": 37,
+      "adp_pick": "7.10",
+      "value": 4
+    }
+  ],
+  "busts": [
+    {
+      "round": 3,
+      "pick": 5,
+      "player": "Brandon Aiyuk",
+      "position": "WR",
+      "actual_pts": 49.9,
+      "actual_pos_rank": 103,
+      "adp_pos_rank": 24,
+      "adp_pick": "4.12",
+      "value": -79
+    },
+    {
+      "round": 10,
+      "pick": 8,
+      "player": "Blake Corum",
+      "position": "RB",
+      "actual_pts": 30.0,
+      "actual_pos_rank": 81,
+      "adp_pos_rank": 42,
+      "adp_pick": "10.02",
+      "value": -39
+    },
+    {
+      "round": 11,
+      "pick": 5,
+      "player": "Rashid Shaheed",
+      "position": "WR",
+      "actual_pts": 69.8,
+      "actual_pos_rank": 88,
+      "adp_pos_rank": 59,
+      "adp_pick": "12.08",
+      "value": -29
+    },
+    {
+      "round": 15,
+      "pick": 5,
+      "player": "Kimani Vidal",
+      "position": "RB",
+      "actual_pts": 30.2,
+      "actual_pos_rank": 80,
+      "adp_pos_rank": 51,
+      "adp_pick": "12.12",
+      "value": -29
+    },
+    {
+      "round": 8,
+      "pick": 8,
+      "player": "Devin Singletary",
+      "position": "RB",
+      "actual_pts": 86.1,
+      "actual_pos_rank": 48,
+      "adp_pos_rank": 32,
+      "adp_pick": "8.04",
+      "value": -16
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 5,
+      "player": "CeeDee Lamb",
+      "position": "WR",
+      "actual_pts": 212.9,
+      "actual_pos_rank": 8,
+      "adp_pos_rank": 2,
+      "adp_pick": "1.04",
+      "value": -6
+    },
+    {
+      "round": 2,
+      "pick": 8,
+      "player": "Drake London",
+      "position": "WR",
+      "actual_pts": 230.8,
+      "actual_pos_rank": 5,
+      "adp_pos_rank": 12,
+      "adp_pick": "2.09",
+      "value": 7
+    },
+    {
+      "round": 3,
+      "pick": 5,
+      "player": "Brandon Aiyuk",
+      "position": "WR",
+      "actual_pts": 49.9,
+      "actual_pos_rank": 103,
+      "adp_pos_rank": 24,
+      "adp_pick": "4.12",
+      "value": -79
+    },
+    {
+      "round": 4,
+      "pick": 8,
+      "player": "Zay Flowers",
+      "position": "WR",
+      "actual_pts": 172.5,
+      "actual_pos_rank": 24,
+      "adp_pos_rank": 28,
+      "adp_pick": "5.09",
+      "value": 4
+    },
+    {
+      "round": 5,
+      "pick": 5,
+      "player": "Jalen Hurts",
+      "position": "QB",
+      "actual_pts": 351.1,
+      "actual_pos_rank": 9,
+      "adp_pos_rank": 3,
+      "adp_pick": "4.01",
+      "value": -6
+    },
+    {
+      "round": 6,
+      "pick": 8,
+      "player": "Xavier Worthy",
+      "position": "WR",
+      "actual_pts": 157.7,
+      "actual_pos_rank": 33,
+      "adp_pos_rank": 37,
+      "adp_pick": "7.10",
+      "value": 4
+    },
+    {
+      "round": 7,
+      "pick": 5,
+      "player": "Javonte Williams",
+      "position": "RB",
+      "actual_pts": 131.9,
+      "actual_pos_rank": 31,
+      "adp_pos_rank": 28,
+      "adp_pick": "7.05",
+      "value": -3
+    },
+    {
+      "round": 8,
+      "pick": 8,
+      "player": "Devin Singletary",
+      "position": "RB",
+      "actual_pts": 86.1,
+      "actual_pos_rank": 48,
+      "adp_pos_rank": 32,
+      "adp_pick": "8.04",
+      "value": -16
+    },
+    {
+      "round": 9,
+      "pick": 5,
+      "player": "David Njoku",
+      "position": "TE",
+      "actual_pts": 116.5,
+      "actual_pos_rank": 11,
+      "adp_pos_rank": 10,
+      "adp_pick": "9.05",
+      "value": -1
+    },
+    {
+      "round": 10,
+      "pick": 8,
+      "player": "Blake Corum",
+      "position": "RB",
+      "actual_pts": 30.0,
+      "actual_pos_rank": 81,
+      "adp_pos_rank": 42,
+      "adp_pick": "10.02",
+      "value": -39
+    },
+    {
+      "round": 11,
+      "pick": 5,
+      "player": "Rashid Shaheed",
+      "position": "WR",
+      "actual_pts": 69.8,
+      "actual_pos_rank": 88,
+      "adp_pos_rank": 59,
+      "adp_pick": "12.08",
+      "value": -29
+    },
+    {
+      "round": 12,
+      "pick": 8,
+      "player": "Jordan Mason",
+      "position": "RB",
+      "actual_pts": 109.5,
+      "actual_pos_rank": 37,
+      "adp_pos_rank": 53,
+      "adp_pick": "13.05",
+      "value": 16
+    },
+    {
+      "round": 13,
+      "pick": 5,
+      "player": "Ray Davis",
+      "position": "RB",
+      "actual_pts": 107.6,
+      "actual_pos_rank": 38,
+      "adp_pos_rank": 52,
+      "adp_pick": "13.04",
+      "value": 14
+    },
+    {
+      "round": 14,
+      "pick": 8,
+      "player": "Braelon Allen",
+      "position": "RB",
+      "actual_pts": 75.7,
+      "actual_pos_rank": 51,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 15,
+      "pick": 5,
+      "player": "Kimani Vidal",
+      "position": "RB",
+      "actual_pts": 30.2,
+      "actual_pos_rank": 80,
+      "adp_pos_rank": 51,
+      "adp_pick": "12.12",
+      "value": -29
+    }
+  ]
+}

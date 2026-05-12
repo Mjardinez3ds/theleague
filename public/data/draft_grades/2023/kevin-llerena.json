@@ -1,0 +1,260 @@
+{
+  "year": 2023,
+  "slug": "kevin-llerena",
+  "grade": "C",
+  "rank": 7,
+  "of": 12,
+  "median_value": -8.0,
+  "avg_value": -13.64,
+  "graded_pick_count": 14,
+  "steals_count": 3,
+  "busts_count": 9,
+  "steals": [
+    {
+      "round": 7,
+      "pick": 10,
+      "player": "Michael Pittman Jr.",
+      "position": "WR",
+      "actual_pts": 195.7,
+      "actual_pos_rank": 15,
+      "adp_pos_rank": 32,
+      "adp_pick": "6.04",
+      "value": 17
+    },
+    {
+      "round": 5,
+      "pick": 10,
+      "player": "James Conner",
+      "position": "RB",
+      "actual_pts": 188.0,
+      "actual_pos_rank": 18,
+      "adp_pos_rank": 23,
+      "adp_pick": "6.06",
+      "value": 5
+    },
+    {
+      "round": 8,
+      "pick": 3,
+      "player": "Brandin Cooks",
+      "position": "WR",
+      "actual_pts": 146.2,
+      "actual_pos_rank": 36,
+      "adp_pos_rank": 39,
+      "adp_pick": "8.01",
+      "value": 3
+    }
+  ],
+  "busts": [
+    {
+      "round": 9,
+      "pick": 10,
+      "player": "JuJu Smith-Schuster",
+      "position": "WR",
+      "actual_pts": 46.5,
+      "actual_pos_rank": 103,
+      "adp_pos_rank": 44,
+      "adp_pick": "8.09",
+      "value": -59
+    },
+    {
+      "round": 13,
+      "pick": 10,
+      "player": "Rashod Bateman",
+      "position": "WR",
+      "actual_pts": 60.5,
+      "actual_pos_rank": 87,
+      "adp_pos_rank": 49,
+      "adp_pick": "9.06",
+      "value": -38
+    },
+    {
+      "round": 6,
+      "pick": 3,
+      "player": "Jerry Jeudy",
+      "position": "WR",
+      "actual_pts": 114.8,
+      "actual_pos_rank": 50,
+      "adp_pos_rank": 23,
+      "adp_pick": "4.09",
+      "value": -27
+    },
+    {
+      "round": 16,
+      "pick": 3,
+      "player": "Jeff Wilson Jr.",
+      "position": "RB",
+      "actual_pts": 34.3,
+      "actual_pos_rank": 74,
+      "adp_pos_rank": 49,
+      "adp_pick": "12.01",
+      "value": -25
+    },
+    {
+      "round": 3,
+      "pick": 10,
+      "player": "Aaron Jones",
+      "position": "RB",
+      "actual_pts": 119.9,
+      "actual_pos_rank": 37,
+      "adp_pos_rank": 16,
+      "adp_pick": "4.03",
+      "value": -21
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 10,
+      "player": "Travis Kelce",
+      "position": "TE",
+      "actual_pts": 172.9,
+      "actual_pos_rank": 3,
+      "adp_pos_rank": 1,
+      "adp_pick": "1.06",
+      "value": -2
+    },
+    {
+      "round": 2,
+      "pick": 3,
+      "player": "Stefon Diggs",
+      "position": "WR",
+      "actual_pts": 220.3,
+      "actual_pos_rank": 10,
+      "adp_pos_rank": 5,
+      "adp_pick": "1.08",
+      "value": -5
+    },
+    {
+      "round": 3,
+      "pick": 10,
+      "player": "Aaron Jones",
+      "position": "RB",
+      "actual_pts": 119.9,
+      "actual_pos_rank": 37,
+      "adp_pos_rank": 16,
+      "adp_pick": "4.03",
+      "value": -21
+    },
+    {
+      "round": 4,
+      "pick": 3,
+      "player": "Joe Burrow",
+      "position": "QB",
+      "actual_pts": 177.2,
+      "actual_pos_rank": 25,
+      "adp_pos_rank": 5,
+      "adp_pick": "4.07",
+      "value": -20
+    },
+    {
+      "round": 5,
+      "pick": 10,
+      "player": "James Conner",
+      "position": "RB",
+      "actual_pts": 188.0,
+      "actual_pos_rank": 18,
+      "adp_pos_rank": 23,
+      "adp_pick": "6.06",
+      "value": 5
+    },
+    {
+      "round": 6,
+      "pick": 3,
+      "player": "Jerry Jeudy",
+      "position": "WR",
+      "actual_pts": 114.8,
+      "actual_pos_rank": 50,
+      "adp_pos_rank": 23,
+      "adp_pick": "4.09",
+      "value": -27
+    },
+    {
+      "round": 7,
+      "pick": 10,
+      "player": "Michael Pittman Jr.",
+      "position": "WR",
+      "actual_pts": 195.7,
+      "actual_pos_rank": 15,
+      "adp_pos_rank": 32,
+      "adp_pick": "6.04",
+      "value": 17
+    },
+    {
+      "round": 8,
+      "pick": 3,
+      "player": "Brandin Cooks",
+      "position": "WR",
+      "actual_pts": 146.2,
+      "actual_pos_rank": 36,
+      "adp_pos_rank": 39,
+      "adp_pick": "8.01",
+      "value": 3
+    },
+    {
+      "round": 9,
+      "pick": 10,
+      "player": "JuJu Smith-Schuster",
+      "position": "WR",
+      "actual_pts": 46.5,
+      "actual_pos_rank": 103,
+      "adp_pos_rank": 44,
+      "adp_pick": "8.09",
+      "value": -59
+    },
+    {
+      "round": 10,
+      "pick": 3,
+      "player": "Samaje Perine",
+      "position": "RB",
+      "actual_pts": 96.3,
+      "actual_pos_rank": 43,
+      "adp_pos_rank": 36,
+      "adp_pick": "9.03",
+      "value": -7
+    },
+    {
+      "round": 11,
+      "pick": 10,
+      "player": "Elijah Moore",
+      "position": "WR",
+      "actual_pts": 102.6,
+      "actual_pos_rank": 55,
+      "adp_pos_rank": 46,
+      "adp_pick": "9.01",
+      "value": -9
+    },
+    {
+      "round": 13,
+      "pick": 10,
+      "player": "Rashod Bateman",
+      "position": "WR",
+      "actual_pts": 60.5,
+      "actual_pos_rank": 87,
+      "adp_pos_rank": 49,
+      "adp_pick": "9.06",
+      "value": -38
+    },
+    {
+      "round": 15,
+      "pick": 10,
+      "player": "Geno Smith",
+      "position": "QB",
+      "actual_pts": 266.8,
+      "actual_pos_rank": 18,
+      "adp_pos_rank": 15,
+      "adp_pick": "10.02",
+      "value": -3
+    },
+    {
+      "round": 16,
+      "pick": 3,
+      "player": "Jeff Wilson Jr.",
+      "position": "RB",
+      "actual_pts": 34.3,
+      "actual_pos_rank": 74,
+      "adp_pos_rank": 49,
+      "adp_pick": "12.01",
+      "value": -25
+    }
+  ]
+}

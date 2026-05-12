@@ -1,0 +1,271 @@
+{
+  "year": 2023,
+  "slug": "abraham-pinales",
+  "grade": "B",
+  "rank": 5,
+  "of": 12,
+  "median_value": -4,
+  "avg_value": -3.31,
+  "graded_pick_count": 13,
+  "steals_count": 5,
+  "busts_count": 6,
+  "steals": [
+    {
+      "round": 9,
+      "pick": 5,
+      "player": "Jakobi Meyers",
+      "position": "WR",
+      "actual_pts": 185.1,
+      "actual_pos_rank": 24,
+      "adp_pos_rank": 51,
+      "adp_pick": "10.01",
+      "value": 27
+    },
+    {
+      "round": 4,
+      "pick": 8,
+      "player": "Alvin Kamara",
+      "position": "RB",
+      "actual_pts": 195.5,
+      "actual_pos_rank": 14,
+      "adp_pos_rank": 25,
+      "adp_pick": "6.09",
+      "value": 11
+    },
+    {
+      "round": 13,
+      "pick": 5,
+      "player": "Cole Kmet",
+      "position": "TE",
+      "actual_pts": 144.6,
+      "actual_pos_rank": 7,
+      "adp_pos_rank": 15,
+      "adp_pick": "13.02",
+      "value": 8
+    },
+    {
+      "round": 2,
+      "pick": 8,
+      "player": "Joe Mixon",
+      "position": "RB",
+      "actual_pts": 241.0,
+      "actual_pos_rank": 5,
+      "adp_pos_rank": 12,
+      "adp_pick": "3.07",
+      "value": 7
+    },
+    {
+      "round": 12,
+      "pick": 8,
+      "player": "DJ Chark Jr.",
+      "position": "WR",
+      "actual_pts": 98.0,
+      "actual_pos_rank": 58,
+      "adp_pos_rank": 62,
+      "adp_pick": "12.11",
+      "value": 4
+    }
+  ],
+  "busts": [
+    {
+      "round": 8,
+      "pick": 8,
+      "player": "Michael Thomas",
+      "position": "WR",
+      "actual_pts": 70.3,
+      "actual_pos_rank": 79,
+      "adp_pos_rank": 43,
+      "adp_pick": "8.07",
+      "value": -36
+    },
+    {
+      "round": 1,
+      "pick": 5,
+      "player": "Austin Ekeler",
+      "position": "RB",
+      "actual_pts": 159.9,
+      "actual_pos_rank": 28,
+      "adp_pos_rank": 2,
+      "adp_pick": "1.05",
+      "value": -26
+    },
+    {
+      "round": 14,
+      "pick": 8,
+      "player": "Kirk Cousins",
+      "position": "QB",
+      "actual_pts": 185.7,
+      "actual_pos_rank": 23,
+      "adp_pos_rank": 12,
+      "adp_pick": "9.03",
+      "value": -11
+    },
+    {
+      "round": 15,
+      "pick": 5,
+      "player": "Rondale Moore",
+      "position": "WR",
+      "actual_pts": 85.0,
+      "actual_pos_rank": 67,
+      "adp_pos_rank": 56,
+      "adp_pick": "11.03",
+      "value": -11
+    },
+    {
+      "round": 6,
+      "pick": 8,
+      "player": "Kyle Pitts",
+      "position": "TE",
+      "actual_pts": 110.8,
+      "actual_pos_rank": 14,
+      "adp_pos_rank": 7,
+      "adp_pick": "7.03",
+      "value": -7
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 5,
+      "player": "Austin Ekeler",
+      "position": "RB",
+      "actual_pts": 159.9,
+      "actual_pos_rank": 28,
+      "adp_pos_rank": 2,
+      "adp_pick": "1.05",
+      "value": -26
+    },
+    {
+      "round": 2,
+      "pick": 8,
+      "player": "Joe Mixon",
+      "position": "RB",
+      "actual_pts": 241.0,
+      "actual_pos_rank": 5,
+      "adp_pos_rank": 12,
+      "adp_pick": "3.07",
+      "value": 7
+    },
+    {
+      "round": 3,
+      "pick": 5,
+      "player": "Josh Allen",
+      "position": "QB",
+      "actual_pts": 450.6,
+      "actual_pos_rank": 1,
+      "adp_pos_rank": 2,
+      "adp_pick": "3.03",
+      "value": 1
+    },
+    {
+      "round": 4,
+      "pick": 8,
+      "player": "Alvin Kamara",
+      "position": "RB",
+      "actual_pts": 195.5,
+      "actual_pos_rank": 14,
+      "adp_pos_rank": 25,
+      "adp_pick": "6.09",
+      "value": 11
+    },
+    {
+      "round": 5,
+      "pick": 5,
+      "player": "Chris Godwin",
+      "position": "WR",
+      "actual_pts": 167.7,
+      "actual_pos_rank": 31,
+      "adp_pos_rank": 25,
+      "adp_pick": "5.01",
+      "value": -6
+    },
+    {
+      "round": 6,
+      "pick": 8,
+      "player": "Kyle Pitts",
+      "position": "TE",
+      "actual_pts": 110.8,
+      "actual_pos_rank": 14,
+      "adp_pos_rank": 7,
+      "adp_pick": "7.03",
+      "value": -7
+    },
+    {
+      "round": 7,
+      "pick": 5,
+      "player": "Javonte Williams",
+      "position": "RB",
+      "actual_pts": 155.7,
+      "actual_pos_rank": 30,
+      "adp_pos_rank": 26,
+      "adp_pick": "7.01",
+      "value": -4
+    },
+    {
+      "round": 8,
+      "pick": 8,
+      "player": "Michael Thomas",
+      "position": "WR",
+      "actual_pts": 70.3,
+      "actual_pos_rank": 79,
+      "adp_pos_rank": 43,
+      "adp_pick": "8.07",
+      "value": -36
+    },
+    {
+      "round": 9,
+      "pick": 5,
+      "player": "Jakobi Meyers",
+      "position": "WR",
+      "actual_pts": 185.1,
+      "actual_pos_rank": 24,
+      "adp_pos_rank": 51,
+      "adp_pick": "10.01",
+      "value": 27
+    },
+    {
+      "round": 12,
+      "pick": 8,
+      "player": "DJ Chark Jr.",
+      "position": "WR",
+      "actual_pts": 98.0,
+      "actual_pos_rank": 58,
+      "adp_pos_rank": 62,
+      "adp_pick": "12.11",
+      "value": 4
+    },
+    {
+      "round": 13,
+      "pick": 5,
+      "player": "Cole Kmet",
+      "position": "TE",
+      "actual_pts": 144.6,
+      "actual_pos_rank": 7,
+      "adp_pos_rank": 15,
+      "adp_pick": "13.02",
+      "value": 8
+    },
+    {
+      "round": 14,
+      "pick": 8,
+      "player": "Kirk Cousins",
+      "position": "QB",
+      "actual_pts": 185.7,
+      "actual_pos_rank": 23,
+      "adp_pos_rank": 12,
+      "adp_pick": "9.03",
+      "value": -11
+    },
+    {
+      "round": 15,
+      "pick": 5,
+      "player": "Rondale Moore",
+      "position": "WR",
+      "actual_pts": 85.0,
+      "actual_pos_rank": 67,
+      "adp_pos_rank": 56,
+      "adp_pick": "11.03",
+      "value": -11
+    }
+  ]
+}

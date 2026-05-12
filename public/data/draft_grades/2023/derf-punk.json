@@ -1,0 +1,271 @@
+{
+  "year": 2023,
+  "slug": "derf-punk",
+  "grade": "B+",
+  "rank": 3,
+  "of": 12,
+  "median_value": -1.0,
+  "avg_value": -5.64,
+  "graded_pick_count": 14,
+  "steals_count": 5,
+  "busts_count": 4,
+  "steals": [
+    {
+      "round": 9,
+      "pick": 11,
+      "player": "Raheem Mostert",
+      "position": "RB",
+      "actual_pts": 255.2,
+      "actual_pos_rank": 2,
+      "adp_pos_rank": 44,
+      "adp_pick": "11.03",
+      "value": 42
+    },
+    {
+      "round": 5,
+      "pick": 11,
+      "player": "James Cook",
+      "position": "RB",
+      "actual_pts": 210.7,
+      "actual_pos_rank": 11,
+      "adp_pos_rank": 29,
+      "adp_pick": "7.06",
+      "value": 18
+    },
+    {
+      "round": 7,
+      "pick": 11,
+      "player": "Jordan Addison",
+      "position": "WR",
+      "actual_pts": 186.3,
+      "actual_pos_rank": 21,
+      "adp_pos_rank": 37,
+      "adp_pick": "7.06",
+      "value": 16
+    },
+    {
+      "round": 12,
+      "pick": 2,
+      "player": "K.J. Osborn",
+      "position": "WR",
+      "actual_pts": 96.0,
+      "actual_pos_rank": 59,
+      "adp_pos_rank": 70,
+      "adp_pick": "14.04",
+      "value": 11
+    },
+    {
+      "round": 8,
+      "pick": 2,
+      "player": "D'Andre Swift",
+      "position": "RB",
+      "actual_pts": 179.8,
+      "actual_pos_rank": 23,
+      "adp_pos_rank": 27,
+      "adp_pick": "7.04",
+      "value": 4
+    }
+  ],
+  "busts": [
+    {
+      "round": 10,
+      "pick": 2,
+      "player": "Rashaad Penny",
+      "position": "RB",
+      "actual_pts": 4.3,
+      "actual_pos_rank": 119,
+      "adp_pos_rank": 35,
+      "adp_pick": "9.01",
+      "value": -84
+    },
+    {
+      "round": 15,
+      "pick": 11,
+      "player": "Damien Harris",
+      "position": "RB",
+      "actual_pts": 18.0,
+      "actual_pos_rank": 93,
+      "adp_pos_rank": 39,
+      "adp_pick": "10.03",
+      "value": -54
+    },
+    {
+      "round": 11,
+      "pick": 11,
+      "player": "Michael Gallup",
+      "position": "WR",
+      "actual_pts": 70.8,
+      "actual_pos_rank": 78,
+      "adp_pos_rank": 63,
+      "adp_pick": "13.01",
+      "value": -15
+    },
+    {
+      "round": 16,
+      "pick": 2,
+      "player": "Tyler Higbee",
+      "position": "TE",
+      "actual_pts": 85.0,
+      "actual_pos_rank": 25,
+      "adp_pos_rank": 13,
+      "adp_pick": "11.12",
+      "value": -12
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 11,
+      "player": "Davante Adams",
+      "position": "WR",
+      "actual_pts": 213.9,
+      "actual_pos_rank": 11,
+      "adp_pos_rank": 10,
+      "adp_pick": "2.04",
+      "value": -1
+    },
+    {
+      "round": 2,
+      "pick": 2,
+      "player": "Derrick Henry",
+      "position": "RB",
+      "actual_pts": 236.7,
+      "actual_pos_rank": 7,
+      "adp_pos_rank": 7,
+      "adp_pick": "2.06",
+      "value": 0
+    },
+    {
+      "round": 3,
+      "pick": 11,
+      "player": "Lamar Jackson",
+      "position": "QB",
+      "actual_pts": 379.2,
+      "actual_pos_rank": 5,
+      "adp_pos_rank": 4,
+      "adp_pick": "4.01",
+      "value": -1
+    },
+    {
+      "round": 4,
+      "pick": 2,
+      "player": "T.J. Hockenson",
+      "position": "TE",
+      "actual_pts": 171.5,
+      "actual_pos_rank": 4,
+      "adp_pos_rank": 3,
+      "adp_pick": "4.08",
+      "value": -1
+    },
+    {
+      "round": 5,
+      "pick": 11,
+      "player": "James Cook",
+      "position": "RB",
+      "actual_pts": 210.7,
+      "actual_pos_rank": 11,
+      "adp_pos_rank": 29,
+      "adp_pick": "7.06",
+      "value": 18
+    },
+    {
+      "round": 6,
+      "pick": 2,
+      "player": "Terry McLaurin",
+      "position": "WR",
+      "actual_pts": 169.7,
+      "actual_pos_rank": 28,
+      "adp_pos_rank": 26,
+      "adp_pick": "5.02",
+      "value": -2
+    },
+    {
+      "round": 7,
+      "pick": 11,
+      "player": "Jordan Addison",
+      "position": "WR",
+      "actual_pts": 186.3,
+      "actual_pos_rank": 21,
+      "adp_pos_rank": 37,
+      "adp_pick": "7.06",
+      "value": 16
+    },
+    {
+      "round": 8,
+      "pick": 2,
+      "player": "D'Andre Swift",
+      "position": "RB",
+      "actual_pts": 179.8,
+      "actual_pos_rank": 23,
+      "adp_pos_rank": 27,
+      "adp_pick": "7.04",
+      "value": 4
+    },
+    {
+      "round": 9,
+      "pick": 11,
+      "player": "Raheem Mostert",
+      "position": "RB",
+      "actual_pts": 255.2,
+      "actual_pos_rank": 2,
+      "adp_pos_rank": 44,
+      "adp_pick": "11.03",
+      "value": 42
+    },
+    {
+      "round": 10,
+      "pick": 2,
+      "player": "Rashaad Penny",
+      "position": "RB",
+      "actual_pts": 4.3,
+      "actual_pos_rank": 119,
+      "adp_pos_rank": 35,
+      "adp_pick": "9.01",
+      "value": -84
+    },
+    {
+      "round": 11,
+      "pick": 11,
+      "player": "Michael Gallup",
+      "position": "WR",
+      "actual_pts": 70.8,
+      "actual_pos_rank": 78,
+      "adp_pos_rank": 63,
+      "adp_pick": "13.01",
+      "value": -15
+    },
+    {
+      "round": 12,
+      "pick": 2,
+      "player": "K.J. Osborn",
+      "position": "WR",
+      "actual_pts": 96.0,
+      "actual_pos_rank": 59,
+      "adp_pos_rank": 70,
+      "adp_pick": "14.04",
+      "value": 11
+    },
+    {
+      "round": 15,
+      "pick": 11,
+      "player": "Damien Harris",
+      "position": "RB",
+      "actual_pts": 18.0,
+      "actual_pos_rank": 93,
+      "adp_pos_rank": 39,
+      "adp_pick": "10.03",
+      "value": -54
+    },
+    {
+      "round": 16,
+      "pick": 2,
+      "player": "Tyler Higbee",
+      "position": "TE",
+      "actual_pts": 85.0,
+      "actual_pos_rank": 25,
+      "adp_pos_rank": 13,
+      "adp_pick": "11.12",
+      "value": -12
+    }
+  ]
+}

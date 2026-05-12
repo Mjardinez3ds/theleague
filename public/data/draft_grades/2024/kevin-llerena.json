@@ -1,0 +1,282 @@
+{
+  "year": 2024,
+  "slug": "kevin-llerena",
+  "grade": "D",
+  "rank": 10,
+  "of": 12,
+  "median_value": -8,
+  "avg_value": -9.62,
+  "graded_pick_count": 13,
+  "steals_count": 4,
+  "busts_count": 7,
+  "steals": [
+    {
+      "round": 9,
+      "pick": 12,
+      "player": "Jerry Jeudy",
+      "position": "WR",
+      "actual_pts": 195.9,
+      "actual_pos_rank": 15,
+      "adp_pos_rank": 56,
+      "adp_pick": "12.01",
+      "value": 41
+    },
+    {
+      "round": 8,
+      "pick": 1,
+      "player": "Jordan Addison",
+      "position": "WR",
+      "actual_pts": 181.0,
+      "actual_pos_rank": 20,
+      "adp_pos_rank": 57,
+      "adp_pick": "12.02",
+      "value": 37
+    },
+    {
+      "round": 5,
+      "pick": 12,
+      "player": "Joe Burrow",
+      "position": "QB",
+      "actual_pts": 458.8,
+      "actual_pos_rank": 2,
+      "adp_pos_rank": 7,
+      "adp_pick": "5.12",
+      "value": 5
+    },
+    {
+      "round": 14,
+      "pick": 1,
+      "player": "Pat Freiermuth",
+      "position": "TE",
+      "actual_pts": 135.8,
+      "actual_pos_rank": 10,
+      "adp_pos_rank": 15,
+      "adp_pick": "12.03",
+      "value": 5
+    }
+  ],
+  "busts": [
+    {
+      "round": 11,
+      "pick": 12,
+      "player": "Curtis Samuel",
+      "position": "WR",
+      "actual_pts": 48.2,
+      "actual_pos_rank": 105,
+      "adp_pos_rank": 53,
+      "adp_pick": "11.03",
+      "value": -52
+    },
+    {
+      "round": 3,
+      "pick": 12,
+      "player": "Stefon Diggs",
+      "position": "WR",
+      "actual_pts": 98.4,
+      "actual_pos_rank": 67,
+      "adp_pos_rank": 21,
+      "adp_pick": "4.06",
+      "value": -46
+    },
+    {
+      "round": 12,
+      "pick": 1,
+      "player": "Gabe Davis",
+      "position": "WR",
+      "actual_pts": 43.9,
+      "actual_pos_rank": 110,
+      "adp_pos_rank": 71,
+      "adp_pick": "15.02",
+      "value": -39
+    },
+    {
+      "round": 10,
+      "pick": 1,
+      "player": "Ezekiel Elliott",
+      "position": "RB",
+      "actual_pts": 51.5,
+      "actual_pos_rank": 62,
+      "adp_pos_rank": 36,
+      "adp_pick": "8.12",
+      "value": -26
+    },
+    {
+      "round": 4,
+      "pick": 1,
+      "player": "Michael Pittman Jr.",
+      "position": "WR",
+      "actual_pts": 131.3,
+      "actual_pos_rank": 43,
+      "adp_pos_rank": 23,
+      "adp_pick": "4.09",
+      "value": -20
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 12,
+      "player": "Jonathan Taylor",
+      "position": "RB",
+      "actual_pts": 235.7,
+      "actual_pos_rank": 9,
+      "adp_pos_rank": 5,
+      "adp_pick": "1.10",
+      "value": -4
+    },
+    {
+      "round": 2,
+      "pick": 1,
+      "player": "Jahmyr Gibbs",
+      "position": "RB",
+      "actual_pts": 336.9,
+      "actual_pos_rank": 2,
+      "adp_pos_rank": 4,
+      "adp_pick": "1.09",
+      "value": 2
+    },
+    {
+      "round": 3,
+      "pick": 12,
+      "player": "Stefon Diggs",
+      "position": "WR",
+      "actual_pts": 98.4,
+      "actual_pos_rank": 67,
+      "adp_pos_rank": 21,
+      "adp_pick": "4.06",
+      "value": -46
+    },
+    {
+      "round": 4,
+      "pick": 1,
+      "player": "Michael Pittman Jr.",
+      "position": "WR",
+      "actual_pts": 131.3,
+      "actual_pos_rank": 43,
+      "adp_pos_rank": 23,
+      "adp_pick": "4.09",
+      "value": -20
+    },
+    {
+      "round": 5,
+      "pick": 12,
+      "player": "Joe Burrow",
+      "position": "QB",
+      "actual_pts": 458.8,
+      "actual_pos_rank": 2,
+      "adp_pos_rank": 7,
+      "adp_pick": "5.12",
+      "value": 5
+    },
+    {
+      "round": 6,
+      "pick": 1,
+      "player": "Chris Godwin",
+      "position": "WR",
+      "actual_pts": 112.8,
+      "actual_pos_rank": 54,
+      "adp_pos_rank": 34,
+      "adp_pick": "6.08",
+      "value": -20
+    },
+    {
+      "round": 7,
+      "pick": 12,
+      "player": "Kyle Pitts",
+      "position": "TE",
+      "actual_pts": 107.7,
+      "actual_pos_rank": 15,
+      "adp_pos_rank": 7,
+      "adp_pick": "7.01",
+      "value": -8
+    },
+    {
+      "round": 8,
+      "pick": 1,
+      "player": "Jordan Addison",
+      "position": "WR",
+      "actual_pts": 181.0,
+      "actual_pos_rank": 20,
+      "adp_pos_rank": 57,
+      "adp_pick": "12.02",
+      "value": 37
+    },
+    {
+      "round": 9,
+      "pick": 12,
+      "player": "Jerry Jeudy",
+      "position": "WR",
+      "actual_pts": 195.9,
+      "actual_pos_rank": 15,
+      "adp_pos_rank": 56,
+      "adp_pick": "12.01",
+      "value": 41
+    },
+    {
+      "round": 10,
+      "pick": 1,
+      "player": "Ezekiel Elliott",
+      "position": "RB",
+      "actual_pts": 51.5,
+      "actual_pos_rank": 62,
+      "adp_pos_rank": 36,
+      "adp_pick": "8.12",
+      "value": -26
+    },
+    {
+      "round": 11,
+      "pick": 12,
+      "player": "Curtis Samuel",
+      "position": "WR",
+      "actual_pts": 48.2,
+      "actual_pos_rank": 105,
+      "adp_pos_rank": 53,
+      "adp_pick": "11.03",
+      "value": -52
+    },
+    {
+      "round": 12,
+      "pick": 1,
+      "player": "Gabe Davis",
+      "position": "WR",
+      "actual_pts": 43.9,
+      "actual_pos_rank": 110,
+      "adp_pos_rank": 71,
+      "adp_pick": "15.02",
+      "value": -39
+    },
+    {
+      "round": 14,
+      "pick": 1,
+      "player": "Pat Freiermuth",
+      "position": "TE",
+      "actual_pts": 135.8,
+      "actual_pos_rank": 10,
+      "adp_pos_rank": 15,
+      "adp_pick": "12.03",
+      "value": 5
+    },
+    {
+      "round": 15,
+      "pick": 12,
+      "player": "Tyler Conklin",
+      "position": "TE",
+      "actual_pts": 96.4,
+      "actual_pos_rank": 19,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 16,
+      "pick": 1,
+      "player": "Demarcus Robinson",
+      "position": "WR",
+      "actual_pts": 108.0,
+      "actual_pos_rank": 58,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    }
+  ]
+}

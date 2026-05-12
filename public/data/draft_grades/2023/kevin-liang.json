@@ -1,0 +1,260 @@
+{
+  "year": 2023,
+  "slug": "kevin-liang",
+  "grade": "F",
+  "rank": 12,
+  "of": 12,
+  "median_value": -23.5,
+  "avg_value": -14.92,
+  "graded_pick_count": 12,
+  "steals_count": 3,
+  "busts_count": 7,
+  "steals": [
+    {
+      "round": 5,
+      "pick": 9,
+      "player": "DJ Moore",
+      "position": "WR",
+      "actual_pts": 238.5,
+      "actual_pos_rank": 6,
+      "adp_pos_rank": 22,
+      "adp_pick": "4.09",
+      "value": 16
+    },
+    {
+      "round": 13,
+      "pick": 9,
+      "player": "Devin Singletary",
+      "position": "RB",
+      "actual_pts": 154.3,
+      "actual_pos_rank": 31,
+      "adp_pos_rank": 46,
+      "adp_pick": "11.11",
+      "value": 15
+    },
+    {
+      "round": 16,
+      "pick": 4,
+      "player": "Jared Goff",
+      "position": "QB",
+      "actual_pts": 349.1,
+      "actual_pos_rank": 7,
+      "adp_pos_rank": 16,
+      "adp_pick": "11.03",
+      "value": 9
+    }
+  ],
+  "busts": [
+    {
+      "round": 10,
+      "pick": 4,
+      "player": "Aaron Rodgers",
+      "position": "QB",
+      "actual_pts": 0.0,
+      "actual_pos_rank": 73,
+      "adp_pos_rank": 13,
+      "adp_pick": "9.08",
+      "value": -60
+    },
+    {
+      "round": 3,
+      "pick": 9,
+      "player": "Dameon Pierce",
+      "position": "RB",
+      "actual_pts": 76.2,
+      "actual_pos_rank": 52,
+      "adp_pos_rank": 21,
+      "adp_pick": "5.09",
+      "value": -31
+    },
+    {
+      "round": 7,
+      "pick": 9,
+      "player": "Quentin Johnston",
+      "position": "WR",
+      "actual_pts": 75.0,
+      "actual_pos_rank": 75,
+      "adp_pos_rank": 45,
+      "adp_pick": "8.12",
+      "value": -30
+    },
+    {
+      "round": 9,
+      "pick": 9,
+      "player": "Jalin Hyatt",
+      "position": "WR",
+      "actual_pts": 48.8,
+      "actual_pos_rank": 98,
+      "adp_pos_rank": 72,
+      "adp_pick": "14.07",
+      "value": -26
+    },
+    {
+      "round": 14,
+      "pick": 4,
+      "player": "Zay Jones",
+      "position": "WR",
+      "actual_pts": 61.1,
+      "actual_pos_rank": 86,
+      "adp_pos_rank": 61,
+      "adp_pick": "11.11",
+      "value": -25
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 9,
+      "player": "Garrett Wilson",
+      "position": "WR",
+      "actual_pts": 165.7,
+      "actual_pos_rank": 32,
+      "adp_pos_rank": 9,
+      "adp_pick": "2.04",
+      "value": -23
+    },
+    {
+      "round": 2,
+      "pick": 4,
+      "player": "A.J. Brown",
+      "position": "WR",
+      "actual_pts": 236.6,
+      "actual_pos_rank": 7,
+      "adp_pos_rank": 7,
+      "adp_pick": "1.12",
+      "value": 0
+    },
+    {
+      "round": 3,
+      "pick": 9,
+      "player": "Dameon Pierce",
+      "position": "RB",
+      "actual_pts": 76.2,
+      "actual_pos_rank": 52,
+      "adp_pos_rank": 21,
+      "adp_pick": "5.09",
+      "value": -31
+    },
+    {
+      "round": 4,
+      "pick": 4,
+      "player": "Amari Cooper",
+      "position": "WR",
+      "actual_pts": 191.0,
+      "actual_pos_rank": 18,
+      "adp_pos_rank": 18,
+      "adp_pick": "3.11",
+      "value": 0
+    },
+    {
+      "round": 5,
+      "pick": 9,
+      "player": "DJ Moore",
+      "position": "WR",
+      "actual_pts": 238.5,
+      "actual_pos_rank": 6,
+      "adp_pos_rank": 22,
+      "adp_pick": "4.09",
+      "value": 16
+    },
+    {
+      "round": 6,
+      "pick": 4,
+      "player": "Dalvin Cook",
+      "position": "RB",
+      "actual_pts": 32.7,
+      "actual_pos_rank": 76,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 7,
+      "pick": 9,
+      "player": "Quentin Johnston",
+      "position": "WR",
+      "actual_pts": 75.0,
+      "actual_pos_rank": 75,
+      "adp_pos_rank": 45,
+      "adp_pick": "8.12",
+      "value": -30
+    },
+    {
+      "round": 8,
+      "pick": 4,
+      "player": "Jamaal Williams",
+      "position": "RB",
+      "actual_pts": 51.8,
+      "actual_pos_rank": 61,
+      "adp_pos_rank": 37,
+      "adp_pick": "9.08",
+      "value": -24
+    },
+    {
+      "round": 9,
+      "pick": 9,
+      "player": "Jalin Hyatt",
+      "position": "WR",
+      "actual_pts": 48.8,
+      "actual_pos_rank": 98,
+      "adp_pos_rank": 72,
+      "adp_pick": "14.07",
+      "value": -26
+    },
+    {
+      "round": 10,
+      "pick": 4,
+      "player": "Aaron Rodgers",
+      "position": "QB",
+      "actual_pts": 0.0,
+      "actual_pos_rank": 73,
+      "adp_pos_rank": 13,
+      "adp_pick": "9.08",
+      "value": -60
+    },
+    {
+      "round": 11,
+      "pick": 9,
+      "player": "Juwan Johnson",
+      "position": "TE",
+      "actual_pts": 79.3,
+      "actual_pos_rank": 26,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 13,
+      "pick": 9,
+      "player": "Devin Singletary",
+      "position": "RB",
+      "actual_pts": 154.3,
+      "actual_pos_rank": 31,
+      "adp_pos_rank": 46,
+      "adp_pick": "11.11",
+      "value": 15
+    },
+    {
+      "round": 14,
+      "pick": 4,
+      "player": "Zay Jones",
+      "position": "WR",
+      "actual_pts": 61.1,
+      "actual_pos_rank": 86,
+      "adp_pos_rank": 61,
+      "adp_pick": "11.11",
+      "value": -25
+    },
+    {
+      "round": 16,
+      "pick": 4,
+      "player": "Jared Goff",
+      "position": "QB",
+      "actual_pts": 349.1,
+      "actual_pos_rank": 7,
+      "adp_pos_rank": 16,
+      "adp_pick": "11.03",
+      "value": 9
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "year": 2024,
+  "slug": "devon-malki",
+  "grade": "B",
+  "rank": 5,
+  "of": 12,
+  "median_value": -3,
+  "avg_value": -4.62,
+  "graded_pick_count": 13,
+  "steals_count": 5,
+  "busts_count": 6,
+  "steals": [
+    {
+      "round": 7,
+      "pick": 11,
+      "player": "Courtland Sutton",
+      "position": "WR",
+      "actual_pts": 201.8,
+      "actual_pos_rank": 11,
+      "adp_pos_rank": 49,
+      "adp_pick": "10.03",
+      "value": 38
+    },
+    {
+      "round": 5,
+      "pick": 11,
+      "player": "Calvin Ridley",
+      "position": "WR",
+      "actual_pts": 167.2,
+      "actual_pos_rank": 27,
+      "adp_pos_rank": 36,
+      "adp_pick": "7.03",
+      "value": 9
+    },
+    {
+      "round": 10,
+      "pick": 2,
+      "player": "Aaron Rodgers",
+      "position": "QB",
+      "actual_pts": 312.6,
+      "actual_pos_rank": 13,
+      "adp_pos_rank": 20,
+      "adp_pick": "11.10",
+      "value": 7
+    },
+    {
+      "round": 14,
+      "pick": 2,
+      "player": "Jared Goff",
+      "position": "QB",
+      "actual_pts": 398.0,
+      "actual_pos_rank": 6,
+      "adp_pos_rank": 12,
+      "adp_pick": "8.10",
+      "value": 6
+    },
+    {
+      "round": 2,
+      "pick": 2,
+      "player": "Saquon Barkley",
+      "position": "RB",
+      "actual_pts": 338.8,
+      "actual_pos_rank": 1,
+      "adp_pos_rank": 6,
+      "adp_pick": "1.11",
+      "value": 5
+    }
+  ],
+  "busts": [
+    {
+      "round": 12,
+      "pick": 2,
+      "player": "Brandin Cooks",
+      "position": "WR",
+      "actual_pts": 56.6,
+      "actual_pos_rank": 96,
+      "adp_pos_rank": 58,
+      "adp_pick": "12.03",
+      "value": -38
+    },
+    {
+      "round": 3,
+      "pick": 11,
+      "player": "Deebo Samuel Sr.",
+      "position": "WR",
+      "actual_pts": 128.1,
+      "actual_pos_rank": 44,
+      "adp_pos_rank": 13,
+      "adp_pick": "2.11",
+      "value": -31
+    },
+    {
+      "round": 6,
+      "pick": 2,
+      "player": "Evan Engram",
+      "position": "TE",
+      "actual_pts": 66.0,
+      "actual_pos_rank": 34,
+      "adp_pos_rank": 8,
+      "adp_pick": "7.07",
+      "value": -26
+    },
+    {
+      "round": 4,
+      "pick": 2,
+      "player": "Kenneth Walker III",
+      "position": "RB",
+      "actual_pts": 158.2,
+      "actual_pos_rank": 28,
+      "adp_pos_rank": 17,
+      "adp_pick": "3.12",
+      "value": -11
+    },
+    {
+      "round": 8,
+      "pick": 2,
+      "player": "Tyjae Spears",
+      "position": "RB",
+      "actual_pts": 98.6,
+      "actual_pos_rank": 43,
+      "adp_pos_rank": 34,
+      "adp_pick": "8.07",
+      "value": -9
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 11,
+      "player": "Garrett Wilson",
+      "position": "WR",
+      "actual_pts": 201.4,
+      "actual_pos_rank": 12,
+      "adp_pos_rank": 7,
+      "adp_pick": "1.12",
+      "value": -5
+    },
+    {
+      "round": 2,
+      "pick": 2,
+      "player": "Saquon Barkley",
+      "position": "RB",
+      "actual_pts": 338.8,
+      "actual_pos_rank": 1,
+      "adp_pos_rank": 6,
+      "adp_pick": "1.11",
+      "value": 5
+    },
+    {
+      "round": 3,
+      "pick": 11,
+      "player": "Deebo Samuel Sr.",
+      "position": "WR",
+      "actual_pts": 128.1,
+      "actual_pos_rank": 44,
+      "adp_pos_rank": 13,
+      "adp_pick": "2.11",
+      "value": -31
+    },
+    {
+      "round": 4,
+      "pick": 2,
+      "player": "Kenneth Walker III",
+      "position": "RB",
+      "actual_pts": 158.2,
+      "actual_pos_rank": 28,
+      "adp_pos_rank": 17,
+      "adp_pick": "3.12",
+      "value": -11
+    },
+    {
+      "round": 5,
+      "pick": 11,
+      "player": "Calvin Ridley",
+      "position": "WR",
+      "actual_pts": 167.2,
+      "actual_pos_rank": 27,
+      "adp_pos_rank": 36,
+      "adp_pick": "7.03",
+      "value": 9
+    },
+    {
+      "round": 6,
+      "pick": 2,
+      "player": "Evan Engram",
+      "position": "TE",
+      "actual_pts": 66.0,
+      "actual_pos_rank": 34,
+      "adp_pos_rank": 8,
+      "adp_pick": "7.07",
+      "value": -26
+    },
+    {
+      "round": 7,
+      "pick": 11,
+      "player": "Courtland Sutton",
+      "position": "WR",
+      "actual_pts": 201.8,
+      "actual_pos_rank": 11,
+      "adp_pos_rank": 49,
+      "adp_pick": "10.03",
+      "value": 38
+    },
+    {
+      "round": 8,
+      "pick": 2,
+      "player": "Tyjae Spears",
+      "position": "RB",
+      "actual_pts": 98.6,
+      "actual_pos_rank": 43,
+      "adp_pos_rank": 34,
+      "adp_pick": "8.07",
+      "value": -9
+    },
+    {
+      "round": 9,
+      "pick": 11,
+      "player": "Austin Ekeler",
+      "position": "RB",
+      "actual_pts": 114.8,
+      "actual_pos_rank": 35,
+      "adp_pos_rank": 33,
+      "adp_pick": "8.04",
+      "value": -2
+    },
+    {
+      "round": 10,
+      "pick": 2,
+      "player": "Aaron Rodgers",
+      "position": "QB",
+      "actual_pts": 312.6,
+      "actual_pos_rank": 13,
+      "adp_pos_rank": 20,
+      "adp_pick": "11.10",
+      "value": 7
+    },
+    {
+      "round": 11,
+      "pick": 11,
+      "player": "DeMario Douglas",
+      "position": "WR",
+      "actual_pts": 114.7,
+      "actual_pos_rank": 52,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 12,
+      "pick": 2,
+      "player": "Brandin Cooks",
+      "position": "WR",
+      "actual_pts": 56.6,
+      "actual_pos_rank": 96,
+      "adp_pos_rank": 58,
+      "adp_pick": "12.03",
+      "value": -38
+    },
+    {
+      "round": 13,
+      "pick": 11,
+      "player": "Taysom Hill",
+      "position": "TE",
+      "actual_pts": 90.8,
+      "actual_pos_rank": 22,
+      "adp_pos_rank": 19,
+      "adp_pick": "13.12",
+      "value": -3
+    },
+    {
+      "round": 14,
+      "pick": 2,
+      "player": "Jared Goff",
+      "position": "QB",
+      "actual_pts": 398.0,
+      "actual_pos_rank": 6,
+      "adp_pos_rank": 12,
+      "adp_pick": "8.10",
+      "value": 6
+    },
+    {
+      "round": 16,
+      "pick": 2,
+      "player": "Kalif Raymond",
+      "position": "WR",
+      "actual_pts": 48.0,
+      "actual_pos_rank": 107,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    }
+  ]
+}

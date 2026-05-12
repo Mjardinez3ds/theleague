@@ -1,0 +1,282 @@
+{
+  "year": 2024,
+  "slug": "derf-punk",
+  "grade": "D",
+  "rank": 9,
+  "of": 12,
+  "median_value": -6,
+  "avg_value": -12.31,
+  "graded_pick_count": 13,
+  "steals_count": 4,
+  "busts_count": 8,
+  "steals": [
+    {
+      "round": 10,
+      "pick": 5,
+      "player": "Jameson Williams",
+      "position": "WR",
+      "actual_pts": 183.2,
+      "actual_pos_rank": 19,
+      "adp_pos_rank": 48,
+      "adp_pick": "9.12",
+      "value": 29
+    },
+    {
+      "round": 9,
+      "pick": 8,
+      "player": "Chuba Hubbard",
+      "position": "RB",
+      "actual_pts": 220.1,
+      "actual_pos_rank": 15,
+      "adp_pos_rank": 41,
+      "adp_pick": "10.01",
+      "value": 26
+    },
+    {
+      "round": 5,
+      "pick": 8,
+      "player": "James Conner",
+      "position": "RB",
+      "actual_pts": 230.3,
+      "actual_pos_rank": 11,
+      "adp_pos_rank": 19,
+      "adp_pick": "4.12",
+      "value": 8
+    },
+    {
+      "round": 1,
+      "pick": 8,
+      "player": "Justin Jefferson",
+      "position": "WR",
+      "actual_pts": 266.0,
+      "actual_pos_rank": 2,
+      "adp_pos_rank": 5,
+      "adp_pick": "1.08",
+      "value": 3
+    }
+  ],
+  "busts": [
+    {
+      "round": 7,
+      "pick": 8,
+      "player": "Jonathon Brooks",
+      "position": "RB",
+      "actual_pts": 6.0,
+      "actual_pos_rank": 114,
+      "adp_pos_rank": 31,
+      "adp_pick": "8.01",
+      "value": -83
+    },
+    {
+      "round": 15,
+      "pick": 8,
+      "player": "Jahan Dotson",
+      "position": "WR",
+      "actual_pts": 32.4,
+      "actual_pos_rank": 119,
+      "adp_pos_rank": 61,
+      "adp_pick": "13.08",
+      "value": -58
+    },
+    {
+      "round": 2,
+      "pick": 5,
+      "player": "Travis Etienne Jr.",
+      "position": "RB",
+      "actual_pts": 110.7,
+      "actual_pos_rank": 36,
+      "adp_pos_rank": 9,
+      "adp_pick": "2.06",
+      "value": -27
+    },
+    {
+      "round": 6,
+      "pick": 5,
+      "player": "Dalton Kincaid",
+      "position": "TE",
+      "actual_pts": 78.8,
+      "actual_pos_rank": 29,
+      "adp_pos_rank": 5,
+      "adp_pick": "5.11",
+      "value": -24
+    },
+    {
+      "round": 3,
+      "pick": 8,
+      "player": "Rachaad White",
+      "position": "RB",
+      "actual_pts": 174.1,
+      "actual_pos_rank": 24,
+      "adp_pos_rank": 13,
+      "adp_pick": "3.05",
+      "value": -11
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 8,
+      "player": "Justin Jefferson",
+      "position": "WR",
+      "actual_pts": 266.0,
+      "actual_pos_rank": 2,
+      "adp_pos_rank": 5,
+      "adp_pick": "1.08",
+      "value": 3
+    },
+    {
+      "round": 2,
+      "pick": 5,
+      "player": "Travis Etienne Jr.",
+      "position": "RB",
+      "actual_pts": 110.7,
+      "actual_pos_rank": 36,
+      "adp_pos_rank": 9,
+      "adp_pick": "2.06",
+      "value": -27
+    },
+    {
+      "round": 3,
+      "pick": 8,
+      "player": "Rachaad White",
+      "position": "RB",
+      "actual_pts": 174.1,
+      "actual_pos_rank": 24,
+      "adp_pos_rank": 13,
+      "adp_pick": "3.05",
+      "value": -11
+    },
+    {
+      "round": 4,
+      "pick": 5,
+      "player": "Patrick Mahomes",
+      "position": "QB",
+      "actual_pts": 334.5,
+      "actual_pos_rank": 11,
+      "adp_pos_rank": 2,
+      "adp_pick": "3.07",
+      "value": -9
+    },
+    {
+      "round": 5,
+      "pick": 8,
+      "player": "James Conner",
+      "position": "RB",
+      "actual_pts": 230.3,
+      "actual_pos_rank": 11,
+      "adp_pos_rank": 19,
+      "adp_pick": "4.12",
+      "value": 8
+    },
+    {
+      "round": 6,
+      "pick": 5,
+      "player": "Dalton Kincaid",
+      "position": "TE",
+      "actual_pts": 78.8,
+      "actual_pos_rank": 29,
+      "adp_pos_rank": 5,
+      "adp_pick": "5.11",
+      "value": -24
+    },
+    {
+      "round": 7,
+      "pick": 8,
+      "player": "Jonathon Brooks",
+      "position": "RB",
+      "actual_pts": 6.0,
+      "actual_pos_rank": 114,
+      "adp_pos_rank": 31,
+      "adp_pick": "8.01",
+      "value": -83
+    },
+    {
+      "round": 8,
+      "pick": 5,
+      "player": "Rome Odunze",
+      "position": "WR",
+      "actual_pts": 117.9,
+      "actual_pos_rank": 49,
+      "adp_pos_rank": 43,
+      "adp_pick": "9.02",
+      "value": -6
+    },
+    {
+      "round": 9,
+      "pick": 8,
+      "player": "Chuba Hubbard",
+      "position": "RB",
+      "actual_pts": 220.1,
+      "actual_pos_rank": 15,
+      "adp_pos_rank": 41,
+      "adp_pick": "10.01",
+      "value": 26
+    },
+    {
+      "round": 10,
+      "pick": 5,
+      "player": "Jameson Williams",
+      "position": "WR",
+      "actual_pts": 183.2,
+      "actual_pos_rank": 19,
+      "adp_pos_rank": 48,
+      "adp_pick": "9.12",
+      "value": 29
+    },
+    {
+      "round": 12,
+      "pick": 5,
+      "player": "Xavier Legette",
+      "position": "WR",
+      "actual_pts": 100.6,
+      "actual_pos_rank": 65,
+      "adp_pos_rank": 60,
+      "adp_pick": "12.09",
+      "value": -5
+    },
+    {
+      "round": 13,
+      "pick": 8,
+      "player": "Tank Bigsby",
+      "position": "RB",
+      "actual_pts": 125.5,
+      "actual_pos_rank": 32,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 14,
+      "pick": 5,
+      "player": "Kirk Cousins",
+      "position": "QB",
+      "actual_pts": 212.3,
+      "actual_pos_rank": 22,
+      "adp_pos_rank": 19,
+      "adp_pick": "11.10",
+      "value": -3
+    },
+    {
+      "round": 15,
+      "pick": 8,
+      "player": "Jahan Dotson",
+      "position": "WR",
+      "actual_pts": 32.4,
+      "actual_pos_rank": 119,
+      "adp_pos_rank": 61,
+      "adp_pick": "13.08",
+      "value": -58
+    },
+    {
+      "round": 16,
+      "pick": 5,
+      "player": "Samaje Perine",
+      "position": "RB",
+      "actual_pts": 67.4,
+      "actual_pos_rank": 54,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    }
+  ]
+}

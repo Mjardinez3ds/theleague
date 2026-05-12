@@ -1,0 +1,282 @@
+{
+  "year": 2024,
+  "slug": "george-duran",
+  "grade": "B+",
+  "rank": 3,
+  "of": 12,
+  "median_value": -2.0,
+  "avg_value": -3.0,
+  "graded_pick_count": 14,
+  "steals_count": 4,
+  "busts_count": 6,
+  "steals": [
+    {
+      "round": 13,
+      "pick": 6,
+      "player": "Bucky Irving",
+      "position": "RB",
+      "actual_pts": 220.9,
+      "actual_pos_rank": 14,
+      "adp_pos_rank": 55,
+      "adp_pick": "13.09",
+      "value": 41
+    },
+    {
+      "round": 14,
+      "pick": 7,
+      "player": "Josh Downs",
+      "position": "WR",
+      "actual_pts": 147.5,
+      "actual_pos_rank": 36,
+      "adp_pos_rank": 63,
+      "adp_pick": "13.12",
+      "value": 27
+    },
+    {
+      "round": 10,
+      "pick": 7,
+      "player": "Khalil Shakir",
+      "position": "WR",
+      "actual_pts": 144.5,
+      "actual_pos_rank": 38,
+      "adp_pos_rank": 52,
+      "adp_pick": "10.09",
+      "value": 14
+    },
+    {
+      "round": 3,
+      "pick": 6,
+      "player": "Malik Nabers",
+      "position": "WR",
+      "actual_pts": 219.1,
+      "actual_pos_rank": 7,
+      "adp_pos_rank": 19,
+      "adp_pick": "4.02",
+      "value": 12
+    }
+  ],
+  "busts": [
+    {
+      "round": 6,
+      "pick": 7,
+      "player": "Diontae Johnson",
+      "position": "WR",
+      "actual_pts": 72.6,
+      "actual_pos_rank": 86,
+      "adp_pos_rank": 42,
+      "adp_pick": "8.08",
+      "value": -44
+    },
+    {
+      "round": 8,
+      "pick": 7,
+      "player": "Raheem Mostert",
+      "position": "RB",
+      "actual_pts": 61.4,
+      "actual_pos_rank": 58,
+      "adp_pos_rank": 23,
+      "adp_pick": "6.04",
+      "value": -35
+    },
+    {
+      "round": 4,
+      "pick": 7,
+      "player": "Jaylen Waddle",
+      "position": "WR",
+      "actual_pts": 120.6,
+      "actual_pos_rank": 46,
+      "adp_pos_rank": 15,
+      "adp_pick": "3.05",
+      "value": -31
+    },
+    {
+      "round": 9,
+      "pick": 6,
+      "player": "Jaylen Warren",
+      "position": "RB",
+      "actual_pts": 105.1,
+      "actual_pos_rank": 41,
+      "adp_pos_rank": 29,
+      "adp_pick": "7.08",
+      "value": -12
+    },
+    {
+      "round": 2,
+      "pick": 7,
+      "player": "Nico Collins",
+      "position": "WR",
+      "actual_pts": 176.6,
+      "actual_pos_rank": 22,
+      "adp_pos_rank": 16,
+      "adp_pick": "3.08",
+      "value": -6
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 6,
+      "player": "Bijan Robinson",
+      "position": "RB",
+      "actual_pts": 311.2,
+      "actual_pos_rank": 4,
+      "adp_pos_rank": 3,
+      "adp_pick": "1.05",
+      "value": -1
+    },
+    {
+      "round": 2,
+      "pick": 7,
+      "player": "Nico Collins",
+      "position": "WR",
+      "actual_pts": 176.6,
+      "actual_pos_rank": 22,
+      "adp_pos_rank": 16,
+      "adp_pick": "3.08",
+      "value": -6
+    },
+    {
+      "round": 3,
+      "pick": 6,
+      "player": "Malik Nabers",
+      "position": "WR",
+      "actual_pts": 219.1,
+      "actual_pos_rank": 7,
+      "adp_pos_rank": 19,
+      "adp_pick": "4.02",
+      "value": 12
+    },
+    {
+      "round": 4,
+      "pick": 7,
+      "player": "Jaylen Waddle",
+      "position": "WR",
+      "actual_pts": 120.6,
+      "actual_pos_rank": 46,
+      "adp_pos_rank": 15,
+      "adp_pick": "3.05",
+      "value": -31
+    },
+    {
+      "round": 5,
+      "pick": 6,
+      "player": "Trey McBride",
+      "position": "TE",
+      "actual_pts": 188.3,
+      "actual_pos_rank": 3,
+      "adp_pos_rank": 4,
+      "adp_pick": "5.02",
+      "value": 1
+    },
+    {
+      "round": 6,
+      "pick": 7,
+      "player": "Diontae Johnson",
+      "position": "WR",
+      "actual_pts": 72.6,
+      "actual_pos_rank": 86,
+      "adp_pos_rank": 42,
+      "adp_pick": "8.08",
+      "value": -44
+    },
+    {
+      "round": 7,
+      "pick": 6,
+      "player": "Kyler Murray",
+      "position": "QB",
+      "actual_pts": 339.2,
+      "actual_pos_rank": 10,
+      "adp_pos_rank": 10,
+      "adp_pick": "7.04",
+      "value": 0
+    },
+    {
+      "round": 8,
+      "pick": 7,
+      "player": "Raheem Mostert",
+      "position": "RB",
+      "actual_pts": 61.4,
+      "actual_pos_rank": 58,
+      "adp_pos_rank": 23,
+      "adp_pick": "6.04",
+      "value": -35
+    },
+    {
+      "round": 9,
+      "pick": 6,
+      "player": "Jaylen Warren",
+      "position": "RB",
+      "actual_pts": 105.1,
+      "actual_pos_rank": 41,
+      "adp_pos_rank": 29,
+      "adp_pick": "7.08",
+      "value": -12
+    },
+    {
+      "round": 10,
+      "pick": 7,
+      "player": "Khalil Shakir",
+      "position": "WR",
+      "actual_pts": 144.5,
+      "actual_pos_rank": 38,
+      "adp_pos_rank": 52,
+      "adp_pick": "10.09",
+      "value": 14
+    },
+    {
+      "round": 11,
+      "pick": 6,
+      "player": "Jaleel McLaughlin",
+      "position": "RB",
+      "actual_pts": 85.2,
+      "actual_pos_rank": 49,
+      "adp_pos_rank": 46,
+      "adp_pick": "11.07",
+      "value": -3
+    },
+    {
+      "round": 12,
+      "pick": 7,
+      "player": "Dontayvion Wicks",
+      "position": "WR",
+      "actual_pts": 91.0,
+      "actual_pos_rank": 70,
+      "adp_pos_rank": 65,
+      "adp_pick": "14.04",
+      "value": -5
+    },
+    {
+      "round": 13,
+      "pick": 6,
+      "player": "Bucky Irving",
+      "position": "RB",
+      "actual_pts": 220.9,
+      "actual_pos_rank": 14,
+      "adp_pos_rank": 55,
+      "adp_pick": "13.09",
+      "value": 41
+    },
+    {
+      "round": 14,
+      "pick": 7,
+      "player": "Josh Downs",
+      "position": "WR",
+      "actual_pts": 147.5,
+      "actual_pos_rank": 36,
+      "adp_pos_rank": 63,
+      "adp_pick": "13.12",
+      "value": 27
+    },
+    {
+      "round": 16,
+      "pick": 7,
+      "player": "Jalen Tolbert",
+      "position": "WR",
+      "actual_pts": 127.5,
+      "actual_pos_rank": 45,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    }
+  ]
+}

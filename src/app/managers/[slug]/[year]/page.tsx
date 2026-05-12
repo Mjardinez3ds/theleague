@@ -5,8 +5,11 @@ import {
   getOwner,
   getManagerScores,
   getDraftPicks,
+  getDraftGrades,
   type WeekResult,
   type DraftPick,
+  type DraftGrades,
+  type GradedPick,
 } from "@/lib/data";
 
 export const dynamic = "force-static";
@@ -60,12 +63,14 @@ export default async function SeasonPage({
   const season = career.seasons.find((s) => s.year === year);
   if (!season) notFound();
 
-  // Both are optional — older seasons may lack one or both
+  // All optional — older seasons may lack any of these
   let picks: DraftPick[] = [];
   let scores: WeekResult[] = [];
+  let grades: DraftGrades | null = null;
 
   try { picks = await getDraftPicks(year, slug); } catch { /* no data */ }
   try { scores = (await getManagerScores(year, slug)).weeks; } catch { /* no data */ }
+  try { grades = await getDraftGrades(year, slug); } catch { /* no grades for this year */ }
 
   const fin = finishLabel(season.finish, season.league_size);
   const regularWeeks = scores.filter((w) => !w.is_playoff);
@@ -139,6 +144,67 @@ export default async function SeasonPage({
       )}
 
       {/* Draft picks */}
+      {grades && grades.graded_pick_count > 0 && (
+        <section className="mb-4">
+          <p className="text-[11px] font-bold tracking-widest text-accent mb-2 px-1">
+            DRAFT GRADE
+          </p>
+          <div className="rounded-2xl border border-app bg-elev p-4 mb-3">
+            <div className="flex items-center justify-between mb-3">
+              <div>
+                <p className={`text-4xl font-extrabold leading-none ${gradeColor(grades.grade)}`}>
+                  {grades.grade}
+                </p>
+                <p className="text-xs text-muted mt-1">
+                  Ranked #{grades.rank} of {grades.of} this year
+                </p>
+              </div>
+              <div className="text-right">
+                <p className="text-xs text-muted uppercase tracking-wider">Steals · Busts</p>
+                <p className="text-base font-bold tabular-nums">
+                  <span className="text-green-400">{grades.steals_count}</span>
+                  <span className="text-muted"> · </span>
+                  <span className="text-red-400">{grades.busts_count}</span>
+                </p>
+                <p className="text-[10px] text-muted mt-0.5">
+                  Median value {grades.median_value > 0 ? "+" : ""}{grades.median_value}
+                </p>
+              </div>
+            </div>
+          </div>
+
+          {grades.steals.length > 0 && (
+            <>
+              <p className="text-[11px] font-bold tracking-widest text-green-400 mb-2 px-1">
+                💎 STEALS
+              </p>
+              <div className="rounded-2xl border border-app bg-elev overflow-hidden mb-3">
+                <ul>
+                  {grades.steals.map((p) => (
+                    <GradedPickRow key={`s-${p.round}-${p.pick}`} p={p} kind="steal" />
+                  ))}
+                </ul>
+              </div>
+            </>
+          )}
+
+          {grades.busts.length > 0 && (
+            <>
+              <p className="text-[11px] font-bold tracking-widest text-red-400 mb-2 px-1">
+                💀 BUSTS
+              </p>
+              <div className="rounded-2xl border border-app bg-elev overflow-hidden mb-3">
+                <ul>
+                  {grades.busts.map((p) => (
+                    <GradedPickRow key={`b-${p.round}-${p.pick}`} p={p} kind="bust" />
+                  ))}
+                </ul>
+              </div>
+            </>
+          )}
+        </section>
+      )}
+
       {picks.length > 0 && (
         <section className="mb-4">
           <p className="text-[11px] font-bold tracking-widest text-accent mb-2 px-1">
@@ -230,5 +296,35 @@ function StatBox({ label, value }: { label: string; value: string }) {
       <p className="text-[10px] tracking-wider text-muted uppercase">{label}</p>
       <p className="text-base font-bold tabular-nums">{value}</p>
     </div>
+  );
+}
+
+function gradeColor(grade: string): string {
+  if (grade.startsWith("A")) return "text-green-400";
+  if (grade.startsWith("B")) return "text-emerald-300";
+  if (grade.startsWith("C")) return "text-yellow-400";
+  if (grade.startsWith("D")) return "text-orange-400";
+  if (grade.startsWith("F")) return "text-red-400";
+  return "text-muted";
+}
+
+function GradedPickRow({ p, kind }: { p: GradedPick; kind: "steal" | "bust" }) {
+  const valueColor = kind === "steal" ? "text-green-400" : "text-red-400";
+  const sign = (p.value ?? 0) > 0 ? "+" : "";
+  return (
+    <li className="grid grid-cols-[44px_1fr_auto] items-center gap-2 px-3 py-2.5 border-b border-app last:border-0">
+      <span className="text-[10px] font-bold tabular-nums text-muted text-center">
+        {p.round}.{String(p.pick).padStart(2, "0")}
+      </span>
+      <div className="min-w-0">
+        <div className="text-sm font-semibold truncate">{p.player}</div>
+        <div className="text-[11px] text-muted truncate">
+          {p.position} · ADP {p.position}{p.adp_pos_rank} · finished {p.position}{p.actual_pos_rank} · {p.actual_pts} pts
+        </div>
+      </div>
+      <span className={`text-sm font-bold tabular-nums shrink-0 ${valueColor}`}>
+        {sign}{p.value}
+      </span>
+    </li>
   );
 }

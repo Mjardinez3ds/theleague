@@ -1,0 +1,249 @@
+{
+  "year": 2023,
+  "slug": "ricky-cano",
+  "grade": "B+",
+  "rank": 4,
+  "of": 12,
+  "median_value": -2,
+  "avg_value": -8.85,
+  "graded_pick_count": 13,
+  "steals_count": 2,
+  "busts_count": 6,
+  "steals": [
+    {
+      "round": 13,
+      "pick": 3,
+      "player": "Adam Thielen",
+      "position": "WR",
+      "actual_pts": 179.5,
+      "actual_pos_rank": 25,
+      "adp_pos_rank": 57,
+      "adp_pick": "11.06",
+      "value": 32
+    },
+    {
+      "round": 8,
+      "pick": 10,
+      "player": "Courtland Sutton",
+      "position": "WR",
+      "actual_pts": 160.7,
+      "actual_pos_rank": 35,
+      "adp_pos_rank": 40,
+      "adp_pick": "8.03",
+      "value": 5
+    }
+  ],
+  "busts": [
+    {
+      "round": 12,
+      "pick": 10,
+      "player": "Chase Claypool",
+      "position": "WR",
+      "actual_pts": 17.7,
+      "actual_pos_rank": 153,
+      "adp_pos_rank": 74,
+      "adp_pick": "15.01",
+      "value": -79
+    },
+    {
+      "round": 7,
+      "pick": 3,
+      "player": "Deshaun Watson",
+      "position": "QB",
+      "actual_pts": 100.8,
+      "actual_pos_rank": 35,
+      "adp_pos_rank": 9,
+      "adp_pick": "7.04",
+      "value": -26
+    },
+    {
+      "round": 5,
+      "pick": 3,
+      "player": "Diontae Johnson",
+      "position": "WR",
+      "actual_pts": 127.2,
+      "actual_pos_rank": 43,
+      "adp_pos_rank": 27,
+      "adp_pick": "5.05",
+      "value": -16
+    },
+    {
+      "round": 15,
+      "pick": 3,
+      "player": "Kenny Pickett",
+      "position": "QB",
+      "actual_pts": 122.2,
+      "actual_pos_rank": 32,
+      "adp_pos_rank": 21,
+      "adp_pick": "13.08",
+      "value": -11
+    },
+    {
+      "round": 3,
+      "pick": 3,
+      "player": "Najee Harris",
+      "position": "RB",
+      "actual_pts": 181.0,
+      "actual_pos_rank": 21,
+      "adp_pos_rank": 11,
+      "adp_pick": "3.06",
+      "value": -10
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 3,
+      "player": "Christian McCaffrey",
+      "position": "RB",
+      "actual_pts": 357.8,
+      "actual_pos_rank": 1,
+      "adp_pos_rank": 1,
+      "adp_pick": "1.02",
+      "value": 0
+    },
+    {
+      "round": 2,
+      "pick": 10,
+      "player": "DK Metcalf",
+      "position": "WR",
+      "actual_pts": 192.4,
+      "actual_pos_rank": 16,
+      "adp_pos_rank": 17,
+      "adp_pick": "3.07",
+      "value": 1
+    },
+    {
+      "round": 3,
+      "pick": 3,
+      "player": "Najee Harris",
+      "position": "RB",
+      "actual_pts": 181.0,
+      "actual_pos_rank": 21,
+      "adp_pos_rank": 11,
+      "adp_pick": "3.06",
+      "value": -10
+    },
+    {
+      "round": 4,
+      "pick": 10,
+      "player": "DeAndre Hopkins",
+      "position": "WR",
+      "actual_pts": 186.1,
+      "actual_pos_rank": 22,
+      "adp_pos_rank": 20,
+      "adp_pick": "4.05",
+      "value": -2
+    },
+    {
+      "round": 5,
+      "pick": 3,
+      "player": "Diontae Johnson",
+      "position": "WR",
+      "actual_pts": 127.2,
+      "actual_pos_rank": 43,
+      "adp_pos_rank": 27,
+      "adp_pick": "5.05",
+      "value": -16
+    },
+    {
+      "round": 6,
+      "pick": 10,
+      "player": "George Kittle",
+      "position": "TE",
+      "actual_pts": 170.7,
+      "actual_pos_rank": 5,
+      "adp_pos_rank": 4,
+      "adp_pick": "5.08",
+      "value": -1
+    },
+    {
+      "round": 7,
+      "pick": 3,
+      "player": "Deshaun Watson",
+      "position": "QB",
+      "actual_pts": 100.8,
+      "actual_pos_rank": 35,
+      "adp_pos_rank": 9,
+      "adp_pick": "7.04",
+      "value": -26
+    },
+    {
+      "round": 8,
+      "pick": 10,
+      "player": "Courtland Sutton",
+      "position": "WR",
+      "actual_pts": 160.7,
+      "actual_pos_rank": 35,
+      "adp_pos_rank": 40,
+      "adp_pick": "8.03",
+      "value": 5
+    },
+    {
+      "round": 9,
+      "pick": 3,
+      "player": "AJ Dillon",
+      "position": "RB",
+      "actual_pts": 106.6,
+      "actual_pos_rank": 40,
+      "adp_pos_rank": 32,
+      "adp_pick": "8.08",
+      "value": -8
+    },
+    {
+      "round": 10,
+      "pick": 10,
+      "player": "Dalton Schultz",
+      "position": "TE",
+      "actual_pts": 121.0,
+      "actual_pos_rank": 11,
+      "adp_pos_rank": 11,
+      "adp_pick": "10.09",
+      "value": 0
+    },
+    {
+      "round": 12,
+      "pick": 10,
+      "player": "Chase Claypool",
+      "position": "WR",
+      "actual_pts": 17.7,
+      "actual_pos_rank": 153,
+      "adp_pos_rank": 74,
+      "adp_pick": "15.01",
+      "value": -79
+    },
+    {
+      "round": 13,
+      "pick": 3,
+      "player": "Adam Thielen",
+      "position": "WR",
+      "actual_pts": 179.5,
+      "actual_pos_rank": 25,
+      "adp_pos_rank": 57,
+      "adp_pick": "11.06",
+      "value": 32
+    },
+    {
+      "round": 15,
+      "pick": 3,
+      "player": "Kenny Pickett",
+      "position": "QB",
+      "actual_pts": 122.2,
+      "actual_pos_rank": 32,
+      "adp_pos_rank": 21,
+      "adp_pick": "13.08",
+      "value": -11
+    },
+    {
+      "round": 16,
+      "pick": 10,
+      "player": "Evan Hull",
+      "position": "RB",
+      "actual_pts": 1.2,
+      "actual_pos_rank": 131,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    }
+  ]
+}

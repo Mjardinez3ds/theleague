@@ -1,0 +1,282 @@
+{
+  "year": 2024,
+  "slug": "kevin-liang",
+  "grade": "A",
+  "rank": 2,
+  "of": 12,
+  "median_value": 0,
+  "avg_value": -8.15,
+  "graded_pick_count": 13,
+  "steals_count": 6,
+  "busts_count": 4,
+  "steals": [
+    {
+      "round": 13,
+      "pick": 3,
+      "player": "Adam Thielen",
+      "position": "WR",
+      "actual_pts": 115.5,
+      "actual_pos_rank": 51,
+      "adp_pos_rank": 64,
+      "adp_pick": "14.03",
+      "value": 13
+    },
+    {
+      "round": 5,
+      "pick": 3,
+      "player": "Tee Higgins",
+      "position": "WR",
+      "actual_pts": 185.6,
+      "actual_pos_rank": 17,
+      "adp_pos_rank": 26,
+      "adp_pick": "5.04",
+      "value": 9
+    },
+    {
+      "round": 2,
+      "pick": 10,
+      "player": "Derrick Henry",
+      "position": "RB",
+      "actual_pts": 326.9,
+      "actual_pos_rank": 3,
+      "adp_pos_rank": 8,
+      "adp_pick": "2.04",
+      "value": 5
+    },
+    {
+      "round": 3,
+      "pick": 3,
+      "player": "Alvin Kamara",
+      "position": "RB",
+      "actual_pts": 231.3,
+      "actual_pos_rank": 10,
+      "adp_pos_rank": 15,
+      "adp_pick": "3.08",
+      "value": 5
+    },
+    {
+      "round": 7,
+      "pick": 3,
+      "player": "Najee Harris",
+      "position": "RB",
+      "actual_pts": 186.6,
+      "actual_pos_rank": 20,
+      "adp_pos_rank": 25,
+      "adp_pick": "6.07",
+      "value": 5
+    }
+  ],
+  "busts": [
+    {
+      "round": 12,
+      "pick": 10,
+      "player": "MarShawn Lloyd",
+      "position": "RB",
+      "actual_pts": 2.3,
+      "actual_pos_rank": 123,
+      "adp_pos_rank": 58,
+      "adp_pick": "14.03",
+      "value": -65
+    },
+    {
+      "round": 10,
+      "pick": 10,
+      "player": "Ja'Lynn Polk",
+      "position": "WR",
+      "actual_pts": 26.7,
+      "actual_pos_rank": 127,
+      "adp_pos_rank": 69,
+      "adp_pick": "14.07",
+      "value": -58
+    },
+    {
+      "round": 11,
+      "pick": 3,
+      "player": "Dalton Schultz",
+      "position": "TE",
+      "actual_pts": 91.7,
+      "actual_pos_rank": 21,
+      "adp_pos_rank": 12,
+      "adp_pick": "10.10",
+      "value": -9
+    },
+    {
+      "round": 9,
+      "pick": 3,
+      "player": "Jordan Love",
+      "position": "QB",
+      "actual_pts": 283.9,
+      "actual_pos_rank": 17,
+      "adp_pos_rank": 9,
+      "adp_pick": "7.01",
+      "value": -8
+    }
+  ],
+  "all_picks": [
+    {
+      "round": 1,
+      "pick": 3,
+      "player": "Amon-Ra St. Brown",
+      "position": "WR",
+      "actual_pts": 260.7,
+      "actual_pos_rank": 3,
+      "adp_pos_rank": 3,
+      "adp_pick": "1.06",
+      "value": 0
+    },
+    {
+      "round": 2,
+      "pick": 10,
+      "player": "Derrick Henry",
+      "position": "RB",
+      "actual_pts": 326.9,
+      "actual_pos_rank": 3,
+      "adp_pos_rank": 8,
+      "adp_pick": "2.04",
+      "value": 5
+    },
+    {
+      "round": 3,
+      "pick": 3,
+      "player": "Alvin Kamara",
+      "position": "RB",
+      "actual_pts": 231.3,
+      "actual_pos_rank": 10,
+      "adp_pos_rank": 15,
+      "adp_pick": "3.08",
+      "value": 5
+    },
+    {
+      "round": 4,
+      "pick": 10,
+      "player": "Joe Mixon",
+      "position": "RB",
+      "actual_pts": 222.5,
+      "actual_pos_rank": 13,
+      "adp_pos_rank": 16,
+      "adp_pick": "3.11",
+      "value": 3
+    },
+    {
+      "round": 5,
+      "pick": 3,
+      "player": "Tee Higgins",
+      "position": "WR",
+      "actual_pts": 185.6,
+      "actual_pos_rank": 17,
+      "adp_pos_rank": 26,
+      "adp_pick": "5.04",
+      "value": 9
+    },
+    {
+      "round": 6,
+      "pick": 10,
+      "player": "Keenan Allen",
+      "position": "WR",
+      "actual_pts": 149.4,
+      "actual_pos_rank": 35,
+      "adp_pos_rank": 31,
+      "adp_pick": "6.04",
+      "value": -4
+    },
+    {
+      "round": 7,
+      "pick": 3,
+      "player": "Najee Harris",
+      "position": "RB",
+      "actual_pts": 186.6,
+      "actual_pos_rank": 20,
+      "adp_pos_rank": 25,
+      "adp_pick": "6.07",
+      "value": 5
+    },
+    {
+      "round": 8,
+      "pick": 10,
+      "player": "DeAndre Hopkins",
+      "position": "WR",
+      "actual_pts": 119.0,
+      "actual_pos_rank": 48,
+      "adp_pos_rank": 46,
+      "adp_pick": "9.08",
+      "value": -2
+    },
+    {
+      "round": 9,
+      "pick": 3,
+      "player": "Jordan Love",
+      "position": "QB",
+      "actual_pts": 283.9,
+      "actual_pos_rank": 17,
+      "adp_pos_rank": 9,
+      "adp_pick": "7.01",
+      "value": -8
+    },
+    {
+      "round": 10,
+      "pick": 10,
+      "player": "Ja'Lynn Polk",
+      "position": "WR",
+      "actual_pts": 26.7,
+      "actual_pos_rank": 127,
+      "adp_pos_rank": 69,
+      "adp_pick": "14.07",
+      "value": -58
+    },
+    {
+      "round": 11,
+      "pick": 3,
+      "player": "Dalton Schultz",
+      "position": "TE",
+      "actual_pts": 91.7,
+      "actual_pos_rank": 21,
+      "adp_pos_rank": 12,
+      "adp_pick": "10.10",
+      "value": -9
+    },
+    {
+      "round": 12,
+      "pick": 10,
+      "player": "MarShawn Lloyd",
+      "position": "RB",
+      "actual_pts": 2.3,
+      "actual_pos_rank": 123,
+      "adp_pos_rank": 58,
+      "adp_pick": "14.03",
+      "value": -65
+    },
+    {
+      "round": 13,
+      "pick": 3,
+      "player": "Adam Thielen",
+      "position": "WR",
+      "actual_pts": 115.5,
+      "actual_pos_rank": 51,
+      "adp_pos_rank": 64,
+      "adp_pick": "14.03",
+      "value": 13
+    },
+    {
+      "round": 15,
+      "pick": 3,
+      "player": "Josh Reynolds",
+      "position": "WR",
+      "actual_pts": 31.9,
+      "actual_pos_rank": 120,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    },
+    {
+      "round": 16,
+      "pick": 10,
+      "player": "Luke McCaffrey",
+      "position": "WR",
+      "actual_pts": 25.8,
+      "actual_pos_rank": 130,
+      "adp_pos_rank": null,
+      "adp_pick": null,
+      "value": null
+    }
+  ]
+}
