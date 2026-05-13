@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useState } from "react";
 import type { H2HRecord } from "@/lib/data";
+import Avatar from "@/components/Avatar";
 
 export default function H2HTable({ records }: { records: H2HRecord[] }) {
   const [open, setOpen] = useState(false);
@@ -23,7 +24,8 @@ export default function H2HTable({ records }: { records: H2HRecord[] }) {
 
       {open && (
         <div className="rounded-2xl border border-app bg-elev overflow-hidden">
-          <div className="grid grid-cols-[1fr_72px_44px] items-center px-3 py-2 text-[10px] font-semibold tracking-wider text-muted uppercase border-b border-app">
+          <div className="grid grid-cols-[36px_1fr_72px_44px] items-center gap-2 px-3 py-2 text-[10px] font-semibold tracking-wider text-muted uppercase border-b border-app">
+            <div></div>
             <div>Opponent</div>
             <div className="text-center">Record</div>
             <div className="text-right">Win%</div>
@@ -39,8 +41,9 @@ export default function H2HTable({ records }: { records: H2HRecord[] }) {
               return (
                 <li
                   key={r.opponent_slug}
-                  className="grid grid-cols-[1fr_72px_44px] items-center px-3 py-3 border-b border-app last:border-0"
+                  className="grid grid-cols-[36px_1fr_72px_44px] items-center gap-2 px-3 py-3 border-b border-app last:border-0"
                 >
+                  <Avatar name={r.opponent} slug={r.opponent_slug} size="md" />
                   <Link
                     href={`/managers/${r.opponent_slug}`}
                     className="min-w-0 pr-2 active:opacity-70"

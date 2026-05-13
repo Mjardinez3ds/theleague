@@ -11,6 +11,7 @@ import {
   type DraftGrades,
   type GradedPick,
 } from "@/lib/data";
+import Avatar from "@/components/Avatar";
 
 export const dynamic = "force-static";
 
@@ -241,8 +242,9 @@ export default async function SeasonPage({
 function WeekTable({ weeks }: { weeks: WeekResult[] }) {
   return (
     <div className="rounded-2xl border border-app bg-elev overflow-hidden">
-      <div className="grid grid-cols-[32px_1fr_56px_56px] items-center px-3 py-2 text-[10px] font-semibold tracking-wider text-muted uppercase border-b border-app">
+      <div className="grid grid-cols-[24px_32px_1fr_56px_56px] items-center gap-2 px-3 py-2 text-[10px] font-semibold tracking-wider text-muted uppercase border-b border-app">
         <div>Wk</div>
+        <div></div>
         <div>Opponent</div>
         <div className="text-right">Score</div>
         <div className="text-right">Opp</div>
@@ -258,11 +260,12 @@ function WeekTable({ weeks }: { weeks: WeekResult[] }) {
           return (
             <li
               key={w.week}
-              className="grid grid-cols-[32px_1fr_56px_56px] items-center px-3 py-2.5 border-b border-app last:border-0"
+              className="grid grid-cols-[24px_32px_1fr_56px_56px] items-center gap-2 px-3 py-2.5 border-b border-app last:border-0"
             >
               <span className="text-xs font-bold text-muted tabular-nums">
                 {w.week}
               </span>
+              <Avatar name={w.opponent} slug={w.opponent_slug} size="sm" />
               <Link
                 href={`/managers/${w.opponent_slug}`}
                 className="min-w-0 pr-1 active:opacity-70"

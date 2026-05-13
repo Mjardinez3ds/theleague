@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getCareers } from "@/lib/data";
+import Avatar from "@/components/Avatar";
 
 export const dynamic = "force-static";
 
@@ -27,9 +28,10 @@ export default async function ManagersPage() {
                 href={`/managers/${o.slug}`}
                 className="flex items-center gap-3 rounded-xl border border-app bg-elev px-3 py-3 active:bg-elev-2"
               >
-                <span className="w-7 text-center text-sm font-bold text-accent tabular-nums">
+                <span className="w-6 text-center text-sm font-bold text-accent tabular-nums">
                   {i + 1}
                 </span>
+                <Avatar name={o.owner} slug={o.slug} size="md" />
                 <div className="flex-1 min-w-0">
                   <div className="truncate text-[15px] font-semibold">
                     {o.owner}
