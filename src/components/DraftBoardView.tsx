@@ -189,9 +189,11 @@ export default function DraftBoardView({
                       >
                         {pick && name ? (
                           <>
-                            <div className="flex items-start justify-between text-[8px] font-bold leading-tight opacity-75">
-                              <span>{pick.position}</span>
-                              <span className="tabular-nums">
+                            <div className="flex items-start justify-between leading-tight">
+                              <span className="text-[9px] font-bold opacity-70">
+                                {pick.position}
+                              </span>
+                              <span className="text-[10px] font-bold tabular-nums opacity-80">
                                 {round}.{String(pickInRound).padStart(2, "0")}
                               </span>
                             </div>
