@@ -194,7 +194,7 @@ export default function DraftBoardView({
                                 {pick.position}
                               </span>
                               <span className="text-[10px] font-bold tabular-nums opacity-80">
-                                {round}.{String(pickInRound).padStart(2, "0")}
+                                {round}.{pickInRound}
                               </span>
                             </div>
                             <div className="leading-[1.05]">
