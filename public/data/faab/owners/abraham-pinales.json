@@ -1,0 +1,23 @@
+{
+  "slug": "abraham-pinales",
+  "owner": "Abraham Pinales",
+  "totals": {
+    "acquisitions": 12,
+    "spent": 40,
+    "biggest_bid": {
+      "year": 2023,
+      "week": 17,
+      "bid": 13,
+      "player": "Demarcus Robinson",
+      "dropped": "Josh Downs"
+    }
+  },
+  "by_year": [
+    {
+      "year": 2023,
+      "team_name": "ALVINNNN",
+      "acquisitions": 12,
+      "spent": 40
+    }
+  ]
+}

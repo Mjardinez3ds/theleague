@@ -1,0 +1,35 @@
+{
+  "slug": "junior-peralta",
+  "owner": "Junior Peralta",
+  "totals": {
+    "acquisitions": 159,
+    "spent": 297,
+    "biggest_bid": {
+      "year": 2025,
+      "week": 6,
+      "bid": 60,
+      "player": "Hassan Haskins",
+      "dropped": "Malik Washington"
+    }
+  },
+  "by_year": [
+    {
+      "year": 2025,
+      "team_name": "SWEENEY'S B00BS",
+      "acquisitions": 56,
+      "spent": 97
+    },
+    {
+      "year": 2024,
+      "team_name": "e-",
+      "acquisitions": 47,
+      "spent": 100
+    },
+    {
+      "year": 2023,
+      "team_name": "Punchmade Joonyer",
+      "acquisitions": 56,
+      "spent": 100
+    }
+  ]
+}

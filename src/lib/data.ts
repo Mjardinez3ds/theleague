@@ -228,3 +228,61 @@ export type DraftGrades = {
 
 export const getDraftGrades = (year: number, slug: string) =>
   readJson<DraftGrades>(`draft_grades/${year}/${slug}.json`);
+
+export type FaabBiggestBid = {
+  year: number;
+  week: number;
+  bid: number;
+  player: string;
+  dropped: string | null;
+};
+
+export type FaabYearTotal = {
+  year: number;
+  team_name: string;
+  acquisitions: number;
+  spent: number;
+};
+
+export type FaabOwner = {
+  slug: string;
+  owner: string;
+  totals: {
+    acquisitions: number;
+    spent: number;
+    biggest_bid: FaabBiggestBid | null;
+  };
+  by_year: FaabYearTotal[];
+};
+
+export type FaabTransaction = {
+  week: number;
+  date: string;
+  owner: string;
+  owner_slug: string;
+  team_name: string;
+  type: "FREEAGENT" | "WAIVER" | string;
+  bid: number;
+  added: string[];
+  dropped: string[];
+};
+
+export type FaabTeamTotal = {
+  owner: string;
+  owner_slug: string;
+  team_name: string;
+  acquisitions: number;
+  spent: number;
+};
+
+export type FaabSeason = {
+  year: number;
+  transactions: FaabTransaction[];
+  team_totals: FaabTeamTotal[];
+};
+
+export const getFaabOwner = (slug: string) =>
+  readJson<FaabOwner>(`faab/owners/${slug}.json`);
+
+export const getFaabSeason = (year: number) =>
+  readJson<FaabSeason>(`faab/${year}.json`);

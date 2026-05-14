@@ -1,0 +1,35 @@
+{
+  "slug": "chris-peralta",
+  "owner": "Chris Peralta",
+  "totals": {
+    "acquisitions": 232,
+    "spent": 300,
+    "biggest_bid": {
+      "year": 2023,
+      "week": 2,
+      "bid": 36,
+      "player": "Kyren Williams",
+      "dropped": "Isaiah Likely"
+    }
+  },
+  "by_year": [
+    {
+      "year": 2025,
+      "team_name": "Buck Swope",
+      "acquisitions": 89,
+      "spent": 100
+    },
+    {
+      "year": 2024,
+      "team_name": "Perc Angle",
+      "acquisitions": 57,
+      "spent": 100
+    },
+    {
+      "year": 2023,
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "acquisitions": 86,
+      "spent": 100
+    }
+  ]
+}

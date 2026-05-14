@@ -4,9 +4,11 @@ import {
   getCareers,
   getLegacyChampions,
   getH2H,
+  getFaabOwner,
 } from "@/lib/data";
 import { SeasonCard } from "@/components/SeasonCard";
 import H2HTable from "@/components/H2HTable";
+import FaabSection from "@/components/FaabSection";
 
 export const dynamic = "force-static";
 
@@ -48,9 +50,10 @@ export default async function ManagerPage({
     notFound();
   }
 
-  const [legacy, h2hData] = await Promise.all([
+  const [legacy, h2hData, faabData] = await Promise.all([
     getLegacyChampions(),
     getH2H(slug).catch(() => null),
+    getFaabOwner(slug).catch(() => null),
   ]);
   const legacyTitleYears: number[] = legacy[slug] ?? [];
   const careerTitleYears = career.seasons
@@ -197,6 +200,11 @@ export default async function ManagerPage({
       {/* Head-to-Head */}
       {h2hData && h2hData.records.length > 0 && (
         <H2HTable records={h2hData.records} />
+      )}
+
+      {/* FAAB / Waivers */}
+      {faabData && faabData.totals.acquisitions > 0 && (
+        <FaabSection data={faabData} />
       )}
 
       {/* Season-by-season */}

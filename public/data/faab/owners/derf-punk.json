@@ -1,0 +1,35 @@
+{
+  "slug": "derf-punk",
+  "owner": "derf punk",
+  "totals": {
+    "acquisitions": 117,
+    "spent": 241,
+    "biggest_bid": {
+      "year": 2023,
+      "week": 13,
+      "bid": 43,
+      "player": "Pat Freiermuth",
+      "dropped": "Ty Chandler"
+    }
+  },
+  "by_year": [
+    {
+      "year": 2025,
+      "team_name": "Dynomite",
+      "acquisitions": 33,
+      "spent": 44
+    },
+    {
+      "year": 2024,
+      "team_name": "Chubba Missile Crisis",
+      "acquisitions": 48,
+      "spent": 97
+    },
+    {
+      "year": 2023,
+      "team_name": "Loco Moco",
+      "acquisitions": 36,
+      "spent": 100
+    }
+  ]
+}

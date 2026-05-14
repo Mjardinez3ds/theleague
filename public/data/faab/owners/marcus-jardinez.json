@@ -1,0 +1,35 @@
+{
+  "slug": "marcus-jardinez",
+  "owner": "Marcus Jardinez",
+  "totals": {
+    "acquisitions": 108,
+    "spent": 300,
+    "biggest_bid": {
+      "year": 2024,
+      "week": 5,
+      "bid": 72,
+      "player": "Dontayvion Wicks",
+      "dropped": "Blake Corum"
+    }
+  },
+  "by_year": [
+    {
+      "year": 2025,
+      "team_name": "Ramsey Sporting Goods",
+      "acquisitions": 20,
+      "spent": 100
+    },
+    {
+      "year": 2024,
+      "team_name": "Saquon Barkley",
+      "acquisitions": 41,
+      "spent": 100
+    },
+    {
+      "year": 2023,
+      "team_name": "Psychological Operations",
+      "acquisitions": 47,
+      "spent": 100
+    }
+  ]
+}

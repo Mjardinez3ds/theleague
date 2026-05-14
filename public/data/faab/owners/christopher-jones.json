@@ -1,0 +1,23 @@
+{
+  "slug": "christopher-jones",
+  "owner": "Christopher Jones",
+  "totals": {
+    "acquisitions": 22,
+    "spent": 100,
+    "biggest_bid": {
+      "year": 2025,
+      "week": 5,
+      "bid": 100,
+      "player": "Darren Waller",
+      "dropped": "Isaac TeSlaa"
+    }
+  },
+  "by_year": [
+    {
+      "year": 2025,
+      "team_name": "Christopher's Cool Team",
+      "acquisitions": 22,
+      "spent": 100
+    }
+  ]
+}

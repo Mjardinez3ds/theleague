@@ -1,0 +1,29 @@
+{
+  "slug": "matthew-taylor",
+  "owner": "Matthew Taylor",
+  "totals": {
+    "acquisitions": 40,
+    "spent": 185,
+    "biggest_bid": {
+      "year": 2024,
+      "week": 3,
+      "bid": 50,
+      "player": "Hunter Henry",
+      "dropped": "Mike Williams"
+    }
+  },
+  "by_year": [
+    {
+      "year": 2025,
+      "team_name": "Big Nix Energy",
+      "acquisitions": 21,
+      "spent": 100
+    },
+    {
+      "year": 2024,
+      "team_name": "Maybe Nix Year",
+      "acquisitions": 19,
+      "spent": 85
+    }
+  ]
+}

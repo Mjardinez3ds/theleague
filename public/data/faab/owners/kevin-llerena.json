@@ -1,0 +1,35 @@
+{
+  "slug": "kevin-llerena",
+  "owner": "Kevin Llerena",
+  "totals": {
+    "acquisitions": 80,
+    "spent": 275,
+    "biggest_bid": {
+      "year": 2023,
+      "week": 6,
+      "bid": 85,
+      "player": "Emari Demercado",
+      "dropped": "Russell Wilson"
+    }
+  },
+  "by_year": [
+    {
+      "year": 2025,
+      "team_name": "Alien vs Deshaun",
+      "acquisitions": 24,
+      "spent": 75
+    },
+    {
+      "year": 2024,
+      "team_name": "Alien vs Deshaun",
+      "acquisitions": 21,
+      "spent": 100
+    },
+    {
+      "year": 2023,
+      "team_name": "Liang le gusta bicho",
+      "acquisitions": 35,
+      "spent": 100
+    }
+  ]
+}

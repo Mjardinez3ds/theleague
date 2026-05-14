@@ -1,0 +1,35 @@
+{
+  "slug": "kevin-liang",
+  "owner": "Kevin Liang",
+  "totals": {
+    "acquisitions": 38,
+    "spent": 280,
+    "biggest_bid": {
+      "year": 2025,
+      "week": 8,
+      "bid": 61,
+      "player": "Tez Johnson",
+      "dropped": "Michael Penix Jr."
+    }
+  },
+  "by_year": [
+    {
+      "year": 2025,
+      "team_name": "CuckforBuck",
+      "acquisitions": 9,
+      "spent": 80
+    },
+    {
+      "year": 2024,
+      "team_name": "Lose2aG00n3r",
+      "acquisitions": 12,
+      "spent": 100
+    },
+    {
+      "year": 2023,
+      "team_name": "DECAPITATED WEASEL",
+      "acquisitions": 17,
+      "spent": 100
+    }
+  ]
+}

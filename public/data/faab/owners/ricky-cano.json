@@ -1,0 +1,29 @@
+{
+  "slug": "ricky-cano",
+  "owner": "Ricky Cano",
+  "totals": {
+    "acquisitions": 42,
+    "spent": 134,
+    "biggest_bid": {
+      "year": 2023,
+      "week": 3,
+      "bid": 25,
+      "player": "Geno Smith",
+      "dropped": "Kenny Pickett"
+    }
+  },
+  "by_year": [
+    {
+      "year": 2025,
+      "team_name": "Choosing Violence",
+      "acquisitions": 21,
+      "spent": 63
+    },
+    {
+      "year": 2023,
+      "team_name": "Team Cano",
+      "acquisitions": 21,
+      "spent": 71
+    }
+  ]
+}

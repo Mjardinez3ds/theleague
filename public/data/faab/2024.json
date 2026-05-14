@@ -1,0 +1,5604 @@
+{
+  "year": 2024,
+  "transactions": [
+    {
+      "week": 1,
+      "date": "2024-09-06",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Quentin Johnston"
+      ],
+      "dropped": [
+        "Ricky Pearsall"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2024-09-06",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Wan'Dale Robinson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2024-09-06",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Andrei Iosivas"
+      ],
+      "dropped": [
+        "Kimani Vidal"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2024-09-06",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Boyd"
+      ],
+      "dropped": [
+        "Dylan Laube"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2024-09-06",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cam Akers"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2024-09-06",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cole Kmet"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2024-09-06",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Brock Purdy"
+      ],
+      "dropped": [
+        "Justin Herbert"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2024-09-07",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Justin Herbert"
+      ],
+      "dropped": [
+        "Cam Akers"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2024-09-08",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "TWO PIECE W A BISCUIT",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Kimani Vidal"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2024-09-08",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Johnny Mundt"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2024-09-09",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Isaac Guerendo"
+      ],
+      "dropped": [
+        "Kyle Juszczyk"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2024-09-09",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kyle Juszczyk"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2024-09-11",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Maybe Nix Year",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Derek Carr"
+      ],
+      "dropped": [
+        "Bo Nix"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2024-09-11",
+      "owner": "Faust Vinas",
+      "owner_slug": "faust-vinas",
+      "team_name": "The Old Hunters",
+      "type": "WAIVER",
+      "bid": 70,
+      "added": [
+        "Isaiah Likely"
+      ],
+      "dropped": [
+        "Hunter Henry"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2024-09-11",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "TWO PIECE W A BISCUIT",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Devaughn Vele"
+      ],
+      "dropped": [
+        "Jalen Tolbert"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2024-09-11",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "24 Garrett Gold ",
+      "type": "WAIVER",
+      "bid": 20,
+      "added": [
+        "Justice Hill"
+      ],
+      "dropped": [
+        "Kalif Raymond"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2024-09-11",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "WAIVER",
+      "bid": 8,
+      "added": [
+        "Colby Parkinson"
+      ],
+      "dropped": [
+        "Braelon Allen"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2024-09-11",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Emanuel Wilson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2024-09-11",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "WAIVER",
+      "bid": 12,
+      "added": [
+        "Jeff Wilson Jr."
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2024-09-11",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "WAIVER",
+      "bid": 2,
+      "added": [
+        "Tyler Johnson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2024-09-11",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Daniel Jones"
+      ],
+      "dropped": [
+        "Tyler Conklin"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2024-09-11",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Lose2aG00n3r",
+      "type": "WAIVER",
+      "bid": 35,
+      "added": [
+        "Baker Mayfield"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2024-09-11",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "WAIVER",
+      "bid": 4,
+      "added": [
+        "Chris Boswell"
+      ],
+      "dropped": [
+        "Greg Zuerlein"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2024-09-11",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Alec Pierce"
+      ],
+      "dropped": [
+        "Tyler Boyd"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2024-09-11",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "WAIVER",
+      "bid": 2,
+      "added": [
+        "Allen Lazard"
+      ],
+      "dropped": [
+        "Jahan Dotson"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2024-09-11",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "WAIVER",
+      "bid": 16,
+      "added": [
+        "Alexander Mattison"
+      ],
+      "dropped": [
+        "Andrei Iosivas"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2024-09-12",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ronnie Rivers"
+      ],
+      "dropped": [
+        "Alec Pierce"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2024-09-12",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kenny McIntosh"
+      ],
+      "dropped": [
+        "Ronnie Rivers"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2024-09-12",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justin Fields"
+      ],
+      "dropped": [
+        "Cole Kmet"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2024-09-12",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Higbee"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2024-09-12",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Quentin Johnston"
+      ],
+      "dropped": [
+        "Tyrone Tracy Jr."
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2024-09-12",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "TWO PIECE W A BISCUIT",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jalen Nailor"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2024-09-13",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Geno Smith"
+      ],
+      "dropped": [
+        "Samaje Perine"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2024-09-13",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Juwan Johnson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2024-09-14",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Isaac Guerendo"
+      ],
+      "dropped": [
+        "Juwan Johnson"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2024-09-14",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Malik Willis"
+      ],
+      "dropped": [
+        "Daniel Jones"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2024-09-14",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Greg Dortch"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2024-09-14",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Alec Pierce"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2024-09-15",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Andrei Iosivas"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2024-09-15",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jahan Dotson"
+      ],
+      "dropped": [
+        "Kirk Cousins"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2024-09-18",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "TWO PIECE W A BISCUIT",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jalen Tolbert"
+      ],
+      "dropped": [
+        "Jacob Cowing"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2024-09-18",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Samaje Perine"
+      ],
+      "dropped": [
+        "Allen Lazard"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2024-09-18",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Ricky Pearsall"
+      ],
+      "dropped": [
+        "Joshua Palmer"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2024-09-18",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Maybe Nix Year",
+      "type": "WAIVER",
+      "bid": 25,
+      "added": [
+        "Kareem Hunt"
+      ],
+      "dropped": [
+        "Gus Edwards"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2024-09-18",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "24 Garrett Gold ",
+      "type": "WAIVER",
+      "bid": 15,
+      "added": [
+        "Tutu Atwell"
+      ],
+      "dropped": [
+        "DeMario Douglas"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2024-09-18",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "WAIVER",
+      "bid": 6,
+      "added": [
+        "Jordan Whittington"
+      ],
+      "dropped": [
+        "Adonai Mitchell"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2024-09-18",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Lose2aG00n3r",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Cam Akers"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2024-09-18",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Maybe Nix Year",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Josh Reynolds"
+      ],
+      "dropped": [
+        "Michael Wilson"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2024-09-18",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Skylar Thompson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2024-09-18",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "D'Onta Foreman"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2024-09-18",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "24 Garrett Gold ",
+      "type": "WAIVER",
+      "bid": 12,
+      "added": [
+        "Mike Gesicki"
+      ],
+      "dropped": [
+        "Taysom Hill"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2024-09-18",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "WAIVER",
+      "bid": 21,
+      "added": [
+        "Braelon Allen"
+      ],
+      "dropped": [
+        "Khalil Herbert"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2024-09-18",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "WAIVER",
+      "bid": 21,
+      "added": [
+        "Jauan Jennings"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2024-09-18",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "WAIVER",
+      "bid": 26,
+      "added": [
+        "Carson Steele"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2024-09-18",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Kirk Cousins"
+      ],
+      "dropped": [
+        "Malik Willis"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2024-09-18",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Sam Darnold"
+      ],
+      "dropped": [
+        "Skylar Thompson"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2024-09-18",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "TWO PIECE W A BISCUIT",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jacob Cowing"
+      ],
+      "dropped": [
+        "Dontayvion Wicks"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2024-09-18",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "WAIVER",
+      "bid": 15,
+      "added": [
+        "Ray-Ray McCloud III"
+      ],
+      "dropped": [
+        "Curtis Samuel"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2024-09-18",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Maybe Nix Year",
+      "type": "WAIVER",
+      "bid": 50,
+      "added": [
+        "Hunter Henry"
+      ],
+      "dropped": [
+        "Mike Williams"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2024-09-19",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Gus Edwards"
+      ],
+      "dropped": [
+        "Tank Bigsby"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2024-09-19",
+      "owner": "Faust Vinas",
+      "owner_slug": "faust-vinas",
+      "team_name": "The Old Hunters",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dontayvion Wicks"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2024-09-21",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Zach Ertz"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2024-09-22",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tank Bigsby"
+      ],
+      "dropped": [
+        "Gus Edwards"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2024-09-22",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Roman Wilson"
+      ],
+      "dropped": [
+        "Greg Dortch"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2024-09-25",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "WAIVER",
+      "bid": 14,
+      "added": [
+        "Tyler Conklin"
+      ],
+      "dropped": [
+        "Wan'Dale Robinson"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2024-09-25",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Allen Lazard"
+      ],
+      "dropped": [
+        "Jalen McMillan"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2024-09-25",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "TWO PIECE W A BISCUIT",
+      "type": "WAIVER",
+      "bid": 15,
+      "added": [
+        "Roschon Johnson"
+      ],
+      "dropped": [
+        "Jaleel McLaughlin"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2024-09-25",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Calvin Austin III"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2024-09-25",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Emanuel Wilson"
+      ],
+      "dropped": [
+        "Jeff Wilson Jr."
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2024-09-25",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "TWO PIECE W A BISCUIT",
+      "type": "WAIVER",
+      "bid": 15,
+      "added": [
+        "Cole Kmet"
+      ],
+      "dropped": [
+        "Jalen Tolbert"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2024-09-25",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matt Prater"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2024-09-25",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jonathan Mingo"
+      ],
+      "dropped": [
+        "Jason Sanders"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2024-09-25",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jamaal Williams"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2024-09-26",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "TWO PIECE W A BISCUIT",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Daniel Jones"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2024-09-26",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Lose2aG00n3r",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Justice Hill"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2024-09-26",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "WAIVER",
+      "bid": 4,
+      "added": [
+        "Wan'Dale Robinson"
+      ],
+      "dropped": [
+        "Jordan Whittington"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2024-09-26",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Michael Wilson"
+      ],
+      "dropped": [
+        "Roman Wilson"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2024-09-26",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyrone Tracy Jr."
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2024-09-27",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Andy Dalton"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2024-09-27",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "TWO PIECE W A BISCUIT",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Badie"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2024-09-28",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "TWO PIECE W A BISCUIT",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kendre Miller"
+      ],
+      "dropped": [
+        "Tyler Badie"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2024-09-29",
+      "owner": "Faust Vinas",
+      "owner_slug": "faust-vinas",
+      "team_name": "The Old Hunters",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cordarrelle Patterson"
+      ],
+      "dropped": [
+        "Trevor Lawrence"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2024-09-29",
+      "owner": "Faust Vinas",
+      "owner_slug": "faust-vinas",
+      "team_name": "The Old Hunters",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jalen Nailor"
+      ],
+      "dropped": [
+        "Dontayvion Wicks"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2024-09-29",
+      "owner": "Faust Vinas",
+      "owner_slug": "faust-vinas",
+      "team_name": "The Old Hunters",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "DeMario Douglas"
+      ],
+      "dropped": [
+        "Jermaine Burton"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2024-10-02",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chase McLaughlin"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2024-10-02",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "24 Garrett Gold ",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Noah Gray"
+      ],
+      "dropped": [
+        "Mike Gesicki"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2024-10-02",
+      "owner": "Faust Vinas",
+      "owner_slug": "faust-vinas",
+      "team_name": "The Old Hunters",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Jordan Whittington"
+      ],
+      "dropped": [
+        "Christian Watson"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2024-10-02",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mike Williams"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2024-10-02",
+      "owner": "Faust Vinas",
+      "owner_slug": "faust-vinas",
+      "team_name": "The Old Hunters",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Jeremy McNichols"
+      ],
+      "dropped": [
+        "DeMario Douglas"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2024-10-02",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaleel McLaughlin"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2024-10-02",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "WAIVER",
+      "bid": 72,
+      "added": [
+        "Dontayvion Wicks"
+      ],
+      "dropped": [
+        "Blake Corum"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2024-10-02",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Tre Tucker"
+      ],
+      "dropped": [
+        "Jonathan Mingo"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2024-10-02",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Clyde Edwards-Helaire"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2024-10-02",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "TWO PIECE W A BISCUIT",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Bass"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2024-10-02",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jalen Tolbert"
+      ],
+      "dropped": [
+        "Isaac Guerendo"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2024-10-02",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "WAIVER",
+      "bid": 10,
+      "added": [
+        "Tucker Kraft"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2024-10-02",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dare Ogunbowale"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2024-10-02",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "WAIVER",
+      "bid": 10,
+      "added": [
+        "Austin Seibert"
+      ],
+      "dropped": [
+        "Jake Elliott"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2024-10-02",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Keaton Mitchell"
+      ],
+      "dropped": [
+        "Dare Ogunbowale"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2024-10-02",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Miles Sanders"
+      ],
+      "dropped": [
+        "Ezekiel Elliott"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2024-10-02",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "WAIVER",
+      "bid": 30,
+      "added": [
+        "Trey Sermon"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2024-10-03",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Christian Watson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2024-10-03",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Blake Grupe"
+      ],
+      "dropped": [
+        "Jake Bates"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2024-10-03",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "TWO PIECE W A BISCUIT",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darius Slayton"
+      ],
+      "dropped": [
+        "Cameron Dicker"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2024-10-03",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cade Otton"
+      ],
+      "dropped": [
+        "Kyle Pitts"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2024-10-03",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "24 Garrett Gold ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jamaal Williams"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2024-10-03",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Michael Wilson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2024-10-04",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matt Gay"
+      ],
+      "dropped": [
+        "Blake Grupe"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2024-10-04",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jalin Hyatt"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2024-10-04",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Isaac Guerendo"
+      ],
+      "dropped": [
+        "Ray Davis"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2024-10-04",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Trevor Lawrence"
+      ],
+      "dropped": [
+        "Andy Dalton"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2024-10-05",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "TWO PIECE W A BISCUIT",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bo Melton"
+      ],
+      "dropped": [
+        "Darius Slayton"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2024-10-05",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Curtis Samuel"
+      ],
+      "dropped": [
+        "Rashod Bateman"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2024-10-05",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Odell Beckham Jr."
+      ],
+      "dropped": [
+        "Andrei Iosivas"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2024-10-05",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ray Davis"
+      ],
+      "dropped": [
+        "Jaleel McLaughlin"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2024-10-05",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "24 Garrett Gold ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Colby Parkinson"
+      ],
+      "dropped": [
+        "Noah Gray"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2024-10-05",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Lose2aG00n3r",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Aaron Shampklin"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2024-10-06",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "MarShawn Lloyd"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2024-10-06",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Curtis Samuel"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2024-10-06",
+      "owner": "Faust Vinas",
+      "owner_slug": "faust-vinas",
+      "team_name": "The Old Hunters",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "JuJu Smith-Schuster"
+      ],
+      "dropped": [
+        "Cordarrelle Patterson"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2024-10-06",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Conklin"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2024-10-06",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Goodson"
+      ],
+      "dropped": [
+        "Curtis Samuel"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2024-10-06",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Greg Dortch"
+      ],
+      "dropped": [
+        "Tyler Goodson"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2024-10-09",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "DeMario Douglas"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2024-10-09",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Kenneth Gainwell"
+      ],
+      "dropped": [
+        "Trevor Lawrence"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2024-10-09",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Darius Slayton"
+      ],
+      "dropped": [
+        "Gabe Davis"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2024-10-09",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Jaleel McLaughlin"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2024-10-09",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Andrei Iosivas"
+      ],
+      "dropped": [
+        "Tyler Conklin"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2024-10-09",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Lose2aG00n3r",
+      "type": "WAIVER",
+      "bid": 55,
+      "added": [
+        "Kyle Pitts"
+      ],
+      "dropped": [
+        "Dalton Schultz"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2024-10-09",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ty Johnson"
+      ],
+      "dropped": [
+        "Mike Williams"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2024-10-09",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Maybe Nix Year",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Kirk Cousins"
+      ],
+      "dropped": [
+        "Derek Carr"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2024-10-09",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Rashod Bateman"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2024-10-09",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Daniel Jones"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2024-10-09",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "TWO PIECE W A BISCUIT",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Jalen Coker"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2024-10-09",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "DeMario Douglas"
+      ],
+      "dropped": [
+        "Tutu Atwell"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2024-10-09",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Greg Joseph"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2024-10-09",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Adonai Mitchell"
+      ],
+      "dropped": [
+        "DeMario Douglas"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2024-10-09",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "TWO PIECE W A BISCUIT",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Cameron Dicker"
+      ],
+      "dropped": [
+        "Tyler Bass"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2024-10-09",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "TWO PIECE W A BISCUIT",
+      "type": "WAIVER",
+      "bid": 25,
+      "added": [
+        "Blake Corum"
+      ],
+      "dropped": [
+        "Cole Kmet"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2024-10-10",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Trevor Lawrence"
+      ],
+      "dropped": [
+        "Justin Herbert"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2024-10-10",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dalton Schultz"
+      ],
+      "dropped": [
+        "Sam Darnold"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2024-10-11",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Ja'Lynn Polk"
+      ],
+      "dropped": [
+        "Justin Tucker"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2024-10-11",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Goodson"
+      ],
+      "dropped": [
+        "Zach Ertz"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2024-10-11",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jalin Hyatt"
+      ],
+      "dropped": [
+        "Andrei Iosivas"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2024-10-11",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Tyler Conklin"
+      ],
+      "dropped": [
+        "Trey Sermon"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2024-10-11",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "TWO PIECE W A BISCUIT",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Drake Maye"
+      ],
+      "dropped": [
+        "Jalen Coker"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2024-10-12",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "WAIVER",
+      "bid": 27,
+      "added": [
+        "Trey Sermon"
+      ],
+      "dropped": [
+        "Tyler Goodson"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2024-10-12",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justin Tucker"
+      ],
+      "dropped": [
+        "Evan McPherson"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2024-10-13",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Maybe Nix Year",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ameer Abdullah"
+      ],
+      "dropped": [
+        "Josh Reynolds"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2024-10-13",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cole Kmet"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2024-10-13",
+      "owner": "Faust Vinas",
+      "owner_slug": "faust-vinas",
+      "team_name": "The Old Hunters",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "KaVontae Turpin"
+      ],
+      "dropped": [
+        "Jalen Nailor"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2024-10-13",
+      "owner": "Faust Vinas",
+      "owner_slug": "faust-vinas",
+      "team_name": "The Old Hunters",
+      "type": "FREEAGENT",
+      "bid": 1,
+      "added": [
+        "Jake Elliott"
+      ],
+      "dropped": [
+        "Jordan Whittington"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2024-10-13",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "WAIVER",
+      "bid": 10,
+      "added": [
+        "Tyler Goodson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2024-10-13",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "24 Garrett Gold ",
+      "type": "WAIVER",
+      "bid": 3,
+      "added": [
+        "Zach Ertz"
+      ],
+      "dropped": [
+        "Aaron Rodgers"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2024-10-13",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jake Bates"
+      ],
+      "dropped": [
+        "Greg Joseph"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2024-10-13",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Eric Gray"
+      ],
+      "dropped": [
+        "Miles Sanders"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2024-10-15",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "24 Garrett Gold ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tutu Atwell"
+      ],
+      "dropped": [
+        "Colby Parkinson"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2024-10-16",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "24 Garrett Gold ",
+      "type": "WAIVER",
+      "bid": 10,
+      "added": [
+        "D'Ernest Johnson"
+      ],
+      "dropped": [
+        "Jamaal Williams"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2024-10-16",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Gabe Davis"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2024-10-16",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "WAIVER",
+      "bid": 4,
+      "added": [
+        "Kayshon Boutte"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2024-10-16",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justin Herbert"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2024-10-16",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Joey Slye"
+      ],
+      "dropped": [
+        "Cairo Santos"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2024-10-16",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Dameon Pierce"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2024-10-16",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "24 Garrett Gold ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Sam Darnold"
+      ],
+      "dropped": [
+        "Tutu Atwell"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2024-10-16",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brandon McManus"
+      ],
+      "dropped": [
+        "Joey Slye"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2024-10-16",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "24 Garrett Gold ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Noah Brown"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2024-10-16",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jordan Whittington"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2024-10-16",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Aaron Rodgers"
+      ],
+      "dropped": [
+        "Trevor Lawrence"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2024-10-16",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Maybe Nix Year",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Evan McPherson"
+      ],
+      "dropped": [
+        "Ameer Abdullah"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2024-10-16",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bub Means"
+      ],
+      "dropped": [
+        "Adonai Mitchell"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2024-10-16",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "WAIVER",
+      "bid": 25,
+      "added": [
+        "Sean Tucker"
+      ],
+      "dropped": [
+        "Eric Gray"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2024-10-16",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Taysom Hill"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2024-10-17",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Andrei Iosivas"
+      ],
+      "dropped": [
+        "Demarcus Robinson"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2024-10-18",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ja'Lynn Polk"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2024-10-18",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Trevor Lawrence"
+      ],
+      "dropped": [
+        "Justin Fields"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2024-10-18",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Tucker Kraft"
+      ],
+      "dropped": [
+        "Tyler Conklin"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2024-10-19",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "24 Garrett Gold ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Julius Chestnut"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2024-10-19",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tua Tagovailoa"
+      ],
+      "dropped": [
+        "Justin Herbert"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2024-10-19",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Grant Calcaterra"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2024-10-19",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Clyde Edwards-Helaire"
+      ],
+      "dropped": [
+        "Michael Wilson"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2024-10-20",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tutu Atwell"
+      ],
+      "dropped": [
+        "Rashod Bateman"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2024-10-20",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Joshua Palmer"
+      ],
+      "dropped": [
+        "Cade Otton"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2024-10-23",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bo Nix"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2024-10-23",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "WAIVER",
+      "bid": 6,
+      "added": [
+        "Cedric Tillman"
+      ],
+      "dropped": [
+        "Trey Sermon"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2024-10-23",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jonnu Smith"
+      ],
+      "dropped": [
+        "Will Dissly"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2024-10-23",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Will Reichard"
+      ],
+      "dropped": [
+        "Chase McLaughlin"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2024-10-23",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "WAIVER",
+      "bid": 2,
+      "added": [
+        "Will Dissly"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2024-10-23",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Roschon Johnson"
+      ],
+      "dropped": [
+        "Isaac Guerendo"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2024-10-23",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Tim Patrick"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2024-10-23",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Russell Wilson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2024-10-23",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Troy Franklin"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2024-10-23",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Trey Palmer"
+      ],
+      "dropped": [
+        "Xavier Legette"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2024-10-23",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jonnu Smith"
+      ],
+      "dropped": [
+        "Kayshon Boutte"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2024-10-23",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "24 Garrett Gold ",
+      "type": "WAIVER",
+      "bid": 15,
+      "added": [
+        "Jalen McMillan"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2024-10-23",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cade Otton"
+      ],
+      "dropped": [
+        "Jonnu Smith"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2024-10-23",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Maybe Nix Year",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jaleel McLaughlin"
+      ],
+      "dropped": [
+        "Zamir White"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2024-10-23",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Boyd"
+      ],
+      "dropped": [
+        "Joshua Palmer"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2024-10-23",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "WAIVER",
+      "bid": 11,
+      "added": [
+        "Rashod Bateman"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2024-10-23",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cade Otton"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2024-10-23",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Lose2aG00n3r",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Sterling Shepard"
+      ],
+      "dropped": [
+        "Cam Akers"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2024-10-23",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "WAIVER",
+      "bid": 3,
+      "added": [
+        "Elijah Moore"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2024-10-24",
+      "owner": "Faust Vinas",
+      "owner_slug": "faust-vinas",
+      "team_name": "The Old Hunters",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Isaac Guerendo"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2024-10-24",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Maybe Nix Year",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Tutu Atwell"
+      ],
+      "dropped": [
+        "Evan McPherson"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2024-10-24",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Gabe Davis"
+      ],
+      "dropped": [
+        "Pat Freiermuth"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2024-10-24",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jake Bobo"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2024-10-24",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cairo Santos"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2024-10-25",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Xavier Legette"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2024-10-26",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dalvin Cook"
+      ],
+      "dropped": [
+        "Dameon Pierce"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2024-10-26",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Maybe Nix Year",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Troy Franklin"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2024-10-26",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "WAIVER",
+      "bid": 10,
+      "added": [
+        "Jaylen Wright"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2024-10-26",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Adonai Mitchell"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2024-10-26",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "TWO PIECE W A BISCUIT",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Audric Estime"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2024-10-26",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "WAIVER",
+      "bid": 6,
+      "added": [
+        "Christian Watson"
+      ],
+      "dropped": [
+        "Emanuel Wilson"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2024-10-27",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ezekiel Elliott"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2024-10-27",
+      "owner": "Faust Vinas",
+      "owner_slug": "faust-vinas",
+      "team_name": "The Old Hunters",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Joshua Palmer"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2024-10-27",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Emanuel Wilson"
+      ],
+      "dropped": [
+        "Tyler Boyd"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2024-10-30",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "John Metchie III"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2024-10-30",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Lose2aG00n3r",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brandin Cooks"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2024-10-30",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Miles Sanders"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2024-10-30",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Lose2aG00n3r",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Robert Woods"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2024-10-30",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Matthew Stafford"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2024-10-30",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "WAIVER",
+      "bid": 6,
+      "added": [
+        "Michael Wilson"
+      ],
+      "dropped": [
+        "Tre Tucker"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2024-10-30",
+      "owner": "Faust Vinas",
+      "owner_slug": "faust-vinas",
+      "team_name": "The Old Hunters",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Kalif Raymond"
+      ],
+      "dropped": [
+        "KaVontae Turpin"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2024-10-30",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jake Elliott"
+      ],
+      "dropped": [
+        "Emanuel Wilson"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2024-10-30",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Maybe Nix Year",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Xavier Hutchinson"
+      ],
+      "dropped": [
+        "Tutu Atwell"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2024-10-30",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "WAIVER",
+      "bid": 6,
+      "added": [
+        "Parker Washington"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2024-10-30",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Dalton Schultz"
+      ],
+      "dropped": [
+        "Bo Nix"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2024-10-30",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "WAIVER",
+      "bid": 19,
+      "added": [
+        "Jalen Coker"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2024-10-31",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bo Nix"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2024-10-31",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mike Williams"
+      ],
+      "dropped": [
+        "Ezekiel Elliott"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2024-10-31",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Drake Maye"
+      ],
+      "dropped": [
+        "Matthew Stafford"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2024-10-31",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Demarcus Robinson"
+      ],
+      "dropped": [
+        "Antonio Gibson"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2024-10-31",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jordan Whittington"
+      ],
+      "dropped": [
+        "Bo Nix"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2024-11-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "TWO PIECE W A BISCUIT",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kayshon Boutte"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2024-11-02",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Taysom Hill"
+      ],
+      "dropped": [
+        "Jerome Ford"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2024-11-02",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Roschon Johnson"
+      ],
+      "dropped": [
+        "Jordan Whittington"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2024-11-03",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mike Gesicki"
+      ],
+      "dropped": [
+        "Demarcus Robinson"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2024-11-03",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bo Nix"
+      ],
+      "dropped": [
+        "Drake Maye"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2024-11-03",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Julius Chestnut"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2024-11-03",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Emanuel Wilson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2024-11-03",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Trey Palmer"
+      ],
+      "dropped": [
+        "Miles Sanders"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2024-11-06",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "WAIVER",
+      "bid": 17,
+      "added": [
+        "Demarcus Robinson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2024-11-06",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "WAIVER",
+      "bid": 14,
+      "added": [
+        "Emari Demercado"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2024-11-06",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Daniel Jones"
+      ],
+      "dropped": [
+        "Aaron Rodgers"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2024-11-06",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Aaron Rodgers"
+      ],
+      "dropped": [
+        "Bo Nix"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2024-11-06",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "24 Garrett Gold ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cedrick Wilson Jr."
+      ],
+      "dropped": [
+        "D'Ernest Johnson"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2024-11-06",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "WAIVER",
+      "bid": 6,
+      "added": [
+        "Jonnu Smith"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2024-11-06",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "WAIVER",
+      "bid": 9,
+      "added": [
+        "Khalil Herbert"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2024-11-06",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Drake Maye"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2024-11-06",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "WAIVER",
+      "bid": 10,
+      "added": [
+        "Cam Akers"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2024-11-07",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "24 Garrett Gold ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Aaron Rodgers"
+      ],
+      "dropped": [
+        "Dak Prescott"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2024-11-07",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Maybe Nix Year",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Marquez Valdes-Scantling"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2024-11-07",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "TWO PIECE W A BISCUIT",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justin Herbert"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2024-11-07",
+      "owner": "Faust Vinas",
+      "owner_slug": "faust-vinas",
+      "team_name": "The Old Hunters",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dalton Schultz"
+      ],
+      "dropped": [
+        "Kalif Raymond"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2024-11-07",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matthew Stafford"
+      ],
+      "dropped": [
+        "Tua Tagovailoa"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2024-11-08",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Gus Edwards"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2024-11-08",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Russell Wilson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2024-11-08",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Maybe Nix Year",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Alec Pierce"
+      ],
+      "dropped": [
+        "Xavier Hutchinson"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2024-11-08",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Conklin"
+      ],
+      "dropped": [
+        "Darius Slayton"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2024-11-08",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jake Elliott"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2024-11-09",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Maybe Nix Year",
+      "type": "WAIVER",
+      "bid": 2,
+      "added": [
+        "Darius Slayton"
+      ],
+      "dropped": [
+        "Troy Franklin"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2024-11-09",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tua Tagovailoa"
+      ],
+      "dropped": [
+        "Daniel Jones"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2024-11-10",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jason Sanders"
+      ],
+      "dropped": [
+        "Jake Elliott"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2024-11-10",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chase McLaughlin"
+      ],
+      "dropped": [
+        "Tyler Goodson"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2024-11-10",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dontayvion Wicks"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2024-11-13",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "TWO PIECE W A BISCUIT",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Will Dissly"
+      ],
+      "dropped": [
+        "Elijah Moore"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2024-11-13",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Pat Freiermuth"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2024-11-13",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "WAIVER",
+      "bid": 7,
+      "added": [
+        "Kayshon Boutte"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2024-11-13",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "WAIVER",
+      "bid": 6,
+      "added": [
+        "Bo Nix"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2024-11-13",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "WAIVER",
+      "bid": 35,
+      "added": [
+        "Audric Estime"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2024-11-13",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "WAIVER",
+      "bid": 25,
+      "added": [
+        "Gus Edwards"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2024-11-14",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mack Hollins"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2024-11-14",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jonnu Smith"
+      ],
+      "dropped": [
+        "Pat Freiermuth"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2024-11-14",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Anthony Richardson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2024-11-14",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Maybe Nix Year",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Demarcus Robinson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2024-11-14",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "24 Garrett Gold ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Calvin Austin III"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2024-11-15",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brock Wright"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2024-11-15",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dawson Knox"
+      ],
+      "dropped": [
+        "Mike Gesicki"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2024-11-15",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Elijah Moore"
+      ],
+      "dropped": [
+        "Tank Bigsby"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2024-11-15",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Drake Maye"
+      ],
+      "dropped": [
+        "Brock Wright"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2024-11-17",
+      "owner": "Faust Vinas",
+      "owner_slug": "faust-vinas",
+      "team_name": "The Old Hunters",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Bass"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2024-11-17",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Evan McPherson"
+      ],
+      "dropped": [
+        "Dalton Kincaid"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2024-11-20",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "24 Garrett Gold ",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Tua Tagovailoa"
+      ],
+      "dropped": [
+        "Calvin Austin III"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2024-11-20",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Theo Johnson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2024-11-20",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tommy DeVito"
+      ],
+      "dropped": [
+        "Gabe Davis"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2024-11-20",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jalen McMillan"
+      ],
+      "dropped": [
+        "Khalil Herbert"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2024-11-20",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jerome Ford"
+      ],
+      "dropped": [
+        "Tyler Conklin"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2024-11-20",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "WAIVER",
+      "bid": 25,
+      "added": [
+        "Tank Bigsby"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2024-11-20",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dalton Kincaid"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2024-11-20",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Lose2aG00n3r",
+      "type": "WAIVER",
+      "bid": 10,
+      "added": [
+        "Jake Elliott"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2024-11-20",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Nick Westbrook-Ikhine"
+      ],
+      "dropped": [
+        "Jalen McMillan"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2024-11-20",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jalen McMillan"
+      ],
+      "dropped": [
+        "Jalen Tolbert"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2024-11-20",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jason Myers"
+      ],
+      "dropped": [
+        "Cairo Santos"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2024-11-20",
+      "owner": "Faust Vinas",
+      "owner_slug": "faust-vinas",
+      "team_name": "The Old Hunters",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Zane Gonzalez"
+      ],
+      "dropped": [
+        "Caleb Williams"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2024-11-20",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Luke Schoonmaker"
+      ],
+      "dropped": [
+        "Theo Johnson"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2024-11-21",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matthew Stafford"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2024-11-21",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Antonio Gibson"
+      ],
+      "dropped": [
+        "Kendrick Bourne"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2024-11-21",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Sterling Shepard"
+      ],
+      "dropped": [
+        "Sean Tucker"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2024-11-21",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kendrick Bourne"
+      ],
+      "dropped": [
+        "Luke Schoonmaker"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2024-11-21",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Maybe Nix Year",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Luke Schoonmaker"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2024-11-21",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "24 Garrett Gold ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ameer Abdullah"
+      ],
+      "dropped": [
+        "Noah Brown"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2024-11-22",
+      "owner": "Faust Vinas",
+      "owner_slug": "faust-vinas",
+      "team_name": "The Old Hunters",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Spencer Shrader"
+      ],
+      "dropped": [
+        "Tyler Bass"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2024-11-22",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dylan Laube"
+      ],
+      "dropped": [
+        "Jalen Coker"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2024-11-23",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Noah Brown"
+      ],
+      "dropped": [
+        "Dylan Laube"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2024-11-27",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Khalil Herbert"
+      ],
+      "dropped": [
+        "Kirk Cousins"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2024-11-27",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "TWO PIECE W A BISCUIT",
+      "type": "WAIVER",
+      "bid": 7,
+      "added": [
+        "Dontayvion Wicks"
+      ],
+      "dropped": [
+        "Will Dissly"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2024-11-27",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Bass"
+      ],
+      "dropped": [
+        "Blake Grupe"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2024-11-27",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Lose2aG00n3r",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Hollywood Brown"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2024-11-27",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Devaughn Vele"
+      ],
+      "dropped": [
+        "Mike Williams"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2024-11-27",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Blake Grupe"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2024-11-27",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Wil Lutz"
+      ],
+      "dropped": [
+        "Jason Sanders"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2024-11-27",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Derek Carr"
+      ],
+      "dropped": [
+        "Drake Maye"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2024-11-27",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "TWO PIECE W A BISCUIT",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kimani Vidal"
+      ],
+      "dropped": [
+        "Adonai Mitchell"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2024-11-27",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kirk Cousins"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2024-11-29",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "WAIVER",
+      "bid": 20,
+      "added": [
+        "Adonai Mitchell"
+      ],
+      "dropped": [
+        "Ricky Pearsall"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2024-11-29",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matthew Wright"
+      ],
+      "dropped": [
+        "Tyler Bass"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2024-11-30",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "24 Garrett Gold ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Isaiah Davis"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2024-11-30",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Will Dissly"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2024-12-04",
+      "owner": "Faust Vinas",
+      "owner_slug": "faust-vinas",
+      "team_name": "The Old Hunters",
+      "type": "WAIVER",
+      "bid": 2,
+      "added": [
+        "Pat Freiermuth"
+      ],
+      "dropped": [
+        "Joshua Palmer"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2024-12-04",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Sean Tucker"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2024-12-04",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "WAIVER",
+      "bid": 3,
+      "added": [
+        "Jake Ferguson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2024-12-04",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Patrick Taylor Jr."
+      ],
+      "dropped": [
+        "Khalil Herbert"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2024-12-04",
+      "owner": "Faust Vinas",
+      "owner_slug": "faust-vinas",
+      "team_name": "The Old Hunters",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Blake Grupe"
+      ],
+      "dropped": [
+        "Spencer Shrader"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2024-12-04",
+      "owner": "Faust Vinas",
+      "owner_slug": "faust-vinas",
+      "team_name": "The Old Hunters",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cooper Rush"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2024-12-04",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Maybe Nix Year",
+      "type": "WAIVER",
+      "bid": 3,
+      "added": [
+        "Juwan Johnson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2024-12-04",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "John Parker Romo"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2024-12-04",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jameis Winston"
+      ],
+      "dropped": [
+        "Patrick Taylor Jr."
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2024-12-04",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Maybe Nix Year",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Will Levis"
+      ],
+      "dropped": [
+        "Luke Schoonmaker"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2024-12-04",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "24 Garrett Gold ",
+      "type": "WAIVER",
+      "bid": 2,
+      "added": [
+        "Jason Sanders"
+      ],
+      "dropped": [
+        "Aaron Rodgers"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2024-12-04",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Parker Washington"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2024-12-04",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "TWO PIECE W A BISCUIT",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Sincere McCormick"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2024-12-04",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tre Tucker"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2024-12-04",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Evan McPherson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2024-12-04",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "TWO PIECE W A BISCUIT",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Caleb Williams"
+      ],
+      "dropped": [
+        "Dontayvion Wicks"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2024-12-04",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Nick Folk"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2024-12-04",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "24 Garrett Gold ",
+      "type": "WAIVER",
+      "bid": 20,
+      "added": [
+        "Israel Abanikanda"
+      ],
+      "dropped": [
+        "Isaiah Davis"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2024-12-04",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Russell Wilson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2024-12-04",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Bass"
+      ],
+      "dropped": [
+        "Matthew Wright"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2024-12-05",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "24 Garrett Gold ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kenny McIntosh"
+      ],
+      "dropped": [
+        "Ameer Abdullah"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2024-12-05",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dontayvion Wicks"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2024-12-05",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Demarcus Robinson"
+      ],
+      "dropped": [
+        "Diontae Johnson"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2024-12-05",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Aaron Rodgers"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2024-12-06",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Joshua Palmer"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2024-12-06",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Matthew Wright"
+      ],
+      "dropped": [
+        "Tyler Bass"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2024-12-06",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "24 Garrett Gold ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Travis Homer"
+      ],
+      "dropped": [
+        "Israel Abanikanda"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2024-12-06",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Patrick Taylor Jr."
+      ],
+      "dropped": [
+        "Matt Gay"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2024-12-07",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Lose2aG00n3r",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ricky Pearsall"
+      ],
+      "dropped": [
+        "Jake Elliott"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2024-12-07",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "WAIVER",
+      "bid": 3,
+      "added": [
+        "Tyler Bass"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2024-12-07",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "24 Garrett Gold ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Isaiah Davis"
+      ],
+      "dropped": [
+        "Kenny McIntosh"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2024-12-08",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Maybe Nix Year",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dawson Knox"
+      ],
+      "dropped": [
+        "Hunter Henry"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2024-12-08",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Odell Beckham Jr."
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2024-12-08",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Will Reichard"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2024-12-08",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ameer Abdullah"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2024-12-08",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Calvin Austin III"
+      ],
+      "dropped": [
+        "Jaylen Wright"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2024-12-11",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaylen Wright"
+      ],
+      "dropped": [
+        "Jaleel McLaughlin"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2024-12-11",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Hunter Henry"
+      ],
+      "dropped": [
+        "Tyler Bass"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2024-12-11",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jalen McMillan"
+      ],
+      "dropped": [
+        "Dontayvion Wicks"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2024-12-11",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaleel McLaughlin"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2024-12-11",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Stone Smartt"
+      ],
+      "dropped": [
+        "Jaylen Wright"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2024-12-12",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Noah Gray"
+      ],
+      "dropped": [
+        "Jalen McMillan"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2024-12-12",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justin Tucker"
+      ],
+      "dropped": [
+        "Nick Folk"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2024-12-13",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rashee Rice"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2024-12-13",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "24 Garrett Gold ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Michael Mayer"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2024-12-13",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Wil Lutz"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2024-12-14",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jordan Akins"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2024-12-14",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Michael Woods II"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2024-12-14",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaylen Wright"
+      ],
+      "dropped": [
+        "Stone Smartt"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2024-12-15",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaleel McLaughlin"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2024-12-15",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "24 Garrett Gold ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kenny McIntosh"
+      ],
+      "dropped": [
+        "Jason Sanders"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2024-12-18",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Audric Estime"
+      ],
+      "dropped": [
+        "Michael Penix Jr."
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2024-12-18",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jalen Coker"
+      ],
+      "dropped": [
+        "Jaylen Wright"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2024-12-18",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "TWO PIECE W A BISCUIT",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justin Herbert"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 16,
+      "date": "2024-12-18",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Lose2aG00n3r",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jake Elliott"
+      ],
+      "dropped": [
+        "Ricky Pearsall"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2024-12-18",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Stone Smartt"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 16,
+      "date": "2024-12-18",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Brenton Strange"
+      ],
+      "dropped": [
+        "Jordan Akins"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2024-12-18",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jalen McMillan"
+      ],
+      "dropped": [
+        "Nick Westbrook-Ikhine"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2024-12-18",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Michael Penix Jr."
+      ],
+      "dropped": [
+        "Gus Edwards"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2024-12-19",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Noah Gray"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 16,
+      "date": "2024-12-19",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Malik Washington"
+      ],
+      "dropped": [
+        "Sean Tucker"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2024-12-20",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Michael Penix Jr."
+      ],
+      "dropped": [
+        "Noah Gray"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2024-12-20",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ameer Abdullah"
+      ],
+      "dropped": [
+        "Stone Smartt"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2024-12-21",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Bass"
+      ],
+      "dropped": [
+        "Ameer Abdullah"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2024-12-21",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Drake Maye"
+      ],
+      "dropped": [
+        "Tyler Bass"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2024-12-22",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "DeeJay Dallas"
+      ],
+      "dropped": [
+        "Michael Penix Jr."
+      ]
+    },
+    {
+      "week": 17,
+      "date": "2024-12-26",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Gus Edwards"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 17,
+      "date": "2024-12-26",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ameer Abdullah"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 17,
+      "date": "2024-12-27",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Gus Edwards"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 17,
+      "date": "2024-12-27",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brandon McManus"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 17,
+      "date": "2024-12-28",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Raheem Blackshear"
+      ],
+      "dropped": [
+        "Ameer Abdullah"
+      ]
+    }
+  ],
+  "team_totals": [
+    {
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Perc Angle",
+      "acquisitions": 57,
+      "spent": 100
+    },
+    {
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "acquisitions": 21,
+      "spent": 100
+    },
+    {
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Saquon Barkley",
+      "acquisitions": 41,
+      "spent": 100
+    },
+    {
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Lose2aG00n3r",
+      "acquisitions": 12,
+      "spent": 100
+    },
+    {
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "e-",
+      "acquisitions": 47,
+      "spent": 100
+    },
+    {
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Chubba Missile Crisis",
+      "acquisitions": 48,
+      "spent": 97
+    },
+    {
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "24 Garrett Gold ",
+      "acquisitions": 26,
+      "spent": 97
+    },
+    {
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Maybe Nix Year",
+      "acquisitions": 19,
+      "spent": 85
+    },
+    {
+      "owner": "Faust Vinas",
+      "owner_slug": "faust-vinas",
+      "team_name": "The Old Hunters",
+      "acquisitions": 20,
+      "spent": 82
+    },
+    {
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "4 Percent P00T",
+      "acquisitions": 51,
+      "spent": 80
+    },
+    {
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "TWO PIECE W A BISCUIT",
+      "acquisitions": 26,
+      "spent": 74
+    },
+    {
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "acquisitions": 21,
+      "spent": 58
+    }
+  ]
+}

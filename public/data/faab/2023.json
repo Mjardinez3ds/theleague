@@ -1,0 +1,7161 @@
+{
+  "year": 2023,
+  "transactions": [
+    {
+      "week": 1,
+      "date": "2023-09-05",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Tyquan Thornton"
+      ],
+      "dropped": [
+        "Brandon McManus"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2023-09-05",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Irv Smith Jr."
+      ],
+      "dropped": [
+        "Mecole Hardman"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2023-09-05",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Rico Dowdle"
+      ],
+      "dropped": [
+        "Marquez Valdes-Scantling"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2023-09-05",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Noah Gray"
+      ],
+      "dropped": [
+        "Brock Purdy"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2023-09-05",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Gerald Everett"
+      ],
+      "dropped": [
+        "Clyde Edwards-Helaire"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2023-09-05",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jake Elliott"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2023-09-05",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Michael Mayer"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2023-09-05",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kyler Murray"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2023-09-05",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Clyde Edwards-Helaire"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2023-09-06",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Breece\u2019s Pieces",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Noah Fant"
+      ],
+      "dropped": [
+        "Allen Lazard"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2023-09-06",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Sean Tucker"
+      ],
+      "dropped": [
+        "Rashee Rice"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2023-09-06",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mike Gesicki"
+      ],
+      "dropped": [
+        "Gerald Everett"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2023-09-07",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Romeo Doubs"
+      ],
+      "dropped": [
+        "Tyler Boyd"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2023-09-07",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brandon McManus"
+      ],
+      "dropped": [
+        "Cameron Dicker"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2023-09-07",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Clyde Edwards-Helaire"
+      ],
+      "dropped": [
+        "Geno Smith"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2023-09-08",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ty Chandler"
+      ],
+      "dropped": [
+        "Kyren Williams"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2023-09-08",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Taysom Hill"
+      ],
+      "dropped": [
+        "Sean Tucker"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2023-09-08",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Deuce Vaughn"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2023-09-08",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Luke Musgrave"
+      ],
+      "dropped": [
+        "Taysom Hill"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2023-09-08",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kyren Williams"
+      ],
+      "dropped": [
+        "Deon Jackson"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2023-09-10",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Isaiah Hodgins"
+      ],
+      "dropped": [
+        "Romeo Doubs"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2023-09-10",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Deon Jackson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2023-09-10",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Gerald Everett"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2023-09-10",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Isaiah Likely"
+      ],
+      "dropped": [
+        "Luke Musgrave"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2023-09-10",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kenneth Gainwell"
+      ],
+      "dropped": [
+        "Chigoziem Okonkwo"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2023-09-10",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Team Cano",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Greg Dulcich"
+      ],
+      "dropped": [
+        "Adam Thielen"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "WAIVER",
+      "bid": 3,
+      "added": [
+        "Jake Ferguson"
+      ],
+      "dropped": [
+        "Irv Smith Jr."
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Josh Downs"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Ronald Jones"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brandon Aubrey"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jordan Love"
+      ],
+      "dropped": [
+        "Rico Dowdle"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Browns D/ST"
+      ],
+      "dropped": [
+        "Tyler Higbee"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyjae Spears"
+      ],
+      "dropped": [
+        "Rashaad Penny"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Keaton Mitchell"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Romeo Doubs"
+      ],
+      "dropped": [
+        "Ty Chandler"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Jake Moody"
+      ],
+      "dropped": [
+        "Chad Ryland"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mac Jones"
+      ],
+      "dropped": [
+        "Jerick McKinnon"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Luke Musgrave"
+      ],
+      "dropped": [
+        "Jameson Williams"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Daniel Bellinger"
+      ],
+      "dropped": [
+        "Ronald Jones"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Broncos D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Hunter Henry"
+      ],
+      "dropped": [
+        "Mike Gesicki"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "WAIVER",
+      "bid": 7,
+      "added": [
+        "Kendrick Bourne"
+      ],
+      "dropped": [
+        "Gerald Everett"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Team Cano",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Josh Reynolds"
+      ],
+      "dropped": [
+        "Chase Claypool"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "DECAPITATED WEASEL",
+      "type": "WAIVER",
+      "bid": 60,
+      "added": [
+        "Brock Purdy"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Allen Robinson II"
+      ],
+      "dropped": [
+        "Clyde Edwards-Helaire"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "WAIVER",
+      "bid": 25,
+      "added": [
+        "Joshua Kelley"
+      ],
+      "dropped": [
+        "Marvin Mims Jr."
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Texans D/ST"
+      ],
+      "dropped": [
+        "Ravens D/ST"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "WAIVER",
+      "bid": 3,
+      "added": [
+        "Rashee Rice"
+      ],
+      "dropped": [
+        "Jonathan Mingo"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Giants D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "WAIVER",
+      "bid": 36,
+      "added": [
+        "Kyren Williams"
+      ],
+      "dropped": [
+        "Isaiah Likely"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Zack Moss"
+      ],
+      "dropped": [
+        "Hayden Hurst"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "type": "WAIVER",
+      "bid": 10,
+      "added": [
+        "Gus Edwards"
+      ],
+      "dropped": [
+        "Deon Jackson"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "type": "WAIVER",
+      "bid": 56,
+      "added": [
+        "Puka Nacua"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Nick Folk"
+      ],
+      "dropped": [
+        "Evan McPherson"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Colts D/ST"
+      ],
+      "dropped": [
+        "Commanders D/ST"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justice Hill"
+      ],
+      "dropped": [
+        "Damien Harris"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Team Cano",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Tyler Boyd"
+      ],
+      "dropped": [
+        "Evan Hull"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Buccaneers D/ST"
+      ],
+      "dropped": [
+        "Texans D/ST"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-13",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Hayden Hurst"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2023-09-14",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "type": "WAIVER",
+      "bid": 3,
+      "added": [
+        "Tyler Higbee"
+      ],
+      "dropped": [
+        "Van Jefferson"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-14",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Robert Woods"
+      ],
+      "dropped": [
+        "Daniel Bellinger"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-14",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Team Cano",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Deon Jackson"
+      ],
+      "dropped": [
+        "Greg Dulcich"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-14",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Texans D/ST"
+      ],
+      "dropped": [
+        "Zack Moss"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-14",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "WAIVER",
+      "bid": 10,
+      "added": [
+        "Jameson Williams"
+      ],
+      "dropped": [
+        "Josh Downs"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-16",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Breece\u2019s Pieces",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cameron Dicker"
+      ],
+      "dropped": [
+        "Noah Fant"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-17",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jerick McKinnon"
+      ],
+      "dropped": [
+        "Rashee Rice"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2023-09-17",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Hunter Renfrow"
+      ],
+      "dropped": [
+        "Jaguars D/ST"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-20",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "WAIVER",
+      "bid": 4,
+      "added": [
+        "Jaguars D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2023-09-20",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ravens D/ST"
+      ],
+      "dropped": [
+        "Romeo Doubs"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-20",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Team Cano",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matt Breida"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2023-09-20",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kendre Miller"
+      ],
+      "dropped": [
+        "Eric Gray"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-20",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Matthew Stafford"
+      ],
+      "dropped": [
+        "Allen Robinson II"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-20",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Seahawks D/ST"
+      ],
+      "dropped": [
+        "Packers D/ST"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-20",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Albert Okwuegbunam"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2023-09-20",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Eric Gray"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2023-09-20",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "DECAPITATED WEASEL",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Clyde Edwards-Helaire"
+      ],
+      "dropped": [
+        "Devin Singletary"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-20",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Team Cano",
+      "type": "WAIVER",
+      "bid": 25,
+      "added": [
+        "Geno Smith"
+      ],
+      "dropped": [
+        "Kenny Pickett"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-20",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Ty Chandler"
+      ],
+      "dropped": [
+        "Jerick McKinnon"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-20",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Packers D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2023-09-20",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "WAIVER",
+      "bid": 30,
+      "added": [
+        "Zack Moss"
+      ],
+      "dropped": [
+        "Kenneth Gainwell"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-20",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Breece\u2019s Pieces",
+      "type": "WAIVER",
+      "bid": 15,
+      "added": [
+        "Adam Thielen"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2023-09-20",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Chuba Hubbard"
+      ],
+      "dropped": [
+        "Luke Musgrave"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-20",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bengals D/ST"
+      ],
+      "dropped": [
+        "Packers D/ST"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-20",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Zach Ertz"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2023-09-20",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "WAIVER",
+      "bid": 7,
+      "added": [
+        "Chiefs D/ST"
+      ],
+      "dropped": [
+        "Buccaneers D/ST"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-20",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Marvin Mims Jr."
+      ],
+      "dropped": [
+        "Chuba Hubbard"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-20",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brandon McManus"
+      ],
+      "dropped": [
+        "Brett Maher"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-20",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brett Maher"
+      ],
+      "dropped": [
+        "Younghoe Koo"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-20",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Breece\u2019s Pieces",
+      "type": "WAIVER",
+      "bid": 10,
+      "added": [
+        "Kareem Hunt"
+      ],
+      "dropped": [
+        "Greg Zuerlein"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-20",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Packers D/ST"
+      ],
+      "dropped": [
+        "Colts D/ST"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-20",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "WAIVER",
+      "bid": 3,
+      "added": [
+        "DeVante Parker"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2023-09-21",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Braxton Berrios"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2023-09-21",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chuba Hubbard"
+      ],
+      "dropped": [
+        "Braxton Berrios"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-21",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kyler Murray"
+      ],
+      "dropped": [
+        "Rico Dowdle"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-21",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rico Dowdle"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2023-09-21",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jake Ferguson"
+      ],
+      "dropped": [
+        "Albert Okwuegbunam"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-21",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Zach Evans"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2023-09-21",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Antonio Gibson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2023-09-21",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "WAIVER",
+      "bid": 9,
+      "added": [
+        "Kenneth Gainwell"
+      ],
+      "dropped": [
+        "Ty Chandler"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-21",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Team Cano",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Riley Patterson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2023-09-21",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Craig Reynolds"
+      ],
+      "dropped": [
+        "Justice Hill"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-21",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jonathan Mingo"
+      ],
+      "dropped": [
+        "Brandin Cooks"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-21",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rico Dowdle"
+      ],
+      "dropped": [
+        "David Njoku"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-22",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Justice Hill"
+      ],
+      "dropped": [
+        "Mac Jones"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-22",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "DeMario Douglas"
+      ],
+      "dropped": [
+        "DeVante Parker"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-22",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "DECAPITATED WEASEL",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Younghoe Koo"
+      ],
+      "dropped": [
+        "Jason Myers"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-22",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Romeo Doubs"
+      ],
+      "dropped": [
+        "Robert Woods"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-23",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Taysom Hill"
+      ],
+      "dropped": [
+        "Justice Hill"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-23",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Braxton Berrios"
+      ],
+      "dropped": [
+        "Rashod Bateman"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-23",
+      "owner": "Abraham Pinales",
+      "owner_slug": "abraham-pinales",
+      "team_name": "ALVINNNN",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Robert Woods"
+      ],
+      "dropped": [
+        "DJ Chark Jr."
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-23",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "WAIVER",
+      "bid": 15,
+      "added": [
+        "Brandin Cooks"
+      ],
+      "dropped": [
+        "Chuba Hubbard"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-23",
+      "owner": "Abraham Pinales",
+      "owner_slug": "abraham-pinales",
+      "team_name": "ALVINNNN",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Latavius Murray"
+      ],
+      "dropped": [
+        "Rondale Moore"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-24",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Curtis Samuel"
+      ],
+      "dropped": [
+        "Kadarius Toney"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2023-09-24",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chuba Hubbard"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2023-09-24",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Josh Downs"
+      ],
+      "dropped": [
+        "Ravens D/ST"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2023-09-27",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "WAIVER",
+      "bid": 11,
+      "added": [
+        "Luke Musgrave"
+      ],
+      "dropped": [
+        "Zach Ertz"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2023-09-27",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "WAIVER",
+      "bid": 12,
+      "added": [
+        "Rashee Rice"
+      ],
+      "dropped": [
+        "Kendrick Bourne"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2023-09-27",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Brett Maher"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2023-09-27",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Jordan Love"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2023-09-27",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "WAIVER",
+      "bid": 4,
+      "added": [
+        "DJ Chark Jr."
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2023-09-27",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Calvin Austin III"
+      ],
+      "dropped": [
+        "Jake Ferguson"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2023-09-27",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Wan'Dale Robinson"
+      ],
+      "dropped": [
+        "Tank Bigsby"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2023-09-27",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jerick McKinnon"
+      ],
+      "dropped": [
+        "Treylon Burks"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2023-09-27",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chargers D/ST"
+      ],
+      "dropped": [
+        "Braxton Berrios"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2023-09-27",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kadarius Toney"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2023-09-27",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "WAIVER",
+      "bid": 25,
+      "added": [
+        "C.J. Stroud"
+      ],
+      "dropped": [
+        "Antonio Gibson"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2023-09-27",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Justice Hill"
+      ],
+      "dropped": [
+        "JuJu Smith-Schuster"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2023-09-27",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "DECAPITATED WEASEL",
+      "type": "WAIVER",
+      "bid": 40,
+      "added": [
+        "Joshua Palmer"
+      ],
+      "dropped": [
+        "Jalin Hyatt"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2023-09-27",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ravens D/ST"
+      ],
+      "dropped": [
+        "Kadarius Toney"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2023-09-28",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "WAIVER",
+      "bid": 10,
+      "added": [
+        "Jalin Hyatt"
+      ],
+      "dropped": [
+        "Calvin Austin III"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2023-09-28",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Antonio Gibson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2023-09-28",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Russell Wilson"
+      ],
+      "dropped": [
+        "Matthew Stafford"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2023-09-28",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kendrick Bourne"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2023-09-28",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "DECAPITATED WEASEL",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Rico Dowdle"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2023-09-28",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Evan McPherson"
+      ],
+      "dropped": [
+        "Chuba Hubbard"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2023-09-28",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Buccaneers D/ST"
+      ],
+      "dropped": [
+        "Jaguars D/ST"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2023-09-28",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Colts D/ST"
+      ],
+      "dropped": [
+        "Chargers D/ST"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2023-09-28",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Lions D/ST"
+      ],
+      "dropped": [
+        "Antonio Gibson"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2023-09-28",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Antonio Gibson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2023-09-29",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kendre Miller"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2023-09-29",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Treylon Burks"
+      ],
+      "dropped": [
+        "Jerick McKinnon"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2023-09-30",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chuba Hubbard"
+      ],
+      "dropped": [
+        "Kendre Miller"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2023-10-01",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jerick McKinnon"
+      ],
+      "dropped": [
+        "Chuba Hubbard"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2023-10-04",
+      "owner": "Abraham Pinales",
+      "owner_slug": "abraham-pinales",
+      "team_name": "ALVINNNN",
+      "type": "WAIVER",
+      "bid": 7,
+      "added": [
+        "Jaleel McLaughlin"
+      ],
+      "dropped": [
+        "Patriots D/ST"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2023-10-04",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "WAIVER",
+      "bid": 7,
+      "added": [
+        "Jake Ferguson"
+      ],
+      "dropped": [
+        "Chiefs D/ST"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2023-10-04",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Breece\u2019s Pieces",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matt Prater"
+      ],
+      "dropped": [
+        "Cameron Dicker"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2023-10-04",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Texans D/ST"
+      ],
+      "dropped": [
+        "Bengals D/ST"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2023-10-04",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "WAIVER",
+      "bid": 2,
+      "added": [
+        "Ronnie Rivers"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2023-10-04",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "DECAPITATED WEASEL",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Higbee"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2023-10-04",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "WAIVER",
+      "bid": 4,
+      "added": [
+        "Commanders D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2023-10-04",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Team Cano",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Zach Wilson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2023-10-04",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Zach Ertz"
+      ],
+      "dropped": [
+        "Antonio Gibson"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2023-10-04",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Packers D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2023-10-04",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Breece\u2019s Pieces",
+      "type": "WAIVER",
+      "bid": 8,
+      "added": [
+        "Calvin Austin III"
+      ],
+      "dropped": [
+        "Odell Beckham Jr."
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2023-10-04",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Joshua Dobbs"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2023-10-04",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "WAIVER",
+      "bid": 20,
+      "added": [
+        "Michael Wilson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2023-10-04",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Allen Lazard"
+      ],
+      "dropped": [
+        "Curtis Samuel"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2023-10-04",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Team Cano",
+      "type": "WAIVER",
+      "bid": 10,
+      "added": [
+        "Darnell Mooney"
+      ],
+      "dropped": [
+        "Graham Gano"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2023-10-04",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "DECAPITATED WEASEL",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jonnu Smith"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2023-10-04",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chuba Hubbard"
+      ],
+      "dropped": [
+        "Tyler Allgeier"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2023-10-04",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Curtis Samuel"
+      ],
+      "dropped": [
+        "DJ Chark Jr."
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2023-10-05",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "DECAPITATED WEASEL",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Devin Singletary"
+      ],
+      "dropped": [
+        "Clyde Edwards-Helaire"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2023-10-06",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Tyler Allgeier"
+      ],
+      "dropped": [
+        "Kendrick Bourne"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2023-10-07",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matt Breida"
+      ],
+      "dropped": [
+        "Chuba Hubbard"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2023-10-07",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rico Dowdle"
+      ],
+      "dropped": [
+        "Joshua Dobbs"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2023-10-07",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Team Cano",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chiefs D/ST"
+      ],
+      "dropped": [
+        "AJ Dillon"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2023-10-07",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Odell Beckham Jr."
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2023-10-07",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Patriots D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2023-10-08",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Buccaneers D/ST"
+      ],
+      "dropped": [
+        "Patriots D/ST"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2023-10-08",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kendrick Bourne"
+      ],
+      "dropped": [
+        "Allen Lazard"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2023-10-08",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jerick McKinnon"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2023-10-08",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chuba Hubbard"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2023-10-08",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Luke Musgrave"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2023-10-08",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "AJ Dillon"
+      ],
+      "dropped": [
+        "Buccaneers D/ST"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2023-10-09",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Patrick Taylor"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2023-10-11",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Ke'Shawn Vaughn"
+      ],
+      "dropped": [
+        "AJ Dillon"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2023-10-11",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kendre Miller"
+      ],
+      "dropped": [
+        "Ronnie Rivers"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2023-10-11",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Breece\u2019s Pieces",
+      "type": "WAIVER",
+      "bid": 8,
+      "added": [
+        "Curtis Samuel"
+      ],
+      "dropped": [
+        "Tutu Atwell"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2023-10-11",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Breece\u2019s Pieces",
+      "type": "WAIVER",
+      "bid": 2,
+      "added": [
+        "Tyler Conklin"
+      ],
+      "dropped": [
+        "Calvin Austin III"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2023-10-11",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "DECAPITATED WEASEL",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "D'Onta Foreman"
+      ],
+      "dropped": [
+        "Tyler Higbee"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2023-10-11",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Logan Thomas"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2023-10-11",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Brooks"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2023-10-11",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Salvon Ahmed"
+      ],
+      "dropped": [
+        "Chris Brooks"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2023-10-11",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "WAIVER",
+      "bid": 85,
+      "added": [
+        "Emari Demercado"
+      ],
+      "dropped": [
+        "Russell Wilson"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2023-10-11",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Keaontay Ingram"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2023-10-11",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Falcons D/ST"
+      ],
+      "dropped": [
+        "Texans D/ST"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2023-10-11",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jelani Woods"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2023-10-11",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tank Bigsby"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2023-10-11",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matthew Stafford"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2023-10-11",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Chase Claypool"
+      ],
+      "dropped": [
+        "Kendrick Bourne"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2023-10-11",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jaguars D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2023-10-11",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Noah Fant"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2023-10-11",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Breece\u2019s Pieces",
+      "type": "WAIVER",
+      "bid": 3,
+      "added": [
+        "Greg Zuerlein"
+      ],
+      "dropped": [
+        "Matt Prater"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2023-10-11",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Antonio Gibson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2023-10-11",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Ka'imi Fairbairn"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2023-10-12",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Chuba Hubbard"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2023-10-12",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Greg Dulcich"
+      ],
+      "dropped": [
+        "Keaontay Ingram"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2023-10-12",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Gerald Everett"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2023-10-12",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chigoziem Okonkwo"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2023-10-12",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Team Cano",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Joshua Kelley"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2023-10-12",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "type": "WAIVER",
+      "bid": 3,
+      "added": [
+        "Tutu Atwell"
+      ],
+      "dropped": [
+        "Skyy Moore"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2023-10-13",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jordan Mason"
+      ],
+      "dropped": [
+        "Kendre Miller"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2023-10-13",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Team Cano",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Lions D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2023-10-13",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ronnie Rivers"
+      ],
+      "dropped": [
+        "Jordan Mason"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2023-10-13",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brandin Cooks"
+      ],
+      "dropped": [
+        "Jalin Hyatt"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2023-10-13",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jonathan Mingo"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2023-10-13",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Patriots D/ST"
+      ],
+      "dropped": [
+        "Seahawks D/ST"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2023-10-13",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rob Gronkowski"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2023-10-13",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Salvon Ahmed"
+      ],
+      "dropped": [
+        "Luke Musgrave"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2023-10-13",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dawson Knox"
+      ],
+      "dropped": [
+        "Noah Fant"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2023-10-13",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Treylon Burks"
+      ],
+      "dropped": [
+        "Michael Wilson"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2023-10-14",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Keaontay Ingram"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2023-10-14",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Craig Reynolds"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2023-10-14",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "John Metchie III"
+      ],
+      "dropped": [
+        "Chigoziem Okonkwo"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2023-10-15",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Higbee"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2023-10-15",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Taysom Hill"
+      ],
+      "dropped": [
+        "Tyler Higbee"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2023-10-15",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Buccaneers D/ST"
+      ],
+      "dropped": [
+        "Gerald Everett"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2023-10-15",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Seahawks D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mecole Hardman"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "WAIVER",
+      "bid": 3,
+      "added": [
+        "Odell Beckham Jr."
+      ],
+      "dropped": [
+        "Taysom Hill"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "AJ Dillon"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Browns D/ST"
+      ],
+      "dropped": [
+        "Falcons D/ST"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kadarius Toney"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Darrell Henderson Jr."
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Michael Wilson"
+      ],
+      "dropped": [
+        "Rico Dowdle"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Greg Joseph"
+      ],
+      "dropped": [
+        "Ka'imi Fairbairn"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Breece\u2019s Pieces",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Commanders D/ST"
+      ],
+      "dropped": [
+        "Dolphins D/ST"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kendrick Bourne"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Jordan Love"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Breece\u2019s Pieces",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Anders Carlson"
+      ],
+      "dropped": [
+        "Greg Zuerlein"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "WAIVER",
+      "bid": 16,
+      "added": [
+        "Zach Evans"
+      ],
+      "dropped": [
+        "Tank Bigsby"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Pat Freiermuth"
+      ],
+      "dropped": [
+        "Hunter Henry"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "DECAPITATED WEASEL",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jerick McKinnon"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Breece\u2019s Pieces",
+      "type": "WAIVER",
+      "bid": 6,
+      "added": [
+        "Russell Wilson"
+      ],
+      "dropped": [
+        "Tyler Conklin"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "type": "WAIVER",
+      "bid": 2,
+      "added": [
+        "Rashid Shaheed"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Luke Musgrave"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jason Myers"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Rodriguez Jr."
+      ],
+      "dropped": [
+        "Jonathan Mingo"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Baker Mayfield"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "WAIVER",
+      "bid": 21,
+      "added": [
+        "Jordan Mason"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Leonard Fournette"
+      ],
+      "dropped": [
+        "Antonio Gibson"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jason Sanders"
+      ],
+      "dropped": [
+        "Evan McPherson"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Giants D/ST"
+      ],
+      "dropped": [
+        "Patriots D/ST"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Team Cano",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Tyler Boyd"
+      ],
+      "dropped": [
+        "Lions D/ST"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Breece\u2019s Pieces",
+      "type": "WAIVER",
+      "bid": 17,
+      "added": [
+        "Michael Mayer"
+      ],
+      "dropped": [
+        "Jayden Reed"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2023-10-18",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Nick Folk"
+      ],
+      "dropped": [
+        "Rob Gronkowski"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2023-10-19",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dolphins D/ST"
+      ],
+      "dropped": [
+        "Elijah Moore"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2023-10-19",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "WAIVER",
+      "bid": 4,
+      "added": [
+        "Tutu Atwell"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2023-10-19",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Raiders D/ST"
+      ],
+      "dropped": [
+        "Buccaneers D/ST"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2023-10-19",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Team Cano",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Salvon Ahmed"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2023-10-19",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "WAIVER",
+      "bid": 3,
+      "added": [
+        "Elijah Moore"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2023-10-19",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "DECAPITATED WEASEL",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kadarius Toney"
+      ],
+      "dropped": [
+        "Jahan Dotson"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2023-10-19",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jalin Hyatt"
+      ],
+      "dropped": [
+        "Odell Beckham Jr."
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2023-10-19",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "DECAPITATED WEASEL",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jahan Dotson"
+      ],
+      "dropped": [
+        "Dalvin Cook"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2023-10-20",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Packers D/ST"
+      ],
+      "dropped": [
+        "Giants D/ST"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2023-10-20",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Team Cano",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jayden Reed"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2023-10-21",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Elijah Moore"
+      ],
+      "dropped": [
+        "Tutu Atwell"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2023-10-21",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Gerald Everett"
+      ],
+      "dropped": [
+        "Pat Freiermuth"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2023-10-21",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Buccaneers D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2023-10-22",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dustin Hopkins"
+      ],
+      "dropped": [
+        "Greg Joseph"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2023-10-22",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kenneth Gainwell"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2023-10-22",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Royce Freeman"
+      ],
+      "dropped": [
+        "Chris Rodriguez Jr."
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2023-10-25",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ka'imi Fairbairn"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2023-10-25",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Chiefs D/ST"
+      ],
+      "dropped": [
+        "Craig Reynolds"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2023-10-25",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "WAIVER",
+      "bid": 2,
+      "added": [
+        "Trey McBride"
+      ],
+      "dropped": [
+        "Michael Wilson"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2023-10-25",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ka'imi Fairbairn"
+      ],
+      "dropped": [
+        "Jake Moody"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2023-10-25",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Falcons D/ST"
+      ],
+      "dropped": [
+        "Buccaneers D/ST"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2023-10-25",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "DeMario Douglas"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2023-10-25",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Treylon Burks"
+      ],
+      "dropped": [
+        "Dolphins D/ST"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2023-10-25",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Ravens D/ST"
+      ],
+      "dropped": [
+        "Zach Evans"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2023-10-25",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaguars D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2023-10-25",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cameron Dicker"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2023-10-25",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "WAIVER",
+      "bid": 20,
+      "added": [
+        "Kendrick Bourne"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2023-10-25",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Taysom Hill"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2023-10-25",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Pierre Strong Jr."
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2023-10-25",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Lions D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2023-10-26",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Craig Reynolds"
+      ],
+      "dropped": [
+        "Keaton Mitchell"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2023-10-26",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Giants D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2023-10-26",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Rodriguez Jr."
+      ],
+      "dropped": [
+        "Browns D/ST"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2023-10-26",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Odell Beckham Jr."
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2023-10-26",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "David Njoku"
+      ],
+      "dropped": [
+        "Taysom Hill"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2023-10-27",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Dolphins D/ST"
+      ],
+      "dropped": [
+        "Logan Thomas"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2023-10-27",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Browns D/ST"
+      ],
+      "dropped": [
+        "Jordan Mason"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2023-10-28",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jonathan Mingo"
+      ],
+      "dropped": [
+        "Elijah Moore"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2023-10-29",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Elijah Mitchell"
+      ],
+      "dropped": [
+        "Dolphins D/ST"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2023-10-29",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darnell Mooney"
+      ],
+      "dropped": [
+        "Gerald Everett"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2023-11-01",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Chargers D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2023-11-01",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Team Cano",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Royce Freeman"
+      ],
+      "dropped": [
+        "Salvon Ahmed"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2023-11-01",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Breece\u2019s Pieces",
+      "type": "WAIVER",
+      "bid": 10,
+      "added": [
+        "Taysom Hill"
+      ],
+      "dropped": [
+        "Michael Mayer"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2023-11-01",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "DECAPITATED WEASEL",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Gardner Minshew"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2023-11-01",
+      "owner": "Abraham Pinales",
+      "owner_slug": "abraham-pinales",
+      "team_name": "ALVINNNN",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Patriots D/ST"
+      ],
+      "dropped": [
+        "Latavius Murray"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2023-11-01",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Khalil Shakir"
+      ],
+      "dropped": [
+        "Pierre Strong Jr."
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2023-11-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "JuJu Smith-Schuster"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2023-11-01",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Derek Carr"
+      ],
+      "dropped": [
+        "Rashid Shaheed"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2023-11-01",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "WAIVER",
+      "bid": 15,
+      "added": [
+        "Will Levis"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2023-11-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "WAIVER",
+      "bid": 10,
+      "added": [
+        "Jahan Dotson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2023-11-01",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jordan Love"
+      ],
+      "dropped": [
+        "Matthew Stafford"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2023-11-01",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rico Dowdle"
+      ],
+      "dropped": [
+        "Jonathan Mingo"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2023-11-01",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Breece\u2019s Pieces",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Elijah Moore"
+      ],
+      "dropped": [
+        "Russell Wilson"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2023-11-01",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Derek Carr"
+      ],
+      "dropped": [
+        "Treylon Burks"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2023-11-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Michael Wilson"
+      ],
+      "dropped": [
+        "Marvin Mims Jr."
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2023-11-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Vikings D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2023-11-01",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Team Cano",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Evan McPherson"
+      ],
+      "dropped": [
+        "Josh Reynolds"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2023-11-01",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Logan Thomas"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2023-11-01",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Romeo Doubs"
+      ],
+      "dropped": [
+        "Derek Carr"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2023-11-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Sam Howell"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2023-11-01",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Breece\u2019s Pieces",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tank Bigsby"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2023-11-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matt Gay"
+      ],
+      "dropped": [
+        "Ka'imi Fairbairn"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2023-11-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Raiders D/ST"
+      ],
+      "dropped": [
+        "Michael Wilson"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2023-11-01",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Breece\u2019s Pieces",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Greg Zuerlein"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2023-11-02",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Russell Wilson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2023-11-02",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Zamir White"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2023-11-03",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Rashid Shaheed"
+      ],
+      "dropped": [
+        "Darnell Mooney"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2023-11-03",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Breece\u2019s Pieces",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Jamaal Williams"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2023-11-03",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bengals D/ST"
+      ],
+      "dropped": [
+        "Vikings D/ST"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2023-11-03",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rondale Moore"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2023-11-03",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Keaontay Ingram"
+      ],
+      "dropped": [
+        "Samaje Perine"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2023-11-04",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Hunter Henry"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2023-11-05",
+      "owner": "Abraham Pinales",
+      "owner_slug": "abraham-pinales",
+      "team_name": "ALVINNNN",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Latavius Murray"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2023-11-08",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ty Chandler"
+      ],
+      "dropped": [
+        "K.J. Osborn"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2023-11-08",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dolphins D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2023-11-08",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Michael Wilson"
+      ],
+      "dropped": [
+        "Zamir White"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2023-11-08",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bears D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2023-11-08",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cairo Santos"
+      ],
+      "dropped": [
+        "Rico Dowdle"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2023-11-08",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Rico Dowdle"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2023-11-08",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Joshua Dobbs"
+      ],
+      "dropped": [
+        "Jalin Hyatt"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2023-11-08",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cade Otton"
+      ],
+      "dropped": [
+        "Jason Sanders"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2023-11-08",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Noah Brown"
+      ],
+      "dropped": [
+        "Brandin Cooks"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2023-11-08",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Buccaneers D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2023-11-08",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "WAIVER",
+      "bid": 48,
+      "added": [
+        "Keaton Mitchell"
+      ],
+      "dropped": [
+        "Eagles D/ST"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2023-11-08",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Brandon McManus"
+      ],
+      "dropped": [
+        "Dustin Hopkins"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2023-11-09",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rico Dowdle"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2023-11-10",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chiefs D/ST"
+      ],
+      "dropped": [
+        "Falcons D/ST"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2023-11-10",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Antonio Gibson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2023-11-10",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "DECAPITATED WEASEL",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brandin Cooks"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2023-11-10",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "AJ Dillon"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2023-11-10",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Odell Beckham Jr."
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2023-11-10",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jake Moody"
+      ],
+      "dropped": [
+        "Joshua Dobbs"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2023-11-11",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brandon Powell"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2023-11-12",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Zamir White"
+      ],
+      "dropped": [
+        "Joshua Dobbs"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2023-11-12",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Elijah Mitchell"
+      ],
+      "dropped": [
+        "Antonio Gibson"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2023-11-12",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Taylor Heinicke"
+      ],
+      "dropped": [
+        "Chiefs D/ST"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2023-11-12",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Samaje Perine"
+      ],
+      "dropped": [
+        "Romeo Doubs"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2023-11-12",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Joshua Dobbs"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2023-11-12",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Trenton Irwin"
+      ],
+      "dropped": [
+        "Leonard Fournette"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2023-11-15",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Broncos D/ST"
+      ],
+      "dropped": [
+        "Bengals D/ST"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2023-11-15",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Romeo Doubs"
+      ],
+      "dropped": [
+        "Justice Hill"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2023-11-15",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "WAIVER",
+      "bid": 2,
+      "added": [
+        "A.T. Perry"
+      ],
+      "dropped": [
+        "Elijah Mitchell"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2023-11-15",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Royce Freeman"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2023-11-15",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dalvin Cook"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2023-11-15",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "DECAPITATED WEASEL",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jason Myers"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2023-11-15",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Lions D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2023-11-15",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Leonard Fournette"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2023-11-15",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Jake Elliott"
+      ],
+      "dropped": [
+        "Brandon McManus"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2023-11-15",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "type": "WAIVER",
+      "bid": 4,
+      "added": [
+        "Chiefs D/ST"
+      ],
+      "dropped": [
+        "Saints D/ST"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2023-11-15",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Commanders D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2023-11-15",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Breece\u2019s Pieces",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Joshua Dobbs"
+      ],
+      "dropped": [
+        "Jamaal Williams"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2023-11-15",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Vikings D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2023-11-15",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Pat Freiermuth"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2023-11-15",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jaguars D/ST"
+      ],
+      "dropped": [
+        "Raiders D/ST"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2023-11-15",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rashod Bateman"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2023-11-15",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dustin Hopkins"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2023-11-15",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matt Prater"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2023-11-15",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jalen Guyton"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2023-11-15",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Antonio Gibson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2023-11-15",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Giants D/ST"
+      ],
+      "dropped": [
+        "Cade Otton"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2023-11-16",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Team Cano",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Russell Wilson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2023-11-16",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Elijah Mitchell"
+      ],
+      "dropped": [
+        "Royce Freeman"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2023-11-16",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brandon McManus"
+      ],
+      "dropped": [
+        "Cairo Santos"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2023-11-16",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "DECAPITATED WEASEL",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Logan Thomas"
+      ],
+      "dropped": [
+        "Jonnu Smith"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2023-11-16",
+      "owner": "Abraham Pinales",
+      "owner_slug": "abraham-pinales",
+      "team_name": "ALVINNNN",
+      "type": "WAIVER",
+      "bid": 2,
+      "added": [
+        "Odell Beckham Jr."
+      ],
+      "dropped": [
+        "Patriots D/ST"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2023-11-17",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Breece\u2019s Pieces",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Michael Carter"
+      ],
+      "dropped": [
+        "Dallas Goedert"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2023-11-17",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Cade Otton"
+      ],
+      "dropped": [
+        "Keaontay Ingram"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2023-11-18",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matthew Stafford"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2023-11-18",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jordan Love"
+      ],
+      "dropped": [
+        "Michael Gallup"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2023-11-19",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Saints D/ST"
+      ],
+      "dropped": [
+        "Seahawks D/ST"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2023-11-19",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dallas Goedert"
+      ],
+      "dropped": [
+        "Tyler Allgeier"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2023-11-19",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Eagles D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2023-11-19",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jerick McKinnon"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2023-11-19",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Royce Freeman"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2023-11-22",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Gardner Minshew"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2023-11-22",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Falcons D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2023-11-22",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Greg Dortch"
+      ],
+      "dropped": [
+        "Michael Wilson"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2023-11-22",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "WAIVER",
+      "bid": 2,
+      "added": [
+        "Tyler Allgeier"
+      ],
+      "dropped": [
+        "Jerick McKinnon"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2023-11-22",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Patriots D/ST"
+      ],
+      "dropped": [
+        "Jaguars D/ST"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2023-11-22",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tutu Atwell"
+      ],
+      "dropped": [
+        "Jahan Dotson"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2023-11-22",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Buccaneers D/ST"
+      ],
+      "dropped": [
+        "Pat Freiermuth"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2023-11-22",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Titans D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2023-11-22",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Isaiah Likely"
+      ],
+      "dropped": [
+        "Falcons D/ST"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2023-11-22",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Seahawks D/ST"
+      ],
+      "dropped": [
+        "Quentin Johnston"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2023-11-22",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Texans D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2023-11-22",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Blake Grupe"
+      ],
+      "dropped": [
+        "Matt Prater"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2023-11-22",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jalen Guyton"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2023-11-23",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Zay Jones"
+      ],
+      "dropped": [
+        "Tutu Atwell"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2023-11-23",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Team Cano",
+      "type": "WAIVER",
+      "bid": 10,
+      "added": [
+        "Matthew Stafford"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2023-11-24",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ezekiel Elliott"
+      ],
+      "dropped": [
+        "Zay Jones"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2023-11-24",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tutu Atwell"
+      ],
+      "dropped": [
+        "Buccaneers D/ST"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2023-11-24",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Dameon Pierce"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2023-11-24",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Quentin Johnston"
+      ],
+      "dropped": [
+        "Kenneth Gainwell"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2023-11-24",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jeff Wilson Jr."
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2023-11-24",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Falcons D/ST"
+      ],
+      "dropped": [
+        "Jalen Guyton"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2023-11-26",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Clyde Edwards-Helaire"
+      ],
+      "dropped": [
+        "Tutu Atwell"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2023-11-29",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rams D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2023-11-29",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "WAIVER",
+      "bid": 43,
+      "added": [
+        "Pat Freiermuth"
+      ],
+      "dropped": [
+        "Ty Chandler"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2023-11-29",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "WAIVER",
+      "bid": 3,
+      "added": [
+        "Jahan Dotson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2023-11-29",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Matt Gay"
+      ],
+      "dropped": [
+        "Blake Grupe"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2023-11-29",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Juwan Johnson"
+      ],
+      "dropped": [
+        "Dameon Pierce"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2023-11-29",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "WAIVER",
+      "bid": 2,
+      "added": [
+        "D'Ernest Johnson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2023-11-29",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Jonathan Mingo"
+      ],
+      "dropped": [
+        "Will Levis"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2023-11-29",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Higbee"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2023-11-29",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "WAIVER",
+      "bid": 40,
+      "added": [
+        "Jerick McKinnon"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2023-11-29",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Tutu Atwell"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2023-11-29",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Jaguars D/ST"
+      ],
+      "dropped": [
+        "Patriots D/ST"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2023-11-29",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Buccaneers D/ST"
+      ],
+      "dropped": [
+        "Bills D/ST"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2023-11-29",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jake Moody"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2023-11-30",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Patrick Taylor"
+      ],
+      "dropped": [
+        "Giants D/ST"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2023-11-30",
+      "owner": "Abraham Pinales",
+      "owner_slug": "abraham-pinales",
+      "team_name": "ALVINNNN",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jalen Guyton"
+      ],
+      "dropped": [
+        "Jaleel McLaughlin"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2023-11-30",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "WAIVER",
+      "bid": 2,
+      "added": [
+        "Dalvin Cook"
+      ],
+      "dropped": [
+        "Tyler Higbee"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2023-11-30",
+      "owner": "Abraham Pinales",
+      "owner_slug": "abraham-pinales",
+      "team_name": "ALVINNNN",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Derek Carr"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2023-11-30",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "WAIVER",
+      "bid": 3,
+      "added": [
+        "Jeff Wilson Jr."
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2023-11-30",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "WAIVER",
+      "bid": 7,
+      "added": [
+        "Tyjae Spears"
+      ],
+      "dropped": [
+        "Tutu Atwell"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2023-11-30",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "type": "WAIVER",
+      "bid": 7,
+      "added": [
+        "Dameon Pierce"
+      ],
+      "dropped": [
+        "Saints D/ST"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2023-11-30",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Zach Ertz"
+      ],
+      "dropped": [
+        "Lions D/ST"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2023-12-01",
+      "owner": "Abraham Pinales",
+      "owner_slug": "abraham-pinales",
+      "team_name": "ALVINNNN",
+      "type": "WAIVER",
+      "bid": 9,
+      "added": [
+        "Cameron Dicker"
+      ],
+      "dropped": [
+        "Michael Thomas"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2023-12-01",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jason Sanders"
+      ],
+      "dropped": [
+        "Jake Elliott"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2023-12-01",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Greg Dortch"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2023-12-02",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Breece\u2019s Pieces",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jake Elliott"
+      ],
+      "dropped": [
+        "Greg Zuerlein"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2023-12-02",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Khalil Shakir"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2023-12-03",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Vikings D/ST"
+      ],
+      "dropped": [
+        "Gabe Davis"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2023-12-03",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Antonio Gibson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2023-12-06",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Alec Pierce"
+      ],
+      "dropped": [
+        "Titans D/ST"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2023-12-06",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jameis Winston"
+      ],
+      "dropped": [
+        "Sam Howell"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2023-12-06",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "WAIVER",
+      "bid": 3,
+      "added": [
+        "Gabe Davis"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2023-12-06",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Zay Jones"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2023-12-06",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ty Chandler"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2023-12-06",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Kenneth Gainwell"
+      ],
+      "dropped": [
+        "Juwan Johnson"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2023-12-06",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Saints D/ST"
+      ],
+      "dropped": [
+        "Buccaneers D/ST"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2023-12-06",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Robert Woods"
+      ],
+      "dropped": [
+        "Jerry Jeudy"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2023-12-06",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Seahawks D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2023-12-06",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "WAIVER",
+      "bid": 10,
+      "added": [
+        "Packers D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2023-12-06",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "WAIVER",
+      "bid": 3,
+      "added": [
+        "Bills D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2023-12-07",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "DECAPITATED WEASEL",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jonnu Smith"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2023-12-07",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Parker Washington"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2023-12-07",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Tyler Allgeier"
+      ],
+      "dropped": [
+        "Gardner Minshew"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2023-12-07",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Younghoe Koo"
+      ],
+      "dropped": [
+        "Brandon McManus"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2023-12-07",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Clyde Edwards-Helaire"
+      ],
+      "dropped": [
+        "D'Ernest Johnson"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2023-12-07",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Joshua Kelley"
+      ],
+      "dropped": [
+        "Robert Woods"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2023-12-08",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jerry Jeudy"
+      ],
+      "dropped": [
+        "Patrick Taylor"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2023-12-08",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jake Browning"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2023-12-08",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Breece\u2019s Pieces",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Gerald Everett"
+      ],
+      "dropped": [
+        "Joshua Dobbs"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2023-12-08",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaguars D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2023-12-08",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "John Metchie III"
+      ],
+      "dropped": [
+        "Antonio Gibson"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2023-12-09",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chargers D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2023-12-10",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "D'Ernest Johnson"
+      ],
+      "dropped": [
+        "Joshua Kelley"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2023-12-10",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "WAIVER",
+      "bid": 4,
+      "added": [
+        "Antonio Gibson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2023-12-10",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Joshua Dobbs"
+      ],
+      "dropped": [
+        "Jake Browning"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2023-12-10",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jamaal Williams"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2023-12-12",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matt Breida"
+      ],
+      "dropped": [
+        "James Conner"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2023-12-12",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Patrick Taylor"
+      ],
+      "dropped": [
+        "Rondale Moore"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2023-12-12",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "James Conner"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2023-12-13",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Kyler Murray"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2023-12-13",
+      "owner": "Abraham Pinales",
+      "owner_slug": "abraham-pinales",
+      "team_name": "ALVINNNN",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jahan Dotson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2023-12-13",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Ka'imi Fairbairn"
+      ],
+      "dropped": [
+        "Younghoe Koo"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2023-12-13",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chase Brown"
+      ],
+      "dropped": [
+        "Seahawks D/ST"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2023-12-13",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Cedrick Wilson Jr."
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2023-12-13",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rashid Shaheed"
+      ],
+      "dropped": [
+        "Jonathan Mingo"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2023-12-13",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bears D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2023-12-14",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "D'Ernest Johnson"
+      ],
+      "dropped": [
+        "Kenneth Gainwell"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2023-12-14",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Clyde Edwards-Helaire"
+      ],
+      "dropped": [
+        "Jake Moody"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2023-12-14",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Blake Grupe"
+      ],
+      "dropped": [
+        "Ka'imi Fairbairn"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2023-12-15",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brandon McManus"
+      ],
+      "dropped": [
+        "Chase Brown"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2023-12-16",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jake Moody"
+      ],
+      "dropped": [
+        "Brandon McManus"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2023-12-16",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kenneth Gainwell"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2023-12-16",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Marcus Mariota"
+      ],
+      "dropped": [
+        "Kenneth Gainwell"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2023-12-16",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jordan Mason"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2023-12-17",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Commanders D/ST"
+      ],
+      "dropped": [
+        "Ravens D/ST"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2023-12-17",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Titans D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 16,
+      "date": "2023-12-20",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dontayvion Wicks"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 16,
+      "date": "2023-12-20",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Team Cano",
+      "type": "WAIVER",
+      "bid": 10,
+      "added": [
+        "Bengals D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 16,
+      "date": "2023-12-20",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chase Brown"
+      ],
+      "dropped": [
+        "Dolphins D/ST"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2023-12-20",
+      "owner": "Abraham Pinales",
+      "owner_slug": "abraham-pinales",
+      "team_name": "ALVINNNN",
+      "type": "WAIVER",
+      "bid": 9,
+      "added": [
+        "Tyler Boyd"
+      ],
+      "dropped": [
+        "Kirk Cousins"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2023-12-20",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Joshua Palmer"
+      ],
+      "dropped": [
+        "Pat Freiermuth"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2023-12-22",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justice Hill"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 16,
+      "date": "2023-12-23",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "DeVante Parker"
+      ],
+      "dropped": [
+        "Jason Sanders"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2023-12-23",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cairo Santos"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 16,
+      "date": "2023-12-23",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jonathan Mingo"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 16,
+      "date": "2023-12-23",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Antonio Gibson"
+      ],
+      "dropped": [
+        "Justice Hill"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2023-12-24",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Seahawks D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 16,
+      "date": "2023-12-24",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Team Cano",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Michael Wilson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 16,
+      "date": "2023-12-24",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaguars D/ST"
+      ],
+      "dropped": [
+        "DeVante Parker"
+      ]
+    },
+    {
+      "week": 17,
+      "date": "2023-12-27",
+      "owner": "Abraham Pinales",
+      "owner_slug": "abraham-pinales",
+      "team_name": "ALVINNNN",
+      "type": "WAIVER",
+      "bid": 13,
+      "added": [
+        "Demarcus Robinson"
+      ],
+      "dropped": [
+        "Josh Downs"
+      ]
+    },
+    {
+      "week": 17,
+      "date": "2023-12-27",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Chigoziem Okonkwo"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 17,
+      "date": "2023-12-27",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Chase McLaughlin"
+      ],
+      "dropped": [
+        "Cairo Santos"
+      ]
+    },
+    {
+      "week": 17,
+      "date": "2023-12-28",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Derek Carr"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 17,
+      "date": "2023-12-29",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rams D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 17,
+      "date": "2023-12-30",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tucker Kraft"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 17,
+      "date": "2023-12-30",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Zamir White"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 17,
+      "date": "2023-12-31",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "K.J. Osborn"
+      ],
+      "dropped": [
+        "Jordan Love"
+      ]
+    }
+  ],
+  "team_totals": [
+    {
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Paul Giamatti in Big Fat Liar",
+      "acquisitions": 86,
+      "spent": 100
+    },
+    {
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Liang le gusta bicho",
+      "acquisitions": 35,
+      "spent": 100
+    },
+    {
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Psychological Operations",
+      "acquisitions": 47,
+      "spent": 100
+    },
+    {
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "1 Percent Poot",
+      "acquisitions": 62,
+      "spent": 100
+    },
+    {
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "DECAPITATED WEASEL",
+      "acquisitions": 17,
+      "spent": 100
+    },
+    {
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Punchmade Joonyer",
+      "acquisitions": 56,
+      "spent": 100
+    },
+    {
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Loco Moco",
+      "acquisitions": 36,
+      "spent": 100
+    },
+    {
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Tony Pollard Therapy Club ",
+      "acquisitions": 64,
+      "spent": 97
+    },
+    {
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Breece\u2019s Pieces",
+      "acquisitions": 21,
+      "spent": 91
+    },
+    {
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMom Stillsquirts",
+      "acquisitions": 26,
+      "spent": 90
+    },
+    {
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Team Cano",
+      "acquisitions": 21,
+      "spent": 71
+    },
+    {
+      "owner": "Abraham Pinales",
+      "owner_slug": "abraham-pinales",
+      "team_name": "ALVINNNN",
+      "acquisitions": 12,
+      "spent": 40
+    }
+  ]
+}

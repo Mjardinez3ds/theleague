@@ -1,0 +1,5747 @@
+{
+  "year": 2025,
+  "transactions": [
+    {
+      "week": 1,
+      "date": "2025-09-02",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Samaje Perine"
+      ],
+      "dropped": [
+        "Malik Washington"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2025-09-02",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Hollywood Brown"
+      ],
+      "dropped": [
+        "Joshua Palmer"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2025-09-02",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Gabe Davis"
+      ],
+      "dropped": [
+        "Jared Goff"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2025-09-02",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "CuckforBuck",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jonnu Smith"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2025-09-02",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "CuckforBuck",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justin Herbert"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2025-09-02",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Cade Otton"
+      ],
+      "dropped": [
+        "Brenton Strange"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2025-09-02",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Ramsey Sporting Goods",
+      "type": "WAIVER",
+      "bid": 3,
+      "added": [
+        "Kyle Williams"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2025-09-02",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "WAIVER",
+      "bid": 6,
+      "added": [
+        "Quinshon Judkins"
+      ],
+      "dropped": [
+        "DJ Giddens"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2025-09-03",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Ramsey Sporting Goods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyjae Spears"
+      ],
+      "dropped": [
+        "Kyle Williams"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2025-09-03",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Ramsey Sporting Goods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Blake Corum"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2025-09-04",
+      "owner": "Christopher Jones",
+      "owner_slug": "christopher-jones",
+      "team_name": "Christopher's Cool Team",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dont'e Thornton Jr."
+      ],
+      "dropped": [
+        "Amari Cooper"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2025-09-05",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Ramsey Sporting Goods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cam Little"
+      ],
+      "dropped": [
+        "Tyler Bass"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2025-09-05",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Isaac Guerendo"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2025-09-06",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kyle Monangai"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2025-09-07",
+      "owner": "Christopher Jones",
+      "owner_slug": "christopher-jones",
+      "team_name": "Christopher's Cool Team",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Isaac TeSlaa"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2025-09-07",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "DJ Giddens"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2025-09-10",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "J.J. McCarthy"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2025-09-10",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "WAIVER",
+      "bid": 19,
+      "added": [
+        "Justin Fields"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2025-09-10",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "WAIVER",
+      "bid": 2,
+      "added": [
+        "Kenneth Gainwell"
+      ],
+      "dropped": [
+        "Cade Otton"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2025-09-10",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "WAIVER",
+      "bid": 4,
+      "added": [
+        "Harold Fannin Jr."
+      ],
+      "dropped": [
+        "Ray Davis"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2025-09-10",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "WAIVER",
+      "bid": 7,
+      "added": [
+        "Elic Ayomanor"
+      ],
+      "dropped": [
+        "Tucker Kraft"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2025-09-10",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "WAIVER",
+      "bid": 17,
+      "added": [
+        "Kayshon Boutte"
+      ],
+      "dropped": [
+        "Keaton Mitchell"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2025-09-10",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "No Chase No Case",
+      "type": "WAIVER",
+      "bid": 12,
+      "added": [
+        "Juwan Johnson"
+      ],
+      "dropped": [
+        "Tank Bigsby"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2025-09-10",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Ramsey Sporting Goods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Calvin Austin III"
+      ],
+      "dropped": [
+        "Woody Marks"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2025-09-10",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "WAIVER",
+      "bid": 15,
+      "added": [
+        "Quentin Johnston"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2025-09-11",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brenton Strange"
+      ],
+      "dropped": [
+        "Tre' Harris"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2025-09-11",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Ramsey Sporting Goods",
+      "type": "WAIVER",
+      "bid": 7,
+      "added": [
+        "Ray Davis"
+      ],
+      "dropped": [
+        "Calvin Austin III"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2025-09-11",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "WAIVER",
+      "bid": 4,
+      "added": [
+        "Tucker Kraft"
+      ],
+      "dropped": [
+        "Jake Ferguson"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2025-09-11",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Michael Mayer"
+      ],
+      "dropped": [
+        "Jaydon Blue"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2025-09-12",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Calvin Austin III"
+      ],
+      "dropped": [
+        "Dameon Pierce"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2025-09-12",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jake Ferguson"
+      ],
+      "dropped": [
+        "Gabe Davis"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2025-09-12",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brenton Strange"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2025-09-12",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Joshua Palmer"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2025-09-13",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tua Tagovailoa"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2025-09-13",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "DJ Giddens"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2025-09-13",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cade Otton"
+      ],
+      "dropped": [
+        "Woody Marks"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2025-09-13",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tank Bigsby"
+      ],
+      "dropped": [
+        "DJ Giddens"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2025-09-13",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Woody Marks"
+      ],
+      "dropped": [
+        "Joshua Palmer"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2025-09-14",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tre' Harris"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2025-09-14",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaydon Blue"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2025-09-17",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Isaiah Likely"
+      ],
+      "dropped": [
+        "Cade Otton"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2025-09-17",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jared Goff"
+      ],
+      "dropped": [
+        "Tre' Harris"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2025-09-17",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "DeAndre Hopkins"
+      ],
+      "dropped": [
+        "Jaydon Blue"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2025-09-17",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "WAIVER",
+      "bid": 9,
+      "added": [
+        "Jordan Love"
+      ],
+      "dropped": [
+        "Joe Burrow"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2025-09-17",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "JuJu Smith-Schuster"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2025-09-17",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Ramsey Sporting Goods",
+      "type": "WAIVER",
+      "bid": 32,
+      "added": [
+        "Troy Franklin"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2025-09-17",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Daniel Jones"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2025-09-17",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Ramsey Sporting Goods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Woody Marks"
+      ],
+      "dropped": [
+        "Ray Davis"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2025-09-17",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matt Prater"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2025-09-17",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dyami Brown"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2025-09-17",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dontayvion Wicks"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2025-09-18",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Ramsey Sporting Goods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Spencer Shrader"
+      ],
+      "dropped": [
+        "Cam Little"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2025-09-18",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tre Tucker"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2025-09-18",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Dylan Sampson"
+      ],
+      "dropped": [
+        "DeMario Douglas"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2025-09-20",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyquan Thornton"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2025-09-20",
+      "owner": "Christopher Jones",
+      "owner_slug": "christopher-jones",
+      "team_name": "Christopher's Cool Team",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Russell Wilson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2025-09-20",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Joe Burrow"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2025-09-20",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyquan Thornton"
+      ],
+      "dropped": [
+        "DJ Giddens"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2025-09-20",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "DJ Giddens"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2025-09-20",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Sterling Shepard"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2025-09-20",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "DJ Giddens"
+      ],
+      "dropped": [
+        "Tyquan Thornton"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2025-09-20",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Rodriguez Jr."
+      ],
+      "dropped": [
+        "Samaje Perine"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2025-09-21",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kendrick Bourne"
+      ],
+      "dropped": [
+        "Sterling Shepard"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2025-09-21",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Hunter Renfrow"
+      ],
+      "dropped": [
+        "Tre Tucker"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2025-09-21",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tank Bigsby"
+      ],
+      "dropped": [
+        "DJ Giddens"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2025-09-24",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "WAIVER",
+      "bid": 26,
+      "added": [
+        "Tre Tucker"
+      ],
+      "dropped": [
+        "Hollywood Brown"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2025-09-24",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Oronde Gadsden"
+      ],
+      "dropped": [
+        "Isaiah Likely"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2025-09-24",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Choosing Violence",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Sterling Shepard"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2025-09-24",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "WAIVER",
+      "bid": 7,
+      "added": [
+        "Jaxson Dart"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2025-09-24",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "WAIVER",
+      "bid": 30,
+      "added": [
+        "Tory Horton"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2025-09-24",
+      "owner": "Christopher Jones",
+      "owner_slug": "christopher-jones",
+      "team_name": "Christopher's Cool Team",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matthew Stafford"
+      ],
+      "dropped": [
+        "Russell Wilson"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2025-09-24",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Will Shipley"
+      ],
+      "dropped": [
+        "Tyquan Thornton"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2025-09-24",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "KaVontae Turpin"
+      ],
+      "dropped": [
+        "Will Shipley"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2025-09-24",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Will Shipley"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2025-09-24",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ray Davis"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2025-09-24",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Geno Smith"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2025-09-24",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "No Chase No Case",
+      "type": "WAIVER",
+      "bid": 20,
+      "added": [
+        "Jalen Tolbert"
+      ],
+      "dropped": [
+        "Adam Thielen"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2025-09-24",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brashard Smith"
+      ],
+      "dropped": [
+        "Kyle Monangai"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2025-09-24",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Jeremy McNichols"
+      ],
+      "dropped": [
+        "Rico Dowdle"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2025-09-25",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Choosing Violence",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Hollywood Brown"
+      ],
+      "dropped": [
+        "Marvin Mims Jr."
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2025-09-25",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "WAIVER",
+      "bid": 25,
+      "added": [
+        "Dontayvion Wicks"
+      ],
+      "dropped": [
+        "Xavier Legette"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2025-09-25",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Choosing Violence",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Luke McCaffrey"
+      ],
+      "dropped": [
+        "Darius Slayton"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2025-09-26",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "WAIVER",
+      "bid": 6,
+      "added": [
+        "Tyquan Thornton"
+      ],
+      "dropped": [
+        "JuJu Smith-Schuster"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2025-09-26",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "CuckforBuck",
+      "type": "WAIVER",
+      "bid": 19,
+      "added": [
+        "Jared Goff"
+      ],
+      "dropped": [
+        "Jayden Higgins"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2025-09-27",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kaleb Johnson"
+      ],
+      "dropped": [
+        "Rico Dowdle"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2025-09-27",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Josh Downs"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2025-09-27",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rico Dowdle"
+      ],
+      "dropped": [
+        "Ray Davis"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2025-09-28",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cole Kmet"
+      ],
+      "dropped": [
+        "Tahj Brooks"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2025-09-28",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brandon McManus"
+      ],
+      "dropped": [
+        "Chris Boswell"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2025-09-28",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Choosing Violence",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rico Dowdle"
+      ],
+      "dropped": [
+        "Luke McCaffrey"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2025-09-28",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tahj Brooks"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2025-09-28",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dylan Sampson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2025-10-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Emari Demercado"
+      ],
+      "dropped": [
+        "Chris Rodriguez Jr."
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2025-10-01",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "WAIVER",
+      "bid": 6,
+      "added": [
+        "Isaiah Bond"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2025-10-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Michael Carter"
+      ],
+      "dropped": [
+        "Tory Horton"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2025-10-01",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "WAIVER",
+      "bid": 19,
+      "added": [
+        "Darius Slayton"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2025-10-01",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Devin Singletary"
+      ],
+      "dropped": [
+        "Tyquan Thornton"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2025-10-01",
+      "owner": "Christopher Jones",
+      "owner_slug": "christopher-jones",
+      "team_name": "Christopher's Cool Team",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Nick Folk"
+      ],
+      "dropped": [
+        "Cairo Santos"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2025-10-01",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Theo Johnson"
+      ],
+      "dropped": [
+        "Harold Fannin Jr."
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2025-10-01",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Sean Tucker"
+      ],
+      "dropped": [
+        "Braelon Allen"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2025-10-01",
+      "owner": "Christopher Jones",
+      "owner_slug": "christopher-jones",
+      "team_name": "Christopher's Cool Team",
+      "type": "WAIVER",
+      "bid": 100,
+      "added": [
+        "Darren Waller"
+      ],
+      "dropped": [
+        "Isaac TeSlaa"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2025-10-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Malik Washington"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2025-10-01",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Isaiah Davis"
+      ],
+      "dropped": [
+        "Will Shipley"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2025-10-01",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jason Myers"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2025-10-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brenton Strange"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2025-10-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kendrick Bourne"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2025-10-01",
+      "owner": "Christopher Jones",
+      "owner_slug": "christopher-jones",
+      "team_name": "Christopher's Cool Team",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Marvin Mims Jr."
+      ],
+      "dropped": [
+        "Jerome Ford"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2025-10-01",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bryce Young"
+      ],
+      "dropped": [
+        "Rashod Bateman"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2025-10-02",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Choosing Violence",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "DeAndre Hopkins"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2025-10-02",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaydon Blue"
+      ],
+      "dropped": [
+        "Isaiah Davis"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2025-10-02",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Zavier Scott"
+      ],
+      "dropped": [
+        "Devin Singletary"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2025-10-02",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "WAIVER",
+      "bid": 13,
+      "added": [
+        "Kyler Murray"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2025-10-02",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "No Chase No Case",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "JuJu Smith-Schuster"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2025-10-03",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Luke McCaffrey"
+      ],
+      "dropped": [
+        "Dontayvion Wicks"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2025-10-03",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Taysom Hill"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2025-10-03",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "WAIVER",
+      "bid": 20,
+      "added": [
+        "Tyquan Thornton"
+      ],
+      "dropped": [
+        "Hunter Renfrow"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2025-10-03",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Sam Darnold"
+      ],
+      "dropped": [
+        "Bryce Young"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2025-10-03",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Bass"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2025-10-03",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tua Tagovailoa"
+      ],
+      "dropped": [
+        "Calvin Austin III"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2025-10-03",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Harold Fannin Jr."
+      ],
+      "dropped": [
+        "Theo Johnson"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2025-10-03",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Braelon Allen"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2025-10-04",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "WAIVER",
+      "bid": 10,
+      "added": [
+        "Isaiah Davis"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2025-10-05",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Trevor Etienne"
+      ],
+      "dropped": [
+        "Jeremy McNichols"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2025-10-05",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Choosing Violence",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Adonai Mitchell"
+      ],
+      "dropped": [
+        "DeAndre Hopkins"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2025-10-05",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Choosing Violence",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dalton Schultz"
+      ],
+      "dropped": [
+        "C.J. Stroud"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2025-10-05",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "No Chase No Case",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mason Taylor"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2025-10-08",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Samaje Perine"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2025-10-08",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "WAIVER",
+      "bid": 7,
+      "added": [
+        "Ryan Flournoy"
+      ],
+      "dropped": [
+        "Elic Ayomanor"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2025-10-08",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "WAIVER",
+      "bid": 2,
+      "added": [
+        "Jake Tonges"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2025-10-08",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Brandon McManus"
+      ],
+      "dropped": [
+        "Jason Myers"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2025-10-08",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "MarShawn Lloyd"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2025-10-08",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "WAIVER",
+      "bid": 60,
+      "added": [
+        "Hassan Haskins"
+      ],
+      "dropped": [
+        "Malik Washington"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2025-10-08",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tory Horton"
+      ],
+      "dropped": [
+        "Samaje Perine"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2025-10-08",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Wil Lutz"
+      ],
+      "dropped": [
+        "Harrison Butker"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2025-10-08",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mac Jones"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2025-10-08",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Colston Loveland"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2025-10-08",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Theo Johnson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2025-10-08",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Matt Gay"
+      ],
+      "dropped": [
+        "Tyler Loop"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2025-10-08",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kimani Vidal"
+      ],
+      "dropped": [
+        "Sean Tucker"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2025-10-08",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Ramsey Sporting Goods",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Eddy Pineiro"
+      ],
+      "dropped": [
+        "Tyjae Spears"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2025-10-09",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "No Chase No Case",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jason Myers"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2025-10-09",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Emari Demercado"
+      ],
+      "dropped": [
+        "Zavier Scott"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2025-10-09",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "CuckforBuck",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jimmy Horn Jr."
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2025-10-10",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaydon Blue"
+      ],
+      "dropped": [
+        "Tory Horton"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2025-10-10",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyjae Spears"
+      ],
+      "dropped": [
+        "Jake Tonges"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2025-10-12",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Marvin Mims Jr."
+      ],
+      "dropped": [
+        "Luke McCaffrey"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2025-10-12",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Sean Tucker"
+      ],
+      "dropped": [
+        "Emari Demercado"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2025-10-12",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ollie Gordon II"
+      ],
+      "dropped": [
+        "Isaiah Bond"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2025-10-12",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "JuJu Smith-Schuster"
+      ],
+      "dropped": [
+        "Christian Kirk"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2025-10-12",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Joshua Karty"
+      ],
+      "dropped": [
+        "Brandon McManus"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2025-10-12",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bam Knight"
+      ],
+      "dropped": [
+        "Brashard Smith"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2025-10-15",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "WAIVER",
+      "bid": 2,
+      "added": [
+        "Christian Kirk"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2025-10-15",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Ramsey Sporting Goods",
+      "type": "WAIVER",
+      "bid": 14,
+      "added": [
+        "Kayshon Boutte"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2025-10-15",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Oronde Gadsden"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2025-10-15",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kameron Johnson"
+      ],
+      "dropped": [
+        "Theo Johnson"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2025-10-15",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Chris Boswell"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2025-10-15",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brashard Smith"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2025-10-15",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Darius Slayton"
+      ],
+      "dropped": [
+        "Trevor Etienne"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2025-10-15",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Elic Ayomanor"
+      ],
+      "dropped": [
+        "Brashard Smith"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2025-10-15",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jarquez Hunter"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2025-10-15",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "No Chase No Case",
+      "type": "WAIVER",
+      "bid": 8,
+      "added": [
+        "Michael Mayer"
+      ],
+      "dropped": [
+        "Jalen Tolbert"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2025-10-15",
+      "owner": "Christopher Jones",
+      "owner_slug": "christopher-jones",
+      "team_name": "Christopher's Cool Team",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Arian Smith"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2025-10-15",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brashard Smith"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2025-10-15",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Michael Badgley"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2025-10-15",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "WAIVER",
+      "bid": 3,
+      "added": [
+        "Tez Johnson"
+      ],
+      "dropped": [
+        "Hassan Haskins"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2025-10-15",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Samaje Perine"
+      ],
+      "dropped": [
+        "Tyrone Tracy Jr."
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2025-10-15",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Christian Watson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2025-10-15",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "J.J. McCarthy"
+      ],
+      "dropped": [
+        "Jarquez Hunter"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2025-10-15",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Ramsey Sporting Goods",
+      "type": "WAIVER",
+      "bid": 16,
+      "added": [
+        "Cade Otton"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2025-10-15",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Choosing Violence",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bryce Young"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2025-10-16",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jordan Whittington"
+      ],
+      "dropped": [
+        "Jaydon Blue"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2025-10-16",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "WAIVER",
+      "bid": 7,
+      "added": [
+        "Bhayshul Tuten"
+      ],
+      "dropped": [
+        "Brashard Smith"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2025-10-16",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyrone Tracy Jr."
+      ],
+      "dropped": [
+        "Elic Ayomanor"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2025-10-16",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "No Chase No Case",
+      "type": "WAIVER",
+      "bid": 15,
+      "added": [
+        "Blake Corum"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2025-10-16",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Malik Washington"
+      ],
+      "dropped": [
+        "Tyquan Thornton"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2025-10-16",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Hassan Haskins"
+      ],
+      "dropped": [
+        "Tyrone Tracy Jr."
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2025-10-16",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Alec Pierce"
+      ],
+      "dropped": [
+        "J.J. McCarthy"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2025-10-16",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kyle Monangai"
+      ],
+      "dropped": [
+        "Oronde Gadsden"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2025-10-16",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Aaron Rodgers"
+      ],
+      "dropped": [
+        "Tua Tagovailoa"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2025-10-17",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Emanuel Wilson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2025-10-17",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Ramsey Sporting Goods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kyle Monangai"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2025-10-17",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Isaiah Davis"
+      ],
+      "dropped": [
+        "Hassan Haskins"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2025-10-17",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Ramsey Sporting Goods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaydon Blue"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2025-10-18",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaylin Noel"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2025-10-18",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Elic Ayomanor"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2025-10-18",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chig Okonkwo"
+      ],
+      "dropped": [
+        "Dyami Brown"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2025-10-18",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Luke McCaffrey"
+      ],
+      "dropped": [
+        "Jordan Whittington"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2025-10-18",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Moore"
+      ],
+      "dropped": [
+        "Kameron Johnson"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2025-10-19",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tez Johnson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2025-10-22",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rashod Bateman"
+      ],
+      "dropped": [
+        "Colston Loveland"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2025-10-22",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Colston Loveland"
+      ],
+      "dropped": [
+        "Rashod Bateman"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2025-10-22",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Will Reichard"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2025-10-22",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ollie Gordon II"
+      ],
+      "dropped": [
+        "Rashod Bateman"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2025-10-22",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Xavier Legette"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2025-10-22",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "No Chase No Case",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Tyrone Tracy Jr."
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2025-10-22",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "CuckforBuck",
+      "type": "WAIVER",
+      "bid": 61,
+      "added": [
+        "Tez Johnson"
+      ],
+      "dropped": [
+        "Michael Penix Jr."
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2025-10-22",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Devin Neal"
+      ],
+      "dropped": [
+        "Jerome Ford"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2025-10-22",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "No Chase No Case",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Calvin Austin III"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2025-10-22",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Josh Reynolds"
+      ],
+      "dropped": [
+        "Darius Slayton"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2025-10-22",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Devin Neal"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2025-10-22",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Colston Loveland"
+      ],
+      "dropped": [
+        "Devin Neal"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2025-10-22",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Christian Watson"
+      ],
+      "dropped": [
+        "Chris Moore"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2025-10-22",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jerome Ford"
+      ],
+      "dropped": [
+        "Alec Pierce"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2025-10-22",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rashod Bateman"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2025-10-22",
+      "owner": "Christopher Jones",
+      "owner_slug": "christopher-jones",
+      "team_name": "Christopher's Cool Team",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Joe Flacco"
+      ],
+      "dropped": [
+        "Arian Smith"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2025-10-22",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "No Chase No Case",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Theo Johnson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2025-10-22",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "WAIVER",
+      "bid": 8,
+      "added": [
+        "Brashard Smith"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2025-10-22",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matt Prater"
+      ],
+      "dropped": [
+        "Samaje Perine"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2025-10-22",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "WAIVER",
+      "bid": 31,
+      "added": [
+        "Oronde Gadsden"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2025-10-23",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "CuckforBuck",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "DeAndre Hopkins"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2025-10-23",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "CuckforBuck",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jayden Higgins"
+      ],
+      "dropped": [
+        "DeAndre Hopkins"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2025-10-24",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rashod Bateman"
+      ],
+      "dropped": [
+        "Ollie Gordon II"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2025-10-24",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "No Chase No Case",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kendrick Bourne"
+      ],
+      "dropped": [
+        "Calvin Austin III"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2025-10-25",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chimere Dike"
+      ],
+      "dropped": [
+        "Christian Watson"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2025-10-25",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jerome Ford"
+      ],
+      "dropped": [
+        "Chimere Dike"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2025-10-25",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chimere Dike"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2025-10-25",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaydon Blue"
+      ],
+      "dropped": [
+        "Rashod Bateman"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2025-10-25",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Ramsey Sporting Goods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rashod Bateman"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2025-10-26",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Xavier Hutchinson"
+      ],
+      "dropped": [
+        "Josh Reynolds"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2025-10-26",
+      "owner": "Christopher Jones",
+      "owner_slug": "christopher-jones",
+      "team_name": "Christopher's Cool Team",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Calvin Austin III"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2025-10-26",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Alec Pierce"
+      ],
+      "dropped": [
+        "Xavier Legette"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2025-10-26",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darius Slayton"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2025-10-26",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darius Slayton"
+      ],
+      "dropped": [
+        "Jerome Ford"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2025-10-26",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Xavier Hutchinson"
+      ],
+      "dropped": [
+        "Darius Slayton"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2025-10-26",
+      "owner": "Christopher Jones",
+      "owner_slug": "christopher-jones",
+      "team_name": "Christopher's Cool Team",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Noah Fant"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2025-10-29",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Choosing Violence",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Andy Borregales"
+      ],
+      "dropped": [
+        "Sterling Shepard"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2025-10-29",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "No Chase No Case",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "C.J. Stroud"
+      ],
+      "dropped": [
+        "Mason Taylor"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2025-10-29",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Choosing Violence",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Parker Washington"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2025-10-29",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Samaje Perine"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2025-10-29",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chad Ryland"
+      ],
+      "dropped": [
+        "Kenneth Gainwell"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2025-10-29",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "WAIVER",
+      "bid": 6,
+      "added": [
+        "Christian Watson"
+      ],
+      "dropped": [
+        "Elic Ayomanor"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2025-10-29",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "AJ Barner"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2025-10-29",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jeremy McNichols"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2025-10-29",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Emanuel Wilson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2025-10-29",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ollie Gordon II"
+      ],
+      "dropped": [
+        "Matthew Golden"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2025-10-29",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jerome Ford"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2025-10-30",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Ramsey Sporting Goods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Isaiah Likely"
+      ],
+      "dropped": [
+        "Hunter Henry"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2025-10-30",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tory Horton"
+      ],
+      "dropped": [
+        "Jeremy McNichols"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2025-10-30",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Elic Ayomanor"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2025-10-30",
+      "owner": "Christopher Jones",
+      "owner_slug": "christopher-jones",
+      "team_name": "Christopher's Cool Team",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jason Myers"
+      ],
+      "dropped": [
+        "Nick Folk"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2025-10-31",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "CuckforBuck",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Will Reichard"
+      ],
+      "dropped": [
+        "Jake Elliott"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2025-10-31",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darius Slayton"
+      ],
+      "dropped": [
+        "Emanuel Wilson"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2025-10-31",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Michael Carter"
+      ],
+      "dropped": [
+        "Colston Loveland"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2025-10-31",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matthew Golden"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2025-11-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "WAIVER",
+      "bid": 10,
+      "added": [
+        "Hunter Henry"
+      ],
+      "dropped": [
+        "AJ Barner"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2025-11-01",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Choosing Violence",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Terrell Jennings"
+      ],
+      "dropped": [
+        "Evan Engram"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2025-11-01",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kenneth Gainwell"
+      ],
+      "dropped": [
+        "Michael Carter"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2025-11-02",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tank Bigsby"
+      ],
+      "dropped": [
+        "Kenneth Gainwell"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2025-11-02",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kenneth Gainwell"
+      ],
+      "dropped": [
+        "Tank Bigsby"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2025-11-02",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tank Bigsby"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2025-11-05",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Devin Singletary"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2025-11-05",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Olamide Zaccheaus"
+      ],
+      "dropped": [
+        "Wil Lutz"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2025-11-05",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jalen McMillan"
+      ],
+      "dropped": [
+        "Ollie Gordon II"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2025-11-05",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "WAIVER",
+      "bid": 30,
+      "added": [
+        "DeMario Douglas"
+      ],
+      "dropped": [
+        "Sean Tucker"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2025-11-05",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Luke Musgrave"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2025-11-05",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "No Chase No Case",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jacoby Brissett"
+      ],
+      "dropped": [
+        "C.J. Stroud"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2025-11-05",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matt Prater"
+      ],
+      "dropped": [
+        "Xavier Hutchinson"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2025-11-05",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Christian Kirk"
+      ],
+      "dropped": [
+        "Chig Okonkwo"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2025-11-05",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ray Davis"
+      ],
+      "dropped": [
+        "Bhayshul Tuten"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2025-11-05",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "WAIVER",
+      "bid": 25,
+      "added": [
+        "Colston Loveland"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2025-11-05",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Rodriguez Jr."
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2025-11-05",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "J.J. McCarthy"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2025-11-05",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kyle Williams"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2025-11-05",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Emari Demercado"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2025-11-05",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Dylan Sampson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2025-11-05",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ty Johnson"
+      ],
+      "dropped": [
+        "Chris Rodriguez Jr."
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2025-11-06",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Phil Mafah"
+      ],
+      "dropped": [
+        "Matthew Golden"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2025-11-06",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Sean Tucker"
+      ],
+      "dropped": [
+        "Ty Johnson"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2025-11-06",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Isaac Guerendo"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2025-11-06",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bam Knight"
+      ],
+      "dropped": [
+        "Hunter Henry"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2025-11-06",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matthew Golden"
+      ],
+      "dropped": [
+        "Tank Bigsby"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2025-11-06",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matthew Golden"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2025-11-06",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Emanuel Wilson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2025-11-06",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kenneth Gainwell"
+      ],
+      "dropped": [
+        "Dylan Sampson"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2025-11-06",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Harrison Mevis"
+      ],
+      "dropped": [
+        "Chad Ryland"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2025-11-07",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Devin Neal"
+      ],
+      "dropped": [
+        "Emanuel Wilson"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2025-11-07",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Ramsey Sporting Goods",
+      "type": "WAIVER",
+      "bid": 2,
+      "added": [
+        "Bhayshul Tuten"
+      ],
+      "dropped": [
+        "Jalen Coker"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2025-11-07",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Rodriguez Jr."
+      ],
+      "dropped": [
+        "Devin Singletary"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2025-11-07",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Choosing Violence",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rashod Bateman"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2025-11-08",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Ramsey Sporting Goods",
+      "type": "WAIVER",
+      "bid": 3,
+      "added": [
+        "Hunter Henry"
+      ],
+      "dropped": [
+        "Isaiah Likely"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2025-11-08",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "No Chase No Case",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Loop"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2025-11-08",
+      "owner": "Christopher Jones",
+      "owner_slug": "christopher-jones",
+      "team_name": "Christopher's Cool Team",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dyami Brown"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2025-11-09",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "WAIVER",
+      "bid": 2,
+      "added": [
+        "Devin Singletary"
+      ],
+      "dropped": [
+        "Bam Knight"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2025-11-10",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tank Bigsby"
+      ],
+      "dropped": [
+        "Phil Mafah"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2025-11-12",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Mack Hollins"
+      ],
+      "dropped": [
+        "Darius Slayton"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2025-11-12",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Bam Knight"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2025-11-12",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "WAIVER",
+      "bid": 21,
+      "added": [
+        "Tony Pollard"
+      ],
+      "dropped": [
+        "Tre Tucker"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2025-11-12",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Andy Borregales"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2025-11-12",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Harrison Butker"
+      ],
+      "dropped": [
+        "Matt Prater"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2025-11-12",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Luther Burden III"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2025-11-12",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brenton Strange"
+      ],
+      "dropped": [
+        "Luke Musgrave"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2025-11-12",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Marcus Mariota"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2025-11-12",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "No Chase No Case",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dontayvion Wicks"
+      ],
+      "dropped": [
+        "Jacoby Brissett"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2025-11-13",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Adonai Mitchell"
+      ],
+      "dropped": [
+        "Mack Hollins"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2025-11-13",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Samaje Perine"
+      ],
+      "dropped": [
+        "Christian Kirk"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2025-11-13",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Ramsey Sporting Goods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Michael Wilson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2025-11-13",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "J.J. McCarthy"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2025-11-13",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Choosing Violence",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jalen Nailor"
+      ],
+      "dropped": [
+        "Rashod Bateman"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2025-11-13",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "No Chase No Case",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darius Slayton"
+      ],
+      "dropped": [
+        "Dontayvion Wicks"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2025-11-13",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "WAIVER",
+      "bid": 11,
+      "added": [
+        "Tre Tucker"
+      ],
+      "dropped": [
+        "Josh Downs"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2025-11-14",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "WAIVER",
+      "bid": 6,
+      "added": [
+        "Josh Downs"
+      ],
+      "dropped": [
+        "Tony Pollard"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2025-11-14",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 1,
+      "added": [
+        "Brashard Smith"
+      ],
+      "dropped": [
+        "Jalen McMillan"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2025-11-15",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "WAIVER",
+      "bid": 31,
+      "added": [
+        "Tony Pollard"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2025-11-15",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Lockett"
+      ],
+      "dropped": [
+        "Brashard Smith"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2025-11-16",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Ramsey Sporting Goods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dawson Knox"
+      ],
+      "dropped": [
+        "Bhayshul Tuten"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2025-11-16",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Emanuel Wilson"
+      ],
+      "dropped": [
+        "Samaje Perine"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2025-11-16",
+      "owner": "Christopher Jones",
+      "owner_slug": "christopher-jones",
+      "team_name": "Christopher's Cool Team",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Luke Musgrave"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2025-11-19",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Brooks"
+      ],
+      "dropped": [
+        "Olamide Zaccheaus"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2025-11-19",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Tyrell Shavers"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2025-11-19",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Terrance Ferguson"
+      ],
+      "dropped": [
+        "Tyrell Shavers"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2025-11-19",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "WAIVER",
+      "bid": 2,
+      "added": [
+        "Brock Wright"
+      ],
+      "dropped": [
+        "Nick Chubb"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2025-11-19",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "No Chase No Case",
+      "type": "WAIVER",
+      "bid": 10,
+      "added": [
+        "Andrei Iosivas"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2025-11-19",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Cairo Santos"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2025-11-19",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Taysom Hill"
+      ],
+      "dropped": [
+        "Gabe Davis"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2025-11-19",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Choosing Violence",
+      "type": "WAIVER",
+      "bid": 8,
+      "added": [
+        "Mack Hollins"
+      ],
+      "dropped": [
+        "Jalen Nailor"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2025-11-19",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Ramsey Sporting Goods",
+      "type": "WAIVER",
+      "bid": 23,
+      "added": [
+        "Bhayshul Tuten"
+      ],
+      "dropped": [
+        "Jordan Mason"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2025-11-19",
+      "owner": "Christopher Jones",
+      "owner_slug": "christopher-jones",
+      "team_name": "Christopher's Cool Team",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Xavier Legette"
+      ],
+      "dropped": [
+        "Noah Fant"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2025-11-19",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Keaton Mitchell"
+      ],
+      "dropped": [
+        "Bam Knight"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2025-11-19",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ollie Gordon II"
+      ],
+      "dropped": [
+        "Isaiah Davis"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2025-11-19",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Gabe Davis"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2025-11-19",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Ramsey Sporting Goods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cam Little"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2025-11-19",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jacoby Brissett"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2025-11-20",
+      "owner": "Christopher Jones",
+      "owner_slug": "christopher-jones",
+      "team_name": "Christopher's Cool Team",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Matthew Golden"
+      ],
+      "dropped": [
+        "Dyami Brown"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2025-11-20",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyrell Shavers"
+      ],
+      "dropped": [
+        "Taysom Hill"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2025-11-21",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bam Knight"
+      ],
+      "dropped": [
+        "Chris Brooks"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2025-11-21",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chimere Dike"
+      ],
+      "dropped": [
+        "DeMario Douglas"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2025-11-22",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darius Slayton"
+      ],
+      "dropped": [
+        "Keaton Mitchell"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2025-11-22",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tank Bigsby"
+      ],
+      "dropped": [
+        "Ollie Gordon II"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2025-11-22",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Michael Carter"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2025-11-23",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "No Chase No Case",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Brooks"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2025-11-23",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "CuckforBuck",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Noah Fant"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2025-11-23",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Greg Dortch"
+      ],
+      "dropped": [
+        "Brock Wright"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2025-11-26",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "WAIVER",
+      "bid": 25,
+      "added": [
+        "Devin Neal"
+      ],
+      "dropped": [
+        "Justice Hill"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2025-11-26",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Choosing Violence",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "John Metchie III"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2025-11-26",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darren Waller"
+      ],
+      "dropped": [
+        "Ricky Pearsall"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2025-11-26",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "WAIVER",
+      "bid": 25,
+      "added": [
+        "Pat Bryant"
+      ],
+      "dropped": [
+        "Marvin Mims Jr."
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2025-11-26",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "No Chase No Case",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Isaiah Davis"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2025-11-26",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Taysom Hill"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2025-11-26",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Ollie Gordon II"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2025-11-26",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jordan Mason"
+      ],
+      "dropped": [
+        "Rachaad White"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2025-11-26",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Tyler Loop"
+      ],
+      "dropped": [
+        "Chris Boswell"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2025-11-27",
+      "owner": "Christopher Jones",
+      "owner_slug": "christopher-jones",
+      "team_name": "Christopher's Cool Team",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Christian Kirk"
+      ],
+      "dropped": [
+        "Calvin Austin III"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2025-11-27",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Trevor Lawrence"
+      ],
+      "dropped": [
+        "Keon Coleman"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2025-11-27",
+      "owner": "Christopher Jones",
+      "owner_slug": "christopher-jones",
+      "team_name": "Christopher's Cool Team",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "C.J. Stroud"
+      ],
+      "dropped": [
+        "Joe Flacco"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2025-11-28",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dylan Sampson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2025-11-28",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "No Chase No Case",
+      "type": "WAIVER",
+      "bid": 30,
+      "added": [
+        "Ricky Pearsall"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2025-11-29",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "No Chase No Case",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Michael Carter"
+      ],
+      "dropped": [
+        "Isaiah Davis"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2025-11-30",
+      "owner": "Christopher Jones",
+      "owner_slug": "christopher-jones",
+      "team_name": "Christopher's Cool Team",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Theo Johnson"
+      ],
+      "dropped": [
+        "C.J. Stroud"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2025-11-30",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jalen McMillan"
+      ],
+      "dropped": [
+        "Taysom Hill"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2025-12-03",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Wil Lutz"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2025-12-03",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Ramsey Sporting Goods",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Baker Mayfield"
+      ],
+      "dropped": [
+        "Cade Otton"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2025-12-03",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Choosing Violence",
+      "type": "WAIVER",
+      "bid": 25,
+      "added": [
+        "Nick Chubb"
+      ],
+      "dropped": [
+        "Parker Washington"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2025-12-03",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Devaughn Vele"
+      ],
+      "dropped": [
+        "Greg Dortch"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2025-12-03",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "No Chase No Case",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Isaac TeSlaa"
+      ],
+      "dropped": [
+        "Michael Carter"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2025-12-03",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Choosing Violence",
+      "type": "WAIVER",
+      "bid": 15,
+      "added": [
+        "Rachaad White"
+      ],
+      "dropped": [
+        "Mack Hollins"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2025-12-03",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Keaton Mitchell"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2025-12-03",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "MarShawn Lloyd"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2025-12-03",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Evan McPherson"
+      ],
+      "dropped": [
+        "Tyler Loop"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2025-12-03",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Choosing Violence",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dontayvion Wicks"
+      ],
+      "dropped": [
+        "Cedric Tillman"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2025-12-04",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "type": "WAIVER",
+      "bid": 25,
+      "added": [
+        "John Metchie III"
+      ],
+      "dropped": [
+        "Sam Darnold"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2025-12-04",
+      "owner": "Christopher Jones",
+      "owner_slug": "christopher-jones",
+      "team_name": "Christopher's Cool Team",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Isaiah Likely"
+      ],
+      "dropped": [
+        "Luke Musgrave"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2025-12-04",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Luther Burden III"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2025-12-05",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "CuckforBuck",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Evan Engram"
+      ],
+      "dropped": [
+        "Jonnu Smith"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2025-12-05",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "CuckforBuck",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Boswell"
+      ],
+      "dropped": [
+        "Will Reichard"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2025-12-05",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jacoby Brissett"
+      ],
+      "dropped": [
+        "Bo Nix"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2025-12-05",
+      "owner": "Christopher Jones",
+      "owner_slug": "christopher-jones",
+      "team_name": "Christopher's Cool Team",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Keon Coleman"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2025-12-07",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Malik Nabers"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2025-12-07",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyreek Hill"
+      ],
+      "dropped": [
+        "Sean Tucker"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2025-12-07",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cam Skattebo"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2025-12-07",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Choosing Violence",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Gabe Davis"
+      ],
+      "dropped": [
+        "Hollywood Brown"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2025-12-07",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bo Nix"
+      ],
+      "dropped": [
+        "Jacory Croskey-Merritt"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2025-12-10",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "No Chase No Case",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Isaiah Davis"
+      ],
+      "dropped": [
+        "Isaac TeSlaa"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2025-12-10",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jaylen Wright"
+      ],
+      "dropped": [
+        "Ollie Gordon II"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2025-12-10",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Choosing Violence",
+      "type": "WAIVER",
+      "bid": 15,
+      "added": [
+        "Darius Slayton"
+      ],
+      "dropped": [
+        "Rachaad White"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2025-12-12",
+      "owner": "Christopher Jones",
+      "owner_slug": "christopher-jones",
+      "team_name": "Christopher's Cool Team",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mack Hollins"
+      ],
+      "dropped": [
+        "Keon Coleman"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2025-12-12",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Eddy Pineiro"
+      ],
+      "dropped": [
+        "Evan McPherson"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2025-12-12",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ollie Gordon II"
+      ],
+      "dropped": [
+        "Keaton Mitchell"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2025-12-12",
+      "owner": "Christopher Jones",
+      "owner_slug": "christopher-jones",
+      "team_name": "Christopher's Cool Team",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Isaiah Hodgins"
+      ],
+      "dropped": [
+        "Christian Kirk"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2025-12-14",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jacory Croskey-Merritt"
+      ],
+      "dropped": [
+        "Ollie Gordon II"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2025-12-17",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "No Chase No Case",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Michael Carter"
+      ],
+      "dropped": [
+        "Juwan Johnson"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2025-12-17",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "C.J. Stroud"
+      ],
+      "dropped": [
+        "Jacory Croskey-Merritt"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2025-12-17",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "No Chase No Case",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "J.J. McCarthy"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 16,
+      "date": "2025-12-18",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Audric Estime"
+      ],
+      "dropped": [
+        "C.J. Stroud"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2025-12-18",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Choosing Violence",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jalen Coker"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 16,
+      "date": "2025-12-20",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "No Chase No Case",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "C.J. Stroud"
+      ],
+      "dropped": [
+        "J.J. McCarthy"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2025-12-21",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jawhar Jordan"
+      ],
+      "dropped": [
+        "Audric Estime"
+      ]
+    },
+    {
+      "week": 17,
+      "date": "2025-12-24",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Juwan Johnson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 17,
+      "date": "2025-12-24",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dylan Sampson"
+      ],
+      "dropped": [
+        "Tank Bigsby"
+      ]
+    },
+    {
+      "week": 17,
+      "date": "2025-12-24",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Trevor Lawrence"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 17,
+      "date": "2025-12-24",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Parker Washington"
+      ],
+      "dropped": [
+        "Jaylen Wright"
+      ]
+    },
+    {
+      "week": 17,
+      "date": "2025-12-25",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jacory Croskey-Merritt"
+      ],
+      "dropped": [
+        "Dylan Sampson"
+      ]
+    },
+    {
+      "week": 17,
+      "date": "2025-12-28",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dylan Sampson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 17,
+      "date": "2025-12-29",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cairo Santos"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 17,
+      "date": "2025-12-29",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Konata Mumpfield"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 17,
+      "date": "2025-12-29",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "David Sills V"
+      ],
+      "dropped": [
+        "Cairo Santos"
+      ]
+    },
+    {
+      "week": 17,
+      "date": "2025-12-29",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jake Tonges"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 17,
+      "date": "2025-12-29",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Olamide Zaccheaus"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 18,
+      "date": "2026-01-03",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dylan Sampson"
+      ],
+      "dropped": []
+    }
+  ],
+  "team_totals": [
+    {
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Buck Swope",
+      "acquisitions": 89,
+      "spent": 100
+    },
+    {
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Ramsey Sporting Goods",
+      "acquisitions": 20,
+      "spent": 100
+    },
+    {
+      "owner": "Christopher Jones",
+      "owner_slug": "christopher-jones",
+      "team_name": "Christopher's Cool Team",
+      "acquisitions": 22,
+      "spent": 100
+    },
+    {
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Farmed",
+      "acquisitions": 59,
+      "spent": 100
+    },
+    {
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "No Chase No Case",
+      "acquisitions": 26,
+      "spent": 100
+    },
+    {
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "acquisitions": 21,
+      "spent": 100
+    },
+    {
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "SWEENEY'S B00BS",
+      "acquisitions": 56,
+      "spent": 97
+    },
+    {
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shy Squad",
+      "acquisitions": 6,
+      "spent": 95
+    },
+    {
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "CuckforBuck",
+      "acquisitions": 9,
+      "spent": 80
+    },
+    {
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Alien vs Deshaun",
+      "acquisitions": 24,
+      "spent": 75
+    },
+    {
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Choosing Violence",
+      "acquisitions": 21,
+      "spent": 63
+    },
+    {
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "Dynomite",
+      "acquisitions": 33,
+      "spent": 44
+    }
+  ]
+}

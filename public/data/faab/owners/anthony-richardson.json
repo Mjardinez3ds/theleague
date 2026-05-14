@@ -1,0 +1,23 @@
+{
+  "slug": "anthony-richardson",
+  "owner": "Anthony Richardson",
+  "totals": {
+    "acquisitions": 26,
+    "spent": 90,
+    "biggest_bid": {
+      "year": 2023,
+      "week": 2,
+      "bid": 56,
+      "player": "Puka Nacua",
+      "dropped": null
+    }
+  },
+  "by_year": [
+    {
+      "year": 2023,
+      "team_name": "UrMom Stillsquirts",
+      "acquisitions": 26,
+      "spent": 90
+    }
+  ]
+}

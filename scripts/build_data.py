@@ -512,6 +512,146 @@ def build_scores(
     return positions_by_year
 
 
+def build_faab(
+    leagues_by_year: dict,
+    canonical_by_raw: dict,
+    display_by_canonical: dict,
+    slug_by_canonical: dict,
+) -> None:
+    """
+    Pull free-agent + waiver transactions for every week of every season.
+
+    Writes:
+      public/data/faab/{year}.json — all transactions in chronological order
+      public/data/faab/owners/{slug}.json — career FAAB profile per manager
+    """
+    from datetime import datetime, timezone
+
+    # Aggregate per-owner across all seasons
+    owners_data: dict[str, dict] = {}
+
+    for yr, lg in sorted(leagues_by_year.items()):
+        # team_id -> (display, slug, team_name)
+        team_meta: dict[int, tuple[str, str, str]] = {}
+        for t in lg.teams:
+            raw_id = _raw_owner_id(t)
+            cid = canonical_by_raw.get(raw_id, "")
+            team_meta[t.team_id] = (
+                display_by_canonical.get(cid, "?"),
+                slug_by_canonical.get(cid, "unknown"),
+                t.team_name or "?",
+            )
+
+        all_txns: list[dict] = []
+        # Fetch transactions per week (ESPN's API is keyed by scoring_period)
+        for week in range(1, 19):
+            try:
+                txns = lg.transactions(scoring_period=week)
+            except Exception:
+                continue
+            if not txns:
+                continue
+
+            for tx in txns:
+                if tx.status != "EXECUTED":
+                    continue  # Skip failed/cancelled
+                team = tx.team
+                if team is None:
+                    continue
+                disp, slug, tname = team_meta.get(team.team_id, ("?", "unknown", "?"))
+
+                added = [it.player for it in tx.items if it.type == "ADD"]
+                dropped = [it.player for it in tx.items if it.type == "DROP"]
+
+                # Skip "ROSTER" moves with no add (e.g. just dropping a player)
+                if not added and not dropped:
+                    continue
+
+                # Convert ms timestamp to ISO date
+                date_iso = datetime.fromtimestamp(
+                    tx.date / 1000, tz=timezone.utc
+                ).strftime("%Y-%m-%d")
+
+                all_txns.append({
+                    "week": week,
+                    "date": date_iso,
+                    "owner": disp,
+                    "owner_slug": slug,
+                    "team_name": tname,
+                    "type": tx.type,           # "FREEAGENT" or "WAIVER"
+                    "bid": int(tx.bid_amount or 0),
+                    "added": added,
+                    "dropped": dropped,
+                })
+
+        all_txns.sort(key=lambda t: (t["week"], t["date"]))
+
+        # Per-team season totals from team object (sanity-check + cheap)
+        team_totals = []
+        for t in lg.teams:
+            disp, slug, tname = team_meta[t.team_id]
+            team_totals.append({
+                "owner": disp,
+                "owner_slug": slug,
+                "team_name": tname,
+                "acquisitions": getattr(t, "acquisitions", 0) or 0,
+                "spent": getattr(t, "acquisition_budget_spent", 0) or 0,
+            })
+        team_totals.sort(key=lambda t: -t["spent"])
+
+        write_json(f"faab/{yr}.json", {
+            "year": yr,
+            "transactions": all_txns,
+            "team_totals": team_totals,
+        })
+        print(f"  faab {yr}: {len(all_txns)} transactions, {len(team_totals)} teams")
+
+        # Roll up into per-owner career profile
+        for tt in team_totals:
+            slug = tt["owner_slug"]
+            d = owners_data.setdefault(slug, {
+                "slug": slug,
+                "owner": tt["owner"],
+                "totals": {
+                    "acquisitions": 0, "spent": 0,
+                    "biggest_bid": None,
+                },
+                "by_year": [],
+            })
+            d["totals"]["acquisitions"] += tt["acquisitions"]
+            d["totals"]["spent"] += tt["spent"]
+            d["by_year"].append({
+                "year": yr,
+                "team_name": tt["team_name"],
+                "acquisitions": tt["acquisitions"],
+                "spent": tt["spent"],
+            })
+
+        # Find biggest bid per manager from this year's transactions
+        for tx in all_txns:
+            if tx["bid"] <= 0:
+                continue
+            slug = tx["owner_slug"]
+            d = owners_data.get(slug)
+            if not d:
+                continue
+            cur = d["totals"]["biggest_bid"]
+            if cur is None or tx["bid"] > cur["bid"]:
+                d["totals"]["biggest_bid"] = {
+                    "year": yr,
+                    "week": tx["week"],
+                    "bid": tx["bid"],
+                    "player": tx["added"][0] if tx["added"] else "?",
+                    "dropped": tx["dropped"][0] if tx["dropped"] else None,
+                }
+
+    # Write per-owner career FAAB files
+    for slug, d in owners_data.items():
+        d["by_year"].sort(key=lambda y: -y["year"])
+        write_json(f"faab/owners/{slug}.json", d)
+    print(f"  faab: wrote {len(owners_data)} per-owner files")
+
+
 def main():
     print(f"Building site data for league {LEAGUE_ID}…")
     started = time.time()
@@ -746,6 +886,12 @@ def main():
         build_trades(leagues_by_year, canonical_by_raw, display_by_canonical, slug_by_canonical)
     except Exception as e:
         print(f"  ! trades error: {e}")
+
+    # ---------- FAAB / waivers ----------
+    try:
+        build_faab(leagues_by_year, canonical_by_raw, display_by_canonical, slug_by_canonical)
+    except Exception as e:
+        print(f"  ! faab error: {e}")
 
     print(f"\nDone in {time.time()-started:.1f}s. Files in {OUT_DIR}")
 

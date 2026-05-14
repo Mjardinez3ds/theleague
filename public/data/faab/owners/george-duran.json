@@ -1,0 +1,35 @@
+{
+  "slug": "george-duran",
+  "owner": "George Duran",
+  "totals": {
+    "acquisitions": 149,
+    "spent": 271,
+    "biggest_bid": {
+      "year": 2025,
+      "week": 8,
+      "bid": 31,
+      "player": "Oronde Gadsden",
+      "dropped": null
+    }
+  },
+  "by_year": [
+    {
+      "year": 2025,
+      "team_name": "Farmed",
+      "acquisitions": 59,
+      "spent": 100
+    },
+    {
+      "year": 2024,
+      "team_name": "TWO PIECE W A BISCUIT",
+      "acquisitions": 26,
+      "spent": 74
+    },
+    {
+      "year": 2023,
+      "team_name": "Tony Pollard Therapy Club ",
+      "acquisitions": 64,
+      "spent": 97
+    }
+  ]
+}
