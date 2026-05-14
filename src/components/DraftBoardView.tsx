@@ -7,30 +7,38 @@ import type { DraftBoardData } from "@/lib/data";
 const CELL_W = 88;   // px per manager column
 const RD_W   = 28;   // px for round label column
 
-function posColor(pos: string): string {
+// Sleeper-style saturated cell colors. Dark navy text reads well on all of them.
+function posBgColor(pos: string): string {
   switch ((pos || "").toUpperCase()) {
-    case "QB":          return "bg-red-900/60 text-red-300";
-    case "RB":          return "bg-green-900/60 text-green-300";
-    case "WR":          return "bg-blue-900/60 text-blue-300";
-    case "TE":          return "bg-orange-900/60 text-orange-300";
-    case "K":           return "bg-purple-900/60 text-purple-300";
+    case "QB":  return "#f4a4c4";  // pink
+    case "RB":  return "#7ad6a3";  // green
+    case "WR":  return "#5fb5d9";  // cyan
+    case "TE":  return "#f7a76b";  // orange
+    case "K":   return "#c8a0e8";  // purple
     case "D/ST":
-    case "DST":         return "bg-yellow-900/60 text-yellow-300";
-    default:            return "bg-zinc-800 text-muted";
+    case "DST": return "#f5d76e";  // yellow
+    default:    return "#dcdcdc";  // light gray
   }
 }
 
-function posBgColor(pos: string): string {
+// Legend pill colors (kept distinct so they still read on dark bg)
+function posPillColor(pos: string): string {
   switch ((pos || "").toUpperCase()) {
-    case "QB":  return "rgba(239,68,68,0.15)";
-    case "RB":  return "rgba(34,197,94,0.15)";
-    case "WR":  return "rgba(59,130,246,0.15)";
-    case "TE":  return "rgba(249,115,22,0.15)";
-    case "K":   return "rgba(168,85,247,0.15)";
+    case "QB":          return "bg-pink-500/80 text-pink-50";
+    case "RB":          return "bg-green-500/80 text-green-50";
+    case "WR":          return "bg-sky-500/80 text-sky-50";
+    case "TE":          return "bg-orange-500/80 text-orange-50";
+    case "K":           return "bg-purple-500/80 text-purple-50";
     case "D/ST":
-    case "DST": return "rgba(234,179,8,0.15)";
-    default:    return "";
+    case "DST":         return "bg-yellow-500/80 text-yellow-50";
+    default:            return "bg-zinc-700 text-zinc-200";
   }
+}
+
+function splitName(full: string): { first: string; last: string } {
+  const parts = full.trim().split(/\s+/);
+  if (parts.length <= 1) return { first: "", last: full };
+  return { first: parts[0], last: parts.slice(1).join(" ") };
 }
 
 function Pill({
@@ -102,10 +110,11 @@ export default function DraftBoardView({
 
       {/* Position legend */}
       <div className="flex gap-2 flex-wrap px-4 mb-4">
-        {[["QB","red"],["RB","green"],["WR","blue"],["TE","orange"],["K","purple"],["D/ST","yellow"]].map(([pos, _]) => (
+        {["QB","RB","WR","TE","K","D/ST"].map((pos) => (
           <span
             key={pos}
-            className={`text-[10px] font-bold px-1.5 py-0.5 rounded ${posColor(pos)}`}
+            className="text-[10px] font-bold px-2 py-0.5 rounded"
+            style={{ backgroundColor: posBgColor(pos), color: "#0f1729" }}
           >
             {pos}
           </span>
@@ -159,9 +168,14 @@ export default function DraftBoardView({
                     {round}
                   </div>
 
-                  {/* Pick cells — in slot order; visual arrow on even rounds */}
+                  {/* Pick cells — Sleeper-style: saturated bg, first/last name split */}
                   {board.slots.map((slot) => {
                     const pick = slot.picks.find((p) => p.round === round);
+                    const name = pick ? splitName(pick.player) : null;
+                    // Snake draft: odd round = forward, even = reversed
+                    const pickInRound = isEven
+                      ? board.slots.length - slot.slot + 1
+                      : slot.slot;
                     return (
                       <div
                         key={slot.slot}
@@ -169,21 +183,28 @@ export default function DraftBoardView({
                           width: CELL_W,
                           minWidth: CELL_W,
                           backgroundColor: pick ? posBgColor(pick.position) : "",
+                          color: pick ? "#0f1729" : undefined,
                         }}
-                        className="border-l border-app px-1.5 py-1.5"
+                        className="border-l border-app px-1.5 py-1 flex flex-col justify-between"
                       >
-                        {pick ? (
+                        {pick && name ? (
                           <>
-                            <div className="text-[11px] font-semibold leading-snug line-clamp-2">
-                              {pick.player}
-                            </div>
-                            {pick.position && (
-                              <span
-                                className={`inline-block text-[9px] font-bold px-1 py-0.5 rounded mt-0.5 ${posColor(pick.position)}`}
-                              >
-                                {pick.position}
+                            <div className="flex items-start justify-between text-[8px] font-bold leading-tight opacity-75">
+                              <span>{pick.position}</span>
+                              <span className="tabular-nums">
+                                {round}.{String(pickInRound).padStart(2, "0")}
                               </span>
-                            )}
+                            </div>
+                            <div className="leading-[1.05]">
+                              {name.first && (
+                                <div className="text-[10px] font-medium truncate">
+                                  {name.first}
+                                </div>
+                              )}
+                              <div className="text-[12px] font-extrabold truncate">
+                                {name.last}
+                              </div>
+                            </div>
                           </>
                         ) : (
                           <span className="text-[10px] text-muted">—</span>
