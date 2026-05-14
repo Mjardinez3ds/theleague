@@ -7,7 +7,6 @@ import {
 } from "@/lib/data";
 import { SeasonCard } from "@/components/SeasonCard";
 import H2HTable from "@/components/H2HTable";
-import Avatar from "@/components/Avatar";
 
 export const dynamic = "force-static";
 
@@ -88,25 +87,22 @@ export default async function ManagerPage({
 
   return (
     <div className="px-4 pt-6 pb-4">
-      <header className="mb-5 flex items-start gap-4">
-        <Avatar name={career.owner} slug={slug} size="xl" />
-        <div className="min-w-0 flex-1">
-          <p className="text-[11px] font-bold tracking-widest text-accent">
-            MANAGER
+      <header className="mb-5">
+        <p className="text-[11px] font-bold tracking-widest text-accent">
+          MANAGER
+        </p>
+        <h1 className="text-3xl font-extrabold leading-tight">
+          {career.owner}
+        </h1>
+        <p className="text-sm text-muted">
+          {career.seasons.length} season
+          {career.seasons.length === 1 ? "" : "s"} in The League
+        </p>
+        {allTitleYears.length > 0 && (
+          <p className="text-sm font-semibold text-accent mt-1">
+            🥇 {allTitleYears.join(", ")} Champion
           </p>
-          <h1 className="text-3xl font-extrabold leading-tight">
-            {career.owner}
-          </h1>
-          <p className="text-sm text-muted">
-            {career.seasons.length} season
-            {career.seasons.length === 1 ? "" : "s"} in The League
-          </p>
-          {allTitleYears.length > 0 && (
-            <p className="text-sm font-semibold text-accent mt-1">
-              🥇 {allTitleYears.join(", ")} Champion
-            </p>
-          )}
-        </div>
+        )}
       </header>
 
       {/* Career hero card */}

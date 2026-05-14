@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { getUpcomingSeason, getCareers, getLegacyChampions, type Career } from "@/lib/data";
 import DraftCountdown from "@/components/DraftCountdown";
-import Avatar from "@/components/Avatar";
 
 export const dynamic = "force-static";
 
@@ -46,10 +45,9 @@ export default async function HomePage() {
 
             const inner = (
               <>
-                <span className="w-6 text-right text-xs font-bold text-muted tabular-nums shrink-0">
+                <span className="w-7 text-right text-xs font-bold text-muted tabular-nums shrink-0">
                   {i + 1}
                 </span>
-                <Avatar name={fullName} slug={m.slug ?? fullName} size="md" />
                 <span className="flex-1 min-w-0">
                   <span className="text-[15px] font-semibold">{fullName}</span>
                   {titleYears.length > 0 && (

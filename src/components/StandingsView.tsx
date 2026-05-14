@@ -1,10 +1,8 @@
 "use client";
 
 import Link from "next/link";
-import Image from "next/image";
 import { useState } from "react";
 import type { Career, Standings } from "@/lib/data";
-import Avatar from "@/components/Avatar";
 
 type SelectedView = "all-time" | number;
 
@@ -92,9 +90,8 @@ function AllTimeTable({ careers }: { careers: Career[] }) {
   // careers is already sorted by win_pct desc in build_data.py
   return (
     <section className="rounded-2xl border border-app bg-elev overflow-hidden">
-      <div className="grid grid-cols-[24px_36px_1fr_64px_46px] items-center gap-2 px-3 py-2 text-[10px] font-semibold tracking-wider text-muted uppercase border-b border-app">
+      <div className="grid grid-cols-[28px_1fr_64px_46px] items-center px-3 py-2 text-[10px] font-semibold tracking-wider text-muted uppercase border-b border-app">
         <div>#</div>
-        <div></div>
         <div>Owner</div>
         <div className="text-right">W-L</div>
         <div className="text-right">Win%</div>
@@ -113,12 +110,11 @@ function AllTimeTable({ careers }: { careers: Career[] }) {
           return (
             <li
               key={o.slug}
-              className="grid grid-cols-[24px_36px_1fr_64px_46px] items-center gap-2 px-3 py-3 border-b border-app last:border-0 active:bg-elev-2"
+              className="grid grid-cols-[28px_1fr_64px_46px] items-center px-3 py-3 border-b border-app last:border-0 active:bg-elev-2"
             >
               <span className={`text-sm font-bold ${trophyColor}`}>
                 {rank}
               </span>
-              <Avatar name={o.owner} slug={o.slug} size="md" />
               <Link href={`/managers/${o.slug}`} className="min-w-0 pr-2">
                 <div className="truncate text-[15px] font-semibold leading-tight">
                   {o.owner}
@@ -161,9 +157,8 @@ function YearTable({ standings }: { standings: Standings | undefined }) {
 
   return (
     <section className="rounded-2xl border border-app bg-elev overflow-hidden">
-      <div className="grid grid-cols-[24px_36px_1fr_56px_56px_56px] items-center gap-2 px-3 py-2 text-[10px] font-semibold tracking-wider text-muted uppercase border-b border-app">
+      <div className="grid grid-cols-[28px_1fr_56px_64px_64px] items-center px-3 py-2 text-[10px] font-semibold tracking-wider text-muted uppercase border-b border-app">
         <div>#</div>
-        <div></div>
         <div>Team</div>
         <div className="text-right">W-L</div>
         <div className="text-right">PF</div>
@@ -183,23 +178,11 @@ function YearTable({ standings }: { standings: Standings | undefined }) {
           return (
             <li
               key={t.id}
-              className="grid grid-cols-[24px_36px_1fr_56px_56px_56px] items-center gap-2 px-3 py-3 border-b border-app last:border-0 active:bg-elev-2"
+              className="grid grid-cols-[28px_1fr_56px_64px_64px] items-center px-3 py-3 border-b border-app last:border-0 active:bg-elev-2"
             >
               <span className={`text-sm font-bold ${trophyColor}`}>
                 {finish}
               </span>
-              {t.logo_url ? (
-                <Image
-                  src={t.logo_url}
-                  alt=""
-                  width={36}
-                  height={36}
-                  unoptimized
-                  className="rounded-full bg-elev-2 object-cover w-9 h-9"
-                />
-              ) : (
-                <Avatar name={t.owner} slug={t.owner_slug} size="md" />
-              )}
               <Link
                 href={`/managers/${t.owner_slug}`}
                 className="min-w-0 pr-2"
