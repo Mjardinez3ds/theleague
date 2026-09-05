@@ -109,6 +109,8 @@ refresh independently of code deploys.
 |---|---|
 | `scripts/build_data.py` | Pulls ESPN data → `public/data/*.json`. Run manually or via GitHub Action. |
 | `scripts/build_draft_grades.py` | **Run separately** after `build_data.py`. Pulls 12-team PPR ADP and ESPN player season totals, computes per-pick value (ADP position rank − actual position rank), grades managers on a curve within each year, writes `public/data/draft_grades/{year}/{slug}.json`. Also writes raw ADP archive to `public/data/adp/{year}.json` (preserved in git) for resilience against ADP sources going down. Grades 2023, 2024, 2025. ADP source: Fantasy Football Calculator's free JSON API for years 2023+2024, falls back to scraping FantasyPros' archive page for 2025 (FFC doesn't have it). Only QB/RB/WR/TE picks are graded (K and D/ST are dart throws). Requires `requests` + `beautifulsoup4`. |
+| `scripts/audit_data.py` | **Data-integrity audit (internal).** 16 cross-checks over `public/data` — careers vs standings vs history, H2H mirroring + reconciliation against `scores/`, draft board vs per-owner picks, trade gave/got mirroring, FAAB rollups + duplicate-row detection, referential integrity on every slug. Run `python scripts/audit_data.py` from the repo root; exits with a printed PASS/FAIL per check. Run it after any `build_data.py` change. |
+| `scripts/audit_groundtruth.py` | **Data-integrity audit (vs ESPN).** Re-pulls every season from ESPN and diffs W-L, PF, PA, team names, finish order and every draft pick against the committed JSON. Catches the class of error internal checks cannot — data that is self-consistently wrong. Slower (one League fetch per season). |
 | `scripts/build_backup_db.py` | **Run separately** for a deeper SQLite snapshot. Mirrors all ESPN data into `backup/league.db` plus a player-level `roster_slots` table (every player's weekly score). Also imports the raw ADP JSON archives written by `build_draft_grades.py` into an `adp_picks` table — so the SQLite file is fully self-contained even if FFC and FantasyPros both vanish. Slow (~5-10 min) due to box-score fetching with rate limiting. |
 | `public/data/league.json` | Meta: league name, current week, available years, last-updated timestamp. |
 | `public/data/standings/{year}.json` | One-year standings + per-team summary. |
@@ -383,6 +385,41 @@ git diff public/data/history.json         # only the new season should appear
 If a *prior* season's file shows up in that diff, stop and investigate
 before committing — that's history being rewritten.
 
+### `transactions(scoring_period=N)` ignores N for the IN-PROGRESS season
+
+**This silently multiplies live-season data by 18.** ESPN honours the
+`scoringPeriodId` filter only for *completed* seasons. For the season
+currently in progress it ignores the parameter and returns the **entire**
+transaction list for every week you ask for. `build_faab` loops weeks
+1-18, so each real move was recorded up to 18 times.
+
+Caught by the 2026-09-05 audit: `faab/2026.json` held **108 rows for 6
+actual transactions** (94% redundant). Verified directly against the API —
+requesting `scoring_period=5` returned rows tagged `scoringPeriodId: 1`.
+2023/2024/2025 were unaffected (100% of returned rows matched the
+requested week, 0 duplicates).
+
+**Fix** (in `build_faab`): trust the transaction's own period, not the
+loop variable —
+
+```python
+if getattr(tx, "scoring_period", week) not in (week, None):
+    continue
+```
+
+Provably a no-op on completed seasons; regenerating touched only
+`faab/2026.json`, leaving 2023-2025 byte-identical.
+
+**Why this matters going forward:** the bug compounds. It looked minor at
+6 real transactions in the preseason, but every waiver move made during
+2026 would have been inflated 18x by the hourly cron. If you add any new
+per-week ESPN fetch loop, assume this behaviour and filter on the
+returned object's own week.
+
+**Not affected:** `build_trades` collects into a dict keyed by ESPN
+transaction id (`all_txns[t["id"]] = t`), so duplicates collapse by
+construction. `build_h2h` uses `box_scores(week)`, which is week-correct.
+
 ### H2H totals intentionally do NOT reconcile with career W-L (playoffs)
 
 **Do not "fix" this without reading the whole entry.** A manager's H2H
@@ -499,6 +536,54 @@ Phase 2 candidates (pick based on which gets clicks):
 ---
 
 ## Changelog
+
+### 2026-09-05 (later ×2) — Full data-integrity audit; FAAB duplication bug fixed
+
+**Why:** Owner asked for an audit confirming everything the site displays
+is accurate — stats, trades, drafts, transactions.
+
+**Method (both halves matter):** internal consistency alone can be
+self-consistently wrong, so the audit ran two independent passes.
+1. *Internal* — 16 checks cross-referencing every dataset against its own
+   sources (audit script kept at `scratchpad/audit.py`; re-runnable).
+2. *Ground truth* — re-pulled all four seasons from ESPN and diffed W-L,
+   PF, PA, team names, finish order and every draft pick
+   (`scratchpad/groundtruth.py`).
+
+**Result: 16/16 internal checks pass, 0 mismatches vs ESPN** across 2023-
+2026 (48 team-seasons, 732 draft picks). Notable checks that passed:
+league-wide PF==PA zero-sum per season; H2H mirroring (A-vs-B == inverse
+of B-vs-A on both record and points); weekly `scores/` reconciling to
+season W-L; draft board == per-owner picks with no player drafted twice;
+trade gave/got mirroring; full slug referential integrity.
+
+**One real bug found and fixed** — see the
+`transactions(scoring_period=N)` gotcha for the full write-up.
+`faab/2026.json` had 108 rows for 6 real transactions because ESPN
+ignores the week filter on an in-progress season. Fixed in `build_faab`
+by trusting each transaction's own `scoring_period`. Regenerating touched
+**only** `faab/2026.json` — 2023-2025 stayed byte-identical, confirming
+the guard is a no-op on completed seasons. Left unfixed, the hourly cron
+would have inflated every 2026 waiver move 18x all season.
+
+**Two false alarms, corrected in the audit rather than the data:**
+- draft-grade `steals`/`busts` arrays are deliberately truncated to top 5
+  for display while `*_count` tallies every qualifying pick, so
+  `count > len(array)` is correct.
+- `faab/owners/*` totals come from ESPN's team counters
+  (`team.acquisitions` / `acquisition_budget_spent`), *not* from summing
+  the transaction list — two independent sources that legitimately differ
+  slightly (ESPN's counter excludes some add types). Worth knowing before
+  anyone tries to make them equal.
+
+**Coverage gaps that are correct, not missing data:** 2026 has no
+`scores/` (no games played) and no `draft_grades/` (grading needs
+end-of-season player totals). Both are `try`/`catch`-guarded in
+`managers/[slug]/[year]/page.tsx`, so those sections degrade gracefully.
+Run `build_draft_grades.py` for 2026 after the season ends.
+
+**Files changed:** `scripts/build_data.py` (the guard),
+`public/data/faab/2026.json` (regenerated), `AGENTS.md`.
 
 ### 2026-09-05 (later) — Slot-inheritance audit + H2H/career W-L discrepancy documented
 

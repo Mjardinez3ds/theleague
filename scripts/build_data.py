@@ -555,6 +555,17 @@ def build_faab(
             for tx in txns:
                 if tx.status != "EXECUTED":
                     continue  # Skip failed/cancelled
+
+                # ESPN honours ?scoringPeriodId only for COMPLETED seasons. For
+                # the in-progress season it ignores the filter and returns the
+                # whole transaction list on every week we ask for, so without
+                # this guard each real move gets recorded up to 18 times (2026
+                # was 108 rows for 6 actual transactions). The objects carry
+                # their true period, so trust that over the loop variable.
+                # Verified no-op on 2023-2025, where the filter works.
+                if getattr(tx, "scoring_period", week) not in (week, None):
+                    continue
+
                 team = tx.team
                 if team is None:
                     continue
