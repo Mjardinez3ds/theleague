@@ -348,10 +348,27 @@ the franchise slot, not the human who earned them.
 anyone "fixes" it. `build_data.py` fetches each season independently and
 reads that season's own owner records, then resolves identity by
 `(firstName, lastName)`. It never infers ownership from slot/team id
-continuity. Verified after the 2026 pull: `standings/2025.json` was
-byte-identical to its previous version, `super-shyguy` still has
-`titles: 1` with 2025 `finish: 1`, and `jordan-van-leesten` has
-`titles: 0` and no 2025 season at all.
+continuity: **every `team_id → owner` map is rebuilt inside the per-year
+loop** (`build_h2h`, `build_faab`, `build_trades`), so a team id is only
+ever meaningful within one season. The only structure spanning years is
+the identity resolution, keyed on the person's name.
+
+**Full audit performed 2026-09-05** — the slot hand-off is real and
+observable in our data, and nothing followed it:
+
+```
+slot id=10  2024  Super Shyguy        <- slot 10 was Shy Guy's
+slot id=10  2025  Super Shyguy
+slot id=10  2026  Jordan van Leesten  <- JV inherited the slot
+slot id= 4  2026  Super Shyguy        <- Shy Guy returned to a NEW slot
+```
+
+Despite that, `super-shyguy` keeps 19-9, `titles: 1`, and seasons/FAAB/
+draft files for 2024+2025+2026, while `jordan-van-leesten` has 0-0,
+`titles: 0`, only 2026 across every dataset, and no `h2h/` file at all.
+Cumulative totals (careers, H2H, FAAB, drafts) were all checked, not just
+standings. No need to re-audit this unless the pipeline's per-year
+scoping changes.
 
 **What to do if this comes up again:** nothing — but *do* re-verify rather
 than assume, because a future ESPN change that backfills historical owner
@@ -365,6 +382,33 @@ git diff public/data/history.json         # only the new season should appear
 
 If a *prior* season's file shows up in that diff, stop and investigate
 before committing — that's history being rewritten.
+
+### H2H totals intentionally do NOT reconcile with career W-L (playoffs)
+
+**Do not "fix" this without reading the whole entry.** A manager's H2H
+table sums to a *different* record than the career W-L shown on the same
+profile page. This is expected and affects every manager:
+
+| Manager | H2H sum | Career W-L | Gap |
+|---|---|---|---|
+| `super-shyguy` | 21-12 | 19-9 | 5 games |
+| `chris-peralta` | 31-17 | 28-14 | 6 games |
+| `derf-punk` | 22-28-1 | 16-25-1 | 9 games |
+
+**Cause:** `build_h2h` accumulates from every deduped matchup, which
+*includes playoff weeks* (the `is_playoff` rows are deliberately kept —
+only ESPN's duplicated 2-week playoff matchups get deduped). Career W-L
+comes from ESPN's `team.wins` / `team.losses`, which count the
+**regular season only**. So the gap for each manager is exactly their
+playoff games — deeper title runs produce bigger gaps, which is why the
+spread is 3-9 games and correlates with postseason success.
+
+**Decision (2026-09-05, owner):** leave as-is and document. Both numbers
+are individually correct, and for a league that cares about title runs,
+silently dropping championship-game meetings from H2H would be the worse
+trade. If this ever becomes confusing to users, the preferred fix is to
+*split* H2H into regular-season and playoff columns rather than to
+exclude playoff games.
 
 ### ESPN cookies (`ESPN_S2`, `SWID`) expire annually
 Symptoms: 401s on private-league endpoints (rosters, transactions) but
@@ -455,6 +499,31 @@ Phase 2 candidates (pick based on which gets clicks):
 ---
 
 ## Changelog
+
+### 2026-09-05 (later) — Slot-inheritance audit + H2H/career W-L discrepancy documented
+
+**Why:** Owner asked whether the ESPN franchise-slot hand-off between
+Super Shyguy and Jordan van Leesten skews the cumulative totals we track.
+Short answer: no. This entry records the audit so nobody has to redo it.
+
+**Audit result (no code changes needed):** the pipeline never uses team id
+as a cross-season key — every `team_id → owner` map is rebuilt inside the
+per-year loop. Confirmed empirically: slot 10 passed from Shy Guy (2024,
+2025) to JV (2026) while Shy Guy moved to a new slot 4, and none of Shy
+Guy's record followed the slot. Details + the evidence table now live in
+the franchise-slot gotcha section.
+
+**Separate pre-existing issue found and documented (not fixed, by
+decision):** H2H totals don't reconcile with career W-L for *any*
+manager — H2H includes playoff games, career W-L is ESPN's regular-season
+`team.wins`/`team.losses`. Gaps run 3-9 games and correlate with playoff
+success. Owner chose to leave the behaviour and document it rather than
+change either number, since dropping playoff meetings from H2H would be
+the worse trade for a league that cares about title runs. Written up in
+the ESPN gotchas section with the preferred fix (split regular-season vs
+playoff columns) if it ever needs revisiting.
+
+**Files changed:** `AGENTS.md` only.
 
 ### 2026-09-05 — 2026 season onboarded (draft data, new manager, kickoff countdown)
 
