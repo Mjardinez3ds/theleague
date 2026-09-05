@@ -43,6 +43,17 @@
       "points_against": 1596.0,
       "finish": 5,
       "league_size": 12
+    },
+    {
+      "year": 2026,
+      "team_name": "CuckforBuck",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0,
+      "points_for": 0,
+      "points_against": 0,
+      "finish": null,
+      "league_size": 12
     }
   ],
   "win_pct": 53.6,

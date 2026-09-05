@@ -34,6 +34,17 @@
           "points_against": 1499.9,
           "finish": 1,
           "league_size": 12
+        },
+        {
+          "year": 2026,
+          "team_name": "Shyguy Snakes",
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "finish": null,
+          "league_size": 12
         }
       ],
       "win_pct": 67.9,
@@ -83,6 +94,17 @@
           "points_for": 1857.3,
           "points_against": 1771.5,
           "finish": 2,
+          "league_size": 12
+        },
+        {
+          "year": 2026,
+          "team_name": "Dean Trumbell",
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "finish": null,
           "league_size": 12
         }
       ],
@@ -151,6 +173,17 @@
           "points_against": 1605.0,
           "finish": 3,
           "league_size": 12
+        },
+        {
+          "year": 2026,
+          "team_name": "Foot In Your A**",
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "finish": null,
+          "league_size": 12
         }
       ],
       "win_pct": 57.1,
@@ -201,6 +234,17 @@
           "points_against": 1596.0,
           "finish": 5,
           "league_size": 12
+        },
+        {
+          "year": 2026,
+          "team_name": "CuckforBuck",
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "finish": null,
+          "league_size": 12
         }
       ],
       "win_pct": 53.6,
@@ -250,6 +294,17 @@
           "points_for": 1472.2,
           "points_against": 1588.6,
           "finish": 7,
+          "league_size": 12
+        },
+        {
+          "year": 2026,
+          "team_name": "elcampeonnnn",
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "finish": null,
           "league_size": 12
         }
       ],
@@ -357,6 +412,17 @@
           "points_against": 1651.8,
           "finish": 11,
           "league_size": 12
+        },
+        {
+          "year": 2026,
+          "team_name": "Pausa de Hidratacion ",
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "finish": null,
+          "league_size": 12
         }
       ],
       "win_pct": 47.6,
@@ -406,6 +472,17 @@
           "points_for": 1677.8,
           "points_against": 1744.3,
           "finish": 10,
+          "league_size": 12
+        },
+        {
+          "year": 2026,
+          "team_name": "SLOB",
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "finish": null,
           "league_size": 12
         }
       ],
@@ -457,6 +534,17 @@
           "points_against": 1693.6,
           "finish": 4,
           "league_size": 12
+        },
+        {
+          "year": 2026,
+          "team_name": "Skatt brain mush",
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "finish": null,
+          "league_size": 12
         }
       ],
       "win_pct": 47.6,
@@ -506,6 +594,17 @@
           "points_for": 1718.1,
           "points_against": 1689.9,
           "finish": 12,
+          "league_size": 12
+        },
+        {
+          "year": 2026,
+          "team_name": "Serving Punt",
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "finish": null,
           "league_size": 12
         }
       ],
@@ -585,6 +684,17 @@
           "points_against": 1552.1,
           "finish": 9,
           "league_size": 12
+        },
+        {
+          "year": 2026,
+          "team_name": "monke",
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "finish": null,
+          "league_size": 12
         }
       ],
       "win_pct": 39.3,
@@ -623,6 +733,17 @@
           "points_for": 1329.1,
           "points_against": 1558.9,
           "finish": 8,
+          "league_size": 12
+        },
+        {
+          "year": 2026,
+          "team_name": "Big Nix Energy",
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "finish": null,
           "league_size": 12
         }
       ],
@@ -667,6 +788,34 @@
       ],
       "win_pct": 35.7,
       "games": 28
+    },
+    {
+      "owner": "Jordan van Leesten",
+      "slug": "jordan-van-leesten",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0,
+      "points_for": 0.0,
+      "points_against": 0.0,
+      "titles": 0,
+      "runners_up": 0,
+      "thirds": 0,
+      "lasts": 0,
+      "seasons": [
+        {
+          "year": 2026,
+          "team_name": "Maybe: SUV Hong",
+          "wins": 0,
+          "losses": 0,
+          "ties": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "finish": null,
+          "league_size": 12
+        }
+      ],
+      "win_pct": 0,
+      "games": 0
     }
   ]
 }

@@ -1,0 +1,86 @@
+[
+  {
+    "round": 1,
+    "pick": 10,
+    "player": "Chase Brown",
+    "position": "RB"
+  },
+  {
+    "round": 2,
+    "pick": 3,
+    "player": "Brock Bowers",
+    "position": "TE"
+  },
+  {
+    "round": 3,
+    "pick": 10,
+    "player": "Ladd McConkey",
+    "position": "WR"
+  },
+  {
+    "round": 4,
+    "pick": 3,
+    "player": "Travis Etienne Jr.",
+    "position": "RB"
+  },
+  {
+    "round": 5,
+    "pick": 10,
+    "player": "Jadarian Price",
+    "position": "RB"
+  },
+  {
+    "round": 6,
+    "pick": 3,
+    "player": "Marvin Harrison Jr.",
+    "position": "WR"
+  },
+  {
+    "round": 7,
+    "pick": 10,
+    "player": "Jayden Daniels",
+    "position": "QB"
+  },
+  {
+    "round": 8,
+    "pick": 3,
+    "player": "Josh Downs",
+    "position": "WR"
+  },
+  {
+    "round": 9,
+    "pick": 10,
+    "player": "Jayden Reed",
+    "position": "WR"
+  },
+  {
+    "round": 10,
+    "pick": 3,
+    "player": "KC Concepcion",
+    "position": "WR"
+  },
+  {
+    "round": 11,
+    "pick": 10,
+    "player": "Keaton Mitchell",
+    "position": "RB"
+  },
+  {
+    "round": 12,
+    "pick": 3,
+    "player": "Jonah Coleman",
+    "position": "RB"
+  },
+  {
+    "round": 13,
+    "pick": 10,
+    "player": "Emmett Johnson",
+    "position": "RB"
+  },
+  {
+    "round": 14,
+    "pick": 3,
+    "player": "Cam Little",
+    "position": "K"
+  }
+]

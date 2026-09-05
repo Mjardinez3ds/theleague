@@ -1,0 +1,86 @@
+[
+  {
+    "round": 1,
+    "pick": 8,
+    "player": "Amon-Ra St. Brown",
+    "position": "WR"
+  },
+  {
+    "round": 2,
+    "pick": 5,
+    "player": "Drake London",
+    "position": "WR"
+  },
+  {
+    "round": 3,
+    "pick": 8,
+    "player": "Trey McBride",
+    "position": "TE"
+  },
+  {
+    "round": 4,
+    "pick": 5,
+    "player": "Lamar Jackson",
+    "position": "QB"
+  },
+  {
+    "round": 5,
+    "pick": 8,
+    "player": "Terry McLaurin",
+    "position": "WR"
+  },
+  {
+    "round": 6,
+    "pick": 5,
+    "player": "TreVeyon Henderson",
+    "position": "RB"
+  },
+  {
+    "round": 7,
+    "pick": 8,
+    "player": "Rico Dowdle",
+    "position": "RB"
+  },
+  {
+    "round": 8,
+    "pick": 5,
+    "player": "Josh Jacobs",
+    "position": "RB"
+  },
+  {
+    "round": 9,
+    "pick": 8,
+    "player": "Mike Washington Jr.",
+    "position": "RB"
+  },
+  {
+    "round": 10,
+    "pick": 5,
+    "player": "Makai Lemon",
+    "position": "WR"
+  },
+  {
+    "round": 11,
+    "pick": 8,
+    "player": "Dalton Kincaid",
+    "position": "TE"
+  },
+  {
+    "round": 12,
+    "pick": 5,
+    "player": "Chris Rodriguez Jr.",
+    "position": "RB"
+  },
+  {
+    "round": 13,
+    "pick": 8,
+    "player": "Ka'imi Fairbairn",
+    "position": "K"
+  },
+  {
+    "round": 14,
+    "pick": 5,
+    "player": "Bo Nix",
+    "position": "QB"
+  }
+]

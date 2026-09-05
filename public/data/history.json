@@ -1,6 +1,14 @@
 {
   "seasons": [
     {
+      "year": 2026,
+      "league_name": "The League 2026",
+      "champion": null,
+      "runner_up": null,
+      "third": null,
+      "last": null
+    },
+    {
       "year": 2025,
       "league_name": "The League 2025",
       "champion": {

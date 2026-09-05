@@ -3,7 +3,7 @@
   "owner": "George Duran",
   "totals": {
     "acquisitions": 149,
-    "spent": 271,
+    "spent": 272,
     "biggest_bid": {
       "year": 2025,
       "week": 8,
@@ -13,6 +13,12 @@
     }
   },
   "by_year": [
+    {
+      "year": 2026,
+      "team_name": "SLOB",
+      "acquisitions": 0,
+      "spent": 1
+    },
     {
       "year": 2025,
       "team_name": "Farmed",

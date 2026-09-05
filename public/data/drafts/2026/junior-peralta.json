@@ -1,0 +1,86 @@
+[
+  {
+    "round": 1,
+    "pick": 5,
+    "player": "Ja'Marr Chase",
+    "position": "WR"
+  },
+  {
+    "round": 2,
+    "pick": 8,
+    "player": "De'Von Achane",
+    "position": "RB"
+  },
+  {
+    "round": 3,
+    "pick": 5,
+    "player": "Rashee Rice",
+    "position": "WR"
+  },
+  {
+    "round": 4,
+    "pick": 8,
+    "player": "Colston Loveland",
+    "position": "TE"
+  },
+  {
+    "round": 5,
+    "pick": 5,
+    "player": "Emeka Egbuka",
+    "position": "WR"
+  },
+  {
+    "round": 6,
+    "pick": 8,
+    "player": "Joe Burrow",
+    "position": "QB"
+  },
+  {
+    "round": 7,
+    "pick": 5,
+    "player": "MarShawn Lloyd",
+    "position": "RB"
+  },
+  {
+    "round": 8,
+    "pick": 8,
+    "player": "Stefon Diggs",
+    "position": "WR"
+  },
+  {
+    "round": 9,
+    "pick": 5,
+    "player": "Jacory Croskey-Merritt",
+    "position": "RB"
+  },
+  {
+    "round": 10,
+    "pick": 8,
+    "player": "Deebo Samuel Sr.",
+    "position": "WR"
+  },
+  {
+    "round": 11,
+    "pick": 5,
+    "player": "Jake Ferguson",
+    "position": "TE"
+  },
+  {
+    "round": 12,
+    "pick": 8,
+    "player": "Caleb Douglas",
+    "position": ""
+  },
+  {
+    "round": 13,
+    "pick": 5,
+    "player": "Jaylen Wright",
+    "position": "RB"
+  },
+  {
+    "round": 14,
+    "pick": 8,
+    "player": "Harrison Mevis",
+    "position": "K"
+  }
+]

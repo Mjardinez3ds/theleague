@@ -113,16 +113,10 @@ export const getOwner = (slug: string) =>
 export const getTrades = (year: number) =>
   readJson<TradesData>(`trades/${year}.json`);
 
-export type UpcomingManager = {
-  name: string;
-  slug: string | null; // null = manager has no profile page (e.g. only in a pre-dataset year)
-};
-
 export type UpcomingSeason = {
   year: number;
-  draft_date: string;        // ISO YYYY-MM-DD, used by the live countdown
-  draft_date_label: string;  // Pretty label shown in UI
-  managers: UpcomingManager[];
+  kickoff_date: string;        // ISO YYYY-MM-DD, used by the live countdown
+  kickoff_date_label: string;  // Pretty label shown in UI
 };
 
 export const getUpcomingSeason = () =>

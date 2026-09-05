@@ -3,16 +3,16 @@
 import { useEffect, useState } from "react";
 
 /**
- * Client-only countdown to draft day. Renders a placeholder server-side
+ * Client-only countdown to Week 1 kickoff. Renders a placeholder server-side
  * (so the static page hydrates without a flash) and then computes the live
  * day count once mounted.
  */
-export default function DraftCountdown({
+export default function SeasonCountdown({
   isoDate,
   label,
 }: {
   isoDate: string;       // "YYYY-MM-DD"
-  label: string;         // "Sunday, September 6, 2026"
+  label: string;         // "Wednesday, September 9, 2026"
 }) {
   const [days, setDays] = useState<number | null>(null);
 
@@ -30,7 +30,7 @@ export default function DraftCountdown({
   return (
     <div className="rounded-2xl border border-app bg-elev p-5 text-center">
       <p className="text-[11px] font-bold tracking-widest text-accent mb-2">
-        🎯 DRAFT DAY
+        🏈 WEEK 1 KICKOFF
       </p>
       <p className="text-lg font-extrabold mb-3 leading-tight">{label}</p>
       <div className="flex items-baseline justify-center gap-2">

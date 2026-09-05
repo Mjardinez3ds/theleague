@@ -1,0 +1,86 @@
+[
+  {
+    "round": 1,
+    "pick": 9,
+    "player": "CeeDee Lamb",
+    "position": "WR"
+  },
+  {
+    "round": 2,
+    "pick": 4,
+    "player": "Justin Jefferson",
+    "position": "WR"
+  },
+  {
+    "round": 3,
+    "pick": 9,
+    "player": "Jeremiyah Love",
+    "position": "RB"
+  },
+  {
+    "round": 4,
+    "pick": 4,
+    "player": "Jaylen Waddle",
+    "position": "WR"
+  },
+  {
+    "round": 5,
+    "pick": 9,
+    "player": "Bhayshul Tuten",
+    "position": "RB"
+  },
+  {
+    "round": 6,
+    "pick": 4,
+    "player": "Drake Maye",
+    "position": "QB"
+  },
+  {
+    "round": 7,
+    "pick": 9,
+    "player": "Kenny Gainwell",
+    "position": "RB"
+  },
+  {
+    "round": 8,
+    "pick": 4,
+    "player": "Blake Corum",
+    "position": "RB"
+  },
+  {
+    "round": 9,
+    "pick": 9,
+    "player": "De'Zhaun Stribling",
+    "position": "WR"
+  },
+  {
+    "round": 10,
+    "pick": 4,
+    "player": "Brandon Aubrey",
+    "position": "K"
+  },
+  {
+    "round": 11,
+    "pick": 9,
+    "player": "Tyler Allgeier",
+    "position": "RB"
+  },
+  {
+    "round": 12,
+    "pick": 4,
+    "player": "Kaelon Black",
+    "position": "RB"
+  },
+  {
+    "round": 13,
+    "pick": 9,
+    "player": "Hunter Henry",
+    "position": "TE"
+  },
+  {
+    "round": 14,
+    "pick": 4,
+    "player": "Chris Bell",
+    "position": "WR"
+  }
+]

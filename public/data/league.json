@@ -1,13 +1,14 @@
 {
   "league_id": 1917791320,
-  "league_name": "The League 2025",
-  "current_year": 2025,
-  "current_week": 17,
+  "league_name": "The League 2026",
+  "current_year": 2026,
+  "current_week": 1,
   "years": [
     2023,
     2024,
-    2025
+    2025,
+    2026
   ],
   "team_count": 12,
-  "updated_at": "2026-05-11T21:36:13.127677+00:00"
+  "updated_at": "2026-09-05T18:36:01.508919+00:00"
 }

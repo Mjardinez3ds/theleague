@@ -1,0 +1,1603 @@
+{
+  "year": 2026,
+  "transactions": [
+    {
+      "week": 1,
+      "date": "2026-09-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Cyrus Allen"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2026-09-01",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justice Hill"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2026-09-01",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Devaughn Vele"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2026-09-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Chris Brooks"
+      ],
+      "dropped": [
+        "Caleb Douglas"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2026-09-02",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jerry Jeudy"
+      ],
+      "dropped": [
+        "Kenyon Sadiq"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2026-09-03",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Roschon Johnson"
+      ],
+      "dropped": [
+        "Justice Hill"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2026-09-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Cyrus Allen"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2026-09-01",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justice Hill"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2026-09-01",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Devaughn Vele"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2026-09-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Chris Brooks"
+      ],
+      "dropped": [
+        "Caleb Douglas"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2026-09-02",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jerry Jeudy"
+      ],
+      "dropped": [
+        "Kenyon Sadiq"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2026-09-03",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Roschon Johnson"
+      ],
+      "dropped": [
+        "Justice Hill"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2026-09-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Cyrus Allen"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2026-09-01",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justice Hill"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2026-09-01",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Devaughn Vele"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2026-09-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Chris Brooks"
+      ],
+      "dropped": [
+        "Caleb Douglas"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2026-09-02",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jerry Jeudy"
+      ],
+      "dropped": [
+        "Kenyon Sadiq"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2026-09-03",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Roschon Johnson"
+      ],
+      "dropped": [
+        "Justice Hill"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-09-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Cyrus Allen"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2026-09-01",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justice Hill"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2026-09-01",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Devaughn Vele"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2026-09-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Chris Brooks"
+      ],
+      "dropped": [
+        "Caleb Douglas"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-09-02",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jerry Jeudy"
+      ],
+      "dropped": [
+        "Kenyon Sadiq"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-09-03",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Roschon Johnson"
+      ],
+      "dropped": [
+        "Justice Hill"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2026-09-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Cyrus Allen"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2026-09-01",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justice Hill"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2026-09-01",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Devaughn Vele"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2026-09-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Chris Brooks"
+      ],
+      "dropped": [
+        "Caleb Douglas"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2026-09-02",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jerry Jeudy"
+      ],
+      "dropped": [
+        "Kenyon Sadiq"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2026-09-03",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Roschon Johnson"
+      ],
+      "dropped": [
+        "Justice Hill"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2026-09-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Cyrus Allen"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2026-09-01",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justice Hill"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2026-09-01",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Devaughn Vele"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2026-09-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Chris Brooks"
+      ],
+      "dropped": [
+        "Caleb Douglas"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2026-09-02",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jerry Jeudy"
+      ],
+      "dropped": [
+        "Kenyon Sadiq"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2026-09-03",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Roschon Johnson"
+      ],
+      "dropped": [
+        "Justice Hill"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2026-09-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Cyrus Allen"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2026-09-01",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justice Hill"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2026-09-01",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Devaughn Vele"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2026-09-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Chris Brooks"
+      ],
+      "dropped": [
+        "Caleb Douglas"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2026-09-02",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jerry Jeudy"
+      ],
+      "dropped": [
+        "Kenyon Sadiq"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2026-09-03",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Roschon Johnson"
+      ],
+      "dropped": [
+        "Justice Hill"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2026-09-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Cyrus Allen"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2026-09-01",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justice Hill"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2026-09-01",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Devaughn Vele"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2026-09-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Chris Brooks"
+      ],
+      "dropped": [
+        "Caleb Douglas"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2026-09-02",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jerry Jeudy"
+      ],
+      "dropped": [
+        "Kenyon Sadiq"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2026-09-03",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Roschon Johnson"
+      ],
+      "dropped": [
+        "Justice Hill"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2026-09-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Cyrus Allen"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2026-09-01",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justice Hill"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2026-09-01",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Devaughn Vele"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2026-09-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Chris Brooks"
+      ],
+      "dropped": [
+        "Caleb Douglas"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2026-09-02",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jerry Jeudy"
+      ],
+      "dropped": [
+        "Kenyon Sadiq"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2026-09-03",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Roschon Johnson"
+      ],
+      "dropped": [
+        "Justice Hill"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2026-09-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Cyrus Allen"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2026-09-01",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justice Hill"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2026-09-01",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Devaughn Vele"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2026-09-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Chris Brooks"
+      ],
+      "dropped": [
+        "Caleb Douglas"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2026-09-02",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jerry Jeudy"
+      ],
+      "dropped": [
+        "Kenyon Sadiq"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2026-09-03",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Roschon Johnson"
+      ],
+      "dropped": [
+        "Justice Hill"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2026-09-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Cyrus Allen"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2026-09-01",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justice Hill"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2026-09-01",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Devaughn Vele"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2026-09-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Chris Brooks"
+      ],
+      "dropped": [
+        "Caleb Douglas"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2026-09-02",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jerry Jeudy"
+      ],
+      "dropped": [
+        "Kenyon Sadiq"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2026-09-03",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Roschon Johnson"
+      ],
+      "dropped": [
+        "Justice Hill"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2026-09-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Cyrus Allen"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2026-09-01",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justice Hill"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2026-09-01",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Devaughn Vele"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2026-09-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Chris Brooks"
+      ],
+      "dropped": [
+        "Caleb Douglas"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2026-09-02",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jerry Jeudy"
+      ],
+      "dropped": [
+        "Kenyon Sadiq"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2026-09-03",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Roschon Johnson"
+      ],
+      "dropped": [
+        "Justice Hill"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2026-09-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Cyrus Allen"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2026-09-01",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justice Hill"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2026-09-01",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Devaughn Vele"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2026-09-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Chris Brooks"
+      ],
+      "dropped": [
+        "Caleb Douglas"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2026-09-02",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jerry Jeudy"
+      ],
+      "dropped": [
+        "Kenyon Sadiq"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2026-09-03",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Roschon Johnson"
+      ],
+      "dropped": [
+        "Justice Hill"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2026-09-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Cyrus Allen"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2026-09-01",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justice Hill"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2026-09-01",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Devaughn Vele"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2026-09-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Chris Brooks"
+      ],
+      "dropped": [
+        "Caleb Douglas"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2026-09-02",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jerry Jeudy"
+      ],
+      "dropped": [
+        "Kenyon Sadiq"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2026-09-03",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Roschon Johnson"
+      ],
+      "dropped": [
+        "Justice Hill"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2026-09-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Cyrus Allen"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2026-09-01",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justice Hill"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2026-09-01",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Devaughn Vele"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2026-09-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Chris Brooks"
+      ],
+      "dropped": [
+        "Caleb Douglas"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2026-09-02",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jerry Jeudy"
+      ],
+      "dropped": [
+        "Kenyon Sadiq"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2026-09-03",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Roschon Johnson"
+      ],
+      "dropped": [
+        "Justice Hill"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2026-09-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Cyrus Allen"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 16,
+      "date": "2026-09-01",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justice Hill"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 16,
+      "date": "2026-09-01",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Devaughn Vele"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 16,
+      "date": "2026-09-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Chris Brooks"
+      ],
+      "dropped": [
+        "Caleb Douglas"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2026-09-02",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jerry Jeudy"
+      ],
+      "dropped": [
+        "Kenyon Sadiq"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2026-09-03",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Roschon Johnson"
+      ],
+      "dropped": [
+        "Justice Hill"
+      ]
+    },
+    {
+      "week": 17,
+      "date": "2026-09-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Cyrus Allen"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 17,
+      "date": "2026-09-01",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justice Hill"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 17,
+      "date": "2026-09-01",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Devaughn Vele"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 17,
+      "date": "2026-09-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Chris Brooks"
+      ],
+      "dropped": [
+        "Caleb Douglas"
+      ]
+    },
+    {
+      "week": 17,
+      "date": "2026-09-02",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jerry Jeudy"
+      ],
+      "dropped": [
+        "Kenyon Sadiq"
+      ]
+    },
+    {
+      "week": 17,
+      "date": "2026-09-03",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Roschon Johnson"
+      ],
+      "dropped": [
+        "Justice Hill"
+      ]
+    },
+    {
+      "week": 18,
+      "date": "2026-09-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Cyrus Allen"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 18,
+      "date": "2026-09-01",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justice Hill"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 18,
+      "date": "2026-09-01",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Devaughn Vele"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 18,
+      "date": "2026-09-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Chris Brooks"
+      ],
+      "dropped": [
+        "Caleb Douglas"
+      ]
+    },
+    {
+      "week": 18,
+      "date": "2026-09-02",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jerry Jeudy"
+      ],
+      "dropped": [
+        "Kenyon Sadiq"
+      ]
+    },
+    {
+      "week": 18,
+      "date": "2026-09-03",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Roschon Johnson"
+      ],
+      "dropped": [
+        "Justice Hill"
+      ]
+    }
+  ],
+  "team_totals": [
+    {
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "acquisitions": 0,
+      "spent": 1
+    },
+    {
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "acquisitions": 0,
+      "spent": 1
+    },
+    {
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dean Trumbell",
+      "acquisitions": 0,
+      "spent": 0
+    },
+    {
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "acquisitions": 0,
+      "spent": 0
+    },
+    {
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "acquisitions": 0,
+      "spent": 0
+    },
+    {
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "acquisitions": 0,
+      "spent": 0
+    },
+    {
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "CuckforBuck",
+      "acquisitions": 0,
+      "spent": 0
+    },
+    {
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "monke",
+      "acquisitions": 0,
+      "spent": 0
+    },
+    {
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Skatt brain mush",
+      "acquisitions": 0,
+      "spent": 0
+    },
+    {
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "acquisitions": 0,
+      "spent": 0
+    },
+    {
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "acquisitions": 0,
+      "spent": 0
+    },
+    {
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Foot In Your A**",
+      "acquisitions": 0,
+      "spent": 0
+    }
+  ]
+}

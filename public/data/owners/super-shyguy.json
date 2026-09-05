@@ -32,6 +32,17 @@
       "points_against": 1499.9,
       "finish": 1,
       "league_size": 12
+    },
+    {
+      "year": 2026,
+      "team_name": "Shyguy Snakes",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0,
+      "points_for": 0,
+      "points_against": 0,
+      "finish": null,
+      "league_size": 12
     }
   ],
   "win_pct": 67.9,

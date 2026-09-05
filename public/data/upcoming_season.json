@@ -1,19 +1,5 @@
 {
   "year": 2026,
-  "draft_date": "2026-09-06",
-  "draft_date_label": "Sunday, September 6, 2026",
-  "managers": [
-    { "name": "Chris",       "slug": "chris-peralta" },
-    { "name": "Marc",        "slug": "marcus-jardinez" },
-    { "name": "George",      "slug": "george-duran" },
-    { "name": "JV",          "slug": null },
-    { "name": "Junior",      "slug": "junior-peralta" },
-    { "name": "Derf",        "slug": "derf-punk" },
-    { "name": "Kevin",       "slug": "kevin-liang" },
-    { "name": "Kebin",       "slug": "kevin-llerena" },
-    { "name": "Devon",       "slug": "devon-malki" },
-    { "name": "Chris Jones", "slug": "christopher-jones" },
-    { "name": "Matt Taylor", "slug": "matthew-taylor" },
-    { "name": "Ricky Cano",  "slug": "ricky-cano" }
-  ]
+  "kickoff_date": "2026-09-09",
+  "kickoff_date_label": "Wednesday, September 9, 2026"
 }

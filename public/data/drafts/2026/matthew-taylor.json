@@ -1,0 +1,86 @@
+[
+  {
+    "round": 1,
+    "pick": 3,
+    "player": "Jaxon Smith-Njigba",
+    "position": "WR"
+  },
+  {
+    "round": 2,
+    "pick": 10,
+    "player": "Nico Collins",
+    "position": "WR"
+  },
+  {
+    "round": 3,
+    "pick": 3,
+    "player": "Josh Allen",
+    "position": "QB"
+  },
+  {
+    "round": 4,
+    "pick": 10,
+    "player": "Bucky Irving",
+    "position": "RB"
+  },
+  {
+    "round": 5,
+    "pick": 3,
+    "player": "Davante Adams",
+    "position": "WR"
+  },
+  {
+    "round": 6,
+    "pick": 10,
+    "player": "George Kittle",
+    "position": "TE"
+  },
+  {
+    "round": 7,
+    "pick": 3,
+    "player": "Courtland Sutton",
+    "position": "WR"
+  },
+  {
+    "round": 8,
+    "pick": 10,
+    "player": "Aaron Jones Sr.",
+    "position": "RB"
+  },
+  {
+    "round": 9,
+    "pick": 3,
+    "player": "J.K. Dobbins",
+    "position": "RB"
+  },
+  {
+    "round": 10,
+    "pick": 10,
+    "player": "Travis Kelce",
+    "position": "TE"
+  },
+  {
+    "round": 11,
+    "pick": 3,
+    "player": "Tyjae Spears",
+    "position": "RB"
+  },
+  {
+    "round": 12,
+    "pick": 10,
+    "player": "Jason Myers",
+    "position": "K"
+  },
+  {
+    "round": 13,
+    "pick": 3,
+    "player": "Travis Hunter",
+    "position": "WR"
+  },
+  {
+    "round": 14,
+    "pick": 10,
+    "player": "Alvin Kamara",
+    "position": "RB"
+  }
+]

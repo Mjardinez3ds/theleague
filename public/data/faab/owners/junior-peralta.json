@@ -3,7 +3,7 @@
   "owner": "Junior Peralta",
   "totals": {
     "acquisitions": 159,
-    "spent": 297,
+    "spent": 298,
     "biggest_bid": {
       "year": 2025,
       "week": 6,
@@ -13,6 +13,12 @@
     }
   },
   "by_year": [
+    {
+      "year": 2026,
+      "team_name": "elcampeonnnn",
+      "acquisitions": 0,
+      "spent": 1
+    },
     {
       "year": 2025,
       "team_name": "SWEENEY'S B00BS",

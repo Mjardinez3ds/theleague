@@ -1,0 +1,86 @@
+[
+  {
+    "round": 1,
+    "pick": 12,
+    "player": "James Cook III",
+    "position": "RB"
+  },
+  {
+    "round": 2,
+    "pick": 1,
+    "player": "Kenneth Walker III",
+    "position": "RB"
+  },
+  {
+    "round": 3,
+    "pick": 12,
+    "player": "D'Andre Swift",
+    "position": "RB"
+  },
+  {
+    "round": 4,
+    "pick": 1,
+    "player": "Luther Burden III",
+    "position": "WR"
+  },
+  {
+    "round": 5,
+    "pick": 12,
+    "player": "Carnell Tate",
+    "position": "WR"
+  },
+  {
+    "round": 6,
+    "pick": 1,
+    "player": "Christian Watson",
+    "position": "WR"
+  },
+  {
+    "round": 7,
+    "pick": 12,
+    "player": "Alec Pierce",
+    "position": "WR"
+  },
+  {
+    "round": 8,
+    "pick": 1,
+    "player": "Tucker Kraft",
+    "position": "TE"
+  },
+  {
+    "round": 9,
+    "pick": 12,
+    "player": "Isaiah Likely",
+    "position": "TE"
+  },
+  {
+    "round": 10,
+    "pick": 1,
+    "player": "Romeo Doubs",
+    "position": "WR"
+  },
+  {
+    "round": 11,
+    "pick": 12,
+    "player": "Zach Charbonnet",
+    "position": "RB"
+  },
+  {
+    "round": 12,
+    "pick": 1,
+    "player": "Malik Willis",
+    "position": "QB"
+  },
+  {
+    "round": 13,
+    "pick": 12,
+    "player": "Ja'Kobi Lane",
+    "position": "WR"
+  },
+  {
+    "round": 14,
+    "pick": 1,
+    "player": "Tyler Loop",
+    "position": "K"
+  }
+]

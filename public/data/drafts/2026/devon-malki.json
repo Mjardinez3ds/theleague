@@ -1,0 +1,86 @@
+[
+  {
+    "round": 1,
+    "pick": 2,
+    "player": "Bijan Robinson",
+    "position": "RB"
+  },
+  {
+    "round": 2,
+    "pick": 11,
+    "player": "A.J. Brown",
+    "position": "WR"
+  },
+  {
+    "round": 3,
+    "pick": 2,
+    "player": "Chris Olave",
+    "position": "WR"
+  },
+  {
+    "round": 4,
+    "pick": 11,
+    "player": "Quinshon Judkins",
+    "position": "RB"
+  },
+  {
+    "round": 5,
+    "pick": 2,
+    "player": "Cam Skattebo",
+    "position": "RB"
+  },
+  {
+    "round": 6,
+    "pick": 11,
+    "player": "Brian Thomas Jr.",
+    "position": "WR"
+  },
+  {
+    "round": 7,
+    "pick": 2,
+    "player": "Harold Fannin Jr.",
+    "position": "TE"
+  },
+  {
+    "round": 8,
+    "pick": 11,
+    "player": "Wan'Dale Robinson",
+    "position": "WR"
+  },
+  {
+    "round": 9,
+    "pick": 2,
+    "player": "RJ Harvey",
+    "position": "RB"
+  },
+  {
+    "round": 10,
+    "pick": 11,
+    "player": "Caleb Williams",
+    "position": "QB"
+  },
+  {
+    "round": 11,
+    "pick": 2,
+    "player": "Adonai Mitchell",
+    "position": "WR"
+  },
+  {
+    "round": 12,
+    "pick": 11,
+    "player": "Brian Robinson Jr.",
+    "position": "RB"
+  },
+  {
+    "round": 13,
+    "pick": 2,
+    "player": "Brock Purdy",
+    "position": "QB"
+  },
+  {
+    "round": 14,
+    "pick": 11,
+    "player": "Chris Boswell",
+    "position": "K"
+  }
+]

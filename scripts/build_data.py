@@ -33,7 +33,7 @@ ESPN_S2 = os.getenv(
 ESPN_SWID = os.getenv("ESPN_SWID", "{9A38199A-B48F-429C-8231-3CF96680FD9E}")
 
 # Hardcode current year so we don't try to fetch a season ESPN hasn't created yet.
-CURRENT_YEAR = int(os.getenv("ESPN_CURRENT_YEAR", "2025"))
+CURRENT_YEAR = int(os.getenv("ESPN_CURRENT_YEAR", "2026"))
 
 OUT_DIR = Path(__file__).resolve().parent.parent / "public" / "data"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -697,7 +697,14 @@ def main():
             ranked = lg.standings()
         except Exception:
             ranked = sorted(lg.teams, key=lambda t: (-t.wins, -getattr(t, "points_for", 0)))
-        finish_by_id = {id(t): i + 1 for i, t in enumerate(ranked)}
+        # Before any games are played, standings() still returns a full
+        # ordering (tiebroken arbitrarily on 0-0 records) — don't let that
+        # phantom order count as a real finish (title/podium/last) in career
+        # stats or history.json.
+        season_started = any(
+            (t.wins + t.losses + getattr(t, "ties", 0)) > 0 for t in lg.teams
+        )
+        finish_by_id = {id(t): i + 1 for i, t in enumerate(ranked)} if season_started else {}
 
         teams_payload = []
         for t in lg.teams:
@@ -741,11 +748,12 @@ def main():
             "teams": sorted(teams_payload, key=lambda x: x["finish"] or 999),
         })
 
-        # History entry: top 3 + last
-        champ = ranked[0] if ranked else None
-        runner = ranked[1] if len(ranked) > 1 else None
-        third = ranked[2] if len(ranked) > 2 else None
-        last = ranked[-1] if ranked else None
+        # History entry: top 3 + last (only once the season has actually
+        # produced results — see season_started guard above)
+        champ = ranked[0] if ranked and season_started else None
+        runner = ranked[1] if len(ranked) > 1 and season_started else None
+        third = ranked[2] if len(ranked) > 2 and season_started else None
+        last = ranked[-1] if ranked and season_started else None
         history.append({
             "year": yr,
             "league_name": lg.settings.name,
