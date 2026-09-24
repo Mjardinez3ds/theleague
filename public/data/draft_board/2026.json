@@ -378,7 +378,7 @@
         {
           "round": 12,
           "player": "Caleb Douglas",
-          "position": ""
+          "position": "WR"
         },
         {
           "round": 13,
@@ -396,7 +396,7 @@
       "slot": 6,
       "owner": "Kevin Liang",
       "owner_slug": "kevin-liang",
-      "team_name": "CuckforBuck",
+      "team_name": "KingGoon",
       "picks": [
         {
           "round": 1,
@@ -544,7 +544,7 @@
         {
           "round": 14,
           "player": "Kenyon Sadiq",
-          "position": ""
+          "position": "TE"
         }
       ]
     },

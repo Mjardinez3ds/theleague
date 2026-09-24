@@ -2,8 +2,8 @@
   "slug": "derf-punk",
   "owner": "derf punk",
   "totals": {
-    "acquisitions": 117,
-    "spent": 241,
+    "acquisitions": 121,
+    "spent": 251,
     "biggest_bid": {
       "year": 2023,
       "week": 13,
@@ -16,8 +16,8 @@
     {
       "year": 2026,
       "team_name": "monke",
-      "acquisitions": 0,
-      "spent": 0
+      "acquisitions": 4,
+      "spent": 10
     },
     {
       "year": 2025,

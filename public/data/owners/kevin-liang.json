@@ -1,11 +1,11 @@
 {
   "owner": "Kevin Liang",
   "slug": "kevin-liang",
-  "wins": 22,
+  "wins": 24,
   "losses": 19,
   "ties": 1,
-  "points_for": 4996.9,
-  "points_against": 5071.8,
+  "points_for": 5297.0,
+  "points_against": 5296.0,
   "titles": 1,
   "runners_up": 0,
   "thirds": 0,
@@ -46,16 +46,16 @@
     },
     {
       "year": 2026,
-      "team_name": "CuckforBuck",
-      "wins": 0,
+      "team_name": "KingGoon",
+      "wins": 2,
       "losses": 0,
       "ties": 0,
-      "points_for": 0,
-      "points_against": 0,
+      "points_for": 300.2,
+      "points_against": 224.2,
       "finish": null,
       "league_size": 12
     }
   ],
-  "win_pct": 53.6,
-  "games": 42
+  "win_pct": 55.7,
+  "games": 44
 }

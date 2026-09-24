@@ -374,3 +374,8 @@ for n, d in FAILS:
     print(f"  FAIL {n}\n       {d}")
 if NOTES:
     print("Notes:", NOTES)
+
+# Non-zero exit so CI can gate on this. The refresh workflow runs this
+# between building the data and committing it, so a failure means nothing
+# gets committed — better a stale site than a silently corrupted one.
+sys.exit(1 if FAILS else 0)

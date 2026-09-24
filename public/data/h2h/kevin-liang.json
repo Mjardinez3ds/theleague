@@ -11,6 +11,15 @@
       "pa": 702.64
     },
     {
+      "opponent": "Devon Malki",
+      "opponent_slug": "devon-malki",
+      "wins": 4,
+      "losses": 2,
+      "ties": 0,
+      "pf": 735.74,
+      "pa": 676.76
+    },
+    {
       "opponent": "George Duran",
       "opponent_slug": "george-duran",
       "wins": 3,
@@ -18,15 +27,6 @@
       "ties": 0,
       "pf": 791.3,
       "pa": 676.22
-    },
-    {
-      "opponent": "Devon Malki",
-      "opponent_slug": "devon-malki",
-      "wins": 3,
-      "losses": 2,
-      "ties": 0,
-      "pf": 596.58,
-      "pa": 587.44
     },
     {
       "opponent": "Denniell Grijalva",
@@ -56,6 +56,15 @@
       "pa": 532.54
     },
     {
+      "opponent": "Super Shyguy",
+      "opponent_slug": "super-shyguy",
+      "wins": 2,
+      "losses": 2,
+      "ties": 0,
+      "pf": 498.66,
+      "pa": 581.16
+    },
+    {
       "opponent": "Junior Peralta",
       "opponent_slug": "junior-peralta",
       "wins": 2,
@@ -72,15 +81,6 @@
       "ties": 1,
       "pf": 324.04,
       "pa": 309.42
-    },
-    {
-      "opponent": "Super Shyguy",
-      "opponent_slug": "super-shyguy",
-      "wins": 1,
-      "losses": 2,
-      "ties": 0,
-      "pf": 337.64,
-      "pa": 446.3
     },
     {
       "opponent": "Christopher Jones",

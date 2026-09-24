@@ -1,0 +1,23 @@
+{
+  "slug": "jordan-van-leesten",
+  "records": [
+    {
+      "opponent": "Ricky Cano",
+      "opponent_slug": "ricky-cano",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pf": 170.34,
+      "pa": 135.9
+    },
+    {
+      "opponent": "Matthew Taylor",
+      "opponent_slug": "matthew-taylor",
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "pf": 131.08,
+      "pa": 199.62
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "year": 2026,
+  "weeks": [
+    {
+      "week": 1,
+      "score": 161.02,
+      "team_name": "KingGoon",
+      "opponent": "Super Shyguy",
+      "opponent_slug": "super-shyguy",
+      "opponent_team": "Shyguy Snakes",
+      "opponent_score": 134.86,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "score": 139.16,
+      "team_name": "KingGoon",
+      "opponent": "Devon Malki",
+      "opponent_slug": "devon-malki",
+      "opponent_team": "Skatt brain mush",
+      "opponent_score": 89.32,
+      "result": "W",
+      "is_playoff": false
+    }
+  ]
+}

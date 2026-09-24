@@ -14,10 +14,19 @@
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
       "wins": 3,
-      "losses": 2,
+      "losses": 3,
       "ties": 0,
-      "pf": 612.5,
-      "pa": 664.78
+      "pf": 704.32,
+      "pa": 811.34
+    },
+    {
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "wins": 3,
+      "losses": 3,
+      "ties": 0,
+      "pf": 695.9,
+      "pa": 661.12
     },
     {
       "opponent": "Junior Peralta",
@@ -27,15 +36,6 @@
       "ties": 0,
       "pf": 534.26,
       "pa": 579.4
-    },
-    {
-      "opponent": "Chris Peralta",
-      "opponent_slug": "chris-peralta",
-      "wins": 2,
-      "losses": 3,
-      "ties": 0,
-      "pf": 552.08,
-      "pa": 577.68
     },
     {
       "opponent": "George Duran",

@@ -537,6 +537,37 @@ Phase 2 candidates (pick based on which gets clicks):
 
 ## Changelog
 
+### 2026-09-23 — Daily refresh + audit gate; mid-season phantom-title bug; draft positions
+
+**Why:** Pushing the pending workflow changes surfaced two data bugs in a
+fresh week-2 pull.
+
+1. **Mid-season phantom titles (fixed).** The 2026-09-05 `season_started`
+   guard only blocked 0-0 seasons. Once week 1 was played, current rank was
+   written as `finish`, so the week-2 leader got a career **title** and
+   `history.json` showed a 2026 champion. Guard now requires every team's
+   ESPN `final_standing > 0` (ESPN leaves it 0 until the season is
+   finalized; verified 2025 = 1..12, 2026 = all 0). The standings loop now
+   iterates `lg.standings()` order, so with `finish: null` the 2026 table
+   still shows live rank (StandingsView falls back to row index).
+2. **Blank draft positions (fixed).** Draft positions came only from
+   box-score lineups, so a player cut before appearing in one (Jaylen
+   Wright, Bo Nix in 2026) lost his position. Added an
+   `lg.player_info(playerId=...)` fallback; it also filled 6 blanks in
+   2023-2025.
+3. **Workflow:** `refresh-data.yml` runs daily at 09:15 UTC instead of
+   hourly, and runs `audit_data.py` (now exits non-zero on failure) before
+   committing, so bad data blocks the commit. **Gotcha:** GitHub disables
+   scheduled workflows after 60 days without repo activity — why the
+   cron never ran from April to September. Re-enable in the Actions tab.
+
+Data regenerated through week 2; audit 16/16 pass; 2023-2025 standings
+and champions unchanged. Still not typechecked (no Node in sandbox), but
+no TS files changed.
+
+**Files changed:** `scripts/build_data.py`, `scripts/audit_data.py`,
+`.github/workflows/refresh-data.yml`, `public/data/**`, `AGENTS.md`.
+
 ### 2026-09-05 (later ×2) — Full data-integrity audit; FAAB duplication bug fixed
 
 **Why:** Owner asked for an audit confirming everything the site displays

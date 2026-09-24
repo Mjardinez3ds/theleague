@@ -2,8 +2,15 @@ name: Refresh league data
 
 on:
   schedule:
-    # Every hour during NFL season; adjust as needed.
-    - cron: "15 * * * *"
+    # Once daily at 09:15 UTC (~05:15 ET), after overnight waivers process.
+    # Hourly was overkill — league data changes a few times a week at most,
+    # and every run that finds changes writes a commit. Widen to every few
+    # days by changing this to e.g. "15 9 */3 * *" if the noise bothers you.
+    #
+    # NOTE: GitHub disables scheduled workflows after 60 days with no repo
+    # activity, and they must then be re-enabled by hand in the Actions tab.
+    # That is why this workflow never ran between April and September 2026.
+    - cron: "15 9 * * *"
   workflow_dispatch: {}
 
 jobs:
@@ -22,7 +29,19 @@ jobs:
           ESPN_S2: ${{ secrets.ESPN_S2 }}
           ESPN_SWID: ${{ secrets.ESPN_SWID }}
           ESPN_LEAGUE_ID: ${{ secrets.ESPN_LEAGUE_ID }}
+          # Must be set to 2026 in repo Settings -> Secrets and variables ->
+          # Actions -> Variables. If unset, build_data.py falls back to its
+          # own default (currently 2026) rather than silently building the
+          # wrong season.
           ESPN_CURRENT_YEAR: ${{ vars.ESPN_CURRENT_YEAR }}
+
+      # Fail loudly rather than committing corrupted data. audit_data.py runs
+      # 16 internal consistency checks (including the FAAB duplicate-row check
+      # that caught ESPN returning the full transaction list for every week of
+      # an in-progress season).
+      - name: Audit data integrity
+        run: python scripts/audit_data.py
+
       - name: Commit refreshed data
         run: |
           git config user.name "league-bot"

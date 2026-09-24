@@ -1,0 +1,27 @@
+{
+  "year": 2026,
+  "weeks": [
+    {
+      "week": 1,
+      "score": 162.56,
+      "team_name": "Pausa de Hidratacion ",
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "opponent_team": "Dean Trumbell",
+      "opponent_score": 111.76,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "score": 99.38,
+      "team_name": "Pausa de Hidratacion ",
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "opponent_team": "SLOB",
+      "opponent_score": 80.06,
+      "result": "W",
+      "is_playoff": false
+    }
+  ]
+}

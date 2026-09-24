@@ -1,0 +1,27 @@
+{
+  "year": 2026,
+  "weeks": [
+    {
+      "week": 1,
+      "score": 143.16,
+      "team_name": "Big Nix Energy",
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "opponent_team": "Serving Punt",
+      "opponent_score": 127.1,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "score": 199.62,
+      "team_name": "Big Nix Energy",
+      "opponent": "Jordan van Leesten",
+      "opponent_slug": "jordan-van-leesten",
+      "opponent_team": "Maybe: SUV Hong",
+      "opponent_score": 131.08,
+      "result": "W",
+      "is_playoff": false
+    }
+  ]
+}

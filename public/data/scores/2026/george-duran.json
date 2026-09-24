@@ -1,0 +1,27 @@
+{
+  "year": 2026,
+  "weeks": [
+    {
+      "week": 1,
+      "score": 120.5,
+      "team_name": "SLOB",
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "opponent_team": "elcampeonnnn",
+      "opponent_score": 71.36,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "score": 80.06,
+      "team_name": "SLOB",
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Pausa de Hidratacion ",
+      "opponent_score": 99.38,
+      "result": "L",
+      "is_playoff": false
+    }
+  ]
+}

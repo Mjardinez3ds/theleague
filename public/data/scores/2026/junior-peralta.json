@@ -1,0 +1,27 @@
+{
+  "year": 2026,
+  "weeks": [
+    {
+      "week": 1,
+      "score": 71.36,
+      "team_name": "elcampeonnnn",
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "opponent_team": "SLOB",
+      "opponent_score": 120.5,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "score": 98.18,
+      "team_name": "elcampeonnnn",
+      "opponent": "Ricky Cano",
+      "opponent_slug": "ricky-cano",
+      "opponent_team": "Foot In Your A**",
+      "opponent_score": 83.4,
+      "result": "W",
+      "is_playoff": false
+    }
+  ]
+}

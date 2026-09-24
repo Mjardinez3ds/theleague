@@ -708,17 +708,23 @@ def main():
             ranked = lg.standings()
         except Exception:
             ranked = sorted(lg.teams, key=lambda t: (-t.wins, -getattr(t, "points_for", 0)))
-        # Before any games are played, standings() still returns a full
-        # ordering (tiebroken arbitrarily on 0-0 records) — don't let that
-        # phantom order count as a real finish (title/podium/last) in career
-        # stats or history.json.
-        season_started = any(
-            (t.wins + t.losses + getattr(t, "ties", 0)) > 0 for t in lg.teams
+        # standings() always returns a full ordering — before week 1
+        # (arbitrary 0-0 tiebreaks) and mid-season (current rank). Neither is
+        # a real finish, and counting it would hand out phantom titles/podiums
+        # in career stats and history.json. ESPN leaves every team's
+        # final_standing at 0 until the season is finalized, so only trust
+        # the order once all of them are set. (Variable name kept from the
+        # earlier "any games played" guard, which let mid-season ranks leak.)
+        season_started = bool(lg.teams) and all(
+            (getattr(t, "final_standing", 0) or 0) > 0 for t in lg.teams
         )
         finish_by_id = {id(t): i + 1 for i, t in enumerate(ranked)} if season_started else {}
 
         teams_payload = []
-        for t in lg.teams:
+        # Iterate in standings order: when finish is null (season not final)
+        # the stable sort below keeps this order, and StandingsView falls
+        # back to row index — so an in-progress year still shows live ranks.
+        for t in ranked:
             finish = finish_by_id.get(id(t))
             ow, slug = disp(t)
             teams_payload.append(serialize_team(t, finish, ow, slug))
@@ -842,6 +848,17 @@ def main():
 
             # Look up position from box-score lineup data (pick.player doesn't exist)
             position = yr_pos_map.get(player_id, "") if player_id else ""
+            # Players dropped before ever appearing in a box-score lineup
+            # (e.g. cut during preseason) are missing from that map. Ask
+            # ESPN for them directly so their draft position isn't blanked.
+            if player_id and not position:
+                try:
+                    info = lg.player_info(playerId=player_id)
+                    position = getattr(info, "position", "") or ""
+                    if position:
+                        yr_pos_map[player_id] = position
+                except Exception:
+                    pass
 
             picks_by_slug.setdefault(slug, []).append({
                 "round":  round_num,

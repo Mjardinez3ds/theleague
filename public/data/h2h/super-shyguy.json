@@ -11,6 +11,15 @@
       "pa": 542.8
     },
     {
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "wins": 2,
+      "losses": 2,
+      "ties": 0,
+      "pf": 581.16,
+      "pa": 498.66
+    },
+    {
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
       "wins": 2,
@@ -20,13 +29,13 @@
       "pa": 283.18
     },
     {
-      "opponent": "Kevin Liang",
-      "opponent_slug": "kevin-liang",
-      "wins": 2,
-      "losses": 1,
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "wins": 1,
+      "losses": 2,
       "ties": 0,
-      "pf": 446.3,
-      "pa": 337.64
+      "pf": 365.4,
+      "pa": 386.94
     },
     {
       "opponent": "Marcus Jardinez",
@@ -72,15 +81,6 @@
       "ties": 0,
       "pf": 218.68,
       "pa": 197.58
-    },
-    {
-      "opponent": "Kevin Llerena",
-      "opponent_slug": "kevin-llerena",
-      "wins": 0,
-      "losses": 2,
-      "ties": 0,
-      "pf": 230.1,
-      "pa": 288.48
     },
     {
       "opponent": "Junior Peralta",

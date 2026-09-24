@@ -5,10 +5,10 @@
       "opponent": "George Duran",
       "opponent_slug": "george-duran",
       "wins": 4,
-      "losses": 2,
+      "losses": 3,
       "ties": 0,
-      "pf": 818.58,
-      "pa": 783.42
+      "pf": 889.94,
+      "pa": 903.92
     },
     {
       "opponent": "Chris Peralta",
@@ -65,6 +65,15 @@
       "pa": 464.56
     },
     {
+      "opponent": "Ricky Cano",
+      "opponent_slug": "ricky-cano",
+      "wins": 3,
+      "losses": 0,
+      "ties": 0,
+      "pf": 394.68,
+      "pa": 301.48
+    },
+    {
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
       "wins": 1,
@@ -81,15 +90,6 @@
       "ties": 0,
       "pf": 243.06,
       "pa": 240.04
-    },
-    {
-      "opponent": "Ricky Cano",
-      "opponent_slug": "ricky-cano",
-      "wins": 2,
-      "losses": 0,
-      "ties": 0,
-      "pf": 296.5,
-      "pa": 218.08
     },
     {
       "opponent": "Abraham Pinales",

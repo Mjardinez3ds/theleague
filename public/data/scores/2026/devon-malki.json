@@ -1,0 +1,27 @@
+{
+  "year": 2026,
+  "weeks": [
+    {
+      "week": 1,
+      "score": 146.56,
+      "team_name": "Skatt brain mush",
+      "opponent": "derf punk",
+      "opponent_slug": "derf-punk",
+      "opponent_team": "monke",
+      "opponent_score": 91.82,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "score": 89.32,
+      "team_name": "Skatt brain mush",
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "opponent_team": "KingGoon",
+      "opponent_score": 139.16,
+      "result": "L",
+      "is_playoff": false
+    }
+  ]
+}

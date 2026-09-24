@@ -13,11 +13,11 @@
     {
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
-      "wins": 3,
+      "wins": 4,
       "losses": 1,
       "ties": 0,
-      "pf": 498.0,
-      "pa": 461.6
+      "pf": 641.16,
+      "pa": 588.7
     },
     {
       "opponent": "Marcus Jardinez",
@@ -117,6 +117,15 @@
       "ties": 0,
       "pf": 101.24,
       "pa": 105.84
+    },
+    {
+      "opponent": "Jordan van Leesten",
+      "opponent_slug": "jordan-van-leesten",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pf": 199.62,
+      "pa": 131.08
     }
   ]
 }

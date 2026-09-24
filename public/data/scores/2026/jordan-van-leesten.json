@@ -1,0 +1,27 @@
+{
+  "year": 2026,
+  "weeks": [
+    {
+      "week": 1,
+      "score": 170.34,
+      "team_name": "Maybe: SUV Hong",
+      "opponent": "Ricky Cano",
+      "opponent_slug": "ricky-cano",
+      "opponent_team": "Foot In Your A**",
+      "opponent_score": 135.9,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "score": 131.08,
+      "team_name": "Maybe: SUV Hong",
+      "opponent": "Matthew Taylor",
+      "opponent_slug": "matthew-taylor",
+      "opponent_team": "Big Nix Energy",
+      "opponent_score": 199.62,
+      "result": "L",
+      "is_playoff": false
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "owner": "Jordan van Leesten",
   "slug": "jordan-van-leesten",
-  "wins": 0,
-  "losses": 0,
+  "wins": 1,
+  "losses": 1,
   "ties": 0,
-  "points_for": 0.0,
-  "points_against": 0.0,
+  "points_for": 301.4,
+  "points_against": 335.5,
   "titles": 0,
   "runners_up": 0,
   "thirds": 0,
@@ -14,15 +14,15 @@
     {
       "year": 2026,
       "team_name": "Maybe: SUV Hong",
-      "wins": 0,
-      "losses": 0,
+      "wins": 1,
+      "losses": 1,
       "ties": 0,
-      "points_for": 0,
-      "points_against": 0,
+      "points_for": 301.4,
+      "points_against": 335.5,
       "finish": null,
       "league_size": 12
     }
   ],
-  "win_pct": 0,
-  "games": 0
+  "win_pct": 50.0,
+  "games": 2
 }

@@ -1,0 +1,27 @@
+{
+  "year": 2026,
+  "weeks": [
+    {
+      "week": 1,
+      "score": 135.9,
+      "team_name": "Foot In Your A**",
+      "opponent": "Jordan van Leesten",
+      "opponent_slug": "jordan-van-leesten",
+      "opponent_team": "Maybe: SUV Hong",
+      "opponent_score": 170.34,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "score": 83.4,
+      "team_name": "Foot In Your A**",
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "opponent_team": "elcampeonnnn",
+      "opponent_score": 98.18,
+      "result": "L",
+      "is_playoff": false
+    }
+  ]
+}

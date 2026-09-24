@@ -1,0 +1,27 @@
+{
+  "year": 2026,
+  "weeks": [
+    {
+      "week": 1,
+      "score": 111.76,
+      "team_name": "Dean Trumbell",
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Pausa de Hidratacion ",
+      "opponent_score": 162.56,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "score": 83.44,
+      "team_name": "Dean Trumbell",
+      "opponent": "derf punk",
+      "opponent_slug": "derf-punk",
+      "opponent_team": "monke",
+      "opponent_score": 143.82,
+      "result": "L",
+      "is_playoff": false
+    }
+  ]
+}

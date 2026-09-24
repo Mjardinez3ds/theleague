@@ -2,10 +2,10 @@
   "owner": "Chris Peralta",
   "slug": "chris-peralta",
   "wins": 28,
-  "losses": 14,
+  "losses": 16,
   "ties": 0,
-  "points_for": 5429.7,
-  "points_against": 5114.5,
+  "points_for": 5624.9,
+  "points_against": 5420.8,
   "titles": 0,
   "runners_up": 2,
   "thirds": 1,
@@ -48,14 +48,14 @@
       "year": 2026,
       "team_name": "Dean Trumbell",
       "wins": 0,
-      "losses": 0,
+      "losses": 2,
       "ties": 0,
-      "points_for": 0,
-      "points_against": 0,
+      "points_for": 195.2,
+      "points_against": 306.4,
       "finish": null,
       "league_size": 12
     }
   ],
-  "win_pct": 66.7,
-  "games": 42
+  "win_pct": 63.6,
+  "games": 44
 }

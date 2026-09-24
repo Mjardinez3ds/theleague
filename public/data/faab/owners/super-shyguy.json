@@ -2,8 +2,8 @@
   "slug": "super-shyguy",
   "owner": "Super Shyguy",
   "totals": {
-    "acquisitions": 27,
-    "spent": 153,
+    "acquisitions": 28,
+    "spent": 165,
     "biggest_bid": {
       "year": 2025,
       "week": 11,
@@ -16,8 +16,8 @@
     {
       "year": 2026,
       "team_name": "Shyguy Snakes",
-      "acquisitions": 0,
-      "spent": 0
+      "acquisitions": 1,
+      "spent": 12
     },
     {
       "year": 2025,

@@ -13,20 +13,20 @@
     {
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
-      "wins": 2,
+      "wins": 3,
       "losses": 3,
       "ties": 0,
-      "pf": 664.78,
-      "pa": 612.5
+      "pf": 811.34,
+      "pa": 704.32
     },
     {
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
       "wins": 2,
-      "losses": 3,
+      "losses": 4,
       "ties": 0,
-      "pf": 587.44,
-      "pa": 596.58
+      "pf": 676.76,
+      "pa": 735.74
     },
     {
       "opponent": "Kevin Llerena",

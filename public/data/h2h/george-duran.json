@@ -4,11 +4,11 @@
     {
       "opponent": "Junior Peralta",
       "opponent_slug": "junior-peralta",
-      "wins": 2,
+      "wins": 3,
       "losses": 4,
       "ties": 0,
-      "pf": 783.42,
-      "pa": 818.58
+      "pf": 903.92,
+      "pa": 889.94
     },
     {
       "opponent": "Kevin Liang",
@@ -18,6 +18,15 @@
       "ties": 0,
       "pf": 676.22,
       "pa": 791.3
+    },
+    {
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "wins": 4,
+      "losses": 2,
+      "ties": 0,
+      "pf": 771.04,
+      "pa": 635.34
     },
     {
       "opponent": "Denniell Grijalva",
@@ -36,15 +45,6 @@
       "ties": 0,
       "pf": 541.46,
       "pa": 680.1
-    },
-    {
-      "opponent": "Marcus Jardinez",
-      "opponent_slug": "marcus-jardinez",
-      "wins": 4,
-      "losses": 1,
-      "ties": 0,
-      "pf": 690.98,
-      "pa": 535.96
     },
     {
       "opponent": "Devon Malki",

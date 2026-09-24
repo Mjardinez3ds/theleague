@@ -38,6 +38,15 @@
       "pa": 687.7
     },
     {
+      "opponent": "Matthew Taylor",
+      "opponent_slug": "matthew-taylor",
+      "wins": 1,
+      "losses": 4,
+      "ties": 0,
+      "pf": 588.7,
+      "pa": 641.16
+    },
+    {
       "opponent": "Junior Peralta",
       "opponent_slug": "junior-peralta",
       "wins": 1,
@@ -45,15 +54,6 @@
       "ties": 0,
       "pf": 421.52,
       "pa": 479.98
-    },
-    {
-      "opponent": "Matthew Taylor",
-      "opponent_slug": "matthew-taylor",
-      "wins": 1,
-      "losses": 3,
-      "ties": 0,
-      "pf": 461.6,
-      "pa": 498.0
     },
     {
       "opponent": "Ricky Cano",
@@ -101,6 +101,15 @@
       "pa": 312.02
     },
     {
+      "opponent": "Super Shyguy",
+      "opponent_slug": "super-shyguy",
+      "wins": 2,
+      "losses": 1,
+      "ties": 0,
+      "pf": 386.94,
+      "pa": 365.4
+    },
+    {
       "opponent": "Anthony Richardson",
       "opponent_slug": "anthony-richardson",
       "wins": 1,
@@ -108,15 +117,6 @@
       "ties": 0,
       "pf": 200.84,
       "pa": 215.62
-    },
-    {
-      "opponent": "Super Shyguy",
-      "opponent_slug": "super-shyguy",
-      "wins": 2,
-      "losses": 0,
-      "ties": 0,
-      "pf": 288.48,
-      "pa": 230.1
     },
     {
       "opponent": "Abraham Pinales",
