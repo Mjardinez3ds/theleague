@@ -2,22 +2,22 @@
   "slug": "george-duran",
   "owner": "George Duran",
   "totals": {
-    "acquisitions": 162,
-    "spent": 297,
+    "acquisitions": 163,
+    "spent": 371,
     "biggest_bid": {
-      "year": 2025,
-      "week": 8,
-      "bid": 31,
-      "player": "Oronde Gadsden",
-      "dropped": null
+      "year": 2026,
+      "week": 5,
+      "bid": 74,
+      "player": "J.K. Dobbins",
+      "dropped": "Kendre Miller"
     }
   },
   "by_year": [
     {
       "year": 2026,
       "team_name": "SLOB",
-      "acquisitions": 13,
-      "spent": 26
+      "acquisitions": 14,
+      "spent": 100
     },
     {
       "year": 2025,

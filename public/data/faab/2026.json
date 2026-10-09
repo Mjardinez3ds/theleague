@@ -1827,9 +1827,61 @@
       "dropped": [
         "Sione Vaki"
       ]
+    },
+    {
+      "week": 5,
+      "date": "2026-10-09",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "WAIVER",
+      "bid": 10,
+      "added": [
+        "Mike Washington Jr."
+      ],
+      "dropped": [
+        "Kyle Pitts Sr."
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2026-10-09",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Pat Freiermuth"
+      ],
+      "dropped": [
+        "Dalton Schultz"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2026-10-09",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "WAIVER",
+      "bid": 74,
+      "added": [
+        "J.K. Dobbins"
+      ],
+      "dropped": [
+        "Kendre Miller"
+      ]
     }
   ],
   "team_totals": [
+    {
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "acquisitions": 14,
+      "spent": 100
+    },
     {
       "owner": "Junior Peralta",
       "owner_slug": "junior-peralta",
@@ -1873,11 +1925,11 @@
       "spent": 36
     },
     {
-      "owner": "George Duran",
-      "owner_slug": "george-duran",
-      "team_name": "SLOB",
-      "acquisitions": 13,
-      "spent": 26
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "acquisitions": 11,
+      "spent": 30
     },
     {
       "owner": "Super Shyguy",
@@ -1885,13 +1937,6 @@
       "team_name": "Shyguy Snakes",
       "acquisitions": 5,
       "spent": 25
-    },
-    {
-      "owner": "Kevin Llerena",
-      "owner_slug": "kevin-llerena",
-      "team_name": "Serving Punt",
-      "acquisitions": 9,
-      "spent": 20
     },
     {
       "owner": "derf punk",
