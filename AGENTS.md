@@ -119,7 +119,7 @@ refresh independently of code deploys.
 | `public/data/history.json` | Per-season podium + toilet bowl. |
 | `src/lib/data.ts` | Typed JSON loaders + TypeScript types for every JSON shape. |
 | `src/app/layout.tsx` | Root shell. Sets PWA viewport, dark bg, bottom-nav padding. |
-| `src/app/page.tsx` | Home — welcome / pre-season landing page. Live Week-1-kickoff countdown (date from `upcoming_season.json`) + the current season's manager list, derived from `standings/{current_year}.json` and sorted by owner name. Each row shows team name and any championship years (career + legacy). |
+| `src/app/page.tsx` | Home. In-season layout: hero card (current week, "Week N is final", 1st place / top PPG / high score), latest completed week's scoreboard (top-score + closest-game tags), standings snapshot with a last-5 form guide, and a champions grid (legacy + ESPN history). Before Week 1 the hero says kickoff is coming and `SeasonCountdown` shows. Once the current year has a champion, the hero says the season is over. All state comes from the data, so it needs no manual switching. |
 | `src/app/standings/page.tsx` | Standings page. Server-renders all years' data + careers; delegates rendering to `StandingsView`. |
 | `src/components/StandingsView.tsx` | Client component. Year-pill switcher with **All-Time** as default, plus one pill per season. All-time table ranks by career win%, shows W-L / Win% / PF / PA / titles. Year tables show team name + finish for that season. |
 | `src/components/SeasonCountdown.tsx` | Client component — live "X days to go" counter on the Home page, targeting Week 1 kickoff. Recomputes every 60s. (Renamed from `DraftCountdown.tsx` once the draft itself stopped being the thing to count down to — see 2026-09-05 changelog.) |
@@ -565,6 +565,21 @@ Phase 2 candidates (pick based on which gets clicks):
 ---
 
 ## Changelog
+
+### 2026-10-08 (later) — Home page redesigned for the season
+
+**Why:** the Home page still showed the kickoff countdown in Week 5. The
+owner asked for something more visual.
+
+**What:** `src/app/page.tsx` rewritten (see File map). The countdown now
+appears only before any games are played. The alphabetical manager list was
+replaced by a standings snapshot (the Managers tab still lists everyone).
+Champion badges moved into a Champions grid. `getCareers` is no longer used
+on Home. Checked with a 390px-wide headless Edge screenshot. Gotcha: a
+plain `msedge --headless --window-size=390,...` renders wider than 390 and
+clips the right edge. Wrap the page in a 390px iframe instead.
+
+**Files changed:** `src/app/page.tsx`, `AGENTS.md`.
 
 ### 2026-10-08 — Stats charts tab; data through Week 4; two pipeline bugs fixed
 
