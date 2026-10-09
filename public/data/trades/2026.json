@@ -1,9 +1,9 @@
 {
   "year": 2026,
-  "count": 5,
+  "count": 6,
   "trades": [
     {
-      "date": "2026-W05",
+      "date": "2026-10-04",
       "sides": [
         {
           "team_name": "elcampeonnnn",
@@ -35,33 +35,6 @@
       "date": "2026-10-01",
       "sides": [
         {
-          "team_name": "Serving Punt",
-          "owner": "Kevin Llerena",
-          "owner_slug": "kevin-llerena",
-          "gave": [
-            "Rhamondre Stevenson"
-          ],
-          "got": [
-            "Stefon Diggs"
-          ]
-        },
-        {
-          "team_name": "elcampeonnnn",
-          "owner": "Junior Peralta",
-          "owner_slug": "junior-peralta",
-          "gave": [
-            "Stefon Diggs"
-          ],
-          "got": [
-            "Rhamondre Stevenson"
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-10-01",
-      "sides": [
-        {
           "team_name": "Pausa de Hidratacion ",
           "owner": "Marcus Jardinez",
           "owner_slug": "marcus-jardinez",
@@ -72,8 +45,8 @@
           ],
           "got": [
             "Ja'Marr Chase",
-            "Jacory Croskey-Merritt",
-            "Braelon Allen"
+            "Braelon Allen",
+            "Jacory Croskey-Merritt"
           ]
         },
         {
@@ -82,8 +55,8 @@
           "owner_slug": "junior-peralta",
           "gave": [
             "Ja'Marr Chase",
-            "Jacory Croskey-Merritt",
-            "Braelon Allen"
+            "Braelon Allen",
+            "Jacory Croskey-Merritt"
           ],
           "got": [
             "Javonte Williams",
@@ -94,14 +67,15 @@
       ]
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "sides": [
         {
           "team_name": "Dustin Davis",
           "owner": "Chris Peralta",
           "owner_slug": "chris-peralta",
           "gave": [
-            "Dalton Schultz"
+            "Dalton Schultz",
+            "Tre Tucker"
           ],
           "got": [
             "Jameson Williams"
@@ -115,7 +89,35 @@
             "Jameson Williams"
           ],
           "got": [
-            "Dalton Schultz"
+            "Dalton Schultz",
+            "Tre Tucker"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "sides": [
+        {
+          "team_name": "Serving Punt",
+          "owner": "Kevin Llerena",
+          "owner_slug": "kevin-llerena",
+          "gave": [
+            "Rhamondre Stevenson"
+          ],
+          "got": [
+            "Stefon Diggs"
+          ]
+        },
+        {
+          "team_name": "elcampeonnnn",
+          "owner": "Junior Peralta",
+          "owner_slug": "junior-peralta",
+          "gave": [
+            "Stefon Diggs"
+          ],
+          "got": [
+            "Rhamondre Stevenson"
           ]
         }
       ]
@@ -143,6 +145,33 @@
           ],
           "got": [
             "Jaylen Warren"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "sides": [
+        {
+          "team_name": "Pausa de Hidratacion ",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
+          "gave": [
+            "Chuba Hubbard"
+          ],
+          "got": [
+            "Josh Jacobs"
+          ]
+        },
+        {
+          "team_name": "Shyguy Snakes",
+          "owner": "Super Shyguy",
+          "owner_slug": "super-shyguy",
+          "gave": [
+            "Josh Jacobs"
+          ],
+          "got": [
+            "Chuba Hubbard"
           ]
         }
       ]

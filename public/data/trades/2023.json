@@ -1,20 +1,48 @@
 {
   "year": 2023,
-  "count": 35,
+  "count": 34,
   "trades": [
     {
       "date": "2023-11-28",
       "sides": [
         {
-          "team_name": "Paul Giamatti in Big Fat Liar",
-          "owner": "Chris Peralta",
-          "owner_slug": "chris-peralta",
+          "team_name": "Psychological Operations",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
           "gave": [
-            "Jaylen Warren"
+            "DeVonta Smith"
           ],
           "got": [
-            "Sam LaPorta",
-            "Elijah Mitchell"
+            "Saquon Barkley"
+          ]
+        },
+        {
+          "team_name": "1 Percent Poot",
+          "owner": "Denniell Grijalva",
+          "owner_slug": "denniell-grijalva",
+          "gave": [
+            "Saquon Barkley"
+          ],
+          "got": [
+            "DeVonta Smith"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-28",
+      "sides": [
+        {
+          "team_name": "1 Percent Poot",
+          "owner": "Denniell Grijalva",
+          "owner_slug": "denniell-grijalva",
+          "gave": [
+            "Gabe Davis",
+            "Dalton Kincaid",
+            "Jonathan Taylor"
+          ],
+          "got": [
+            "Tee Higgins"
           ]
         },
         {
@@ -22,11 +50,43 @@
           "owner": "George Duran",
           "owner_slug": "george-duran",
           "gave": [
-            "Sam LaPorta",
-            "Elijah Mitchell"
+            "Tee Higgins"
           ],
           "got": [
-            "Jaylen Warren"
+            "Gabe Davis",
+            "Dalton Kincaid",
+            "Jonathan Taylor"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-28",
+      "sides": [
+        {
+          "team_name": "1 Percent Poot",
+          "owner": "Denniell Grijalva",
+          "owner_slug": "denniell-grijalva",
+          "gave": [
+            "Noah Brown",
+            "AJ Dillon"
+          ],
+          "got": [
+            "Curtis Samuel",
+            "Evan Engram"
+          ]
+        },
+        {
+          "team_name": "Breece\u2019s Pieces",
+          "owner": "Devon Malki",
+          "owner_slug": "devon-malki",
+          "gave": [
+            "Curtis Samuel",
+            "Evan Engram"
+          ],
+          "got": [
+            "Noah Brown",
+            "AJ Dillon"
           ]
         }
       ]
@@ -39,8 +99,35 @@
           "owner": "Chris Peralta",
           "owner_slug": "chris-peralta",
           "gave": [
-            "Marquise Brown",
-            "Javonte Williams"
+            "Samaje Perine"
+          ],
+          "got": [
+            "Jameson Williams"
+          ]
+        },
+        {
+          "team_name": "1 Percent Poot",
+          "owner": "Denniell Grijalva",
+          "owner_slug": "denniell-grijalva",
+          "gave": [
+            "Jameson Williams"
+          ],
+          "got": [
+            "Samaje Perine"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-28",
+      "sides": [
+        {
+          "team_name": "Paul Giamatti in Big Fat Liar",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
+          "gave": [
+            "Javonte Williams",
+            "Marquise Brown"
           ],
           "got": [
             "DJ Moore"
@@ -54,66 +141,8 @@
             "DJ Moore"
           ],
           "got": [
-            "Marquise Brown",
-            "Javonte Williams"
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2023-11-28",
-      "sides": [
-        {
-          "team_name": "Paul Giamatti in Big Fat Liar",
-          "owner": "Chris Peralta",
-          "owner_slug": "chris-peralta",
-          "gave": [
-            "Samaje Perine"
-          ],
-          "got": [
-            "Jameson Williams"
-          ]
-        },
-        {
-          "team_name": "1 Percent Poot",
-          "owner": "Denniell Grijalva",
-          "owner_slug": "denniell-grijalva",
-          "gave": [
-            "Jameson Williams"
-          ],
-          "got": [
-            "Samaje Perine"
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2023-11-28",
-      "sides": [
-        {
-          "team_name": "1 Percent Poot",
-          "owner": "Denniell Grijalva",
-          "owner_slug": "denniell-grijalva",
-          "gave": [
-            "Noah Brown",
-            "AJ Dillon"
-          ],
-          "got": [
-            "Evan Engram",
-            "Curtis Samuel"
-          ]
-        },
-        {
-          "team_name": "Breece\u2019s Pieces",
-          "owner": "Devon Malki",
-          "owner_slug": "devon-malki",
-          "gave": [
-            "Evan Engram",
-            "Curtis Samuel"
-          ],
-          "got": [
-            "Noah Brown",
-            "AJ Dillon"
+            "Javonte Williams",
+            "Marquise Brown"
           ]
         }
       ]
@@ -122,60 +151,35 @@
       "date": "2023-11-22",
       "sides": [
         {
+          "team_name": "Liang le gusta bicho",
+          "owner": "Kevin Llerena",
+          "owner_slug": "kevin-llerena",
+          "gave": [
+            "Stefon Diggs"
+          ],
+          "got": [
+            "Michael Pittman Jr.",
+            "Zach Charbonnet",
+            "Jake Ferguson"
+          ]
+        },
+        {
           "team_name": "Psychological Operations",
           "owner": "Marcus Jardinez",
           "owner_slug": "marcus-jardinez",
           "gave": [
-            "DeVonta Smith"
+            "Michael Pittman Jr.",
+            "Zach Charbonnet",
+            "Jake Ferguson"
           ],
           "got": [
-            "Saquon Barkley"
-          ]
-        },
-        {
-          "team_name": "1 Percent Poot",
-          "owner": "Denniell Grijalva",
-          "owner_slug": "denniell-grijalva",
-          "gave": [
-            "Saquon Barkley"
-          ],
-          "got": [
-            "DeVonta Smith"
+            "Stefon Diggs"
           ]
         }
       ]
     },
     {
-      "date": "2023-11-14",
-      "sides": [
-        {
-          "team_name": "Tony Pollard Therapy Club ",
-          "owner": "George Duran",
-          "owner_slug": "george-duran",
-          "gave": [
-            "Zack Moss",
-            "Zay Flowers"
-          ],
-          "got": [
-            "Garrett Wilson"
-          ]
-        },
-        {
-          "team_name": "DECAPITATED WEASEL",
-          "owner": "Kevin Liang",
-          "owner_slug": "kevin-liang",
-          "gave": [
-            "Garrett Wilson"
-          ],
-          "got": [
-            "Zack Moss",
-            "Zay Flowers"
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2023-11-14",
+      "date": "2023-11-16",
       "sides": [
         {
           "team_name": "Paul Giamatti in Big Fat Liar",
@@ -205,25 +209,29 @@
       "date": "2023-11-14",
       "sides": [
         {
+          "team_name": "Liang le gusta bicho",
+          "owner": "Kevin Llerena",
+          "owner_slug": "kevin-llerena",
+          "gave": [
+            "Michael Pittman Jr.",
+            "Joe Burrow"
+          ],
+          "got": [
+            "Tua Tagovailoa",
+            "Jaylen Waddle"
+          ]
+        },
+        {
           "team_name": "Psychological Operations",
           "owner": "Marcus Jardinez",
           "owner_slug": "marcus-jardinez",
           "gave": [
-            "DeMario Douglas"
+            "Tua Tagovailoa",
+            "Jaylen Waddle"
           ],
           "got": [
-            "Darrell Henderson Jr."
-          ]
-        },
-        {
-          "team_name": "Tony Pollard Therapy Club ",
-          "owner": "George Duran",
-          "owner_slug": "george-duran",
-          "gave": [
-            "Darrell Henderson Jr."
-          ],
-          "got": [
-            "DeMario Douglas"
+            "Michael Pittman Jr.",
+            "Joe Burrow"
           ]
         }
       ]
@@ -232,78 +240,43 @@
       "date": "2023-11-14",
       "sides": [
         {
-          "team_name": "Liang le gusta bicho",
-          "owner": "Kevin Llerena",
-          "owner_slug": "kevin-llerena",
-          "gave": [
-            "Stefon Diggs"
-          ],
-          "got": [
-            "Jake Ferguson",
-            "Zach Charbonnet",
-            "Michael Pittman Jr."
-          ]
-        },
-        {
           "team_name": "Psychological Operations",
           "owner": "Marcus Jardinez",
           "owner_slug": "marcus-jardinez",
           "gave": [
-            "Jake Ferguson",
-            "Zach Charbonnet",
-            "Michael Pittman Jr."
+            "DeMario Douglas"
           ],
           "got": [
-            "Stefon Diggs"
+            "Darrell Henderson Jr."
+          ]
+        },
+        {
+          "team_name": "Tony Pollard Therapy Club ",
+          "owner": "George Duran",
+          "owner_slug": "george-duran",
+          "gave": [
+            "Darrell Henderson Jr."
+          ],
+          "got": [
+            "DeMario Douglas"
           ]
         }
       ]
     },
     {
-      "date": "2023-11-11",
-      "sides": [
-        {
-          "team_name": "Liang le gusta bicho",
-          "owner": "Kevin Llerena",
-          "owner_slug": "kevin-llerena",
-          "gave": [
-            "Joe Burrow",
-            "Michael Pittman Jr."
-          ],
-          "got": [
-            "Jaylen Waddle",
-            "Tua Tagovailoa"
-          ]
-        },
-        {
-          "team_name": "Psychological Operations",
-          "owner": "Marcus Jardinez",
-          "owner_slug": "marcus-jardinez",
-          "gave": [
-            "Jaylen Waddle",
-            "Tua Tagovailoa"
-          ],
-          "got": [
-            "Joe Burrow",
-            "Michael Pittman Jr."
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2023-11-11",
+      "date": "2023-11-13",
       "sides": [
         {
           "team_name": "Tony Pollard Therapy Club ",
           "owner": "George Duran",
           "owner_slug": "george-duran",
           "gave": [
-            "Tony Pollard",
-            "Jaxon Smith-Njigba"
+            "Jaxon Smith-Njigba",
+            "Tony Pollard"
           ],
           "got": [
-            "Rachaad White",
-            "Keaton Mitchell"
+            "Keaton Mitchell",
+            "Rachaad White"
           ]
         },
         {
@@ -311,18 +284,45 @@
           "owner": "Junior Peralta",
           "owner_slug": "junior-peralta",
           "gave": [
-            "Rachaad White",
-            "Keaton Mitchell"
+            "Keaton Mitchell",
+            "Rachaad White"
           ],
           "got": [
-            "Tony Pollard",
-            "Jaxon Smith-Njigba"
+            "Jaxon Smith-Njigba",
+            "Tony Pollard"
           ]
         }
       ]
     },
     {
-      "date": "2023-11-10",
+      "date": "2023-11-13",
+      "sides": [
+        {
+          "team_name": "Paul Giamatti in Big Fat Liar",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
+          "gave": [
+            "Jaylen Warren"
+          ],
+          "got": [
+            "Sam LaPorta"
+          ]
+        },
+        {
+          "team_name": "Tony Pollard Therapy Club ",
+          "owner": "George Duran",
+          "owner_slug": "george-duran",
+          "gave": [
+            "Sam LaPorta"
+          ],
+          "got": [
+            "Jaylen Warren"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-11",
       "sides": [
         {
           "team_name": "Psychological Operations",
@@ -381,27 +381,31 @@
       "date": "2023-11-10",
       "sides": [
         {
+          "team_name": "Psychological Operations",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
+          "gave": [
+            "Deebo Samuel",
+            "C.J. Stroud"
+          ],
+          "got": [
+            "DeVonta Smith",
+            "Tua Tagovailoa",
+            "Jaylen Waddle"
+          ]
+        },
+        {
           "team_name": "1 Percent Poot",
           "owner": "Denniell Grijalva",
           "owner_slug": "denniell-grijalva",
           "gave": [
-            "Jonathan Taylor",
-            "Dalton Kincaid"
+            "DeVonta Smith",
+            "Tua Tagovailoa",
+            "Jaylen Waddle"
           ],
           "got": [
-            "Tee Higgins"
-          ]
-        },
-        {
-          "team_name": "Tony Pollard Therapy Club ",
-          "owner": "George Duran",
-          "owner_slug": "george-duran",
-          "gave": [
-            "Tee Higgins"
-          ],
-          "got": [
-            "Jonathan Taylor",
-            "Dalton Kincaid"
+            "Deebo Samuel",
+            "C.J. Stroud"
           ]
         }
       ]
@@ -437,85 +441,29 @@
       "date": "2023-11-03",
       "sides": [
         {
+          "team_name": "Liang le gusta bicho",
+          "owner": "Kevin Llerena",
+          "owner_slug": "kevin-llerena",
+          "gave": [
+            "Amon-Ra St. Brown",
+            "Jake Ferguson"
+          ],
+          "got": [
+            "Mark Andrews",
+            "Christian Kirk"
+          ]
+        },
+        {
           "team_name": "Psychological Operations",
           "owner": "Marcus Jardinez",
           "owner_slug": "marcus-jardinez",
           "gave": [
-            "C.J. Stroud",
-            "Deebo Samuel"
+            "Mark Andrews",
+            "Christian Kirk"
           ],
           "got": [
-            "Jaylen Waddle",
-            "Tua Tagovailoa",
-            "DeVonta Smith"
-          ]
-        },
-        {
-          "team_name": "1 Percent Poot",
-          "owner": "Denniell Grijalva",
-          "owner_slug": "denniell-grijalva",
-          "gave": [
-            "Jaylen Waddle",
-            "Tua Tagovailoa",
-            "DeVonta Smith"
-          ],
-          "got": [
-            "C.J. Stroud",
-            "Deebo Samuel"
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2023-11-02",
-      "sides": [
-        {
-          "team_name": "DECAPITATED WEASEL",
-          "owner": "Kevin Liang",
-          "owner_slug": "kevin-liang",
-          "gave": [
-            "Joshua Palmer"
-          ],
-          "got": [
-            "Khalil Herbert"
-          ]
-        },
-        {
-          "team_name": "Punchmade Joonyer",
-          "owner": "Junior Peralta",
-          "owner_slug": "junior-peralta",
-          "gave": [
-            "Khalil Herbert"
-          ],
-          "got": [
-            "Joshua Palmer"
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2023-11-02",
-      "sides": [
-        {
-          "team_name": "Paul Giamatti in Big Fat Liar",
-          "owner": "Chris Peralta",
-          "owner_slug": "chris-peralta",
-          "gave": [
-            "Josh Downs"
-          ],
-          "got": [
-            "Javonte Williams"
-          ]
-        },
-        {
-          "team_name": "ALVINNNN",
-          "owner": "Abraham Pinales",
-          "owner_slug": "abraham-pinales",
-          "gave": [
-            "Javonte Williams"
-          ],
-          "got": [
-            "Josh Downs"
+            "Amon-Ra St. Brown",
+            "Jake Ferguson"
           ]
         }
       ]
@@ -548,6 +496,62 @@
       ]
     },
     {
+      "date": "2023-11-02",
+      "sides": [
+        {
+          "team_name": "Tony Pollard Therapy Club ",
+          "owner": "George Duran",
+          "owner_slug": "george-duran",
+          "gave": [
+            "Zack Moss",
+            "Zay Flowers"
+          ],
+          "got": [
+            "Garrett Wilson"
+          ]
+        },
+        {
+          "team_name": "DECAPITATED WEASEL",
+          "owner": "Kevin Liang",
+          "owner_slug": "kevin-liang",
+          "gave": [
+            "Garrett Wilson"
+          ],
+          "got": [
+            "Zack Moss",
+            "Zay Flowers"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-11-02",
+      "sides": [
+        {
+          "team_name": "Paul Giamatti in Big Fat Liar",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
+          "gave": [
+            "Josh Downs"
+          ],
+          "got": [
+            "Javonte Williams"
+          ]
+        },
+        {
+          "team_name": "ALVINNNN",
+          "owner": "Abraham Pinales",
+          "owner_slug": "abraham-pinales",
+          "gave": [
+            "Javonte Williams"
+          ],
+          "got": [
+            "Josh Downs"
+          ]
+        }
+      ]
+    },
+    {
       "date": "2023-10-24",
       "sides": [
         {
@@ -572,37 +576,6 @@
           "got": [
             "Gabe Davis",
             "Kenneth Gainwell"
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2023-10-24",
-      "sides": [
-        {
-          "team_name": "Liang le gusta bicho",
-          "owner": "Kevin Llerena",
-          "owner_slug": "kevin-llerena",
-          "gave": [
-            "Amon-Ra St. Brown",
-            "Jake Ferguson"
-          ],
-          "got": [
-            "Mark Andrews",
-            "Christian Kirk"
-          ]
-        },
-        {
-          "team_name": "Psychological Operations",
-          "owner": "Marcus Jardinez",
-          "owner_slug": "marcus-jardinez",
-          "gave": [
-            "Mark Andrews",
-            "Christian Kirk"
-          ],
-          "got": [
-            "Amon-Ra St. Brown",
-            "Jake Ferguson"
           ]
         }
       ]
@@ -642,14 +615,14 @@
       "date": "2023-10-11",
       "sides": [
         {
-          "team_name": "Punchmade Joonyer",
-          "owner": "Junior Peralta",
-          "owner_slug": "junior-peralta",
+          "team_name": "Psychological Operations",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
           "gave": [
-            "Tyler Allgeier"
+            "Justin Jefferson"
           ],
           "got": [
-            "Kendrick Bourne"
+            "Deebo Samuel"
           ]
         },
         {
@@ -657,37 +630,10 @@
           "owner": "Anthony Richardson",
           "owner_slug": "anthony-richardson",
           "gave": [
-            "Kendrick Bourne"
+            "Deebo Samuel"
           ],
           "got": [
-            "Tyler Allgeier"
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2023-10-11",
-      "sides": [
-        {
-          "team_name": "Paul Giamatti in Big Fat Liar",
-          "owner": "Chris Peralta",
-          "owner_slug": "chris-peralta",
-          "gave": [
-            "Jake Ferguson"
-          ],
-          "got": [
-            "Jeff Wilson Jr."
-          ]
-        },
-        {
-          "team_name": "Liang le gusta bicho",
-          "owner": "Kevin Llerena",
-          "owner_slug": "kevin-llerena",
-          "gave": [
-            "Jeff Wilson Jr."
-          ],
-          "got": [
-            "Jake Ferguson"
+            "Justin Jefferson"
           ]
         }
       ]
@@ -715,6 +661,33 @@
           ],
           "got": [
             "DJ Moore"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-10-11",
+      "sides": [
+        {
+          "team_name": "Paul Giamatti in Big Fat Liar",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
+          "gave": [
+            "Jake Ferguson"
+          ],
+          "got": [
+            "Jeff Wilson Jr."
+          ]
+        },
+        {
+          "team_name": "Liang le gusta bicho",
+          "owner": "Kevin Llerena",
+          "owner_slug": "kevin-llerena",
+          "gave": [
+            "Jeff Wilson Jr."
+          ],
+          "got": [
+            "Jake Ferguson"
           ]
         }
       ]
@@ -756,21 +729,25 @@
           "owner": "Marcus Jardinez",
           "owner_slug": "marcus-jardinez",
           "gave": [
-            "Justin Jefferson"
+            "Jayden Reed",
+            "Breece Hall"
           ],
           "got": [
-            "Deebo Samuel"
+            "Mike Evans",
+            "Jerome Ford"
           ]
         },
         {
-          "team_name": "UrMom Stillsquirts",
-          "owner": "Anthony Richardson",
-          "owner_slug": "anthony-richardson",
+          "team_name": "Breece\u2019s Pieces",
+          "owner": "Devon Malki",
+          "owner_slug": "devon-malki",
           "gave": [
-            "Deebo Samuel"
+            "Mike Evans",
+            "Jerome Ford"
           ],
           "got": [
-            "Justin Jefferson"
+            "Jayden Reed",
+            "Breece Hall"
           ]
         }
       ]
@@ -807,6 +784,33 @@
       ]
     },
     {
+      "date": "2023-10-02",
+      "sides": [
+        {
+          "team_name": "DECAPITATED WEASEL",
+          "owner": "Kevin Liang",
+          "owner_slug": "kevin-liang",
+          "gave": [
+            "Joshua Palmer"
+          ],
+          "got": [
+            "Khalil Herbert"
+          ]
+        },
+        {
+          "team_name": "Punchmade Joonyer",
+          "owner": "Junior Peralta",
+          "owner_slug": "junior-peralta",
+          "gave": [
+            "Khalil Herbert"
+          ],
+          "got": [
+            "Joshua Palmer"
+          ]
+        }
+      ]
+    },
+    {
       "date": "2023-09-30",
       "sides": [
         {
@@ -829,37 +833,6 @@
           ],
           "got": [
             "Joshua Kelley"
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2023-09-30",
-      "sides": [
-        {
-          "team_name": "Psychological Operations",
-          "owner": "Marcus Jardinez",
-          "owner_slug": "marcus-jardinez",
-          "gave": [
-            "Jayden Reed",
-            "Breece Hall"
-          ],
-          "got": [
-            "Mike Evans",
-            "Jerome Ford"
-          ]
-        },
-        {
-          "team_name": "Breece\u2019s Pieces",
-          "owner": "Devon Malki",
-          "owner_slug": "devon-malki",
-          "gave": [
-            "Mike Evans",
-            "Jerome Ford"
-          ],
-          "got": [
-            "Jayden Reed",
-            "Breece Hall"
           ]
         }
       ]
@@ -933,6 +906,7 @@
             "Travis Kelce"
           ],
           "got": [
+            "Mac Jones",
             "Amon-Ra St. Brown"
           ]
         },
@@ -941,39 +915,11 @@
           "owner": "George Duran",
           "owner_slug": "george-duran",
           "gave": [
+            "Mac Jones",
             "Amon-Ra St. Brown"
           ],
           "got": [
             "Travis Kelce"
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2023-09-19",
-      "sides": [
-        {
-          "team_name": "Psychological Operations",
-          "owner": "Marcus Jardinez",
-          "owner_slug": "marcus-jardinez",
-          "gave": [
-            "Tee Higgins"
-          ],
-          "got": [
-            "Breece Hall",
-            "Jahan Dotson"
-          ]
-        },
-        {
-          "team_name": "Tony Pollard Therapy Club ",
-          "owner": "George Duran",
-          "owner_slug": "george-duran",
-          "gave": [
-            "Breece Hall",
-            "Jahan Dotson"
-          ],
-          "got": [
-            "Tee Higgins"
           ]
         }
       ]
@@ -990,8 +936,8 @@
             "Ezekiel Elliott"
           ],
           "got": [
-            "Dallas Goedert",
-            "Tyler Allgeier"
+            "Tyler Allgeier",
+            "Dallas Goedert"
           ]
         },
         {
@@ -999,12 +945,41 @@
           "owner": "Devon Malki",
           "owner_slug": "devon-malki",
           "gave": [
-            "Dallas Goedert",
-            "Tyler Allgeier"
+            "Tyler Allgeier",
+            "Dallas Goedert"
           ],
           "got": [
             "Evan Engram",
             "Ezekiel Elliott"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-09-19",
+      "sides": [
+        {
+          "team_name": "Psychological Operations",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
+          "gave": [
+            "Tee Higgins"
+          ],
+          "got": [
+            "Jahan Dotson",
+            "Breece Hall"
+          ]
+        },
+        {
+          "team_name": "Tony Pollard Therapy Club ",
+          "owner": "George Duran",
+          "owner_slug": "george-duran",
+          "gave": [
+            "Jahan Dotson",
+            "Breece Hall"
+          ],
+          "got": [
+            "Tee Higgins"
           ]
         }
       ]

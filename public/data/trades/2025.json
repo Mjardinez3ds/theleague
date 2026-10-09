@@ -60,6 +60,35 @@
       "date": "2025-11-05",
       "sides": [
         {
+          "team_name": "Farmed",
+          "owner": "George Duran",
+          "owner_slug": "george-duran",
+          "gave": [
+            "Justin Jefferson"
+          ],
+          "got": [
+            "A.J. Brown",
+            "TreVeyon Henderson"
+          ]
+        },
+        {
+          "team_name": "Dynomite",
+          "owner": "derf punk",
+          "owner_slug": "derf-punk",
+          "gave": [
+            "A.J. Brown",
+            "TreVeyon Henderson"
+          ],
+          "got": [
+            "Justin Jefferson"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2025-11-05",
+      "sides": [
+        {
           "team_name": "Buck Swope",
           "owner": "Chris Peralta",
           "owner_slug": "chris-peralta",
@@ -69,8 +98,8 @@
             "Dalton Kincaid"
           ],
           "got": [
-            "George Kittle",
-            "Jameson Williams"
+            "Jameson Williams",
+            "George Kittle"
           ]
         },
         {
@@ -78,40 +107,13 @@
           "owner": "derf punk",
           "owner_slug": "derf-punk",
           "gave": [
-            "George Kittle",
-            "Jameson Williams"
+            "Jameson Williams",
+            "George Kittle"
           ],
           "got": [
             "Xavier Worthy",
             "Zach Charbonnet",
             "Dalton Kincaid"
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2025-11-05",
-      "sides": [
-        {
-          "team_name": "Farmed",
-          "owner": "George Duran",
-          "owner_slug": "george-duran",
-          "gave": [
-            "Tetairoa McMillan"
-          ],
-          "got": [
-            "Aaron Jones Sr."
-          ]
-        },
-        {
-          "team_name": "Big Nix Energy",
-          "owner": "Matthew Taylor",
-          "owner_slug": "matthew-taylor",
-          "gave": [
-            "Aaron Jones Sr."
-          ],
-          "got": [
-            "Tetairoa McMillan"
           ]
         }
       ]
@@ -124,29 +126,85 @@
           "owner": "George Duran",
           "owner_slug": "george-duran",
           "gave": [
-            "Justin Jefferson"
+            "Tetairoa McMillan"
           ],
           "got": [
-            "A.J. Brown",
-            "TreVeyon Henderson"
+            "Aaron Jones Sr."
           ]
         },
         {
-          "team_name": "Dynomite",
-          "owner": "derf punk",
-          "owner_slug": "derf-punk",
+          "team_name": "Big Nix Energy",
+          "owner": "Matthew Taylor",
+          "owner_slug": "matthew-taylor",
           "gave": [
-            "A.J. Brown",
-            "TreVeyon Henderson"
+            "Aaron Jones Sr."
           ],
           "got": [
-            "Justin Jefferson"
+            "Tetairoa McMillan"
           ]
         }
       ]
     },
     {
       "date": "2025-10-22",
+      "sides": [
+        {
+          "team_name": "Ramsey Sporting Goods",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
+          "gave": [
+            "Kenneth Walker III"
+          ],
+          "got": [
+            "Darnell Mooney"
+          ]
+        },
+        {
+          "team_name": "Shy Squad",
+          "owner": "Super Shyguy",
+          "owner_slug": "super-shyguy",
+          "gave": [
+            "Darnell Mooney"
+          ],
+          "got": [
+            "Kenneth Walker III"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2025-10-22",
+      "sides": [
+        {
+          "team_name": "SWEENEY'S B00BS",
+          "owner": "Junior Peralta",
+          "owner_slug": "junior-peralta",
+          "gave": [
+            "Kendrick Bourne",
+            "Amon-Ra St. Brown"
+          ],
+          "got": [
+            "Rachaad White",
+            "DK Metcalf"
+          ]
+        },
+        {
+          "team_name": "No Chase No Case",
+          "owner": "Devon Malki",
+          "owner_slug": "devon-malki",
+          "gave": [
+            "Rachaad White",
+            "DK Metcalf"
+          ],
+          "got": [
+            "Kendrick Bourne",
+            "Amon-Ra St. Brown"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2025-10-21",
       "sides": [
         {
           "team_name": "Buck Swope",
@@ -180,52 +238,23 @@
           "owner": "Marcus Jardinez",
           "owner_slug": "marcus-jardinez",
           "gave": [
-            "Kenneth Walker III"
+            "Troy Franklin",
+            "Ladd McConkey"
           ],
           "got": [
-            "Darnell Mooney"
+            "Courtland Sutton"
           ]
         },
-        {
-          "team_name": "Shy Squad",
-          "owner": "Super Shyguy",
-          "owner_slug": "super-shyguy",
-          "gave": [
-            "Darnell Mooney"
-          ],
-          "got": [
-            "Kenneth Walker III"
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2025-10-17",
-      "sides": [
         {
           "team_name": "SWEENEY'S B00BS",
           "owner": "Junior Peralta",
           "owner_slug": "junior-peralta",
           "gave": [
-            "Kendrick Bourne",
-            "Amon-Ra St. Brown"
+            "Courtland Sutton"
           ],
           "got": [
-            "DK Metcalf",
-            "Rachaad White"
-          ]
-        },
-        {
-          "team_name": "No Chase No Case",
-          "owner": "Devon Malki",
-          "owner_slug": "devon-malki",
-          "gave": [
-            "DK Metcalf",
-            "Rachaad White"
-          ],
-          "got": [
-            "Kendrick Bourne",
-            "Amon-Ra St. Brown"
+            "Troy Franklin",
+            "Ladd McConkey"
           ]
         }
       ]
@@ -238,13 +267,13 @@
           "owner": "Christopher Jones",
           "owner_slug": "christopher-jones",
           "gave": [
-            "D'Andre Swift",
             "Chris Godwin Jr.",
-            "Quentin Johnston"
+            "Quentin Johnston",
+            "D'Andre Swift"
           ],
           "got": [
-            "Garrett Wilson",
-            "Javonte Williams"
+            "Javonte Williams",
+            "Garrett Wilson"
           ]
         },
         {
@@ -252,13 +281,13 @@
           "owner": "Kevin Liang",
           "owner_slug": "kevin-liang",
           "gave": [
-            "Garrett Wilson",
-            "Javonte Williams"
+            "Javonte Williams",
+            "Garrett Wilson"
           ],
           "got": [
-            "D'Andre Swift",
             "Chris Godwin Jr.",
-            "Quentin Johnston"
+            "Quentin Johnston",
+            "D'Andre Swift"
           ]
         }
       ]
@@ -271,12 +300,11 @@
           "owner": "Marcus Jardinez",
           "owner_slug": "marcus-jardinez",
           "gave": [
-            "Ladd McConkey",
-            "Troy Franklin"
+            "Amon-Ra St. Brown"
           ],
           "got": [
-            "Courtland Sutton",
-            "Jaydon Blue"
+            "Nico Collins",
+            "Jaylen Warren"
           ]
         },
         {
@@ -284,12 +312,11 @@
           "owner": "Junior Peralta",
           "owner_slug": "junior-peralta",
           "gave": [
-            "Courtland Sutton",
-            "Jaydon Blue"
+            "Nico Collins",
+            "Jaylen Warren"
           ],
           "got": [
-            "Ladd McConkey",
-            "Troy Franklin"
+            "Amon-Ra St. Brown"
           ]
         }
       ]
@@ -332,8 +359,8 @@
             "James Cook III"
           ],
           "got": [
-            "Kyren Williams",
-            "Jaylen Waddle"
+            "Jaylen Waddle",
+            "Kyren Williams"
           ]
         },
         {
@@ -341,8 +368,8 @@
           "owner": "Devon Malki",
           "owner_slug": "devon-malki",
           "gave": [
-            "Kyren Williams",
-            "Jaylen Waddle"
+            "Jaylen Waddle",
+            "Kyren Williams"
           ],
           "got": [
             "James Cook III"
@@ -351,32 +378,32 @@
       ]
     },
     {
-      "date": "2025-10-02",
+      "date": "2025-09-23",
       "sides": [
-        {
-          "team_name": "Ramsey Sporting Goods",
-          "owner": "Marcus Jardinez",
-          "owner_slug": "marcus-jardinez",
-          "gave": [
-            "Amon-Ra St. Brown",
-            "Tyjae Spears"
-          ],
-          "got": [
-            "Nico Collins",
-            "Jaylen Warren"
-          ]
-        },
         {
           "team_name": "SWEENEY'S B00BS",
           "owner": "Junior Peralta",
           "owner_slug": "junior-peralta",
           "gave": [
-            "Nico Collins",
-            "Jaylen Warren"
+            "Jerry Jeudy",
+            "DJ Moore"
           ],
           "got": [
-            "Amon-Ra St. Brown",
-            "Tyjae Spears"
+            "Courtland Sutton",
+            "Dylan Sampson"
+          ]
+        },
+        {
+          "team_name": "Big Nix Energy",
+          "owner": "Matthew Taylor",
+          "owner_slug": "matthew-taylor",
+          "gave": [
+            "Courtland Sutton",
+            "Dylan Sampson"
+          ],
+          "got": [
+            "Jerry Jeudy",
+            "DJ Moore"
           ]
         }
       ]
@@ -389,8 +416,8 @@
           "owner": "Chris Peralta",
           "owner_slug": "chris-peralta",
           "gave": [
-            "Derrick Henry",
-            "Jordan Addison"
+            "Jordan Addison",
+            "Derrick Henry"
           ],
           "got": [
             "Saquon Barkley"
@@ -404,39 +431,8 @@
             "Saquon Barkley"
           ],
           "got": [
-            "Derrick Henry",
-            "Jordan Addison"
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2025-09-23",
-      "sides": [
-        {
-          "team_name": "SWEENEY'S B00BS",
-          "owner": "Junior Peralta",
-          "owner_slug": "junior-peralta",
-          "gave": [
-            "DJ Moore",
-            "Jerry Jeudy"
-          ],
-          "got": [
-            "Courtland Sutton",
-            "Dylan Sampson"
-          ]
-        },
-        {
-          "team_name": "Big Nix Energy",
-          "owner": "Matthew Taylor",
-          "owner_slug": "matthew-taylor",
-          "gave": [
-            "Courtland Sutton",
-            "Dylan Sampson"
-          ],
-          "got": [
-            "DJ Moore",
-            "Jerry Jeudy"
+            "Jordan Addison",
+            "Derrick Henry"
           ]
         }
       ]
@@ -449,13 +445,13 @@
           "owner": "Chris Peralta",
           "owner_slug": "chris-peralta",
           "gave": [
-            "Quinshon Judkins",
             "Quentin Johnston",
-            "Tucker Kraft"
+            "Tucker Kraft",
+            "Quinshon Judkins"
           ],
           "got": [
-            "George Pickens",
-            "Travis Kelce"
+            "Travis Kelce",
+            "George Pickens"
           ]
         },
         {
@@ -463,13 +459,13 @@
           "owner": "Christopher Jones",
           "owner_slug": "christopher-jones",
           "gave": [
-            "George Pickens",
-            "Travis Kelce"
+            "Travis Kelce",
+            "George Pickens"
           ],
           "got": [
-            "Quinshon Judkins",
             "Quentin Johnston",
-            "Tucker Kraft"
+            "Tucker Kraft",
+            "Quinshon Judkins"
           ]
         }
       ]

@@ -41,10 +41,9 @@
             "Amon-Ra St. Brown"
           ],
           "got": [
-            "Jauan Jennings",
             "Michael Pittman Jr.",
-            "Sterling Shepard",
-            "Joe Mixon"
+            "Joe Mixon",
+            "Jauan Jennings"
           ]
         },
         {
@@ -52,10 +51,9 @@
           "owner": "Kevin Liang",
           "owner_slug": "kevin-liang",
           "gave": [
-            "Jauan Jennings",
             "Michael Pittman Jr.",
-            "Sterling Shepard",
-            "Joe Mixon"
+            "Joe Mixon",
+            "Jauan Jennings"
           ],
           "got": [
             "Alvin Kamara",
@@ -133,8 +131,8 @@
             "Zay Flowers"
           ],
           "got": [
-            "Rome Odunze",
             "Romeo Doubs",
+            "Rome Odunze",
             "Tee Higgins"
           ]
         },
@@ -143,8 +141,8 @@
           "owner": "derf punk",
           "owner_slug": "derf-punk",
           "gave": [
-            "Rome Odunze",
             "Romeo Doubs",
+            "Rome Odunze",
             "Tee Higgins"
           ],
           "got": [
@@ -157,14 +155,15 @@
       "date": "2024-10-24",
       "sides": [
         {
-          "team_name": "4 Percent P00T",
-          "owner": "Denniell Grijalva",
-          "owner_slug": "denniell-grijalva",
+          "team_name": "e-",
+          "owner": "Junior Peralta",
+          "owner_slug": "junior-peralta",
           "gave": [
-            "Romeo Doubs"
+            "Tee Higgins",
+            "Marvin Harrison Jr."
           ],
           "got": [
-            "Patrick Mahomes"
+            "Justin Jefferson"
           ]
         },
         {
@@ -172,10 +171,11 @@
           "owner": "derf punk",
           "owner_slug": "derf-punk",
           "gave": [
-            "Patrick Mahomes"
+            "Justin Jefferson"
           ],
           "got": [
-            "Romeo Doubs"
+            "Tee Higgins",
+            "Marvin Harrison Jr."
           ]
         }
       ]
@@ -184,17 +184,14 @@
       "date": "2024-10-24",
       "sides": [
         {
-          "team_name": "e-",
-          "owner": "Junior Peralta",
-          "owner_slug": "junior-peralta",
+          "team_name": "4 Percent P00T",
+          "owner": "Denniell Grijalva",
+          "owner_slug": "denniell-grijalva",
           "gave": [
-            "Marvin Harrison Jr.",
-            "Tee Higgins"
+            "Romeo Doubs"
           ],
           "got": [
-            "Justin Jefferson",
-            "Xavier Legette",
-            "Christian Watson"
+            "Patrick Mahomes"
           ]
         },
         {
@@ -202,44 +199,10 @@
           "owner": "derf punk",
           "owner_slug": "derf-punk",
           "gave": [
-            "Justin Jefferson",
-            "Xavier Legette",
-            "Christian Watson"
+            "Patrick Mahomes"
           ],
           "got": [
-            "Marvin Harrison Jr.",
-            "Tee Higgins"
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2024-10-23",
-      "sides": [
-        {
-          "team_name": "Perc Angle",
-          "owner": "Chris Peralta",
-          "owner_slug": "chris-peralta",
-          "gave": [
-            "Chris Olave",
-            "Rico Dowdle"
-          ],
-          "got": [
-            "James Conner",
-            "Jameson Williams"
-          ]
-        },
-        {
-          "team_name": "Chubba Missile Crisis",
-          "owner": "derf punk",
-          "owner_slug": "derf-punk",
-          "gave": [
-            "James Conner",
-            "Jameson Williams"
-          ],
-          "got": [
-            "Chris Olave",
-            "Rico Dowdle"
+            "Romeo Doubs"
           ]
         }
       ]
@@ -272,34 +235,32 @@
       ]
     },
     {
-      "date": "2024-10-10",
+      "date": "2024-10-23",
       "sides": [
         {
-          "team_name": "Alien vs Deshaun",
-          "owner": "Kevin Llerena",
-          "owner_slug": "kevin-llerena",
+          "team_name": "Perc Angle",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
           "gave": [
-            "Jahmyr Gibbs",
-            "Stefon Diggs",
-            "Travis Kelce"
+            "Chris Olave",
+            "Rico Dowdle"
           ],
           "got": [
-            "Amon-Ra St. Brown",
-            "Alvin Kamara"
+            "Jameson Williams",
+            "James Conner"
           ]
         },
         {
-          "team_name": "Lose2aG00n3r",
-          "owner": "Kevin Liang",
-          "owner_slug": "kevin-liang",
+          "team_name": "Chubba Missile Crisis",
+          "owner": "derf punk",
+          "owner_slug": "derf-punk",
           "gave": [
-            "Amon-Ra St. Brown",
-            "Alvin Kamara"
+            "Jameson Williams",
+            "James Conner"
           ],
           "got": [
-            "Jahmyr Gibbs",
-            "Stefon Diggs",
-            "Travis Kelce"
+            "Chris Olave",
+            "Rico Dowdle"
           ]
         }
       ]
@@ -332,6 +293,66 @@
       ]
     },
     {
+      "date": "2024-10-09",
+      "sides": [
+        {
+          "team_name": "Alien vs Deshaun",
+          "owner": "Kevin Llerena",
+          "owner_slug": "kevin-llerena",
+          "gave": [
+            "Stefon Diggs",
+            "Travis Kelce",
+            "Jahmyr Gibbs"
+          ],
+          "got": [
+            "Alvin Kamara",
+            "Amon-Ra St. Brown"
+          ]
+        },
+        {
+          "team_name": "Lose2aG00n3r",
+          "owner": "Kevin Liang",
+          "owner_slug": "kevin-liang",
+          "gave": [
+            "Alvin Kamara",
+            "Amon-Ra St. Brown"
+          ],
+          "got": [
+            "Stefon Diggs",
+            "Travis Kelce",
+            "Jahmyr Gibbs"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2024-10-06",
+      "sides": [
+        {
+          "team_name": "Saquon Barkley",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
+          "gave": [
+            "Alexander Mattison"
+          ],
+          "got": [
+            "T.J. Hockenson"
+          ]
+        },
+        {
+          "team_name": "4 Percent P00T",
+          "owner": "Denniell Grijalva",
+          "owner_slug": "denniell-grijalva",
+          "gave": [
+            "T.J. Hockenson"
+          ],
+          "got": [
+            "Alexander Mattison"
+          ]
+        }
+      ]
+    },
+    {
       "date": "2024-10-05",
       "sides": [
         {
@@ -339,8 +360,8 @@
           "owner": "Chris Peralta",
           "owner_slug": "chris-peralta",
           "gave": [
-            "Jerome Ford",
-            "Wan'Dale Robinson"
+            "Wan'Dale Robinson",
+            "Jerome Ford"
           ],
           "got": [
             "Amari Cooper",
@@ -356,8 +377,8 @@
             "Ty Chandler"
           ],
           "got": [
-            "Jerome Ford",
-            "Wan'Dale Robinson"
+            "Wan'Dale Robinson",
+            "Jerome Ford"
           ]
         }
       ]
@@ -401,9 +422,9 @@
             "Jordan Love"
           ],
           "got": [
-            "Brock Purdy",
+            "Michael Pittman Jr.",
             "Jauan Jennings",
-            "Michael Pittman Jr."
+            "Brock Purdy"
           ]
         },
         {
@@ -411,9 +432,9 @@
           "owner": "Junior Peralta",
           "owner_slug": "junior-peralta",
           "gave": [
-            "Brock Purdy",
+            "Michael Pittman Jr.",
             "Jauan Jennings",
-            "Michael Pittman Jr."
+            "Brock Purdy"
           ],
           "got": [
             "Tee Higgins",
@@ -430,21 +451,52 @@
           "owner": "Marcus Jardinez",
           "owner_slug": "marcus-jardinez",
           "gave": [
-            "Alexander Mattison"
+            "Rashid Shaheed",
+            "CeeDee Lamb"
           ],
           "got": [
-            "T.J. Hockenson"
+            "Saquon Barkley",
+            "Tutu Atwell"
           ]
         },
         {
-          "team_name": "4 Percent P00T",
-          "owner": "Denniell Grijalva",
-          "owner_slug": "denniell-grijalva",
+          "team_name": "24 Garrett Gold ",
+          "owner": "Devon Malki",
+          "owner_slug": "devon-malki",
           "gave": [
-            "T.J. Hockenson"
+            "Saquon Barkley",
+            "Tutu Atwell"
           ],
           "got": [
-            "Alexander Mattison"
+            "Rashid Shaheed",
+            "CeeDee Lamb"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2024-09-25",
+      "sides": [
+        {
+          "team_name": "Lose2aG00n3r",
+          "owner": "Kevin Liang",
+          "owner_slug": "kevin-liang",
+          "gave": [
+            "Najee Harris"
+          ],
+          "got": [
+            "Terry McLaurin"
+          ]
+        },
+        {
+          "team_name": "e-",
+          "owner": "Junior Peralta",
+          "owner_slug": "junior-peralta",
+          "gave": [
+            "Terry McLaurin"
+          ],
+          "got": [
+            "Najee Harris"
           ]
         }
       ]
@@ -504,64 +556,6 @@
       ]
     },
     {
-      "date": "2024-09-25",
-      "sides": [
-        {
-          "team_name": "Lose2aG00n3r",
-          "owner": "Kevin Liang",
-          "owner_slug": "kevin-liang",
-          "gave": [
-            "Najee Harris"
-          ],
-          "got": [
-            "Terry McLaurin"
-          ]
-        },
-        {
-          "team_name": "e-",
-          "owner": "Junior Peralta",
-          "owner_slug": "junior-peralta",
-          "gave": [
-            "Terry McLaurin"
-          ],
-          "got": [
-            "Najee Harris"
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2024-09-25",
-      "sides": [
-        {
-          "team_name": "Saquon Barkley",
-          "owner": "Marcus Jardinez",
-          "owner_slug": "marcus-jardinez",
-          "gave": [
-            "CeeDee Lamb",
-            "Rashid Shaheed"
-          ],
-          "got": [
-            "Saquon Barkley",
-            "Tutu Atwell"
-          ]
-        },
-        {
-          "team_name": "24 Garrett Gold ",
-          "owner": "Devon Malki",
-          "owner_slug": "devon-malki",
-          "gave": [
-            "Saquon Barkley",
-            "Tutu Atwell"
-          ],
-          "got": [
-            "CeeDee Lamb",
-            "Rashid Shaheed"
-          ]
-        }
-      ]
-    },
-    {
       "date": "2024-09-24",
       "sides": [
         {
@@ -569,8 +563,8 @@
           "owner": "Chris Peralta",
           "owner_slug": "chris-peralta",
           "gave": [
-            "D'Andre Swift",
-            "Quentin Johnston"
+            "Quentin Johnston",
+            "D'Andre Swift"
           ],
           "got": [
             "Courtland Sutton"
@@ -584,8 +578,8 @@
             "Courtland Sutton"
           ],
           "got": [
-            "D'Andre Swift",
-            "Quentin Johnston"
+            "Quentin Johnston",
+            "D'Andre Swift"
           ]
         }
       ]
@@ -594,25 +588,25 @@
       "date": "2024-09-18",
       "sides": [
         {
-          "team_name": "Perc Angle",
-          "owner": "Chris Peralta",
-          "owner_slug": "chris-peralta",
+          "team_name": "4 Percent P00T",
+          "owner": "Denniell Grijalva",
+          "owner_slug": "denniell-grijalva",
           "gave": [
-            "Brian Thomas Jr."
+            "Dak Prescott"
           ],
           "got": [
-            "Mark Andrews"
+            "Jared Goff"
           ]
         },
         {
-          "team_name": "Maybe Nix Year",
-          "owner": "Matthew Taylor",
-          "owner_slug": "matthew-taylor",
+          "team_name": "24 Garrett Gold ",
+          "owner": "Devon Malki",
+          "owner_slug": "devon-malki",
           "gave": [
-            "Mark Andrews"
+            "Jared Goff"
           ],
           "got": [
-            "Brian Thomas Jr."
+            "Dak Prescott"
           ]
         }
       ]
@@ -648,25 +642,25 @@
       "date": "2024-09-18",
       "sides": [
         {
-          "team_name": "4 Percent P00T",
-          "owner": "Denniell Grijalva",
-          "owner_slug": "denniell-grijalva",
+          "team_name": "Perc Angle",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
           "gave": [
-            "Dak Prescott"
+            "Brian Thomas Jr."
           ],
           "got": [
-            "Jared Goff"
+            "Mark Andrews"
           ]
         },
         {
-          "team_name": "24 Garrett Gold ",
-          "owner": "Devon Malki",
-          "owner_slug": "devon-malki",
+          "team_name": "Maybe Nix Year",
+          "owner": "Matthew Taylor",
+          "owner_slug": "matthew-taylor",
           "gave": [
-            "Jared Goff"
+            "Mark Andrews"
           ],
           "got": [
-            "Dak Prescott"
+            "Brian Thomas Jr."
           ]
         }
       ]

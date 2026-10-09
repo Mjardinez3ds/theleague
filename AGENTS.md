@@ -520,25 +520,51 @@ team-pair (A, B) where at least one player moved A→B AND at least one
 moved B→A in the same week-transition — a one-directional move is just
 a waiver/drop/add and is filtered out.
 
-Then we fetch `TRADE_ACCEPT` records (EXECUTED) from `mTransactions2` to
-attach a real `proposedDate` to each detected trade — match by accepting
-team-id + week-of-detection.
+**Refinements added 2026-10-09** (an owner caught a missing player):
+- **Week 0 = draft results.** `lg.draft` serves as the first snapshot, so
+  trades made between the draft and Week 1 are caught. (2026 Chuba
+  Hubbard ↔ Josh Jacobs was missing entirely.)
+- **The waiver log fills in each window.** A snapshot only shows start and
+  end, so `_effective_move()` uses executed WAIVER/FREEAGENT/ROSTER
+  ADD/DROP items from `mTransactions2`:
+  - FA at start, picked up by team X, ended on Y → X traded him to Y.
+    (2026: Chris added Tre Tucker at 7am and traded him at 1pm. The old diff
+    showed Tucker as a free-agent add by Kevin Ll.)
+  - Ended as FA, dropped by the receiving team → still part of the trade
+    (2023 Mac Jones, Gabe Davis).
+  - Dropped by A and picked up by B in the same window → waiver churn,
+    **not** a trade. The old diff turned these into fake trade pieces. In
+    one case (2023 Junior ↔ Anthony, Allgeier for Bourne) it invented a
+    trade from two crossing waiver moves.
+- **Dates.** Both teams can log a `TRADE_ACCEPT` for one trade. They share
+  `relatedTransactionId`, so they're grouped into one event. A leftover
+  duplicate used to get assigned to a *different* trade. When ESPN
+  still returns the accepted proposal (about 1 in 4), its `TRADE` items name the
+  players, so that date is exact. The rest are matched by team + week, the
+  most constrained trades first. Accepts with `status: None` (still processing)
+  count too.
+
+**Verification:** a one-off check against every accepted trade whose
+proposal ESPN still returns (24 across 2023-2026): players 24/24 and dates
+24/24 after the fix, vs 19/24 players before.
+
+**Gotcha: proposal items include roster-room DROPs.** A trade proposal's
+`items` mix `type: "TRADE"` (players changing teams) with `type: "DROP"`
+(a player released to make room, e.g. 2024 Jalin Hyatt, Drake Maye). Only
+count `TRADE` items as traded players.
 
 #### Known limitations of the diff approach
 
 - **Multiple trades in the same week between the same team pair get merged
   into one entry**: if Team A and Team B trade twice in week 5, the diff
   shows a single combined movement of all 4+ players. The detected count
-  is therefore a *lower bound* on actual trades (2025: 16 detected vs 20
-  TRADE_ACCEPTs in the API).
-- **Trades involving a player who is then immediately dropped won't
-  appear** — they leave no roster footprint by the next snapshot. Rare in
-  practice.
+  is therefore a *lower bound* on actual trades.
 - **3-way trades** (very rare in this league) would not match the strict
   2-team-pair filter. Build a separate path if it ever comes up.
-- The 9-of-2025 / 15-of-2024 / 9-of-2023 unaccounted accepts are a mix of
-  the above; the data we *do* surface is correct, just slightly fewer
-  rows than the raw accept count would suggest. Better to under-report
+- A player traded and dropped by the receiver *and* re-added by someone
+  in the same week can still slip through. Not seen in the data so far.
+- Accepted-trade counts in the API (2023: 35, 2024: 34) exceed detected
+  trades (34, 23). That gap is mostly same-week merges. Better to under-report
   truthfully than over-report with fake players.
 
 ---
@@ -565,6 +591,34 @@ Phase 2 candidates (pick based on which gets clicks):
 ---
 
 ## Changelog
+
+### 2026-10-09 — Trades corrected across every season
+
+**Why:** the owner spotted the 9/23 Chris Peralta ↔ Kevin Llerena trade
+missing Tre Tucker. Confirmed from ESPN: Chris claimed Tucker on waivers
+that morning and traded him the same day, so the roster diff saw him as
+a free agent.
+
+**What:** `build_trades` in `scripts/build_data.py` reworked (draft
+snapshot as week 0, waiver log fills in each window, grouped accepts,
+exact proposal dates). See "What works" in the trade section for detail.
+Net changes on the site:
+- 2026: Tre Tucker added; the 9/6 Hubbard ↔ Jacobs trade added; the
+  Chris/Kevin trade is dated 9/24 and the Diggs trade 9/23 (the old dates
+  were mixed up); Junior ↔ Ricky got a real date (10/4) instead of "W05".
+- 2023: a fake Junior ↔ Anthony trade removed (two crossing waiver moves);
+  Mac Jones and Gabe Davis added to their trades; Elijah Mitchell removed.
+- 2024: Legette, Watson and Sterling Shepard removed (waiver churn).
+- 2025: Jaydon Blue and Tyjae Spears removed (waiver churn).
+- Some same-pair dates in 2023-2024 were reassigned. They match ESPN wherever
+  ESPN has a proposal.
+
+Verified 24/24 on players and dates against every trade ESPN still
+documents in full. Audit 16/16 pass. Standings, scores and history are
+unchanged.
+
+**Files changed:** `scripts/build_data.py`, `public/data/trades/*.json`,
+`public/data/faab/*` + `league.json` (normal refresh), `AGENTS.md`.
 
 ### 2026-10-08 (later) — Home page redesigned for the season
 

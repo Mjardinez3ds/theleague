@@ -210,8 +210,52 @@ def build_trades(
             ow, slug, tname = team_disp.get(tid, ("?", "unknown", "?"))
             return {"team_name": tname, "owner": ow, "owner_slug": slug, "gave": [], "got": []}
 
-        # ---- Step 1: weekly roster snapshots ----
+        # ---- Step 1: transaction log (adds/drops + trade accept timestamps) ----
+        all_txns: dict[str, dict] = {}
+        for week in WEEK_RANGE:
+            try:
+                r = _requests.get(
+                    ep,
+                    params={"view": "mTransactions2", "scoringPeriodId": week},
+                    cookies=cookies,
+                    timeout=15,
+                )
+                if r.ok:
+                    for t in r.json().get("transactions", []):
+                        all_txns[t["id"]] = t
+            except Exception as exc:
+                print(f"  ! txn fetch week {week} yr {yr}: {exc}")
+            time.sleep(0.3)
+
+        # Executed waiver / free-agent moves, per player:
+        #   adds[pid]  = [(scoringPeriod, teamId)]   drops[pid] = [(scoringPeriod, teamId)]
+        from collections import defaultdict
+        adds: dict[int, list[tuple[int, int]]] = defaultdict(list)
+        drops: dict[int, list[tuple[int, int]]] = defaultdict(list)
+        for t in all_txns.values():
+            if t.get("status") != "EXECUTED" or t.get("type") not in ("WAIVER", "FREEAGENT", "ROSTER"):
+                continue
+            sp = t.get("scoringPeriodId", 0)
+            for it in t.get("items", []):
+                pid = it.get("playerId")
+                if not pid:
+                    continue
+                if it.get("type") == "ADD" and it.get("toTeamId", -1) > 0:
+                    adds[pid].append((sp, it["toTeamId"]))
+                elif it.get("type") == "DROP" and it.get("fromTeamId", -1) > 0:
+                    drops[pid].append((sp, it["fromTeamId"]))
+
+        # ---- Step 2: weekly roster snapshots ----
+        # Week 0 = draft results, so trades made between the draft and Week 1
+        # are caught too (2026: Chuba Hubbard <-> Josh Jacobs on 9/6 was missed).
         weekly_rosters: dict[int, dict[int, int]] = {}
+        draft_snap = {
+            p.playerId: p.team.team_id
+            for p in (getattr(lg, "draft", None) or [])
+            if getattr(p, "playerId", None) and getattr(p, "team", None)
+        }
+        if draft_snap:
+            weekly_rosters[0] = draft_snap
         for week in WEEK_RANGE:
             try:
                 r = _requests.get(
@@ -233,22 +277,46 @@ def build_trades(
                 print(f"  ! roster fetch week {week} yr {yr}: {exc}")
             time.sleep(0.4)
 
-        # ---- Step 2: detect player movements between consecutive weeks ----
-        # detected_trades[week_after] = list of trades found at that week boundary
+        # ---- Step 3: detect trades between consecutive snapshots ----
+        # A snapshot only shows where a player started and ended up, so the
+        # waiver log fills in the middle of the window:
+        #   - FA at start, but another team picked him up and then traded him
+        #     (2026: Chris added Tre Tucker on waivers at 7am and traded him
+        #     at 1pm, so he looked like a free-agent add by Kevin Ll).
+        #   - FA at end, because the team that received him dropped him.
+        #   - Team -> team without a trade: dropped by one team and picked up by
+        #     the other. That's a waiver move, not part of any trade.
+        def _effective_move(pid: int, ta, tb, wa: int, wb: int):
+            in_win = lambda lst: [team for sp, team in lst if wa <= sp <= wb]
+            a_adds, a_drops = in_win(adds.get(pid, [])), in_win(drops.get(pid, []))
+            if ta is None:
+                if tb is None or tb in a_adds:
+                    return None  # picked up directly by the team that has him
+                others = [x for x in a_adds if x != tb]
+                return (others[-1], tb) if others else None
+            if tb is None:
+                if ta in a_drops:
+                    return None  # dropped by the team that had him
+                others = [x for x in a_drops if x != ta]
+                return (ta, others[-1]) if others else None
+            if ta in a_drops and tb in a_adds:
+                return None  # waiver churn between the two teams
+            return (ta, tb)
+
         detected_trades: list[dict] = []
         weeks_sorted = sorted(weekly_rosters.keys())
         for i in range(len(weeks_sorted) - 1):
             wa, wb = weeks_sorted[i], weeks_sorted[i + 1]
             ra, rb = weekly_rosters[wa], weekly_rosters[wb]
-            # players that switched teams between wa and wb
-            from collections import defaultdict
             pair_moves: dict[tuple[int, int], list[tuple[int, int, int]]] = defaultdict(list)
-            for pid, ta in ra.items():
-                tb = rb.get(pid)
-                if tb is None or tb == ta:
+            for pid in set(ra) | set(rb):
+                ta, tb = ra.get(pid), rb.get(pid)
+                if ta == tb:
                     continue
-                pair = tuple(sorted([ta, tb]))
-                pair_moves[pair].append((pid, ta, tb))
+                mv = _effective_move(pid, ta, tb, wa, wb)
+                if not mv or mv[0] == mv[1]:
+                    continue
+                pair_moves[tuple(sorted(mv))].append((pid, mv[0], mv[1]))
             # a real trade between A and B has at least one player A→B AND one B→A
             for (a, b), moves in pair_moves.items():
                 a_to_b = [m for m in moves if m[1] == a and m[2] == b]
@@ -260,66 +328,82 @@ def build_trades(
                     sides[frm]["gave"].append(_pname(pid))
                     sides[to]["got"].append(_pname(pid))
                 detected_trades.append({
-                    "week_after": wb,
+                    "week_after": max(wb, 1),
                     "team_pair": (a, b),
                     "sides": list(sides.values()),
                 })
 
-        # ---- Step 3: get TRADE_ACCEPT timestamps to attach dates ----
-        all_txns: dict[str, dict] = {}
-        for week in WEEK_RANGE:
-            try:
-                r = _requests.get(
-                    ep,
-                    params={"view": "mTransactions2", "scoringPeriodId": week},
-                    cookies=cookies,
-                    timeout=15,
-                )
-                if r.ok:
-                    for t in r.json().get("transactions", []):
-                        all_txns[t["id"]] = t
-            except Exception as exc:
-                print(f"  ! txn fetch week {week} yr {yr}: {exc}")
-            time.sleep(0.3)
-
+        # ---- Step 4: get TRADE_ACCEPT timestamps to attach dates ----
         accepts = sorted(
+            # status is None while a just-accepted trade is still processing
+            # (seen 2026 week 5); the rosters already show it, so date it.
             [t for t in all_txns.values()
-             if t.get("type") == "TRADE_ACCEPT" and t.get("status") == "EXECUTED"],
+             if t.get("type") == "TRADE_ACCEPT" and t.get("status") in ("EXECUTED", None)],
             key=lambda t: t["proposedDate"],
         )
 
-        # ---- Step 4: pair each detected trade with the matching TRADE_ACCEPT ----
-        # For each detected trade, find an unused accept whose teamId is one of
-        # the two teams and whose scoringPeriodId equals (or is closest to) the
-        # week boundary where the trade was detected.
-        used_accepts: set[str] = set()
-        trades_out: list[dict] = []
-        for det in detected_trades:
+        # ---- Step 5: pair each detected trade with its TRADE_ACCEPT ----
+        # Both teams can log an accept for the same trade; they share a
+        # relatedTransactionId, so group them into one event. A leftover
+        # duplicate used to get matched to a DIFFERENT trade (2026: the Diggs
+        # trade showed Junior & Marcus's 10/1 date). Trades with the fewest
+        # candidate events are matched first, so an unambiguous accept isn't
+        # taken by a trade that had other options.
+        events: dict[str, dict] = {}
+        for ac in accepts:
+            key = ac.get("relatedTransactionId") or ac["id"]
+            ev = events.setdefault(key, {"teams": set(), "sp": ac["scoringPeriodId"], "date": ac["proposedDate"]})
+            ev["teams"].add(ac["teamId"])
+            ev["sp"] = min(ev["sp"], ac["scoringPeriodId"])
+            ev["date"] = min(ev["date"], ac["proposedDate"])
+
+        def _cands(det, used):
             a, b = det["team_pair"]
             wb = det["week_after"]
-            cands = [
-                ac for ac in accepts
-                if ac["id"] not in used_accepts
-                and ac["teamId"] in (a, b)
-                and ac["scoringPeriodId"] in (wb - 1, wb)
-            ]
-            if not cands:
-                cands = [
-                    ac for ac in accepts
-                    if ac["id"] not in used_accepts
-                    and ac["teamId"] in (a, b)
-                ]
-                cands.sort(key=lambda ac: abs(ac["scoringPeriodId"] - wb))
+            ok = [k for k, ev in events.items() if k not in used and ev["teams"] <= {a, b}]
+            near = [k for k in ok if events[k]["sp"] in (wb - 1, wb)]
+            if near:
+                return sorted(near, key=lambda k: events[k]["date"])
+            return sorted(ok, key=lambda k: abs(events[k]["sp"] - wb))
+
+        def _fmt(ms: int) -> str:
+            return datetime.fromtimestamp(ms / 1000, tz=timezone.utc).strftime("%Y-%m-%d")
+
+        used_events: set[str] = set()
+        date_by_idx: dict[int, str] = {}
+        pending = list(range(len(detected_trades)))
+
+        # Exact matches first: when ESPN still has the accepted proposal, its
+        # TRADE items name the players, so the date is certain (about a quarter
+        # of trades; the rest of the proposals aren't returned by the API).
+        for k, ev in events.items():
+            prop = all_txns.get(k) or {}
+            want = {_pname(it["playerId"]) for it in prop.get("items", [])
+                    if it.get("type") == "TRADE" and it.get("playerId")}
+            if not want:
+                continue
+            for n in pending:
+                det = detected_trades[n]
+                if {p for sd in det["sides"] for p in sd["gave"]} == want:
+                    used_events.add(k)
+                    date_by_idx[n] = _fmt(ev["date"])
+                    pending.remove(n)
+                    break
+        while pending:
+            pending.sort(key=lambda n: len(_cands(detected_trades[n], used_events)) or 99)
+            n = pending.pop(0)
+            cands = _cands(detected_trades[n], used_events)
             if cands:
-                best = cands[0]
-                used_accepts.add(best["id"])
-                date_str = datetime.fromtimestamp(
-                    best["proposedDate"] / 1000, tz=timezone.utc
-                ).strftime("%Y-%m-%d")
+                used_events.add(cands[0])
+                date_by_idx[n] = _fmt(events[cands[0]]["date"])
             else:
                 # fallback: no matching accept; use the week boundary
-                date_str = f"{yr}-W{wb:02d}"
-            trades_out.append({"date": date_str, "sides": det["sides"]})
+                date_by_idx[n] = f"{yr}-W{detected_trades[n]['week_after']:02d}"
+
+        trades_out: list[dict] = [
+            {"date": date_by_idx[n], "sides": det["sides"]}
+            for n, det in enumerate(detected_trades)
+        ]
 
         trades_out.sort(key=lambda t: t["date"], reverse=True)
         write_json(f"trades/{yr}.json", {
@@ -328,7 +412,7 @@ def build_trades(
             "trades": trades_out,
         })
         print(f"  trades {yr}: {len(trades_out)} trades "
-              f"({len(accepts)} accepts in API, {len(used_accepts)} matched)")
+              f"({len(events)} accepted trades in API, {len(used_events)} matched)")
 
 
 def make_league(year: int) -> League:
