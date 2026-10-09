@@ -2,22 +2,22 @@
   "slug": "devon-malki",
   "owner": "Devon Malki",
   "totals": {
-    "acquisitions": 74,
-    "spent": 298,
+    "acquisitions": 77,
+    "spent": 341,
     "biggest_bid": {
-      "year": 2025,
-      "week": 13,
-      "bid": 30,
-      "player": "Ricky Pearsall",
-      "dropped": null
+      "year": 2026,
+      "week": 4,
+      "bid": 43,
+      "player": "Kalif Raymond",
+      "dropped": "Pat Bryant"
     }
   },
   "by_year": [
     {
       "year": 2026,
       "team_name": "Skatt brain mush",
-      "acquisitions": 1,
-      "spent": 10
+      "acquisitions": 4,
+      "spent": 53
     },
     {
       "year": 2025,

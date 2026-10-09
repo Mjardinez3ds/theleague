@@ -1,13 +1,69 @@
 {
   "owners": [
     {
+      "owner": "Jordan van Leesten",
+      "slug": "jordan-van-leesten",
+      "wins": 3,
+      "losses": 1,
+      "ties": 0,
+      "points_for": 564.2,
+      "points_against": 581.4,
+      "titles": 0,
+      "runners_up": 0,
+      "thirds": 0,
+      "lasts": 0,
+      "seasons": [
+        {
+          "year": 2026,
+          "team_name": "Maybe: SUV Hong",
+          "wins": 3,
+          "losses": 1,
+          "ties": 0,
+          "points_for": 564.2,
+          "points_against": 581.4,
+          "finish": null,
+          "league_size": 12
+        }
+      ],
+      "win_pct": 75.0,
+      "games": 4
+    },
+    {
+      "owner": "Christopher Jones",
+      "slug": "christopher-jones",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "points_for": 1723.3,
+      "points_against": 1618.2,
+      "titles": 0,
+      "runners_up": 0,
+      "thirds": 0,
+      "lasts": 0,
+      "seasons": [
+        {
+          "year": 2025,
+          "team_name": "Christopher's Cool Team",
+          "wins": 9,
+          "losses": 5,
+          "ties": 0,
+          "points_for": 1723.3,
+          "points_against": 1618.2,
+          "finish": 6,
+          "league_size": 12
+        }
+      ],
+      "win_pct": 64.3,
+      "games": 14
+    },
+    {
       "owner": "Super Shyguy",
       "slug": "super-shyguy",
       "wins": 20,
-      "losses": 10,
+      "losses": 12,
       "ties": 0,
-      "points_for": 3834.5,
-      "points_against": 3297.2,
+      "points_for": 4078.6,
+      "points_against": 3558.4,
       "titles": 1,
       "runners_up": 0,
       "thirds": 0,
@@ -39,53 +95,25 @@
           "year": 2026,
           "team_name": "Shyguy Snakes",
           "wins": 1,
-          "losses": 1,
+          "losses": 3,
           "ties": 0,
-          "points_for": 270.2,
-          "points_against": 259.5,
+          "points_for": 514.3,
+          "points_against": 520.7,
           "finish": null,
           "league_size": 12
         }
       ],
-      "win_pct": 66.7,
-      "games": 30
-    },
-    {
-      "owner": "Christopher Jones",
-      "slug": "christopher-jones",
-      "wins": 9,
-      "losses": 5,
-      "ties": 0,
-      "points_for": 1723.3,
-      "points_against": 1618.2,
-      "titles": 0,
-      "runners_up": 0,
-      "thirds": 0,
-      "lasts": 0,
-      "seasons": [
-        {
-          "year": 2025,
-          "team_name": "Christopher's Cool Team",
-          "wins": 9,
-          "losses": 5,
-          "ties": 0,
-          "points_for": 1723.3,
-          "points_against": 1618.2,
-          "finish": 6,
-          "league_size": 12
-        }
-      ],
-      "win_pct": 64.3,
-      "games": 14
+      "win_pct": 62.5,
+      "games": 32
     },
     {
       "owner": "Chris Peralta",
       "slug": "chris-peralta",
       "wins": 28,
-      "losses": 16,
+      "losses": 18,
       "ties": 0,
-      "points_for": 5624.9,
-      "points_against": 5420.8,
+      "points_for": 5863.3,
+      "points_against": 5736.2,
       "titles": 0,
       "runners_up": 2,
       "thirds": 1,
@@ -126,27 +154,27 @@
         },
         {
           "year": 2026,
-          "team_name": "Dean Trumbell",
+          "team_name": "Dustin Davis",
           "wins": 0,
-          "losses": 2,
+          "losses": 4,
           "ties": 0,
-          "points_for": 195.2,
-          "points_against": 306.4,
+          "points_for": 433.5,
+          "points_against": 621.8,
           "finish": null,
           "league_size": 12
         }
       ],
-      "win_pct": 63.6,
-      "games": 44
+      "win_pct": 60.9,
+      "games": 46
     },
     {
       "owner": "Kevin Liang",
       "slug": "kevin-liang",
-      "wins": 24,
+      "wins": 26,
       "losses": 19,
       "ties": 1,
-      "points_for": 5297.0,
-      "points_against": 5296.0,
+      "points_for": 5577.2,
+      "points_against": 5547.5,
       "titles": 1,
       "runners_up": 0,
       "thirds": 0,
@@ -188,26 +216,26 @@
         {
           "year": 2026,
           "team_name": "KingGoon",
-          "wins": 2,
+          "wins": 4,
           "losses": 0,
           "ties": 0,
-          "points_for": 300.2,
-          "points_against": 224.2,
+          "points_for": 580.3,
+          "points_against": 475.7,
           "finish": null,
           "league_size": 12
         }
       ],
-      "win_pct": 55.7,
-      "games": 44
+      "win_pct": 57.6,
+      "games": 46
     },
     {
       "owner": "Ricky Cano",
       "slug": "ricky-cano",
-      "wins": 16,
-      "losses": 14,
+      "wins": 17,
+      "losses": 15,
       "ties": 0,
-      "points_for": 3470.0,
-      "points_against": 3437.5,
+      "points_for": 3711.2,
+      "points_against": 3697.5,
       "titles": 0,
       "runners_up": 0,
       "thirds": 1,
@@ -237,18 +265,18 @@
         },
         {
           "year": 2026,
-          "team_name": "Foot In Your A**",
-          "wins": 0,
-          "losses": 2,
+          "team_name": "Its a wrap for me",
+          "wins": 1,
+          "losses": 3,
           "ties": 0,
-          "points_for": 219.3,
-          "points_against": 268.5,
+          "points_for": 460.5,
+          "points_against": 528.6,
           "finish": null,
           "league_size": 12
         }
       ],
-      "win_pct": 53.3,
-      "games": 30
+      "win_pct": 53.1,
+      "games": 32
     },
     {
       "owner": "Abraham Pinales",
@@ -281,11 +309,11 @@
     {
       "owner": "Marcus Jardinez",
       "slug": "marcus-jardinez",
-      "wins": 22,
-      "losses": 22,
+      "wins": 23,
+      "losses": 23,
       "ties": 0,
-      "points_for": 5055.6,
-      "points_against": 5193.7,
+      "points_for": 5301.0,
+      "points_against": 5417.6,
       "titles": 1,
       "runners_up": 0,
       "thirds": 0,
@@ -327,26 +355,26 @@
         {
           "year": 2026,
           "team_name": "Pausa de Hidratacion ",
-          "wins": 2,
-          "losses": 0,
+          "wins": 3,
+          "losses": 1,
           "ties": 0,
-          "points_for": 261.9,
-          "points_against": 191.8,
+          "points_for": 507.4,
+          "points_against": 415.6,
           "finish": null,
           "league_size": 12
         }
       ],
       "win_pct": 50.0,
-      "games": 44
+      "games": 46
     },
     {
       "owner": "Junior Peralta",
       "slug": "junior-peralta",
-      "wins": 22,
-      "losses": 22,
+      "wins": 23,
+      "losses": 23,
       "ties": 0,
-      "points_for": 5255.7,
-      "points_against": 5403.9,
+      "points_for": 5499.4,
+      "points_against": 5678.8,
       "titles": 0,
       "runners_up": 0,
       "thirds": 0,
@@ -388,143 +416,26 @@
         {
           "year": 2026,
           "team_name": "elcampeonnnn",
-          "wins": 1,
-          "losses": 1,
+          "wins": 2,
+          "losses": 2,
           "ties": 0,
-          "points_for": 169.5,
-          "points_against": 203.9,
+          "points_for": 413.2,
+          "points_against": 478.8,
           "finish": null,
           "league_size": 12
         }
       ],
       "win_pct": 50.0,
-      "games": 44
-    },
-    {
-      "owner": "Faust Vinas",
-      "slug": "faust-vinas",
-      "wins": 7,
-      "losses": 7,
-      "ties": 0,
-      "points_for": 1497.6,
-      "points_against": 1474.7,
-      "titles": 0,
-      "runners_up": 0,
-      "thirds": 0,
-      "lasts": 0,
-      "seasons": [
-        {
-          "year": 2024,
-          "team_name": "The Old Hunters",
-          "wins": 7,
-          "losses": 7,
-          "ties": 0,
-          "points_for": 1497.6,
-          "points_against": 1474.7,
-          "finish": 10,
-          "league_size": 12
-        }
-      ],
-      "win_pct": 50.0,
-      "games": 14
-    },
-    {
-      "owner": "Jordan van Leesten",
-      "slug": "jordan-van-leesten",
-      "wins": 1,
-      "losses": 1,
-      "ties": 0,
-      "points_for": 301.4,
-      "points_against": 335.5,
-      "titles": 0,
-      "runners_up": 0,
-      "thirds": 0,
-      "lasts": 0,
-      "seasons": [
-        {
-          "year": 2026,
-          "team_name": "Maybe: SUV Hong",
-          "wins": 1,
-          "losses": 1,
-          "ties": 0,
-          "points_for": 301.4,
-          "points_against": 335.5,
-          "finish": null,
-          "league_size": 12
-        }
-      ],
-      "win_pct": 50.0,
-      "games": 2
-    },
-    {
-      "owner": "Devon Malki",
-      "slug": "devon-malki",
-      "wins": 21,
-      "losses": 23,
-      "ties": 0,
-      "points_for": 5354.0,
-      "points_against": 5193.6,
-      "titles": 0,
-      "runners_up": 0,
-      "thirds": 0,
-      "lasts": 0,
-      "seasons": [
-        {
-          "year": 2023,
-          "team_name": "Breece\u2019s Pieces",
-          "wins": 5,
-          "losses": 9,
-          "ties": 0,
-          "points_for": 1804.4,
-          "points_against": 1638.4,
-          "finish": 9,
-          "league_size": 12
-        },
-        {
-          "year": 2024,
-          "team_name": "24 Garrett Gold ",
-          "wins": 8,
-          "losses": 6,
-          "ties": 0,
-          "points_for": 1606.2,
-          "points_against": 1630.7,
-          "finish": 5,
-          "league_size": 12
-        },
-        {
-          "year": 2025,
-          "team_name": "No Chase No Case",
-          "wins": 7,
-          "losses": 7,
-          "ties": 0,
-          "points_for": 1707.5,
-          "points_against": 1693.6,
-          "finish": 4,
-          "league_size": 12
-        },
-        {
-          "year": 2026,
-          "team_name": "Skatt brain mush",
-          "wins": 1,
-          "losses": 1,
-          "ties": 0,
-          "points_for": 235.9,
-          "points_against": 231.0,
-          "finish": null,
-          "league_size": 12
-        }
-      ],
-      "win_pct": 47.7,
-      "games": 44
+      "games": 46
     },
     {
       "owner": "George Duran",
       "slug": "george-duran",
-      "wins": 21,
+      "wins": 23,
       "losses": 23,
       "ties": 0,
-      "points_for": 5178.6,
-      "points_against": 5272.9,
+      "points_for": 5434.7,
+      "points_against": 5490.8,
       "titles": 1,
       "runners_up": 0,
       "thirds": 1,
@@ -566,26 +477,115 @@
         {
           "year": 2026,
           "team_name": "SLOB",
-          "wins": 1,
+          "wins": 3,
           "losses": 1,
           "ties": 0,
-          "points_for": 200.6,
-          "points_against": 170.7,
+          "points_for": 456.6,
+          "points_against": 388.6,
           "finish": null,
           "league_size": 12
         }
       ],
-      "win_pct": 47.7,
-      "games": 44
+      "win_pct": 50.0,
+      "games": 46
+    },
+    {
+      "owner": "Faust Vinas",
+      "slug": "faust-vinas",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1497.6,
+      "points_against": 1474.7,
+      "titles": 0,
+      "runners_up": 0,
+      "thirds": 0,
+      "lasts": 0,
+      "seasons": [
+        {
+          "year": 2024,
+          "team_name": "The Old Hunters",
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "points_for": 1497.6,
+          "points_against": 1474.7,
+          "finish": 10,
+          "league_size": 12
+        }
+      ],
+      "win_pct": 50.0,
+      "games": 14
+    },
+    {
+      "owner": "Devon Malki",
+      "slug": "devon-malki",
+      "wins": 22,
+      "losses": 24,
+      "ties": 0,
+      "points_for": 5647.0,
+      "points_against": 5431.6,
+      "titles": 0,
+      "runners_up": 0,
+      "thirds": 0,
+      "lasts": 0,
+      "seasons": [
+        {
+          "year": 2023,
+          "team_name": "Breece\u2019s Pieces",
+          "wins": 5,
+          "losses": 9,
+          "ties": 0,
+          "points_for": 1804.4,
+          "points_against": 1638.4,
+          "finish": 9,
+          "league_size": 12
+        },
+        {
+          "year": 2024,
+          "team_name": "24 Garrett Gold ",
+          "wins": 8,
+          "losses": 6,
+          "ties": 0,
+          "points_for": 1606.2,
+          "points_against": 1630.7,
+          "finish": 5,
+          "league_size": 12
+        },
+        {
+          "year": 2025,
+          "team_name": "No Chase No Case",
+          "wins": 7,
+          "losses": 7,
+          "ties": 0,
+          "points_for": 1707.5,
+          "points_against": 1693.6,
+          "finish": 4,
+          "league_size": 12
+        },
+        {
+          "year": 2026,
+          "team_name": "Skatt brain mush",
+          "wins": 2,
+          "losses": 2,
+          "ties": 0,
+          "points_for": 528.9,
+          "points_against": 468.9,
+          "finish": null,
+          "league_size": 12
+        }
+      ],
+      "win_pct": 47.8,
+      "games": 46
     },
     {
       "owner": "Matthew Taylor",
       "slug": "matthew-taylor",
-      "wins": 13,
+      "wins": 15,
       "losses": 17,
       "ties": 0,
-      "points_for": 3389.0,
-      "points_against": 3498.2,
+      "points_for": 3653.8,
+      "points_against": 3700.4,
       "titles": 0,
       "runners_up": 0,
       "thirds": 0,
@@ -616,26 +616,54 @@
         {
           "year": 2026,
           "team_name": "Big Nix Energy",
-          "wins": 2,
+          "wins": 4,
           "losses": 0,
           "ties": 0,
-          "points_for": 342.8,
-          "points_against": 258.2,
+          "points_for": 607.5,
+          "points_against": 460.4,
           "finish": null,
           "league_size": 12
         }
       ],
-      "win_pct": 43.3,
-      "games": 30
+      "win_pct": 46.9,
+      "games": 32
+    },
+    {
+      "owner": "Anthony Richardson",
+      "slug": "anthony-richardson",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "points_for": 1652.1,
+      "points_against": 1773.0,
+      "titles": 0,
+      "runners_up": 0,
+      "thirds": 0,
+      "lasts": 0,
+      "seasons": [
+        {
+          "year": 2023,
+          "team_name": "UrMom Stillsquirts",
+          "wins": 6,
+          "losses": 8,
+          "ties": 0,
+          "points_for": 1652.1,
+          "points_against": 1773.0,
+          "finish": 7,
+          "league_size": 12
+        }
+      ],
+      "win_pct": 42.9,
+      "games": 14
     },
     {
       "owner": "Kevin Llerena",
       "slug": "kevin-llerena",
       "wins": 19,
-      "losses": 25,
+      "losses": 27,
       "ties": 0,
-      "points_for": 5120.5,
-      "points_against": 5218.7,
+      "points_for": 5370.0,
+      "points_against": 5478.7,
       "titles": 0,
       "runners_up": 0,
       "thirds": 0,
@@ -678,53 +706,25 @@
           "year": 2026,
           "team_name": "Serving Punt",
           "wins": 0,
-          "losses": 2,
+          "losses": 4,
           "ties": 0,
-          "points_for": 225.6,
-          "points_against": 278.5,
+          "points_for": 475.1,
+          "points_against": 538.5,
           "finish": null,
           "league_size": 12
         }
       ],
-      "win_pct": 43.2,
-      "games": 44
-    },
-    {
-      "owner": "Anthony Richardson",
-      "slug": "anthony-richardson",
-      "wins": 6,
-      "losses": 8,
-      "ties": 0,
-      "points_for": 1652.1,
-      "points_against": 1773.0,
-      "titles": 0,
-      "runners_up": 0,
-      "thirds": 0,
-      "lasts": 0,
-      "seasons": [
-        {
-          "year": 2023,
-          "team_name": "UrMom Stillsquirts",
-          "wins": 6,
-          "losses": 8,
-          "ties": 0,
-          "points_for": 1652.1,
-          "points_against": 1773.0,
-          "finish": 7,
-          "league_size": 12
-        }
-      ],
-      "win_pct": 42.9,
-      "games": 14
+      "win_pct": 41.3,
+      "games": 46
     },
     {
       "owner": "derf punk",
       "slug": "derf-punk",
       "wins": 17,
-      "losses": 26,
+      "losses": 28,
       "ties": 1,
-      "points_for": 4914.9,
-      "points_against": 5030.7,
+      "points_for": 5106.6,
+      "points_against": 5290.7,
       "titles": 1,
       "runners_up": 0,
       "thirds": 0,
@@ -767,16 +767,16 @@
           "year": 2026,
           "team_name": "monke",
           "wins": 1,
-          "losses": 1,
+          "losses": 3,
           "ties": 0,
-          "points_for": 235.6,
-          "points_against": 230.0,
+          "points_for": 427.3,
+          "points_against": 490.0,
           "finish": null,
           "league_size": 12
         }
       ],
-      "win_pct": 39.8,
-      "games": 44
+      "win_pct": 38.0,
+      "games": 46
     },
     {
       "owner": "Denniell Grijalva",

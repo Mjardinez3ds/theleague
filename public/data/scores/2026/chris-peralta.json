@@ -4,7 +4,7 @@
     {
       "week": 1,
       "score": 111.76,
-      "team_name": "Dean Trumbell",
+      "team_name": "Dustin Davis",
       "opponent": "Marcus Jardinez",
       "opponent_slug": "marcus-jardinez",
       "opponent_team": "Pausa de Hidratacion ",
@@ -15,11 +15,33 @@
     {
       "week": 2,
       "score": 83.44,
-      "team_name": "Dean Trumbell",
+      "team_name": "Dustin Davis",
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
       "opponent_team": "monke",
       "opponent_score": 143.82,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "score": 106.38,
+      "team_name": "Dustin Davis",
+      "opponent": "Devon Malki",
+      "opponent_slug": "devon-malki",
+      "opponent_team": "Skatt brain mush",
+      "opponent_score": 164.58,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "score": 131.96,
+      "team_name": "Dustin Davis",
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "opponent_team": "KingGoon",
+      "opponent_score": 150.8,
       "result": "L",
       "is_playoff": false
     }

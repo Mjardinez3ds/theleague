@@ -1,11 +1,11 @@
 {
   "owner": "Junior Peralta",
   "slug": "junior-peralta",
-  "wins": 22,
-  "losses": 22,
+  "wins": 23,
+  "losses": 23,
   "ties": 0,
-  "points_for": 5255.7,
-  "points_against": 5403.9,
+  "points_for": 5499.4,
+  "points_against": 5678.8,
   "titles": 0,
   "runners_up": 0,
   "thirds": 0,
@@ -47,15 +47,15 @@
     {
       "year": 2026,
       "team_name": "elcampeonnnn",
-      "wins": 1,
-      "losses": 1,
+      "wins": 2,
+      "losses": 2,
       "ties": 0,
-      "points_for": 169.5,
-      "points_against": 203.9,
+      "points_for": 413.2,
+      "points_against": 478.8,
       "finish": null,
       "league_size": 12
     }
   ],
   "win_pct": 50.0,
-  "games": 44
+  "games": 46
 }

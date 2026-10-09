@@ -18,6 +18,24 @@
       "ties": 0,
       "pf": 131.08,
       "pa": 199.62
+    },
+    {
+      "opponent": "Super Shyguy",
+      "opponent_slug": "super-shyguy",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pf": 132.06,
+      "pa": 115.84
+    },
+    {
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pf": 130.68,
+      "pa": 130.0
     }
   ]
 }

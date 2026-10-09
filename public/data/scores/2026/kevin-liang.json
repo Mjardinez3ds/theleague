@@ -22,6 +22,28 @@
       "opponent_score": 89.32,
       "result": "W",
       "is_playoff": false
+    },
+    {
+      "week": 3,
+      "score": 129.34,
+      "team_name": "KingGoon",
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "opponent_team": "Serving Punt",
+      "opponent_score": 119.54,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "score": 150.8,
+      "team_name": "KingGoon",
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "opponent_team": "Dustin Davis",
+      "opponent_score": 131.96,
+      "result": "W",
+      "is_playoff": false
     }
   ]
 }

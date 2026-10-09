@@ -2,10 +2,10 @@
   "owner": "Chris Peralta",
   "slug": "chris-peralta",
   "wins": 28,
-  "losses": 16,
+  "losses": 18,
   "ties": 0,
-  "points_for": 5624.9,
-  "points_against": 5420.8,
+  "points_for": 5863.3,
+  "points_against": 5736.2,
   "titles": 0,
   "runners_up": 2,
   "thirds": 1,
@@ -46,16 +46,16 @@
     },
     {
       "year": 2026,
-      "team_name": "Dean Trumbell",
+      "team_name": "Dustin Davis",
       "wins": 0,
-      "losses": 2,
+      "losses": 4,
       "ties": 0,
-      "points_for": 195.2,
-      "points_against": 306.4,
+      "points_for": 433.5,
+      "points_against": 621.8,
       "finish": null,
       "league_size": 12
     }
   ],
-  "win_pct": 63.6,
-  "games": 44
+  "win_pct": 60.9,
+  "games": 46
 }

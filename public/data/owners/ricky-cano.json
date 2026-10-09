@@ -1,11 +1,11 @@
 {
   "owner": "Ricky Cano",
   "slug": "ricky-cano",
-  "wins": 16,
-  "losses": 14,
+  "wins": 17,
+  "losses": 15,
   "ties": 0,
-  "points_for": 3470.0,
-  "points_against": 3437.5,
+  "points_for": 3711.2,
+  "points_against": 3697.5,
   "titles": 0,
   "runners_up": 0,
   "thirds": 1,
@@ -35,16 +35,16 @@
     },
     {
       "year": 2026,
-      "team_name": "Foot In Your A**",
-      "wins": 0,
-      "losses": 2,
+      "team_name": "Its a wrap for me",
+      "wins": 1,
+      "losses": 3,
       "ties": 0,
-      "points_for": 219.3,
-      "points_against": 268.5,
+      "points_for": 460.5,
+      "points_against": 528.6,
       "finish": null,
       "league_size": 12
     }
   ],
-  "win_pct": 53.3,
-  "games": 30
+  "win_pct": 53.1,
+  "games": 32
 }

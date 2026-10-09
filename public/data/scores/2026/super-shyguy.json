@@ -22,6 +22,28 @@
       "opponent_score": 98.46,
       "result": "W",
       "is_playoff": false
+    },
+    {
+      "week": 3,
+      "score": 115.84,
+      "team_name": "Shyguy Snakes",
+      "opponent": "Jordan van Leesten",
+      "opponent_slug": "jordan-van-leesten",
+      "opponent_team": "Maybe: SUV Hong",
+      "opponent_score": 132.06,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "score": 128.28,
+      "team_name": "Shyguy Snakes",
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "opponent_team": "elcampeonnnn",
+      "opponent_score": 129.12,
+      "result": "L",
+      "is_playoff": false
     }
   ]
 }

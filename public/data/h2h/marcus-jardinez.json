@@ -47,6 +47,15 @@
       "pa": 591.64
     },
     {
+      "opponent": "Ricky Cano",
+      "opponent_slug": "ricky-cano",
+      "wins": 1,
+      "losses": 3,
+      "ties": 0,
+      "pf": 435.6,
+      "pa": 489.52
+    },
+    {
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
       "wins": 2,
@@ -56,13 +65,13 @@
       "pa": 503.96
     },
     {
-      "opponent": "Ricky Cano",
-      "opponent_slug": "ricky-cano",
-      "wins": 0,
-      "losses": 3,
+      "opponent": "Matthew Taylor",
+      "opponent_slug": "matthew-taylor",
+      "wins": 2,
+      "losses": 2,
       "ties": 0,
-      "pf": 277.8,
-      "pa": 383.82
+      "pf": 389.66,
+      "pa": 422.62
     },
     {
       "opponent": "Devon Malki",
@@ -72,15 +81,6 @@
       "ties": 0,
       "pf": 312.28,
       "pa": 420.22
-    },
-    {
-      "opponent": "Matthew Taylor",
-      "opponent_slug": "matthew-taylor",
-      "wins": 2,
-      "losses": 1,
-      "ties": 0,
-      "pf": 302.02,
-      "pa": 304.5
     },
     {
       "opponent": "Super Shyguy",

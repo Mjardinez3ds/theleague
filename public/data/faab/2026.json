@@ -105,7 +105,7 @@
       "date": "2026-09-08",
       "owner": "Ricky Cano",
       "owner_slug": "ricky-cano",
-      "team_name": "Foot In Your A**",
+      "team_name": "Its a wrap for me",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -234,7 +234,7 @@
       "date": "2026-09-10",
       "owner": "Chris Peralta",
       "owner_slug": "chris-peralta",
-      "team_name": "Dean Trumbell",
+      "team_name": "Dustin Davis",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -419,7 +419,7 @@
       "date": "2026-09-16",
       "owner": "Chris Peralta",
       "owner_slug": "chris-peralta",
-      "team_name": "Dean Trumbell",
+      "team_name": "Dustin Davis",
       "type": "WAIVER",
       "bid": 11,
       "added": [
@@ -494,7 +494,7 @@
       "date": "2026-09-19",
       "owner": "Ricky Cano",
       "owner_slug": "ricky-cano",
-      "team_name": "Foot In Your A**",
+      "team_name": "Its a wrap for me",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -537,7 +537,7 @@
       "date": "2026-09-20",
       "owner": "Chris Peralta",
       "owner_slug": "chris-peralta",
-      "team_name": "Dean Trumbell",
+      "team_name": "Dustin Davis",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -567,7 +567,7 @@
       "date": "2026-09-20",
       "owner": "Chris Peralta",
       "owner_slug": "chris-peralta",
-      "team_name": "Dean Trumbell",
+      "team_name": "Dustin Davis",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -608,13 +608,41 @@
       "date": "2026-09-23",
       "owner": "Ricky Cano",
       "owner_slug": "ricky-cano",
-      "team_name": "Foot In Your A**",
+      "team_name": "Its a wrap for me",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
         "Daniel Jones"
       ],
       "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2026-09-23",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "WAIVER",
+      "bid": 27,
+      "added": [
+        "Denzel Boston"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2026-09-23",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Terrance Ferguson"
+      ],
+      "dropped": [
+        "Kenyon Sadiq"
+      ]
     },
     {
       "week": 3,
@@ -636,7 +664,7 @@
       "date": "2026-09-23",
       "owner": "Chris Peralta",
       "owner_slug": "chris-peralta",
-      "team_name": "Dean Trumbell",
+      "team_name": "Dustin Davis",
       "type": "WAIVER",
       "bid": 6,
       "added": [
@@ -664,19 +692,6 @@
     {
       "week": 3,
       "date": "2026-09-23",
-      "owner": "Jordan van Leesten",
-      "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe: SUV Hong",
-      "type": "WAIVER",
-      "bid": 27,
-      "added": [
-        "Denzel Boston"
-      ],
-      "dropped": []
-    },
-    {
-      "week": 3,
-      "date": "2026-09-23",
       "owner": "George Duran",
       "owner_slug": "george-duran",
       "team_name": "SLOB",
@@ -694,7 +709,7 @@
       "date": "2026-09-23",
       "owner": "Chris Peralta",
       "owner_slug": "chris-peralta",
-      "team_name": "Dean Trumbell",
+      "team_name": "Dustin Davis",
       "type": "WAIVER",
       "bid": 15,
       "added": [
@@ -707,7 +722,7 @@
       "date": "2026-09-23",
       "owner": "Chris Peralta",
       "owner_slug": "chris-peralta",
-      "team_name": "Dean Trumbell",
+      "team_name": "Dustin Davis",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -750,21 +765,6 @@
     {
       "week": 3,
       "date": "2026-09-23",
-      "owner": "George Duran",
-      "owner_slug": "george-duran",
-      "team_name": "SLOB",
-      "type": "FREEAGENT",
-      "bid": 0,
-      "added": [
-        "Terrance Ferguson"
-      ],
-      "dropped": [
-        "Kenyon Sadiq"
-      ]
-    },
-    {
-      "week": 3,
-      "date": "2026-09-23",
       "owner": "Junior Peralta",
       "owner_slug": "junior-peralta",
       "team_name": "elcampeonnnn",
@@ -774,6 +774,64 @@
         "Trey Smack"
       ],
       "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2026-09-24",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Keon Coleman"
+      ],
+      "dropped": [
+        "Zach Ertz"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2026-09-24",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mike Washington Jr."
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2026-09-24",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Zach Ertz"
+      ],
+      "dropped": [
+        "Konata Mumpfield"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2026-09-24",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "WAIVER",
+      "bid": 8,
+      "added": [
+        "Quentin Johnston"
+      ],
+      "dropped": [
+        "Antonio Williams"
+      ]
     },
     {
       "week": 3,
@@ -789,71 +847,1058 @@
       "dropped": [
         "Will Reichard"
       ]
+    },
+    {
+      "week": 3,
+      "date": "2026-09-24",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chase McLaughlin"
+      ],
+      "dropped": [
+        "Chris Rodriguez Jr."
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2026-09-24",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "WAIVER",
+      "bid": 10,
+      "added": [
+        "Marvin Harrison Jr."
+      ],
+      "dropped": [
+        "MarShawn Lloyd"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2026-09-25",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Pat Freiermuth"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2026-09-26",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bo Nix"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2026-09-26",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Skatt brain mush",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Xavier Hutchinson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2026-09-27",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Its a wrap for me",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kendrick Bourne"
+      ],
+      "dropped": [
+        "Rashid Shaheed"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2026-09-27",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kenyon Sadiq"
+      ],
+      "dropped": [
+        "Pat Freiermuth"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-09-30",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "monke",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Konata Mumpfield"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2026-09-30",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "WAIVER",
+      "bid": 88,
+      "added": [
+        "Ollie Gordon II"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2026-09-30",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Bell"
+      ],
+      "dropped": [
+        "Sione Vaki"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-09-30",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Skatt brain mush",
+      "type": "WAIVER",
+      "bid": 43,
+      "added": [
+        "Kalif Raymond"
+      ],
+      "dropped": [
+        "Pat Bryant"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-09-30",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "WAIVER",
+      "bid": 36,
+      "added": [
+        "Keenan Allen"
+      ],
+      "dropped": [
+        "Quentin Johnston"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-09-30",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Sione Vaki"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2026-09-30",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "monke",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Konata Mumpfield"
+      ],
+      "dropped": [
+        "Emanuel Wilson"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-09-30",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "monke",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Marcus Mariota"
+      ],
+      "dropped": [
+        "Rashod Bateman"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-09-30",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "monke",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyreek Hill"
+      ],
+      "dropped": [
+        "Konata Mumpfield"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-09-30",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mack Hollins"
+      ],
+      "dropped": [
+        "Kirk Cousins"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-09-30",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "WAIVER",
+      "bid": 13,
+      "added": [
+        "Sam Darnold"
+      ],
+      "dropped": [
+        "Chase McLaughlin"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-09-30",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jaylen Wright"
+      ],
+      "dropped": [
+        "Tank Bigsby"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-09-30",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "De'Zhaun Stribling"
+      ],
+      "dropped": [
+        "Justin Herbert"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-09-30",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "monke",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Noah Fant"
+      ],
+      "dropped": [
+        "Hunter Henry"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-09-30",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "WAIVER",
+      "bid": 3,
+      "added": [
+        "Keaton Mitchell"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2026-09-30",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kirk Cousins"
+      ],
+      "dropped": [
+        "T.J. Hockenson"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-09-30",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Will Reichard"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2026-09-30",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Christian Kirk"
+      ],
+      "dropped": [
+        "Ted Hurst III"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-09-30",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "WAIVER",
+      "bid": 7,
+      "added": [
+        "Kendre Miller"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2026-09-30",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Sione Vaki"
+      ],
+      "dropped": [
+        "Chris Godwin Jr."
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-09-30",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "WAIVER",
+      "bid": 9,
+      "added": [
+        "Spencer Shrader"
+      ],
+      "dropped": [
+        "Harrison Butker"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-09-30",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "monke",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darren Waller"
+      ],
+      "dropped": [
+        "Noah Fant"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-10-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ryan Fitzgerald"
+      ],
+      "dropped": [
+        "Will Reichard"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-10-01",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Isaiah Davis"
+      ],
+      "dropped": [
+        "Chris Bell"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-10-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tre' Harris"
+      ],
+      "dropped": [
+        "Christian Kirk"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-10-01",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jayden Daniels"
+      ],
+      "dropped": [
+        "Jordan Love"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-10-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Goodson"
+      ],
+      "dropped": [
+        "Marvin Harrison Jr."
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-10-01",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Higbee"
+      ],
+      "dropped": [
+        "Mack Hollins"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-10-02",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Antonio Williams"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2026-10-02",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "WAIVER",
+      "bid": 26,
+      "added": [
+        "Emanuel Wilson"
+      ],
+      "dropped": [
+        "Keaton Mitchell"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-10-03",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "monke",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jauan Jennings"
+      ],
+      "dropped": [
+        "Konata Mumpfield"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-10-03",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "George Holani"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2026-10-03",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Joe Mixon"
+      ],
+      "dropped": [
+        "Tyler Goodson"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-10-03",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "monke",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Marvin Harrison Jr."
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2026-10-03",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Rodriguez Jr."
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2026-10-03",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Bell"
+      ],
+      "dropped": [
+        "Isaiah Davis"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-10-04",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Rodriguez Jr."
+      ],
+      "dropped": [
+        "Antonio Williams"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-10-04",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "T.J. Hockenson"
+      ],
+      "dropped": [
+        "Chris Rodriguez Jr."
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-10-04",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "James Conner"
+      ],
+      "dropped": [
+        "T.J. Hockenson"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-10-04",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "T.J. Hockenson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2026-10-04",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Will Reichard"
+      ],
+      "dropped": [
+        "Cam Little"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-10-04",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Keaton Mitchell"
+      ],
+      "dropped": [
+        "Terrance Ferguson"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2026-10-07",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Antonio Williams"
+      ],
+      "dropped": [
+        "Kaleb Johnson"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2026-10-07",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Austin Ekeler"
+      ],
+      "dropped": [
+        "Jaylen Wright"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2026-10-07",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Goodson"
+      ],
+      "dropped": [
+        "Joe Mixon"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2026-10-07",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "monke",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Hunter Henry"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2026-10-07",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "WAIVER",
+      "bid": 15,
+      "added": [
+        "Keon Coleman"
+      ],
+      "dropped": [
+        "Tyler Higbee"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2026-10-07",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Godwin Jr."
+      ],
+      "dropped": [
+        "Tyler Goodson"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2026-10-07",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mike Gesicki"
+      ],
+      "dropped": [
+        "Mike Washington Jr."
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2026-10-07",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "WAIVER",
+      "bid": 30,
+      "added": [
+        "Roman Wilson"
+      ],
+      "dropped": [
+        "Tyjae Spears"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2026-10-07",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "MarShawn Lloyd"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2026-10-07",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Michael Mayer"
+      ],
+      "dropped": [
+        "J.K. Dobbins"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2026-10-07",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "WAIVER",
+      "bid": 30,
+      "added": [
+        "Will Shipley"
+      ],
+      "dropped": [
+        "Travis Hunter"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2026-10-07",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rashid Shaheed"
+      ],
+      "dropped": [
+        "Dameon Pierce"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2026-10-07",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Bass"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2026-10-07",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "WAIVER",
+      "bid": 9,
+      "added": [
+        "Dohnte Meyers"
+      ],
+      "dropped": [
+        "Malik Willis"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2026-10-07",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "monke",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brenton Strange"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2026-10-07",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Skatt brain mush",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cam Little"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2026-10-07",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dameon Pierce"
+      ],
+      "dropped": [
+        "Chris Rodriguez Jr."
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2026-10-07",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jordan Love"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2026-10-08",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kenyon Sadiq"
+      ],
+      "dropped": [
+        "Sione Vaki"
+      ]
     }
   ],
   "team_totals": [
     {
-      "owner": "Chris Peralta",
-      "owner_slug": "chris-peralta",
-      "team_name": "Dean Trumbell",
-      "acquisitions": 7,
-      "spent": 32
-    },
-    {
-      "owner": "Jordan van Leesten",
-      "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe: SUV Hong",
-      "acquisitions": 2,
-      "spent": 27
-    },
-    {
-      "owner": "George Duran",
-      "owner_slug": "george-duran",
-      "team_name": "SLOB",
-      "acquisitions": 8,
-      "spent": 14
-    },
-    {
-      "owner": "Super Shyguy",
-      "owner_slug": "super-shyguy",
-      "team_name": "Shyguy Snakes",
-      "acquisitions": 1,
-      "spent": 12
-    },
-    {
-      "owner": "derf punk",
-      "owner_slug": "derf-punk",
-      "team_name": "monke",
-      "acquisitions": 4,
-      "spent": 10
-    },
-    {
-      "owner": "Devon Malki",
-      "owner_slug": "devon-malki",
-      "team_name": "Skatt brain mush",
-      "acquisitions": 1,
-      "spent": 10
-    },
-    {
-      "owner": "Kevin Llerena",
-      "owner_slug": "kevin-llerena",
-      "team_name": "Serving Punt",
-      "acquisitions": 3,
-      "spent": 5
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "acquisitions": 23,
+      "spent": 85
     },
     {
       "owner": "Marcus Jardinez",
       "owner_slug": "marcus-jardinez",
       "team_name": "Pausa de Hidratacion ",
-      "acquisitions": 3,
-      "spent": 3
+      "acquisitions": 13,
+      "spent": 71
     },
     {
-      "owner": "Junior Peralta",
-      "owner_slug": "junior-peralta",
-      "team_name": "elcampeonnnn",
-      "acquisitions": 7,
-      "spent": 2
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "acquisitions": 20,
+      "spent": 61
+    },
+    {
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "acquisitions": 3,
+      "spent": 60
+    },
+    {
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Skatt brain mush",
+      "acquisitions": 4,
+      "spent": 53
+    },
+    {
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "acquisitions": 3,
+      "spent": 36
+    },
+    {
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "acquisitions": 13,
+      "spent": 26
+    },
+    {
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "acquisitions": 5,
+      "spent": 25
+    },
+    {
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "acquisitions": 9,
+      "spent": 20
+    },
+    {
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "monke",
+      "acquisitions": 14,
+      "spent": 10
     },
     {
       "owner": "Kevin Liang",
@@ -863,17 +1908,10 @@
       "spent": 0
     },
     {
-      "owner": "Matthew Taylor",
-      "owner_slug": "matthew-taylor",
-      "team_name": "Big Nix Energy",
-      "acquisitions": 0,
-      "spent": 0
-    },
-    {
       "owner": "Ricky Cano",
       "owner_slug": "ricky-cano",
-      "team_name": "Foot In Your A**",
-      "acquisitions": 2,
+      "team_name": "Its a wrap for me",
+      "acquisitions": 3,
       "spent": 0
     }
   ]

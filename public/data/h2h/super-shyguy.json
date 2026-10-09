@@ -47,6 +47,15 @@
       "pa": 330.34
     },
     {
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "wins": 2,
+      "losses": 1,
+      "ties": 0,
+      "pf": 426.9,
+      "pa": 327.08
+    },
+    {
       "opponent": "George Duran",
       "opponent_slug": "george-duran",
       "wins": 2,
@@ -83,15 +92,6 @@
       "pa": 197.58
     },
     {
-      "opponent": "Junior Peralta",
-      "opponent_slug": "junior-peralta",
-      "wins": 2,
-      "losses": 0,
-      "ties": 0,
-      "pf": 298.62,
-      "pa": 197.96
-    },
-    {
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
       "wins": 2,
@@ -117,6 +117,15 @@
       "ties": 0,
       "pf": 129.9,
       "pa": 124.86
+    },
+    {
+      "opponent": "Jordan van Leesten",
+      "opponent_slug": "jordan-van-leesten",
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "pf": 115.84,
+      "pa": 132.06
     }
   ]
 }

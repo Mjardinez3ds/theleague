@@ -11,6 +11,15 @@
       "pa": 903.92
     },
     {
+      "opponent": "Matthew Taylor",
+      "opponent_slug": "matthew-taylor",
+      "wins": 3,
+      "losses": 3,
+      "ties": 0,
+      "pf": 670.94,
+      "pa": 682.58
+    },
+    {
       "opponent": "Chris Peralta",
       "opponent_slug": "chris-peralta",
       "wins": 1,
@@ -36,15 +45,6 @@
       "ties": 0,
       "pf": 591.64,
       "pa": 679.04
-    },
-    {
-      "opponent": "Matthew Taylor",
-      "opponent_slug": "matthew-taylor",
-      "wins": 3,
-      "losses": 2,
-      "ties": 0,
-      "pf": 556.36,
-      "pa": 535.96
     },
     {
       "opponent": "Kevin Llerena",
@@ -83,6 +83,15 @@
       "pa": 366.74
     },
     {
+      "opponent": "Super Shyguy",
+      "opponent_slug": "super-shyguy",
+      "wins": 1,
+      "losses": 2,
+      "ties": 0,
+      "pf": 327.08,
+      "pa": 426.9
+    },
+    {
       "opponent": "Anthony Richardson",
       "opponent_slug": "anthony-richardson",
       "wins": 1,
@@ -117,15 +126,6 @@
       "ties": 0,
       "pf": 200.12,
       "pa": 225.5
-    },
-    {
-      "opponent": "Super Shyguy",
-      "opponent_slug": "super-shyguy",
-      "wins": 0,
-      "losses": 2,
-      "ties": 0,
-      "pf": 197.96,
-      "pa": 298.62
     },
     {
       "opponent": "Christopher Jones",

@@ -21,8 +21,16 @@ import requests as _requests
 from espn_api.football import League
 
 # ---------- Config ----------
-LEAGUE_ID = int(os.getenv("ESPN_LEAGUE_ID", "1917791320"))
-ESPN_S2 = os.getenv(
+# GitHub Actions passes an unset secret/variable as an EMPTY STRING, and
+# os.getenv("X", default) returns that "" instead of the default. int("")
+# then crashed the daily refresh before it fetched anything. _env() treats
+# empty the same as unset.
+def _env(name: str, default: str) -> str:
+    return os.getenv(name) or default
+
+
+LEAGUE_ID = int(_env("ESPN_LEAGUE_ID", "1917791320"))
+ESPN_S2 = _env(
     "ESPN_S2",
     "AEBMwbLFpn%2BnPQ%2BhMkaekhc1jIAEeFYzrmWDgFBei3LC3GRVLGTlworTzLRoPQLTpW%2Ff"
     "BTXRdzuU7J9qSzsRjP%2BOTj6KT3bt03S1C0%2FtDD6Os57aC99lI%2B0bhmr%2BHhUIRxmzPX"
@@ -30,10 +38,10 @@ ESPN_S2 = os.getenv(
     "rOD56TPmXPePbDw8xzLzYSI344LUYpSjEevln4w2ZqnMagMB5IdI18L9idqvAh9mPXBR7GlNwj"
     "9UYp2bf0CRnGZHVz07c0GNPDBmkg%3D%3D",
 )
-ESPN_SWID = os.getenv("ESPN_SWID", "{9A38199A-B48F-429C-8231-3CF96680FD9E}")
+ESPN_SWID = _env("ESPN_SWID", "{9A38199A-B48F-429C-8231-3CF96680FD9E}")
 
 # Hardcode current year so we don't try to fetch a season ESPN hasn't created yet.
-CURRENT_YEAR = int(os.getenv("ESPN_CURRENT_YEAR", "2026"))
+CURRENT_YEAR = int(_env("ESPN_CURRENT_YEAR", "2026"))
 
 OUT_DIR = Path(__file__).resolve().parent.parent / "public" / "data"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -398,7 +406,15 @@ def build_scores(
         yr_positions: dict[int, str] = {}
         positions_by_year[yr] = yr_positions
 
+        # In-progress season: box_scores(N) for any week at or past the current
+        # one returns the CURRENT week's live scores, so weeks 5-18 would all
+        # be stamped with the same partial score. Only keep completed weeks.
+        # (Same "ESPN ignores the period" family as the FAAB bug; see AGENTS.md.)
+        in_progress = any(getattr(t, "final_standing", 0) == 0 for t in lg.teams)
+
         for week in range(1, 19):
+            if in_progress and week >= lg.current_week:
+                break
             try:
                 matchups = lg.box_scores(week)
             except Exception:

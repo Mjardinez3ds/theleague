@@ -2,22 +2,22 @@
   "slug": "junior-peralta",
   "owner": "Junior Peralta",
   "totals": {
-    "acquisitions": 166,
-    "spent": 299,
+    "acquisitions": 182,
+    "spent": 382,
     "biggest_bid": {
-      "year": 2025,
-      "week": 6,
-      "bid": 60,
-      "player": "Hassan Haskins",
-      "dropped": "Malik Washington"
+      "year": 2026,
+      "week": 4,
+      "bid": 88,
+      "player": "Ollie Gordon II",
+      "dropped": null
     }
   },
   "by_year": [
     {
       "year": 2026,
       "team_name": "elcampeonnnn",
-      "acquisitions": 7,
-      "spent": 2
+      "acquisitions": 23,
+      "spent": 85
     },
     {
       "year": 2025,

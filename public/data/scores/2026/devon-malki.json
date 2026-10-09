@@ -22,6 +22,28 @@
       "opponent_score": 139.16,
       "result": "L",
       "is_playoff": false
+    },
+    {
+      "week": 3,
+      "score": 164.58,
+      "team_name": "Skatt brain mush",
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "opponent_team": "Dustin Davis",
+      "opponent_score": 106.38,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "score": 128.42,
+      "team_name": "Skatt brain mush",
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "opponent_team": "SLOB",
+      "opponent_score": 131.58,
+      "result": "L",
+      "is_playoff": false
     }
   ]
 }

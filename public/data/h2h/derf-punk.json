@@ -41,10 +41,10 @@
       "opponent": "George Duran",
       "opponent_slug": "george-duran",
       "wins": 3,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "pf": 404.82,
-      "pa": 388.14
+      "pf": 494.28,
+      "pa": 512.62
     },
     {
       "opponent": "Denniell Grijalva",
@@ -56,6 +56,15 @@
       "pa": 511.0
     },
     {
+      "opponent": "Ricky Cano",
+      "opponent_slug": "ricky-cano",
+      "wins": 1,
+      "losses": 3,
+      "ties": 0,
+      "pf": 427.92,
+      "pa": 452.82
+    },
+    {
       "opponent": "Abraham Pinales",
       "opponent_slug": "abraham-pinales",
       "wins": 2,
@@ -63,15 +72,6 @@
       "ties": 0,
       "pf": 334.38,
       "pa": 346.16
-    },
-    {
-      "opponent": "Ricky Cano",
-      "opponent_slug": "ricky-cano",
-      "wins": 1,
-      "losses": 2,
-      "ties": 0,
-      "pf": 325.68,
-      "pa": 317.34
     },
     {
       "opponent": "Kevin Liang",

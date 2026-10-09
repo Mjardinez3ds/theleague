@@ -22,6 +22,28 @@
       "opponent_score": 99.38,
       "result": "L",
       "is_playoff": false
+    },
+    {
+      "week": 3,
+      "score": 124.48,
+      "team_name": "SLOB",
+      "opponent": "derf punk",
+      "opponent_slug": "derf-punk",
+      "opponent_team": "monke",
+      "opponent_score": 89.46,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "score": 131.58,
+      "team_name": "SLOB",
+      "opponent": "Devon Malki",
+      "opponent_slug": "devon-malki",
+      "opponent_team": "Skatt brain mush",
+      "opponent_score": 128.42,
+      "result": "W",
+      "is_playoff": false
     }
   ]
 }

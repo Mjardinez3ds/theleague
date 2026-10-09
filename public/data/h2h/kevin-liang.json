@@ -4,11 +4,11 @@
     {
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
-      "wins": 3,
+      "wins": 4,
       "losses": 3,
       "ties": 0,
-      "pf": 659.72,
-      "pa": 702.64
+      "pf": 789.06,
+      "pa": 822.18
     },
     {
       "opponent": "Devon Malki",
@@ -29,6 +29,15 @@
       "pa": 676.22
     },
     {
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "wins": 5,
+      "losses": 0,
+      "ties": 0,
+      "pf": 779.0,
+      "pa": 664.5
+    },
+    {
       "opponent": "Denniell Grijalva",
       "opponent_slug": "denniell-grijalva",
       "wins": 2,
@@ -45,15 +54,6 @@
       "ties": 0,
       "pf": 503.96,
       "pa": 494.2
-    },
-    {
-      "opponent": "Chris Peralta",
-      "opponent_slug": "chris-peralta",
-      "wins": 4,
-      "losses": 0,
-      "ties": 0,
-      "pf": 628.2,
-      "pa": 532.54
     },
     {
       "opponent": "Super Shyguy",

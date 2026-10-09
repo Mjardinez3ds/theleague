@@ -1,9 +1,38 @@
 {
   "year": 2026,
-  "count": 2,
+  "count": 5,
   "trades": [
     {
-      "date": "2026-09-23",
+      "date": "2026-W05",
+      "sides": [
+        {
+          "team_name": "elcampeonnnn",
+          "owner": "Junior Peralta",
+          "owner_slug": "junior-peralta",
+          "gave": [
+            "Colston Loveland",
+            "Emeka Egbuka"
+          ],
+          "got": [
+            "Tyler Warren"
+          ]
+        },
+        {
+          "team_name": "Its a wrap for me",
+          "owner": "Ricky Cano",
+          "owner_slug": "ricky-cano",
+          "gave": [
+            "Tyler Warren"
+          ],
+          "got": [
+            "Colston Loveland",
+            "Emeka Egbuka"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
       "sides": [
         {
           "team_name": "Serving Punt",
@@ -25,6 +54,68 @@
           ],
           "got": [
             "Rhamondre Stevenson"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "sides": [
+        {
+          "team_name": "Pausa de Hidratacion ",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
+          "gave": [
+            "Javonte Williams",
+            "Parker Washington",
+            "DK Metcalf"
+          ],
+          "got": [
+            "Ja'Marr Chase",
+            "Jacory Croskey-Merritt",
+            "Braelon Allen"
+          ]
+        },
+        {
+          "team_name": "elcampeonnnn",
+          "owner": "Junior Peralta",
+          "owner_slug": "junior-peralta",
+          "gave": [
+            "Ja'Marr Chase",
+            "Jacory Croskey-Merritt",
+            "Braelon Allen"
+          ],
+          "got": [
+            "Javonte Williams",
+            "Parker Washington",
+            "DK Metcalf"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "sides": [
+        {
+          "team_name": "Dustin Davis",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
+          "gave": [
+            "Dalton Schultz"
+          ],
+          "got": [
+            "Jameson Williams"
+          ]
+        },
+        {
+          "team_name": "Serving Punt",
+          "owner": "Kevin Llerena",
+          "owner_slug": "kevin-llerena",
+          "gave": [
+            "Jameson Williams"
+          ],
+          "got": [
+            "Dalton Schultz"
           ]
         }
       ]

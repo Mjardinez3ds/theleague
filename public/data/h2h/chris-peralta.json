@@ -5,10 +5,10 @@
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
       "wins": 4,
-      "losses": 2,
+      "losses": 3,
       "ties": 0,
-      "pf": 717.42,
-      "pa": 685.94
+      "pf": 823.8,
+      "pa": 850.52
     },
     {
       "opponent": "derf punk",
@@ -47,6 +47,15 @@
       "pa": 541.46
     },
     {
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "wins": 0,
+      "losses": 5,
+      "ties": 0,
+      "pf": 664.5,
+      "pa": 779.0
+    },
+    {
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
       "wins": 4,
@@ -54,15 +63,6 @@
       "ties": 0,
       "pf": 569.78,
       "pa": 438.26
-    },
-    {
-      "opponent": "Kevin Liang",
-      "opponent_slug": "kevin-liang",
-      "wins": 0,
-      "losses": 4,
-      "ties": 0,
-      "pf": 532.54,
-      "pa": 628.2
     },
     {
       "opponent": "Kevin Llerena",

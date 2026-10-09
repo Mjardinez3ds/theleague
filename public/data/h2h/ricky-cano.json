@@ -2,6 +2,15 @@
   "slug": "ricky-cano",
   "records": [
     {
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "wins": 3,
+      "losses": 1,
+      "ties": 0,
+      "pf": 489.52,
+      "pa": 435.6
+    },
+    {
       "opponent": "Chris Peralta",
       "opponent_slug": "chris-peralta",
       "wins": 0,
@@ -9,6 +18,15 @@
       "ties": 0,
       "pf": 438.26,
       "pa": 569.78
+    },
+    {
+      "opponent": "derf punk",
+      "opponent_slug": "derf-punk",
+      "wins": 3,
+      "losses": 1,
+      "ties": 0,
+      "pf": 452.82,
+      "pa": 427.92
     },
     {
       "opponent": "Kevin Llerena",
@@ -29,15 +47,6 @@
       "pa": 281.58
     },
     {
-      "opponent": "Marcus Jardinez",
-      "opponent_slug": "marcus-jardinez",
-      "wins": 3,
-      "losses": 0,
-      "ties": 0,
-      "pf": 383.82,
-      "pa": 277.8
-    },
-    {
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
       "wins": 2,
@@ -54,15 +63,6 @@
       "ties": 0,
       "pf": 301.48,
       "pa": 394.68
-    },
-    {
-      "opponent": "derf punk",
-      "opponent_slug": "derf-punk",
-      "wins": 2,
-      "losses": 1,
-      "ties": 0,
-      "pf": 317.34,
-      "pa": 325.68
     },
     {
       "opponent": "Christopher Jones",

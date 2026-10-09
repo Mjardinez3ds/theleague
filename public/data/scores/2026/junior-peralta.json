@@ -18,8 +18,30 @@
       "team_name": "elcampeonnnn",
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
-      "opponent_team": "Foot In Your A**",
+      "opponent_team": "Its a wrap for me",
       "opponent_score": 83.4,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "score": 114.58,
+      "team_name": "elcampeonnnn",
+      "opponent": "Matthew Taylor",
+      "opponent_slug": "matthew-taylor",
+      "opponent_team": "Big Nix Energy",
+      "opponent_score": 146.62,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "score": 129.12,
+      "team_name": "elcampeonnnn",
+      "opponent": "Super Shyguy",
+      "opponent_slug": "super-shyguy",
+      "opponent_team": "Shyguy Snakes",
+      "opponent_score": 128.28,
       "result": "W",
       "is_playoff": false
     }

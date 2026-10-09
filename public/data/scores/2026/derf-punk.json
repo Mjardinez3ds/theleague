@@ -18,9 +18,31 @@
       "team_name": "monke",
       "opponent": "Chris Peralta",
       "opponent_slug": "chris-peralta",
-      "opponent_team": "Dean Trumbell",
+      "opponent_team": "Dustin Davis",
       "opponent_score": 83.44,
       "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "score": 89.46,
+      "team_name": "monke",
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "opponent_team": "SLOB",
+      "opponent_score": 124.48,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "score": 102.24,
+      "team_name": "monke",
+      "opponent": "Ricky Cano",
+      "opponent_slug": "ricky-cano",
+      "opponent_team": "Its a wrap for me",
+      "opponent_score": 135.48,
+      "result": "L",
       "is_playoff": false
     }
   ]

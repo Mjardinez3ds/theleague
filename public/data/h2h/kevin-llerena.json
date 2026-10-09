@@ -5,10 +5,10 @@
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
       "wins": 3,
-      "losses": 3,
+      "losses": 4,
       "ties": 0,
-      "pf": 702.64,
-      "pa": 659.72
+      "pf": 822.18,
+      "pa": 789.06
     },
     {
       "opponent": "Denniell Grijalva",
@@ -135,6 +135,15 @@
       "ties": 0,
       "pf": 75.52,
       "pa": 127.7
+    },
+    {
+      "opponent": "Jordan van Leesten",
+      "opponent_slug": "jordan-van-leesten",
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "pf": 130.0,
+      "pa": 130.68
     }
   ]
 }

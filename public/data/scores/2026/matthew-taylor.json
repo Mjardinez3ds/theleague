@@ -22,6 +22,28 @@
       "opponent_score": 131.08,
       "result": "W",
       "is_playoff": false
+    },
+    {
+      "week": 3,
+      "score": 146.62,
+      "team_name": "Big Nix Energy",
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "opponent_team": "elcampeonnnn",
+      "opponent_score": 114.58,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "score": 118.12,
+      "team_name": "Big Nix Energy",
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Pausa de Hidratacion ",
+      "opponent_score": 87.64,
+      "result": "W",
+      "is_playoff": false
     }
   ]
 }

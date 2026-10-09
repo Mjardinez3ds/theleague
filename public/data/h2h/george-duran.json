@@ -29,6 +29,15 @@
       "pa": 635.34
     },
     {
+      "opponent": "Devon Malki",
+      "opponent_slug": "devon-malki",
+      "wins": 4,
+      "losses": 2,
+      "ties": 0,
+      "pf": 736.52,
+      "pa": 695.18
+    },
+    {
       "opponent": "Denniell Grijalva",
       "opponent_slug": "denniell-grijalva",
       "wins": 3,
@@ -47,22 +56,13 @@
       "pa": 680.1
     },
     {
-      "opponent": "Devon Malki",
-      "opponent_slug": "devon-malki",
-      "wins": 3,
-      "losses": 2,
-      "ties": 0,
-      "pf": 604.94,
-      "pa": 566.76
-    },
-    {
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
-      "wins": 1,
+      "wins": 2,
       "losses": 3,
       "ties": 0,
-      "pf": 388.14,
-      "pa": 404.82
+      "pf": 512.62,
+      "pa": 494.28
     },
     {
       "opponent": "Kevin Llerena",
