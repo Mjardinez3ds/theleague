@@ -574,7 +574,7 @@ owner asked for something more visual.
 **What:** `src/app/page.tsx` rewritten (see File map). The countdown now
 appears only before any games are played. The alphabetical manager list was
 replaced by a standings snapshot (the Managers tab still lists everyone).
-A Champions grid was added, and a gold trophy + year tag (`ChampTag`) also sits next to champions' names in the scoreboard and standings, at the owner's request. The tag uses legacy + ESPN titles. `getCareers` is no longer used
+A Champions grid was added, and a small gold trophy medallion (`ChampTag`, lucide `Trophy` in a 16px gold circle) sits next to champions' names in the scoreboard and standings. The owner tried bigger text badges and found them too large. The title years are only in the icon's label. Uses legacy + ESPN titles. `getCareers` is no longer used
 on Home. Checked with a 390px-wide headless Edge screenshot. Gotcha: a
 plain `msedge --headless --window-size=390,...` renders wider than 390 and
 clips the right edge. Wrap the page in a 390px iframe instead.

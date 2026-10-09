@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { Trophy } from "lucide-react";
 import {
   getUpcomingSeason,
   getLeagueMeta,
@@ -257,12 +258,18 @@ function nameFromSlug(slug: string) {
   return slug.split("-").map((p) => p[0].toUpperCase() + p.slice(1)).join(" ");
 }
 
-/** Gold "🏆 2025" tag shown after a manager's name. Names truncate first. */
+/** Small gold trophy medallion after a champion's name. Years live in the label only. */
 function ChampTag({ years }: { years?: number[] }) {
   if (!years?.length) return null;
+  const label = `${years.join(", ")} Champion`;
   return (
-    <span className="shrink-0 text-[11px] font-semibold text-accent tabular-nums" title={`${years.join(", ")} Champion`}>
-      🏆 {years.join(", ")}
+    <span
+      role="img"
+      aria-label={label}
+      title={label}
+      className="inline-flex h-4 w-4 shrink-0 items-center justify-center rounded-full bg-accent text-[#0a0e1a]"
+    >
+      <Trophy size={10} strokeWidth={3} />
     </span>
   );
 }
