@@ -258,7 +258,7 @@ function nameFromSlug(slug: string) {
   return slug.split("-").map((p) => p[0].toUpperCase() + p.slice(1)).join(" ");
 }
 
-/** Small gold trophy medallion after a champion's name. Years live in the label only. */
+/** Small gold trophy + year pill after a champion's name, same 16px height as the old icon. */
 function ChampTag({ years }: { years?: number[] }) {
   if (!years?.length) return null;
   const label = `${years.join(", ")} Champion`;
@@ -267,9 +267,10 @@ function ChampTag({ years }: { years?: number[] }) {
       role="img"
       aria-label={label}
       title={label}
-      className="inline-flex h-4 w-4 shrink-0 items-center justify-center rounded-full bg-accent text-[#0a0e1a]"
+      className="inline-flex h-4 shrink-0 items-center gap-[3px] rounded-full bg-accent pl-[4px] pr-[5px] text-[#0a0e1a]"
     >
-      <Trophy size={10} strokeWidth={3} />
+      <Trophy size={9} strokeWidth={3} />
+      <span className="text-[9px] font-black leading-none tabular-nums">{years.join(" · ")}</span>
     </span>
   );
 }
