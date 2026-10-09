@@ -83,6 +83,8 @@ export default async function HomePage() {
       .filter((h) => h.champion)
       .map((h) => ({ year: h.year, slug: h.champion!.owner_slug, owner: h.champion!.owner })),
   ].sort((a, b) => b.year - a.year);
+  const titlesBySlug = new Map<string, number[]>();
+  for (const c of champs) titlesBySlug.set(c.slug, [...(titlesBySlug.get(c.slug) ?? []), c.year].sort());
 
   return (
     <div className="px-4 pt-6 pb-4 space-y-7">
@@ -148,7 +150,7 @@ export default async function HomePage() {
           <ul className="space-y-2">
             {matchups.map((g) => (
               <li key={`${g.slug}-${g.opponent_slug}`} className="rounded-2xl border border-app bg-elev">
-                <ScoreRow slug={g.slug} owner={g.owner} team={g.team_name} score={g.score} won tag={weekHigh?.slug === g.slug ? "TOP SCORE" : undefined} />
+                <ScoreRow slug={g.slug} owner={g.owner} team={g.team_name} score={g.score} won titles={titlesBySlug.get(g.slug)} tag={weekHigh?.slug === g.slug ? "TOP SCORE" : undefined} />
                 <div className="mx-4 border-t border-app" />
                 <ScoreRow
                   slug={g.opponent_slug}
@@ -156,6 +158,7 @@ export default async function HomePage() {
                   team={g.opponent_team}
                   score={g.opponent_score}
                   won={false}
+                  titles={titlesBySlug.get(g.opponent_slug)}
                   tag={weekHigh?.slug === g.opponent_slug ? "TOP SCORE" : undefined}
                 />
                 {closest === g && matchups.length > 1 && (
@@ -182,7 +185,10 @@ export default async function HomePage() {
                     {i + 1}
                   </span>
                   <span className="min-w-0 flex-1">
-                    <span className="block truncate text-[15px] font-semibold leading-tight">{t.owner}</span>
+                    <span className="flex min-w-0 items-center gap-1.5">
+                      <span className="truncate text-[15px] font-semibold leading-tight">{t.owner}</span>
+                      <ChampTag years={titlesBySlug.get(t.owner_slug)} />
+                    </span>
                     <span className="block truncate text-xs text-muted">{t.team_name}</span>
                   </span>
                   <span className="hidden min-[360px]:flex gap-[3px]" aria-label={`Last ${form.length}: ${form.join(" ")}`}>
@@ -251,6 +257,16 @@ function nameFromSlug(slug: string) {
   return slug.split("-").map((p) => p[0].toUpperCase() + p.slice(1)).join(" ");
 }
 
+/** Gold "🏆 2025" tag shown after a manager's name. Names truncate first. */
+function ChampTag({ years }: { years?: number[] }) {
+  if (!years?.length) return null;
+  return (
+    <span className="shrink-0 text-[11px] font-semibold text-accent tabular-nums" title={`${years.join(", ")} Champion`}>
+      🏆 {years.join(", ")}
+    </span>
+  );
+}
+
 function SectionHead({ title, href, link }: { title: string; href: string; link: string }) {
   return (
     <div className="mb-3 flex items-baseline justify-between">
@@ -278,6 +294,7 @@ function ScoreRow({
   team,
   score,
   won,
+  titles,
   tag,
 }: {
   slug: string;
@@ -285,14 +302,16 @@ function ScoreRow({
   team: string;
   score: number;
   won: boolean;
+  titles?: number[];
   tag?: string;
 }) {
   return (
     <Link href={`/managers/${slug}`} className="flex items-center gap-3 px-4 py-2.5 active:bg-elev-2">
       <span className="min-w-0 flex-1">
-        <span className={`block truncate text-[15px] leading-tight ${won ? "font-bold" : "font-medium text-muted"}`}>
-          {owner}
-          {tag && <span className="ml-2 align-middle rounded-full bg-accent px-1.5 py-px text-[9px] font-black tracking-wider text-[#0a0e1a]">{tag}</span>}
+        <span className="flex min-w-0 items-center gap-1.5">
+          <span className={`truncate text-[15px] leading-tight ${won ? "font-bold" : "font-medium text-muted"}`}>{owner}</span>
+          <ChampTag years={titles} />
+          {tag && <span className="shrink-0 rounded-full bg-accent px-1.5 py-px text-[9px] font-black tracking-wider text-[#0a0e1a]">{tag}</span>}
         </span>
         <span className="block truncate text-xs text-muted">{team}</span>
       </span>
