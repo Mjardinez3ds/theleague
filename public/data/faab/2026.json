@@ -1861,6 +1861,21 @@
     {
       "week": 5,
       "date": "2026-10-09",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Roschon Johnson"
+      ],
+      "dropped": [
+        "Rashid Shaheed"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2026-10-09",
       "owner": "George Duran",
       "owner_slug": "george-duran",
       "team_name": "SLOB",
@@ -1872,6 +1887,49 @@
       "dropped": [
         "Kendre Miller"
       ]
+    },
+    {
+      "week": 5,
+      "date": "2026-10-10",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kendrick Bourne"
+      ],
+      "dropped": [
+        "Jacoby Brissett"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2026-10-10",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kendre Miller"
+      ],
+      "dropped": [
+        "Jordan Love"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2026-10-10",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jacoby Brissett"
+      ],
+      "dropped": []
     }
   ],
   "team_totals": [
@@ -1886,21 +1944,21 @@
       "owner": "Junior Peralta",
       "owner_slug": "junior-peralta",
       "team_name": "elcampeonnnn",
-      "acquisitions": 23,
+      "acquisitions": 24,
       "spent": 85
     },
     {
       "owner": "Marcus Jardinez",
       "owner_slug": "marcus-jardinez",
       "team_name": "Pausa de Hidratacion ",
-      "acquisitions": 13,
+      "acquisitions": 15,
       "spent": 71
     },
     {
       "owner": "Chris Peralta",
       "owner_slug": "chris-peralta",
       "team_name": "Dustin Davis",
-      "acquisitions": 20,
+      "acquisitions": 21,
       "spent": 61
     },
     {
