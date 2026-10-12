@@ -1934,6 +1934,21 @@
     {
       "week": 5,
       "date": "2026-10-11",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "monke",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kyle Pitts Sr."
+      ],
+      "dropped": [
+        "Kaelon Black"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2026-10-11",
       "owner": "Kevin Llerena",
       "owner_slug": "kevin-llerena",
       "team_name": "Serving Punt",
@@ -1941,6 +1956,47 @@
       "bid": 0,
       "added": [
         "Darius Cooper"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2026-10-11",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyjae Spears"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2026-10-11",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Nick Folk"
+      ],
+      "dropped": [
+        "Tyler Bass"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2026-10-11",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "monke",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rashid Shaheed"
       ],
       "dropped": []
     }
@@ -1957,7 +2013,7 @@
       "owner": "Junior Peralta",
       "owner_slug": "junior-peralta",
       "team_name": "elcampeonnnn",
-      "acquisitions": 24,
+      "acquisitions": 25,
       "spent": 85
     },
     {
@@ -2006,14 +2062,14 @@
       "owner": "Super Shyguy",
       "owner_slug": "super-shyguy",
       "team_name": "Shyguy Snakes",
-      "acquisitions": 5,
+      "acquisitions": 6,
       "spent": 25
     },
     {
       "owner": "derf punk",
       "owner_slug": "derf-punk",
       "team_name": "monke",
-      "acquisitions": 14,
+      "acquisitions": 16,
       "spent": 10
     },
     {
