@@ -29,6 +29,15 @@
       "pa": 389.66
     },
     {
+      "opponent": "derf punk",
+      "opponent_slug": "derf-punk",
+      "wins": 3,
+      "losses": 1,
+      "ties": 0,
+      "pf": 522.72,
+      "pa": 418.2
+    },
+    {
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
       "wins": 1,
@@ -45,15 +54,6 @@
       "ties": 0,
       "pf": 345.32,
       "pa": 331.6
-    },
-    {
-      "opponent": "derf punk",
-      "opponent_slug": "derf-punk",
-      "wins": 2,
-      "losses": 1,
-      "ties": 0,
-      "pf": 323.52,
-      "pa": 310.94
     },
     {
       "opponent": "Super Shyguy",

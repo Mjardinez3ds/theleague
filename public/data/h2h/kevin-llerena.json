@@ -38,6 +38,15 @@
       "pa": 687.7
     },
     {
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "wins": 2,
+      "losses": 3,
+      "ties": 0,
+      "pf": 578.86,
+      "pa": 630.68
+    },
+    {
       "opponent": "Matthew Taylor",
       "opponent_slug": "matthew-taylor",
       "wins": 1,
@@ -45,15 +54,6 @@
       "ties": 0,
       "pf": 588.7,
       "pa": 641.16
-    },
-    {
-      "opponent": "Junior Peralta",
-      "opponent_slug": "junior-peralta",
-      "wins": 1,
-      "losses": 3,
-      "ties": 0,
-      "pf": 421.52,
-      "pa": 479.98
     },
     {
       "opponent": "Ricky Cano",

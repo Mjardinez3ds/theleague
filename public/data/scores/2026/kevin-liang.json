@@ -44,6 +44,17 @@
       "opponent_score": 131.96,
       "result": "W",
       "is_playoff": false
+    },
+    {
+      "week": 5,
+      "score": 92.8,
+      "team_name": "KingGoon",
+      "opponent": "Jordan van Leesten",
+      "opponent_slug": "jordan-van-leesten",
+      "opponent_team": "Maybe: SUV Hong",
+      "opponent_score": 166.84,
+      "result": "L",
+      "is_playoff": false
     }
   ]
 }

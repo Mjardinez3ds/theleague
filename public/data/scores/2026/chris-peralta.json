@@ -44,6 +44,17 @@
       "opponent_score": 150.8,
       "result": "L",
       "is_playoff": false
+    },
+    {
+      "week": 5,
+      "score": 136.06,
+      "team_name": "Dustin Davis",
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "opponent_team": "SLOB",
+      "opponent_score": 157.02,
+      "result": "L",
+      "is_playoff": false
     }
   ]
 }

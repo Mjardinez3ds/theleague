@@ -56,6 +56,15 @@
       "pa": 619.1
     },
     {
+      "opponent": "Ricky Cano",
+      "opponent_slug": "ricky-cano",
+      "wins": 1,
+      "losses": 3,
+      "ties": 0,
+      "pf": 401.86,
+      "pa": 469.66
+    },
+    {
       "opponent": "Junior Peralta",
       "opponent_slug": "junior-peralta",
       "wins": 2,
@@ -63,15 +72,6 @@
       "ties": 0,
       "pf": 464.56,
       "pa": 421.92
-    },
-    {
-      "opponent": "Ricky Cano",
-      "opponent_slug": "ricky-cano",
-      "wins": 1,
-      "losses": 2,
-      "ties": 0,
-      "pf": 318.1,
-      "pa": 359.44
     },
     {
       "opponent": "Marcus Jardinez",

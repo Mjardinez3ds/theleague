@@ -44,6 +44,17 @@
       "opponent_score": 128.42,
       "result": "W",
       "is_playoff": false
+    },
+    {
+      "week": 5,
+      "score": 157.02,
+      "team_name": "SLOB",
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "opponent_team": "Dustin Davis",
+      "opponent_score": 136.06,
+      "result": "W",
+      "is_playoff": false
     }
   ]
 }

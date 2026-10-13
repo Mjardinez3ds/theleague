@@ -20,6 +20,15 @@
       "pa": 498.66
     },
     {
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "wins": 1,
+      "losses": 3,
+      "ties": 0,
+      "pf": 450.34,
+      "pa": 447.68
+    },
+    {
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
       "wins": 2,
@@ -36,15 +45,6 @@
       "ties": 0,
       "pf": 365.4,
       "pa": 386.94
-    },
-    {
-      "opponent": "Marcus Jardinez",
-      "opponent_slug": "marcus-jardinez",
-      "wins": 1,
-      "losses": 2,
-      "ties": 0,
-      "pf": 336.34,
-      "pa": 330.34
     },
     {
       "opponent": "Junior Peralta",

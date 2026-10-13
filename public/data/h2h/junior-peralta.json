@@ -38,6 +38,15 @@
       "pa": 534.26
     },
     {
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "wins": 3,
+      "losses": 2,
+      "ties": 0,
+      "pf": 630.68,
+      "pa": 578.86
+    },
+    {
       "opponent": "Marcus Jardinez",
       "opponent_slug": "marcus-jardinez",
       "wins": 2,
@@ -45,15 +54,6 @@
       "ties": 0,
       "pf": 591.64,
       "pa": 679.04
-    },
-    {
-      "opponent": "Kevin Llerena",
-      "opponent_slug": "kevin-llerena",
-      "wins": 3,
-      "losses": 1,
-      "ties": 0,
-      "pf": 479.98,
-      "pa": 421.52
     },
     {
       "opponent": "Devon Malki",

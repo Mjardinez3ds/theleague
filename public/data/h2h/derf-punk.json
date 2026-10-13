@@ -65,6 +65,15 @@
       "pa": 452.82
     },
     {
+      "opponent": "Matthew Taylor",
+      "opponent_slug": "matthew-taylor",
+      "wins": 1,
+      "losses": 3,
+      "ties": 0,
+      "pf": 418.2,
+      "pa": 522.72
+    },
+    {
       "opponent": "Abraham Pinales",
       "opponent_slug": "abraham-pinales",
       "wins": 2,
@@ -99,15 +108,6 @@
       "ties": 0,
       "pf": 283.18,
       "pa": 322.52
-    },
-    {
-      "opponent": "Matthew Taylor",
-      "opponent_slug": "matthew-taylor",
-      "wins": 1,
-      "losses": 2,
-      "ties": 0,
-      "pf": 310.94,
-      "pa": 323.52
     },
     {
       "opponent": "Anthony Richardson",

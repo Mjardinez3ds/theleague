@@ -36,6 +36,15 @@
       "ties": 0,
       "pf": 130.68,
       "pa": 130.0
+    },
+    {
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pf": 166.84,
+      "pa": 92.8
     }
   ]
 }

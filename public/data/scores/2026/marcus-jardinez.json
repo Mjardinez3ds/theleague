@@ -44,6 +44,17 @@
       "opponent_score": 118.12,
       "result": "L",
       "is_playoff": false
+    },
+    {
+      "week": 5,
+      "score": 117.34,
+      "team_name": "Pausa de Hidratacion ",
+      "opponent": "Super Shyguy",
+      "opponent_slug": "super-shyguy",
+      "opponent_team": "Shyguy Snakes",
+      "opponent_score": 114.0,
+      "result": "W",
+      "is_playoff": false
     }
   ]
 }

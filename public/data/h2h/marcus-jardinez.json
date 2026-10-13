@@ -74,6 +74,15 @@
       "pa": 422.62
     },
     {
+      "opponent": "Super Shyguy",
+      "opponent_slug": "super-shyguy",
+      "wins": 3,
+      "losses": 1,
+      "ties": 0,
+      "pf": 447.68,
+      "pa": 450.34
+    },
+    {
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
       "wins": 1,
@@ -81,15 +90,6 @@
       "ties": 0,
       "pf": 312.28,
       "pa": 420.22
-    },
-    {
-      "opponent": "Super Shyguy",
-      "opponent_slug": "super-shyguy",
-      "wins": 2,
-      "losses": 1,
-      "ties": 0,
-      "pf": 330.34,
-      "pa": 336.34
     },
     {
       "opponent": "Anthony Richardson",

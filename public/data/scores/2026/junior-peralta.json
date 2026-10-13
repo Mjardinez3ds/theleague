@@ -44,6 +44,17 @@
       "opponent_score": 128.28,
       "result": "W",
       "is_playoff": false
+    },
+    {
+      "week": 5,
+      "score": 150.7,
+      "team_name": "elcampeonnnn",
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "opponent_team": "Serving Punt",
+      "opponent_score": 157.34,
+      "result": "L",
+      "is_playoff": false
     }
   ]
 }

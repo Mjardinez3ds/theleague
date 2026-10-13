@@ -11,6 +11,15 @@
       "pa": 850.52
     },
     {
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "wins": 4,
+      "losses": 2,
+      "ties": 0,
+      "pf": 816.16,
+      "pa": 698.48
+    },
+    {
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
       "wins": 3,
@@ -36,15 +45,6 @@
       "ties": 0,
       "pf": 726.46,
       "pa": 667.64
-    },
-    {
-      "opponent": "George Duran",
-      "opponent_slug": "george-duran",
-      "wins": 4,
-      "losses": 1,
-      "ties": 0,
-      "pf": 680.1,
-      "pa": 541.46
     },
     {
       "opponent": "Kevin Liang",
