@@ -19,7 +19,7 @@
       "date": "2026-09-01",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe: SUV Hong",
+      "team_name": "Maybe:",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -75,7 +75,7 @@
       "date": "2026-09-03",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe: SUV Hong",
+      "team_name": "Maybe:",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -262,7 +262,7 @@
       "date": "2026-09-11",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe: SUV Hong",
+      "team_name": "Maybe:",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -621,7 +621,7 @@
       "date": "2026-09-23",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe: SUV Hong",
+      "team_name": "Maybe:",
       "type": "WAIVER",
       "bid": 27,
       "added": [
@@ -1790,7 +1790,7 @@
       "date": "2026-10-07",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe: SUV Hong",
+      "team_name": "Maybe:",
       "type": "WAIVER",
       "bid": 9,
       "added": [
@@ -1999,22 +1999,238 @@
         "Rashid Shaheed"
       ],
       "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2026-10-14",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kimani Vidal"
+      ],
+      "dropped": [
+        "Austin Ekeler"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2026-10-14",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Skatt brain mush",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaleel McLaughlin"
+      ],
+      "dropped": [
+        "Brian Thomas Jr."
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2026-10-14",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Its a wrap for me",
+      "type": "WAIVER",
+      "bid": 25,
+      "added": [
+        "Tyler Higbee"
+      ],
+      "dropped": [
+        "Malachi Fields"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2026-10-14",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kirk Cousins"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2026-10-14",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Kaelon Black"
+      ],
+      "dropped": [
+        "Antonio Williams"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2026-10-14",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Dominic Zvada"
+      ],
+      "dropped": [
+        "Evan McPherson"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2026-10-14",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "WAIVER",
+      "bid": 39,
+      "added": [
+        "Germie Bernard"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2026-10-14",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ryan Flournoy"
+      ],
+      "dropped": [
+        "KC Concepcion"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2026-10-14",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matt Gay"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2026-10-14",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Chris Boswell"
+      ],
+      "dropped": [
+        "Jake Bates"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2026-10-14",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cameron Dicker"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2026-10-14",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dameon Pierce"
+      ],
+      "dropped": [
+        "T.J. Hockenson"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2026-10-14",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe:",
+      "type": "WAIVER",
+      "bid": 43,
+      "added": [
+        "Jordan Love"
+      ],
+      "dropped": [
+        "Dohnte Meyers"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2026-10-14",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Seth McGowan"
+      ],
+      "dropped": [
+        "Tre' Harris"
+      ]
     }
   ],
   "team_totals": [
     {
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "acquisitions": 24,
+      "spent": 100
+    },
+    {
       "owner": "George Duran",
       "owner_slug": "george-duran",
       "team_name": "SLOB",
-      "acquisitions": 14,
+      "acquisitions": 17,
       "spent": 100
     },
     {
       "owner": "Junior Peralta",
       "owner_slug": "junior-peralta",
       "team_name": "elcampeonnnn",
-      "acquisitions": 25,
+      "acquisitions": 29,
       "spent": 85
+    },
+    {
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe:",
+      "acquisitions": 4,
+      "spent": 79
     },
     {
       "owner": "Marcus Jardinez",
@@ -2022,13 +2238,6 @@
       "team_name": "Pausa de Hidratacion ",
       "acquisitions": 15,
       "spent": 71
-    },
-    {
-      "owner": "Chris Peralta",
-      "owner_slug": "chris-peralta",
-      "team_name": "Dustin Davis",
-      "acquisitions": 21,
-      "spent": 61
     },
     {
       "owner": "Matthew Taylor",
@@ -2041,28 +2250,28 @@
       "owner": "Devon Malki",
       "owner_slug": "devon-malki",
       "team_name": "Skatt brain mush",
-      "acquisitions": 4,
+      "acquisitions": 5,
       "spent": 53
-    },
-    {
-      "owner": "Jordan van Leesten",
-      "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe: SUV Hong",
-      "acquisitions": 3,
-      "spent": 36
     },
     {
       "owner": "Kevin Llerena",
       "owner_slug": "kevin-llerena",
       "team_name": "Serving Punt",
-      "acquisitions": 12,
-      "spent": 30
+      "acquisitions": 13,
+      "spent": 35
     },
     {
       "owner": "Super Shyguy",
       "owner_slug": "super-shyguy",
       "team_name": "Shyguy Snakes",
       "acquisitions": 6,
+      "spent": 25
+    },
+    {
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Its a wrap for me",
+      "acquisitions": 4,
       "spent": 25
     },
     {
@@ -2077,13 +2286,6 @@
       "owner_slug": "kevin-liang",
       "team_name": "KingGoon",
       "acquisitions": 1,
-      "spent": 0
-    },
-    {
-      "owner": "Ricky Cano",
-      "owner_slug": "ricky-cano",
-      "team_name": "Its a wrap for me",
-      "acquisitions": 3,
       "spent": 0
     }
   ]

@@ -2,22 +2,22 @@
   "slug": "chris-peralta",
   "owner": "Chris Peralta",
   "totals": {
-    "acquisitions": 253,
-    "spent": 361,
+    "acquisitions": 256,
+    "spent": 400,
     "biggest_bid": {
-      "year": 2023,
-      "week": 2,
-      "bid": 36,
-      "player": "Kyren Williams",
-      "dropped": "Isaiah Likely"
+      "year": 2026,
+      "week": 6,
+      "bid": 39,
+      "player": "Germie Bernard",
+      "dropped": null
     }
   },
   "by_year": [
     {
       "year": 2026,
       "team_name": "Dustin Davis",
-      "acquisitions": 21,
-      "spent": 61
+      "acquisitions": 24,
+      "spent": 100
     },
     {
       "year": 2025,

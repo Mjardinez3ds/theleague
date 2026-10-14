@@ -2,22 +2,22 @@
   "slug": "jordan-van-leesten",
   "owner": "Jordan van Leesten",
   "totals": {
-    "acquisitions": 3,
-    "spent": 36,
+    "acquisitions": 4,
+    "spent": 79,
     "biggest_bid": {
       "year": 2026,
-      "week": 3,
-      "bid": 27,
-      "player": "Denzel Boston",
-      "dropped": null
+      "week": 6,
+      "bid": 43,
+      "player": "Jordan Love",
+      "dropped": "Dohnte Meyers"
     }
   },
   "by_year": [
     {
       "year": 2026,
-      "team_name": "Maybe: SUV Hong",
-      "acquisitions": 3,
-      "spent": 36
+      "team_name": "Maybe:",
+      "acquisitions": 4,
+      "spent": 79
     }
   ]
 }
