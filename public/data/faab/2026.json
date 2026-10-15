@@ -2003,6 +2003,21 @@
     {
       "week": 6,
       "date": "2026-10-14",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jameis Winston"
+      ],
+      "dropped": [
+        "Darius Cooper"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2026-10-14",
       "owner": "Junior Peralta",
       "owner_slug": "junior-peralta",
       "team_name": "elcampeonnnn",
@@ -2033,16 +2048,44 @@
     {
       "week": 6,
       "date": "2026-10-14",
-      "owner": "Ricky Cano",
-      "owner_slug": "ricky-cano",
-      "team_name": "Its a wrap for me",
-      "type": "WAIVER",
-      "bid": 25,
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "FREEAGENT",
+      "bid": 0,
       "added": [
-        "Tyler Higbee"
+        "Kirk Cousins"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2026-10-14",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaleel McLaughlin"
       ],
       "dropped": [
-        "Malachi Fields"
+        "Kenyon Sadiq"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2026-10-14",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ryan Flournoy"
+      ],
+      "dropped": [
+        "KC Concepcion"
       ]
     },
     {
@@ -2054,9 +2097,26 @@
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
-        "Kirk Cousins"
+        "Dameon Pierce"
       ],
-      "dropped": []
+      "dropped": [
+        "T.J. Hockenson"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2026-10-14",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Its a wrap for me",
+      "type": "WAIVER",
+      "bid": 25,
+      "added": [
+        "Tyler Higbee"
+      ],
+      "dropped": [
+        "Malachi Fields"
+      ]
     },
     {
       "week": 6,
@@ -2110,24 +2170,24 @@
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
-        "Ryan Flournoy"
+        "Matt Gay"
       ],
-      "dropped": [
-        "KC Concepcion"
-      ]
+      "dropped": []
     },
     {
       "week": 6,
       "date": "2026-10-14",
-      "owner": "Chris Peralta",
-      "owner_slug": "chris-peralta",
-      "team_name": "Dustin Davis",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Skatt brain mush",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
-        "Matt Gay"
+        "Omar Cooper Jr."
       ],
-      "dropped": []
+      "dropped": [
+        "Jaleel McLaughlin"
+      ]
     },
     {
       "week": 6,
@@ -2147,15 +2207,17 @@
     {
       "week": 6,
       "date": "2026-10-14",
-      "owner": "Junior Peralta",
-      "owner_slug": "junior-peralta",
-      "team_name": "elcampeonnnn",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
-        "Cameron Dicker"
+        "DeMario Douglas"
       ],
-      "dropped": []
+      "dropped": [
+        "Michael Mayer"
+      ]
     },
     {
       "week": 6,
@@ -2166,11 +2228,9 @@
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
-        "Dameon Pierce"
+        "Cameron Dicker"
       ],
-      "dropped": [
-        "T.J. Hockenson"
-      ]
+      "dropped": []
     },
     {
       "week": 6,
@@ -2201,6 +2261,21 @@
       "dropped": [
         "Tre' Harris"
       ]
+    },
+    {
+      "week": 6,
+      "date": "2026-10-14",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dylan Sampson"
+      ],
+      "dropped": [
+        "Seth McGowan"
+      ]
     }
   ],
   "team_totals": [
@@ -2215,7 +2290,7 @@
       "owner": "George Duran",
       "owner_slug": "george-duran",
       "team_name": "SLOB",
-      "acquisitions": 17,
+      "acquisitions": 18,
       "spent": 100
     },
     {
@@ -2236,28 +2311,28 @@
       "owner": "Marcus Jardinez",
       "owner_slug": "marcus-jardinez",
       "team_name": "Pausa de Hidratacion ",
-      "acquisitions": 15,
+      "acquisitions": 16,
       "spent": 71
     },
     {
       "owner": "Matthew Taylor",
       "owner_slug": "matthew-taylor",
       "team_name": "Big Nix Energy",
-      "acquisitions": 3,
+      "acquisitions": 4,
       "spent": 60
     },
     {
       "owner": "Devon Malki",
       "owner_slug": "devon-malki",
       "team_name": "Skatt brain mush",
-      "acquisitions": 5,
+      "acquisitions": 6,
       "spent": 53
     },
     {
       "owner": "Kevin Llerena",
       "owner_slug": "kevin-llerena",
       "team_name": "Serving Punt",
-      "acquisitions": 13,
+      "acquisitions": 14,
       "spent": 35
     },
     {
