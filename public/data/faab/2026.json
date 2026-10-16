@@ -19,7 +19,7 @@
       "date": "2026-09-01",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe:",
+      "team_name": "Maybe: SUV Hong",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -75,7 +75,7 @@
       "date": "2026-09-03",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe:",
+      "team_name": "Maybe: SUV Hong",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -262,7 +262,7 @@
       "date": "2026-09-11",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe:",
+      "team_name": "Maybe: SUV Hong",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -621,7 +621,7 @@
       "date": "2026-09-23",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe:",
+      "team_name": "Maybe: SUV Hong",
       "type": "WAIVER",
       "bid": 27,
       "added": [
@@ -1790,7 +1790,7 @@
       "date": "2026-10-07",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe:",
+      "team_name": "Maybe: SUV Hong",
       "type": "WAIVER",
       "bid": 9,
       "added": [
@@ -2237,7 +2237,7 @@
       "date": "2026-10-14",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe:",
+      "team_name": "Maybe: SUV Hong",
       "type": "WAIVER",
       "bid": 43,
       "added": [
@@ -2276,6 +2276,107 @@
       "dropped": [
         "Seth McGowan"
       ]
+    },
+    {
+      "week": 6,
+      "date": "2026-10-15",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Christian Kirk"
+      ],
+      "dropped": [
+        "Keaton Mitchell"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2026-10-15",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Drew Stevens"
+      ],
+      "dropped": [
+        "Cameron Dicker"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2026-10-15",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "elcampeonnnn",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cyrus Allen"
+      ],
+      "dropped": [
+        "Kimani Vidal"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2026-10-15",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Pierre Strong Jr."
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2026-10-15",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Roschon Johnson"
+      ],
+      "dropped": [
+        "Ryan Flournoy"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2026-10-16",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "KC Concepcion"
+      ],
+      "dropped": [
+        "Matt Gay"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2026-10-16",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "KingGoon",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rashid Shaheed"
+      ],
+      "dropped": []
     }
   ],
   "team_totals": [
@@ -2283,27 +2384,27 @@
       "owner": "Chris Peralta",
       "owner_slug": "chris-peralta",
       "team_name": "Dustin Davis",
-      "acquisitions": 24,
+      "acquisitions": 26,
       "spent": 100
     },
     {
       "owner": "George Duran",
       "owner_slug": "george-duran",
       "team_name": "SLOB",
-      "acquisitions": 18,
+      "acquisitions": 19,
       "spent": 100
     },
     {
       "owner": "Junior Peralta",
       "owner_slug": "junior-peralta",
       "team_name": "elcampeonnnn",
-      "acquisitions": 29,
+      "acquisitions": 31,
       "spent": 85
     },
     {
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe:",
+      "team_name": "Maybe: SUV Hong",
       "acquisitions": 4,
       "spent": 79
     },
@@ -2339,7 +2440,7 @@
       "owner": "Super Shyguy",
       "owner_slug": "super-shyguy",
       "team_name": "Shyguy Snakes",
-      "acquisitions": 6,
+      "acquisitions": 7,
       "spent": 25
     },
     {
@@ -2360,7 +2461,7 @@
       "owner": "Kevin Liang",
       "owner_slug": "kevin-liang",
       "team_name": "KingGoon",
-      "acquisitions": 1,
+      "acquisitions": 2,
       "spent": 0
     }
   ]
