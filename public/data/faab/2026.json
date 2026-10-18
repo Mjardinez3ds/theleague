@@ -2457,12 +2457,57 @@
       "owner": "Marcus Jardinez",
       "owner_slug": "marcus-jardinez",
       "team_name": "Pausa de Hidratacion ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Austin Ekeler"
+      ],
+      "dropped": [
+        "Jaleel McLaughlin"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2026-10-17",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Josh Cameron"
+      ],
+      "dropped": [
+        "Tyler Goodson"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2026-10-17",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
       "type": "WAIVER",
       "bid": 3,
       "added": [
         "Ryan Flournoy"
       ],
       "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2026-10-17",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darnell Washington"
+      ],
+      "dropped": [
+        "Jacory Croskey-Merritt"
+      ]
     },
     {
       "week": 6,
@@ -2478,6 +2523,49 @@
       "dropped": [
         "Roschon Johnson"
       ]
+    },
+    {
+      "week": 6,
+      "date": "2026-10-18",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Its a wrap for me",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Bass"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2026-10-18",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Skatt brain mush",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matt Gay"
+      ],
+      "dropped": [
+        "Cam Little"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2026-10-18",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kyler Murray"
+      ],
+      "dropped": [
+        "Kendrick Bourne"
+      ]
     }
   ],
   "team_totals": [
@@ -2492,7 +2580,7 @@
       "owner": "George Duran",
       "owner_slug": "george-duran",
       "team_name": "SLOB",
-      "acquisitions": 20,
+      "acquisitions": 21,
       "spent": 100
     },
     {
@@ -2513,7 +2601,7 @@
       "owner": "Marcus Jardinez",
       "owner_slug": "marcus-jardinez",
       "team_name": "Pausa de Hidratacion ",
-      "acquisitions": 17,
+      "acquisitions": 20,
       "spent": 74
     },
     {
@@ -2527,7 +2615,7 @@
       "owner": "Devon Malki",
       "owner_slug": "devon-malki",
       "team_name": "Skatt brain mush",
-      "acquisitions": 6,
+      "acquisitions": 7,
       "spent": 53
     },
     {
@@ -2548,7 +2636,7 @@
       "owner": "Ricky Cano",
       "owner_slug": "ricky-cano",
       "team_name": "Its a wrap for me",
-      "acquisitions": 4,
+      "acquisitions": 5,
       "spent": 25
     },
     {
