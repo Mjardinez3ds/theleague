@@ -2540,6 +2540,21 @@
     {
       "week": 6,
       "date": "2026-10-18",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Quentin Johnston"
+      ],
+      "dropped": [
+        "Darnell Washington"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2026-10-18",
       "owner": "Devon Malki",
       "owner_slug": "devon-malki",
       "team_name": "Skatt brain mush",
@@ -2565,6 +2580,21 @@
       ],
       "dropped": [
         "Kendrick Bourne"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2026-10-18",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Keaton Mitchell"
+      ],
+      "dropped": [
+        "Quentin Johnston"
       ]
     }
   ],
@@ -2601,7 +2631,7 @@
       "owner": "Marcus Jardinez",
       "owner_slug": "marcus-jardinez",
       "team_name": "Pausa de Hidratacion ",
-      "acquisitions": 20,
+      "acquisitions": 22,
       "spent": 74
     },
     {
