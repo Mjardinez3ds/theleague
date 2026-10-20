@@ -135,6 +135,15 @@
       "ties": 0,
       "pf": 184.32,
       "pa": 249.34
+    },
+    {
+      "opponent": "Jordan van Leesten",
+      "opponent_slug": "jordan-van-leesten",
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "pf": 110.02,
+      "pa": 153.74
     }
   ]
 }

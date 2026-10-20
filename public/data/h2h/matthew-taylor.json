@@ -29,6 +29,15 @@
       "pa": 389.66
     },
     {
+      "opponent": "Devon Malki",
+      "opponent_slug": "devon-malki",
+      "wins": 2,
+      "losses": 2,
+      "ties": 0,
+      "pf": 452.2,
+      "pa": 426.82
+    },
+    {
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
       "wins": 3,
@@ -36,15 +45,6 @@
       "ties": 0,
       "pf": 522.72,
       "pa": 418.2
-    },
-    {
-      "opponent": "Devon Malki",
-      "opponent_slug": "devon-malki",
-      "wins": 1,
-      "losses": 2,
-      "ties": 0,
-      "pf": 338.8,
-      "pa": 338.76
     },
     {
       "opponent": "George Duran",

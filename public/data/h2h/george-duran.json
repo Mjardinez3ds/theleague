@@ -11,6 +11,15 @@
       "pa": 889.94
     },
     {
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "wins": 4,
+      "losses": 3,
+      "ties": 0,
+      "pf": 852.16,
+      "pa": 897.28
+    },
+    {
       "opponent": "Chris Peralta",
       "opponent_slug": "chris-peralta",
       "wins": 2,
@@ -18,15 +27,6 @@
       "ties": 0,
       "pf": 698.48,
       "pa": 816.16
-    },
-    {
-      "opponent": "Kevin Liang",
-      "opponent_slug": "kevin-liang",
-      "wins": 3,
-      "losses": 3,
-      "ties": 0,
-      "pf": 676.22,
-      "pa": 791.3
     },
     {
       "opponent": "Marcus Jardinez",

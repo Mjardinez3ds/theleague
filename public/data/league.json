@@ -2,7 +2,7 @@
   "league_id": 1917791320,
   "league_name": "The League 2026",
   "current_year": 2026,
-  "current_week": 6,
+  "current_week": 7,
   "years": [
     2023,
     2024,
@@ -10,5 +10,5 @@
     2026
   ],
   "team_count": 12,
-  "updated_at": "2026-10-19T16:26:06.502880+00:00"
+  "updated_at": "2026-10-20T14:16:29.592703+00:00"
 }

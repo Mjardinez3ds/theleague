@@ -45,6 +45,15 @@
       "ties": 0,
       "pf": 166.84,
       "pa": 92.8
+    },
+    {
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pf": 153.74,
+      "pa": 110.02
     }
   ]
 }

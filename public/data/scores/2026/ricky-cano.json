@@ -55,6 +55,17 @@
       "opponent_score": 83.76,
       "result": "W",
       "is_playoff": false
+    },
+    {
+      "week": 6,
+      "score": 125.08,
+      "team_name": "Its a wrap for me",
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "opponent_team": "Dustin Davis",
+      "opponent_score": 98.2,
+      "result": "W",
+      "is_playoff": false
     }
   ]
 }

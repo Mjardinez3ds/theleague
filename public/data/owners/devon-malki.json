@@ -2,10 +2,10 @@
   "owner": "Devon Malki",
   "slug": "devon-malki",
   "wins": 22,
-  "losses": 25,
+  "losses": 26,
   "ties": 0,
-  "points_for": 5730.7,
-  "points_against": 5541.8,
+  "points_for": 5818.8,
+  "points_against": 5655.2,
   "titles": 0,
   "runners_up": 0,
   "thirds": 0,
@@ -48,14 +48,14 @@
       "year": 2026,
       "team_name": "Skatt brain mush",
       "wins": 2,
-      "losses": 3,
+      "losses": 4,
       "ties": 0,
-      "points_for": 612.6,
-      "points_against": 579.2,
+      "points_for": 700.7,
+      "points_against": 692.6,
       "finish": null,
       "league_size": 12
     }
   ],
-  "win_pct": 46.8,
-  "games": 47
+  "win_pct": 45.8,
+  "games": 48
 }

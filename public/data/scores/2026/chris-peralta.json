@@ -55,6 +55,17 @@
       "opponent_score": 157.02,
       "result": "L",
       "is_playoff": false
+    },
+    {
+      "week": 6,
+      "score": 98.2,
+      "team_name": "Dustin Davis",
+      "opponent": "Ricky Cano",
+      "opponent_slug": "ricky-cano",
+      "opponent_team": "Its a wrap for me",
+      "opponent_score": 125.08,
+      "result": "L",
+      "is_playoff": false
     }
   ]
 }

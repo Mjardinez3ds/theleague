@@ -74,6 +74,15 @@
       "pa": 421.92
     },
     {
+      "opponent": "Matthew Taylor",
+      "opponent_slug": "matthew-taylor",
+      "wins": 2,
+      "losses": 2,
+      "ties": 0,
+      "pf": 426.82,
+      "pa": 452.2
+    },
+    {
       "opponent": "Marcus Jardinez",
       "opponent_slug": "marcus-jardinez",
       "wins": 2,
@@ -81,15 +90,6 @@
       "ties": 0,
       "pf": 420.22,
       "pa": 312.28
-    },
-    {
-      "opponent": "Matthew Taylor",
-      "opponent_slug": "matthew-taylor",
-      "wins": 2,
-      "losses": 1,
-      "ties": 0,
-      "pf": 338.76,
-      "pa": 338.8
     },
     {
       "opponent": "Anthony Richardson",

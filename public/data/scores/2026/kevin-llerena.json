@@ -55,6 +55,17 @@
       "opponent_score": 150.7,
       "result": "W",
       "is_playoff": false
+    },
+    {
+      "week": 6,
+      "score": 108.48,
+      "team_name": "Serving Punt",
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Pausa de Hidratacion ",
+      "opponent_score": 106.36,
+      "result": "W",
+      "is_playoff": false
     }
   ]
 }

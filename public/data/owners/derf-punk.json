@@ -1,11 +1,11 @@
 {
   "owner": "derf punk",
   "slug": "derf-punk",
-  "wins": 17,
+  "wins": 18,
   "losses": 29,
   "ties": 1,
-  "points_for": 5213.8,
-  "points_against": 5489.9,
+  "points_for": 5320.9,
+  "points_against": 5591.5,
   "titles": 1,
   "runners_up": 0,
   "thirds": 0,
@@ -47,15 +47,15 @@
     {
       "year": 2026,
       "team_name": "monke",
-      "wins": 1,
+      "wins": 2,
       "losses": 4,
       "ties": 0,
-      "points_for": 534.6,
-      "points_against": 689.2,
+      "points_for": 641.7,
+      "points_against": 790.8,
       "finish": null,
       "league_size": 12
     }
   ],
-  "win_pct": 37.2,
-  "games": 47
+  "win_pct": 38.5,
+  "games": 48
 }

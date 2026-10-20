@@ -55,6 +55,17 @@
       "opponent_score": 92.8,
       "result": "W",
       "is_playoff": false
+    },
+    {
+      "week": 6,
+      "score": 153.74,
+      "team_name": "Maybe:",
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "opponent_team": "elcampeonnnn",
+      "opponent_score": 110.02,
+      "result": "W",
+      "is_playoff": false
     }
   ]
 }

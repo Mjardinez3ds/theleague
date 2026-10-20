@@ -47,6 +47,15 @@
       "pa": 667.64
     },
     {
+      "opponent": "Ricky Cano",
+      "opponent_slug": "ricky-cano",
+      "wins": 4,
+      "losses": 1,
+      "ties": 0,
+      "pf": 667.98,
+      "pa": 563.34
+    },
+    {
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
       "wins": 0,
@@ -54,15 +63,6 @@
       "ties": 0,
       "pf": 664.5,
       "pa": 779.0
-    },
-    {
-      "opponent": "Ricky Cano",
-      "opponent_slug": "ricky-cano",
-      "wins": 4,
-      "losses": 0,
-      "ties": 0,
-      "pf": 569.78,
-      "pa": 438.26
     },
     {
       "opponent": "Kevin Llerena",

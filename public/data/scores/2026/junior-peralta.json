@@ -55,6 +55,17 @@
       "opponent_score": 157.34,
       "result": "L",
       "is_playoff": false
+    },
+    {
+      "week": 6,
+      "score": 110.02,
+      "team_name": "elcampeonnnn",
+      "opponent": "Jordan van Leesten",
+      "opponent_slug": "jordan-van-leesten",
+      "opponent_team": "Maybe:",
+      "opponent_score": 153.74,
+      "result": "L",
+      "is_playoff": false
     }
   ]
 }

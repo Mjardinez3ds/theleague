@@ -55,6 +55,17 @@
       "opponent_score": 107.26,
       "result": "W",
       "is_playoff": false
+    },
+    {
+      "week": 6,
+      "score": 113.4,
+      "team_name": "Big Nix Energy",
+      "opponent": "Devon Malki",
+      "opponent_slug": "devon-malki",
+      "opponent_team": "Skatt brain mush",
+      "opponent_score": 88.06,
+      "result": "W",
+      "is_playoff": false
     }
   ]
 }

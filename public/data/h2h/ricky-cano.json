@@ -2,6 +2,15 @@
   "slug": "ricky-cano",
   "records": [
     {
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "wins": 1,
+      "losses": 4,
+      "ties": 0,
+      "pf": 563.34,
+      "pa": 667.98
+    },
+    {
       "opponent": "Marcus Jardinez",
       "opponent_slug": "marcus-jardinez",
       "wins": 3,
@@ -18,15 +27,6 @@
       "ties": 0,
       "pf": 469.66,
       "pa": 401.86
-    },
-    {
-      "opponent": "Chris Peralta",
-      "opponent_slug": "chris-peralta",
-      "wins": 0,
-      "losses": 4,
-      "ties": 0,
-      "pf": 438.26,
-      "pa": 569.78
     },
     {
       "opponent": "derf punk",

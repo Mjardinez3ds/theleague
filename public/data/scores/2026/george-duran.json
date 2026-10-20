@@ -55,6 +55,17 @@
       "opponent_score": 136.06,
       "result": "W",
       "is_playoff": false
+    },
+    {
+      "week": 6,
+      "score": 175.94,
+      "team_name": "SLOB",
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "opponent_team": "KingGoon",
+      "opponent_score": 105.98,
+      "result": "W",
+      "is_playoff": false
     }
   ]
 }

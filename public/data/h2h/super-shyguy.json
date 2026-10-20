@@ -11,6 +11,15 @@
       "pa": 542.8
     },
     {
+      "opponent": "derf punk",
+      "opponent_slug": "derf-punk",
+      "wins": 2,
+      "losses": 2,
+      "ties": 0,
+      "pf": 424.14,
+      "pa": 390.28
+    },
+    {
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
       "wins": 2,
@@ -27,15 +36,6 @@
       "ties": 0,
       "pf": 450.34,
       "pa": 447.68
-    },
-    {
-      "opponent": "derf punk",
-      "opponent_slug": "derf-punk",
-      "wins": 2,
-      "losses": 1,
-      "ties": 0,
-      "pf": 322.52,
-      "pa": 283.18
     },
     {
       "opponent": "Kevin Llerena",

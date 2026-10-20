@@ -55,6 +55,17 @@
       "opponent_score": 199.2,
       "result": "L",
       "is_playoff": false
+    },
+    {
+      "week": 6,
+      "score": 107.1,
+      "team_name": "monke",
+      "opponent": "Super Shyguy",
+      "opponent_slug": "super-shyguy",
+      "opponent_team": "Shyguy Snakes",
+      "opponent_score": 101.62,
+      "result": "W",
+      "is_playoff": false
     }
   ]
 }

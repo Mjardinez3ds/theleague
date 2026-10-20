@@ -55,6 +55,17 @@
       "opponent_score": 166.84,
       "result": "L",
       "is_playoff": false
+    },
+    {
+      "week": 6,
+      "score": 105.98,
+      "team_name": "KingGoon",
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "opponent_team": "SLOB",
+      "opponent_score": 175.94,
+      "result": "L",
+      "is_playoff": false
     }
   ]
 }

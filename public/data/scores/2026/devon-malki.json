@@ -55,6 +55,17 @@
       "opponent_score": 110.22,
       "result": "L",
       "is_playoff": false
+    },
+    {
+      "week": 6,
+      "score": 88.06,
+      "team_name": "Skatt brain mush",
+      "opponent": "Matthew Taylor",
+      "opponent_slug": "matthew-taylor",
+      "opponent_team": "Big Nix Energy",
+      "opponent_score": 113.4,
+      "result": "L",
+      "is_playoff": false
     }
   ]
 }
