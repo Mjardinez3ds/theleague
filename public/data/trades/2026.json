@@ -1,12 +1,39 @@
 {
   "year": 2026,
-  "count": 6,
+  "count": 7,
   "trades": [
+    {
+      "date": "2026-10-20",
+      "sides": [
+        {
+          "team_name": "Shyguy Snakes",
+          "owner": "Super Shyguy",
+          "owner_slug": "super-shyguy",
+          "gave": [
+            "Makai Lemon"
+          ],
+          "got": [
+            "Dameon Pierce"
+          ]
+        },
+        {
+          "team_name": "find God",
+          "owner": "Junior Peralta",
+          "owner_slug": "junior-peralta",
+          "gave": [
+            "Dameon Pierce"
+          ],
+          "got": [
+            "Makai Lemon"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-04",
       "sides": [
         {
-          "team_name": "elcampeonnnn",
+          "team_name": "find God",
           "owner": "Junior Peralta",
           "owner_slug": "junior-peralta",
           "gave": [
@@ -50,7 +77,7 @@
           ]
         },
         {
-          "team_name": "elcampeonnnn",
+          "team_name": "find God",
           "owner": "Junior Peralta",
           "owner_slug": "junior-peralta",
           "gave": [
@@ -110,7 +137,7 @@
           ]
         },
         {
-          "team_name": "elcampeonnnn",
+          "team_name": "find God",
           "owner": "Junior Peralta",
           "owner_slug": "junior-peralta",
           "gave": [

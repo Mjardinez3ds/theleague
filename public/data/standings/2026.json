@@ -18,7 +18,7 @@
     },
     {
       "id": 10,
-      "team_name": "Maybe:",
+      "team_name": "Maybe: SUV Hong",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
       "wins": 5,
@@ -26,7 +26,7 @@
       "ties": 0,
       "points_for": 884.7,
       "points_against": 784.2,
-      "logo_url": "https://mystique-api.fantasy.espn.com/apis/v1/domains/lm/images/f32032c0-c9a0-11f1-bcc1-f7d73be225cd",
+      "logo_url": "https://mystique-api.fantasy.espn.com/apis/v1/domains/lm/images/ec22ca60-cca1-11f1-8478-4fd2ffb4f8bf",
       "finish": null
     },
     {
@@ -109,7 +109,7 @@
     },
     {
       "id": 7,
-      "team_name": "elcampeonnnn",
+      "team_name": "find God",
       "owner": "Junior Peralta",
       "owner_slug": "junior-peralta",
       "wins": 2,
@@ -117,7 +117,7 @@
       "ties": 0,
       "points_for": 674.0,
       "points_against": 789.9,
-      "logo_url": "https://mystique-api.fantasy.espn.com/apis/v1/domains/lm/images/d17cb810-a0e6-11f1-9ea5-d574bdafef15",
+      "logo_url": "https://mystique-api.fantasy.espn.com/apis/v1/domains/lm/images/4ef4fcd0-cd42-11f1-a065-73264d85bf05",
       "finish": null
     },
     {
