@@ -2721,21 +2721,6 @@
     {
       "week": 7,
       "date": "2026-10-21",
-      "owner": "Chris Peralta",
-      "owner_slug": "chris-peralta",
-      "team_name": "Dustin Davis",
-      "type": "FREEAGENT",
-      "bid": 0,
-      "added": [
-        "Jonah Coleman"
-      ],
-      "dropped": [
-        "Tyrone Tracy Jr."
-      ]
-    },
-    {
-      "week": 7,
-      "date": "2026-10-21",
       "owner": "Super Shyguy",
       "owner_slug": "super-shyguy",
       "team_name": "Shyguy Snakes",
@@ -2794,6 +2779,36 @@
     {
       "week": 7,
       "date": "2026-10-21",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Travis Hunter"
+      ],
+      "dropped": [
+        "Christian Kirk"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2026-10-21",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jonah Coleman"
+      ],
+      "dropped": [
+        "Tyrone Tracy Jr."
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2026-10-21",
       "owner": "Super Shyguy",
       "owner_slug": "super-shyguy",
       "team_name": "Shyguy Snakes",
@@ -2803,6 +2818,21 @@
         "T.J. Hockenson"
       ],
       "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2026-10-22",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kendrick Bourne"
+      ],
+      "dropped": [
+        "Konata Mumpfield"
+      ]
     }
   ],
   "team_totals": [
@@ -2824,14 +2854,14 @@
       "owner": "George Duran",
       "owner_slug": "george-duran",
       "team_name": "SLOB",
-      "acquisitions": 22,
+      "acquisitions": 23,
       "spent": 100
     },
     {
       "owner": "Junior Peralta",
       "owner_slug": "junior-peralta",
       "team_name": "find God",
-      "acquisitions": 37,
+      "acquisitions": 38,
       "spent": 95
     },
     {
