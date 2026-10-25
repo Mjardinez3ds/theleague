@@ -2863,6 +2863,109 @@
       "dropped": [
         "Kendrick Bourne"
       ]
+    },
+    {
+      "week": 7,
+      "date": "2026-10-24",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bam Knight"
+      ],
+      "dropped": [
+        "Chris Rodriguez Jr."
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2026-10-24",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Its a wrap for me",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darius Cooper"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2026-10-25",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Seth McGowan"
+      ],
+      "dropped": [
+        "James Conner"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2026-10-25",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Its a wrap for me",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Harrison Butker"
+      ],
+      "dropped": [
+        "Tyler Bass"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2026-10-25",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "monke",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Christian Kirk"
+      ],
+      "dropped": [
+        "Kyle Pitts Sr."
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2026-10-25",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe:",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chase McLaughlin"
+      ],
+      "dropped": [
+        "Tyler Loop"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2026-10-25",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kendrick Bourne"
+      ],
+      "dropped": [
+        "Konata Mumpfield"
+      ]
     }
   ],
   "team_totals": [
@@ -2877,7 +2980,7 @@
       "owner": "Kevin Llerena",
       "owner_slug": "kevin-llerena",
       "team_name": "Serving Punt",
-      "acquisitions": 16,
+      "acquisitions": 17,
       "spent": 100
     },
     {
@@ -2891,14 +2994,14 @@
       "owner": "Junior Peralta",
       "owner_slug": "junior-peralta",
       "team_name": "find God",
-      "acquisitions": 39,
+      "acquisitions": 41,
       "spent": 95
     },
     {
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
       "team_name": "Maybe:",
-      "acquisitions": 4,
+      "acquisitions": 5,
       "spent": 79
     },
     {
@@ -2933,14 +3036,14 @@
       "owner": "Ricky Cano",
       "owner_slug": "ricky-cano",
       "team_name": "Its a wrap for me",
-      "acquisitions": 5,
+      "acquisitions": 7,
       "spent": 25
     },
     {
       "owner": "derf punk",
       "owner_slug": "derf-punk",
       "team_name": "monke",
-      "acquisitions": 17,
+      "acquisitions": 18,
       "spent": 10
     },
     {
