@@ -62,9 +62,20 @@
       "team_name": "SLOB",
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
-      "opponent_team": "KingGoon",
+      "opponent_team": "CageDg00ner",
       "opponent_score": 105.98,
       "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "score": 127.52,
+      "team_name": "SLOB",
+      "opponent": "Ricky Cano",
+      "opponent_slug": "ricky-cano",
+      "opponent_team": "Its a wrap for me",
+      "opponent_score": 146.3,
+      "result": "L",
       "is_playoff": false
     }
   ]

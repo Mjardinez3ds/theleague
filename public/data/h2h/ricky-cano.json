@@ -65,6 +65,15 @@
       "pa": 394.68
     },
     {
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "wins": 2,
+      "losses": 1,
+      "ties": 0,
+      "pf": 357.22,
+      "pa": 317.06
+    },
+    {
       "opponent": "Christopher Jones",
       "opponent_slug": "christopher-jones",
       "wins": 2,
@@ -72,15 +81,6 @@
       "ties": 0,
       "pf": 358.46,
       "pa": 356.04
-    },
-    {
-      "opponent": "George Duran",
-      "opponent_slug": "george-duran",
-      "wins": 1,
-      "losses": 1,
-      "ties": 0,
-      "pf": 210.92,
-      "pa": 189.54
     },
     {
       "opponent": "Kevin Liang",

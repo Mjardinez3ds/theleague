@@ -65,6 +65,15 @@
       "pa": 452.82
     },
     {
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "wins": 2,
+      "losses": 2,
+      "ties": 0,
+      "pf": 468.32,
+      "pa": 416.88
+    },
+    {
       "opponent": "Super Shyguy",
       "opponent_slug": "super-shyguy",
       "wins": 2,
@@ -99,15 +108,6 @@
       "ties": 1,
       "pf": 309.42,
       "pa": 324.04
-    },
-    {
-      "opponent": "Kevin Llerena",
-      "opponent_slug": "kevin-llerena",
-      "wins": 1,
-      "losses": 2,
-      "ties": 0,
-      "pf": 342.18,
-      "pa": 310.7
     },
     {
       "opponent": "Anthony Richardson",

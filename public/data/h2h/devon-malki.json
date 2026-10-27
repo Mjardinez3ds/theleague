@@ -38,6 +38,15 @@
       "pa": 736.52
     },
     {
+      "opponent": "Super Shyguy",
+      "opponent_slug": "super-shyguy",
+      "wins": 2,
+      "losses": 4,
+      "ties": 0,
+      "pf": 679.52,
+      "pa": 758.98
+    },
+    {
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
       "wins": 4,
@@ -45,15 +54,6 @@
       "ties": 0,
       "pf": 687.7,
       "pa": 544.58
-    },
-    {
-      "opponent": "Super Shyguy",
-      "opponent_slug": "super-shyguy",
-      "wins": 2,
-      "losses": 3,
-      "ties": 0,
-      "pf": 542.8,
-      "pa": 619.1
     },
     {
       "opponent": "Ricky Cano",

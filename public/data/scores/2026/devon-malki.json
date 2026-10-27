@@ -18,7 +18,7 @@
       "team_name": "Skatt brain mush",
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
-      "opponent_team": "KingGoon",
+      "opponent_team": "CageDg00ner",
       "opponent_score": 139.16,
       "result": "L",
       "is_playoff": false
@@ -64,6 +64,17 @@
       "opponent_slug": "matthew-taylor",
       "opponent_team": "Big Nix Energy",
       "opponent_score": 113.4,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "score": 136.72,
+      "team_name": "Skatt brain mush",
+      "opponent": "Super Shyguy",
+      "opponent_slug": "super-shyguy",
+      "opponent_team": "Shyguy Snakes",
+      "opponent_score": 139.88,
       "result": "L",
       "is_playoff": false
     }

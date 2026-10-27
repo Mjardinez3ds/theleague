@@ -66,6 +66,17 @@
       "opponent_score": 101.62,
       "result": "W",
       "is_playoff": false
+    },
+    {
+      "week": 7,
+      "score": 126.14,
+      "team_name": "monke",
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "opponent_team": "Serving Punt",
+      "opponent_score": 106.18,
+      "result": "W",
+      "is_playoff": false
     }
   ]
 }

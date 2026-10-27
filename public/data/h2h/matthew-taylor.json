@@ -56,6 +56,15 @@
       "pa": 331.6
     },
     {
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "wins": 2,
+      "losses": 1,
+      "ties": 0,
+      "pf": 375.06,
+      "pa": 362.66
+    },
+    {
       "opponent": "Super Shyguy",
       "opponent_slug": "super-shyguy",
       "wins": 0,
@@ -63,15 +72,6 @@
       "ties": 0,
       "pf": 272.92,
       "pa": 405.14
-    },
-    {
-      "opponent": "Chris Peralta",
-      "opponent_slug": "chris-peralta",
-      "wins": 1,
-      "losses": 1,
-      "ties": 0,
-      "pf": 260.08,
-      "pa": 264.74
     },
     {
       "opponent": "Faust Vinas",

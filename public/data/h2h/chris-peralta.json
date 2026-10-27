@@ -74,6 +74,15 @@
       "pa": 427.12
     },
     {
+      "opponent": "Matthew Taylor",
+      "opponent_slug": "matthew-taylor",
+      "wins": 1,
+      "losses": 2,
+      "ties": 0,
+      "pf": 362.66,
+      "pa": 375.06
+    },
+    {
       "opponent": "Super Shyguy",
       "opponent_slug": "super-shyguy",
       "wins": 2,
@@ -90,15 +99,6 @@
       "ties": 0,
       "pf": 227.34,
       "pa": 209.16
-    },
-    {
-      "opponent": "Matthew Taylor",
-      "opponent_slug": "matthew-taylor",
-      "wins": 1,
-      "losses": 1,
-      "ties": 0,
-      "pf": 264.74,
-      "pa": 260.08
     },
     {
       "opponent": "Anthony Richardson",

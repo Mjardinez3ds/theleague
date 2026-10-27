@@ -65,6 +65,15 @@
       "pa": 494.28
     },
     {
+      "opponent": "Ricky Cano",
+      "opponent_slug": "ricky-cano",
+      "wins": 1,
+      "losses": 2,
+      "ties": 0,
+      "pf": 317.06,
+      "pa": 357.22
+    },
+    {
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
       "wins": 2,
@@ -90,15 +99,6 @@
       "ties": 0,
       "pf": 333.22,
       "pa": 368.24
-    },
-    {
-      "opponent": "Ricky Cano",
-      "opponent_slug": "ricky-cano",
-      "wins": 1,
-      "losses": 1,
-      "ties": 0,
-      "pf": 189.54,
-      "pa": 210.92
     },
     {
       "opponent": "Anthony Richardson",

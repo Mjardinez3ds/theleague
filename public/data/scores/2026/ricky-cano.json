@@ -66,6 +66,17 @@
       "opponent_score": 98.2,
       "result": "W",
       "is_playoff": false
+    },
+    {
+      "week": 7,
+      "score": 146.3,
+      "team_name": "Its a wrap for me",
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "opponent_team": "SLOB",
+      "opponent_score": 127.52,
+      "result": "W",
+      "is_playoff": false
     }
   ]
 }

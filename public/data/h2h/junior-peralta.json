@@ -56,6 +56,15 @@
       "pa": 679.04
     },
     {
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "wins": 2,
+      "losses": 2,
+      "ties": 0,
+      "pf": 469.82,
+      "pa": 466.24
+    },
+    {
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
       "wins": 2,
@@ -72,15 +81,6 @@
       "ties": 0,
       "pf": 394.68,
       "pa": 301.48
-    },
-    {
-      "opponent": "Kevin Liang",
-      "opponent_slug": "kevin-liang",
-      "wins": 1,
-      "losses": 2,
-      "ties": 0,
-      "pf": 325.24,
-      "pa": 366.74
     },
     {
       "opponent": "Super Shyguy",

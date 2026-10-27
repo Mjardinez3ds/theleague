@@ -1,11 +1,11 @@
 {
   "owner": "Ricky Cano",
   "slug": "ricky-cano",
-  "wins": 19,
+  "wins": 20,
   "losses": 15,
   "ties": 0,
-  "points_for": 3946.5,
-  "points_against": 3879.5,
+  "points_for": 4092.8,
+  "points_against": 4007.0,
   "titles": 0,
   "runners_up": 0,
   "thirds": 1,
@@ -36,15 +36,15 @@
     {
       "year": 2026,
       "team_name": "Its a wrap for me",
-      "wins": 3,
+      "wins": 4,
       "losses": 3,
       "ties": 0,
-      "points_for": 695.8,
-      "points_against": 710.5,
+      "points_for": 842.1,
+      "points_against": 838.0,
       "finish": null,
       "league_size": 12
     }
   ],
-  "win_pct": 55.9,
-  "games": 34
+  "win_pct": 57.1,
+  "games": 35
 }

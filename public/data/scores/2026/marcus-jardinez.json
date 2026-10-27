@@ -66,6 +66,17 @@
       "opponent_score": 108.48,
       "result": "L",
       "is_playoff": false
+    },
+    {
+      "week": 7,
+      "score": 102.6,
+      "team_name": "Pausa de Hidratacion ",
+      "opponent": "Jordan van Leesten",
+      "opponent_slug": "jordan-van-leesten",
+      "opponent_team": "Maybe:",
+      "opponent_score": 123.96,
+      "result": "L",
+      "is_playoff": false
     }
   ]
 }

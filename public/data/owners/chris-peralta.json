@@ -2,10 +2,10 @@
   "owner": "Chris Peralta",
   "slug": "chris-peralta",
   "wins": 28,
-  "losses": 20,
+  "losses": 21,
   "ties": 0,
-  "points_for": 6097.5,
-  "points_against": 6018.3,
+  "points_for": 6195.5,
+  "points_against": 6133.3,
   "titles": 0,
   "runners_up": 2,
   "thirds": 1,
@@ -48,14 +48,14 @@
       "year": 2026,
       "team_name": "Dustin Davis",
       "wins": 0,
-      "losses": 6,
+      "losses": 7,
       "ties": 0,
-      "points_for": 667.8,
-      "points_against": 903.9,
+      "points_for": 765.7,
+      "points_against": 1018.8,
       "finish": null,
       "league_size": 12
     }
   ],
-  "win_pct": 58.3,
-  "games": 48
+  "win_pct": 57.1,
+  "games": 49
 }

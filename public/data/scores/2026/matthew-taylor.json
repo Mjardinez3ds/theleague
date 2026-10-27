@@ -66,6 +66,17 @@
       "opponent_score": 88.06,
       "result": "W",
       "is_playoff": false
+    },
+    {
+      "week": 7,
+      "score": 114.98,
+      "team_name": "Big Nix Energy",
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "opponent_team": "Dustin Davis",
+      "opponent_score": 97.92,
+      "result": "W",
+      "is_playoff": false
     }
   ]
 }

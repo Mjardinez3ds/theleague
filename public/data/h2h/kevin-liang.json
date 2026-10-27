@@ -56,6 +56,15 @@
       "pa": 494.2
     },
     {
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "wins": 2,
+      "losses": 2,
+      "ties": 0,
+      "pf": 466.24,
+      "pa": 469.82
+    },
+    {
       "opponent": "Super Shyguy",
       "opponent_slug": "super-shyguy",
       "wins": 2,
@@ -63,15 +72,6 @@
       "ties": 0,
       "pf": 498.66,
       "pa": 581.16
-    },
-    {
-      "opponent": "Junior Peralta",
-      "opponent_slug": "junior-peralta",
-      "wins": 2,
-      "losses": 1,
-      "ties": 0,
-      "pf": 366.74,
-      "pa": 325.24
     },
     {
       "opponent": "derf punk",

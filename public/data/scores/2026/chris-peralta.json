@@ -40,7 +40,7 @@
       "team_name": "Dustin Davis",
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
-      "opponent_team": "KingGoon",
+      "opponent_team": "CageDg00ner",
       "opponent_score": 150.8,
       "result": "L",
       "is_playoff": false
@@ -64,6 +64,17 @@
       "opponent_slug": "ricky-cano",
       "opponent_team": "Its a wrap for me",
       "opponent_score": 125.08,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "score": 97.92,
+      "team_name": "Dustin Davis",
+      "opponent": "Matthew Taylor",
+      "opponent_slug": "matthew-taylor",
+      "opponent_team": "Big Nix Energy",
+      "opponent_score": 114.98,
       "result": "L",
       "is_playoff": false
     }

@@ -66,6 +66,17 @@
       "opponent_score": 153.74,
       "result": "L",
       "is_playoff": false
+    },
+    {
+      "week": 7,
+      "score": 144.58,
+      "team_name": "find God",
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "opponent_team": "CageDg00ner",
+      "opponent_score": 99.5,
+      "result": "W",
+      "is_playoff": false
     }
   ]
 }

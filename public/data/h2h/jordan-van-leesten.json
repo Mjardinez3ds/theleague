@@ -54,6 +54,15 @@
       "ties": 0,
       "pf": 153.74,
       "pa": 110.02
+    },
+    {
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pf": 123.96,
+      "pa": 102.6
     }
   ]
 }

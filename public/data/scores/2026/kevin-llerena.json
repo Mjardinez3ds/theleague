@@ -29,7 +29,7 @@
       "team_name": "Serving Punt",
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
-      "opponent_team": "KingGoon",
+      "opponent_team": "CageDg00ner",
       "opponent_score": 129.34,
       "result": "L",
       "is_playoff": false
@@ -65,6 +65,17 @@
       "opponent_team": "Pausa de Hidratacion ",
       "opponent_score": 106.36,
       "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "score": 106.18,
+      "team_name": "Serving Punt",
+      "opponent": "derf punk",
+      "opponent_slug": "derf-punk",
+      "opponent_team": "monke",
+      "opponent_score": 126.14,
+      "result": "L",
       "is_playoff": false
     }
   ]

@@ -4,7 +4,7 @@
     {
       "week": 1,
       "score": 161.02,
-      "team_name": "KingGoon",
+      "team_name": "CageDg00ner",
       "opponent": "Super Shyguy",
       "opponent_slug": "super-shyguy",
       "opponent_team": "Shyguy Snakes",
@@ -15,7 +15,7 @@
     {
       "week": 2,
       "score": 139.16,
-      "team_name": "KingGoon",
+      "team_name": "CageDg00ner",
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
       "opponent_team": "Skatt brain mush",
@@ -26,7 +26,7 @@
     {
       "week": 3,
       "score": 129.34,
-      "team_name": "KingGoon",
+      "team_name": "CageDg00ner",
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
       "opponent_team": "Serving Punt",
@@ -37,7 +37,7 @@
     {
       "week": 4,
       "score": 150.8,
-      "team_name": "KingGoon",
+      "team_name": "CageDg00ner",
       "opponent": "Chris Peralta",
       "opponent_slug": "chris-peralta",
       "opponent_team": "Dustin Davis",
@@ -48,7 +48,7 @@
     {
       "week": 5,
       "score": 92.8,
-      "team_name": "KingGoon",
+      "team_name": "CageDg00ner",
       "opponent": "Jordan van Leesten",
       "opponent_slug": "jordan-van-leesten",
       "opponent_team": "Maybe:",
@@ -59,11 +59,22 @@
     {
       "week": 6,
       "score": 105.98,
-      "team_name": "KingGoon",
+      "team_name": "CageDg00ner",
       "opponent": "George Duran",
       "opponent_slug": "george-duran",
       "opponent_team": "SLOB",
       "opponent_score": 175.94,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "score": 99.5,
+      "team_name": "CageDg00ner",
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "opponent_team": "find God",
+      "opponent_score": 144.58,
       "result": "L",
       "is_playoff": false
     }

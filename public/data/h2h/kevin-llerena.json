@@ -56,6 +56,15 @@
       "pa": 641.16
     },
     {
+      "opponent": "derf punk",
+      "opponent_slug": "derf-punk",
+      "wins": 2,
+      "losses": 2,
+      "ties": 0,
+      "pf": 416.88,
+      "pa": 468.32
+    },
+    {
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
       "wins": 1,
@@ -81,15 +90,6 @@
       "ties": 0,
       "pf": 427.12,
       "pa": 401.8
-    },
-    {
-      "opponent": "derf punk",
-      "opponent_slug": "derf-punk",
-      "wins": 2,
-      "losses": 1,
-      "ties": 0,
-      "pf": 310.7,
-      "pa": 342.18
     },
     {
       "opponent": "Faust Vinas",
