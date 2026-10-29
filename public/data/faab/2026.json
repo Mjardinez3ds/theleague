@@ -3006,7 +3006,63 @@
       "type": "WAIVER",
       "bid": 0,
       "added": [
-        "Terrance Ferguson"
+        "Treylon Burks"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2026-10-28",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "monke",
+      "type": "WAIVER",
+      "bid": 25,
+      "added": [
+        "Caleb Douglas"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2026-10-28",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Tyler Bass"
+      ],
+      "dropped": [
+        "Dominic Zvada"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2026-10-28",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Goodson"
+      ],
+      "dropped": [
+        "Kendre Miller"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2026-10-28",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Keon Coleman"
       ],
       "dropped": []
     },
@@ -3019,7 +3075,7 @@
       "type": "WAIVER",
       "bid": 0,
       "added": [
-        "Treylon Burks"
+        "Terrance Ferguson"
       ],
       "dropped": []
     },
@@ -3041,19 +3097,6 @@
     {
       "week": 8,
       "date": "2026-10-28",
-      "owner": "derf punk",
-      "owner_slug": "derf-punk",
-      "team_name": "monke",
-      "type": "WAIVER",
-      "bid": 25,
-      "added": [
-        "Caleb Douglas"
-      ],
-      "dropped": []
-    },
-    {
-      "week": 8,
-      "date": "2026-10-28",
       "owner": "George Duran",
       "owner_slug": "george-duran",
       "team_name": "SLOB",
@@ -3070,14 +3113,12 @@
       "owner": "Kevin Llerena",
       "owner_slug": "kevin-llerena",
       "team_name": "Serving Punt",
-      "type": "WAIVER",
+      "type": "FREEAGENT",
       "bid": 0,
       "added": [
-        "Tyler Bass"
+        "Mike Gesicki"
       ],
-      "dropped": [
-        "Dominic Zvada"
-      ]
+      "dropped": []
     },
     {
       "week": 8,
@@ -3126,31 +3167,33 @@
     },
     {
       "week": 8,
-      "date": "2026-10-28",
-      "owner": "Junior Peralta",
-      "owner_slug": "junior-peralta",
-      "team_name": "find God",
+      "date": "2026-10-29",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
-        "Tyler Goodson"
+        "Tyjae Spears"
       ],
       "dropped": [
-        "Kendre Miller"
+        "J.K. Dobbins"
       ]
     },
     {
       "week": 8,
-      "date": "2026-10-28",
-      "owner": "Chris Peralta",
-      "owner_slug": "chris-peralta",
-      "team_name": "Dustin Davis",
+      "date": "2026-10-29",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
-        "Keon Coleman"
+        "Kendrick Bourne"
       ],
-      "dropped": []
+      "dropped": [
+        "Savion Williams"
+      ]
     }
   ],
   "team_totals": [
@@ -3165,7 +3208,7 @@
       "owner": "Kevin Llerena",
       "owner_slug": "kevin-llerena",
       "team_name": "Serving Punt",
-      "acquisitions": 20,
+      "acquisitions": 21,
       "spent": 100
     },
     {
@@ -3179,7 +3222,7 @@
       "owner": "George Duran",
       "owner_slug": "george-duran",
       "team_name": "SLOB",
-      "acquisitions": 25,
+      "acquisitions": 27,
       "spent": 100
     },
     {
