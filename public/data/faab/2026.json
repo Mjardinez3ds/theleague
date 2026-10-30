@@ -3194,6 +3194,36 @@
       "dropped": [
         "Savion Williams"
       ]
+    },
+    {
+      "week": 8,
+      "date": "2026-10-29",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "AJ Barner"
+      ],
+      "dropped": [
+        "Michael Mayer"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2026-10-29",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Eli Raridon"
+      ],
+      "dropped": [
+        "Kendrick Bourne"
+      ]
     }
   ],
   "team_totals": [
@@ -3222,14 +3252,14 @@
       "owner": "George Duran",
       "owner_slug": "george-duran",
       "team_name": "SLOB",
-      "acquisitions": 27,
+      "acquisitions": 28,
       "spent": 100
     },
     {
       "owner": "Junior Peralta",
       "owner_slug": "junior-peralta",
       "team_name": "find God",
-      "acquisitions": 42,
+      "acquisitions": 43,
       "spent": 95
     },
     {

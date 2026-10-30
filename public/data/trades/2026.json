@@ -1,7 +1,34 @@
 {
   "year": 2026,
-  "count": 7,
+  "count": 8,
   "trades": [
+    {
+      "date": "2026-10-29",
+      "sides": [
+        {
+          "team_name": "Serving Punt",
+          "owner": "Kevin Llerena",
+          "owner_slug": "kevin-llerena",
+          "gave": [
+            "Garrett Wilson"
+          ],
+          "got": [
+            "Tyler Warren"
+          ]
+        },
+        {
+          "team_name": "find God",
+          "owner": "Junior Peralta",
+          "owner_slug": "junior-peralta",
+          "gave": [
+            "Tyler Warren"
+          ],
+          "got": [
+            "Garrett Wilson"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-20",
       "sides": [
