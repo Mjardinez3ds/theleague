@@ -1,7 +1,40 @@
 {
   "year": 2026,
-  "count": 8,
+  "count": 9,
   "trades": [
+    {
+      "date": "2026-10-30",
+      "sides": [
+        {
+          "team_name": "Pausa de Hidratacion ",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
+          "gave": [
+            "Jordan Mason",
+            "Ja'Marr Chase",
+            "Breece Hall"
+          ],
+          "got": [
+            "Brock Purdy",
+            "Bijan Robinson"
+          ]
+        },
+        {
+          "team_name": "Skatt brain mush",
+          "owner": "Devon Malki",
+          "owner_slug": "devon-malki",
+          "gave": [
+            "Brock Purdy",
+            "Bijan Robinson"
+          ],
+          "got": [
+            "Jordan Mason",
+            "Ja'Marr Chase",
+            "Breece Hall"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-29",
       "sides": [

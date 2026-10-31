@@ -3224,6 +3224,116 @@
       "dropped": [
         "Kendrick Bourne"
       ]
+    },
+    {
+      "week": 8,
+      "date": "2026-10-30",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Efton Chism III"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2026-10-30",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Rodriguez Jr."
+      ],
+      "dropped": [
+        "Tyjae Spears"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2026-10-30",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Samaje Perine"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2026-10-30",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tank Bigsby"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2026-10-31",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Its a wrap for me",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tez Johnson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2026-10-31",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Skatt brain mush",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "C.J. Stroud"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2026-10-31",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dylan Sampson"
+      ],
+      "dropped": [
+        "Keon Coleman"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2026-10-31",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "WAIVER",
+      "bid": 13,
+      "added": [
+        "J.K. Dobbins"
+      ],
+      "dropped": [
+        "Elijah Mitchell"
+      ]
     }
   ],
   "team_totals": [
@@ -3231,7 +3341,7 @@
       "owner": "Chris Peralta",
       "owner_slug": "chris-peralta",
       "team_name": "Dustin Davis",
-      "acquisitions": 32,
+      "acquisitions": 33,
       "spent": 100
     },
     {
@@ -3245,14 +3355,14 @@
       "owner": "Marcus Jardinez",
       "owner_slug": "marcus-jardinez",
       "team_name": "Pausa de Hidratacion ",
-      "acquisitions": 25,
+      "acquisitions": 28,
       "spent": 100
     },
     {
       "owner": "George Duran",
       "owner_slug": "george-duran",
       "team_name": "SLOB",
-      "acquisitions": 28,
+      "acquisitions": 29,
       "spent": 100
     },
     {
@@ -3270,6 +3380,13 @@
       "spent": 79
     },
     {
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "acquisitions": 11,
+      "spent": 64
+    },
+    {
       "owner": "Matthew Taylor",
       "owner_slug": "matthew-taylor",
       "team_name": "Big Nix Energy",
@@ -3280,15 +3397,8 @@
       "owner": "Devon Malki",
       "owner_slug": "devon-malki",
       "team_name": "Skatt brain mush",
-      "acquisitions": 9,
-      "spent": 53
-    },
-    {
-      "owner": "Super Shyguy",
-      "owner_slug": "super-shyguy",
-      "team_name": "Shyguy Snakes",
       "acquisitions": 10,
-      "spent": 51
+      "spent": 53
     },
     {
       "owner": "derf punk",
@@ -3301,7 +3411,7 @@
       "owner": "Ricky Cano",
       "owner_slug": "ricky-cano",
       "team_name": "Its a wrap for me",
-      "acquisitions": 8,
+      "acquisitions": 9,
       "spent": 25
     },
     {
