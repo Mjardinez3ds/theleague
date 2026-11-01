@@ -2988,47 +2988,6 @@
       "owner": "Kevin Llerena",
       "owner_slug": "kevin-llerena",
       "team_name": "Serving Punt",
-      "type": "FREEAGENT",
-      "bid": 0,
-      "added": [
-        "Geno Smith"
-      ],
-      "dropped": [
-        "Bam Knight"
-      ]
-    },
-    {
-      "week": 8,
-      "date": "2026-10-28",
-      "owner": "Devon Malki",
-      "owner_slug": "devon-malki",
-      "team_name": "Skatt brain mush",
-      "type": "WAIVER",
-      "bid": 0,
-      "added": [
-        "Treylon Burks"
-      ],
-      "dropped": []
-    },
-    {
-      "week": 8,
-      "date": "2026-10-28",
-      "owner": "derf punk",
-      "owner_slug": "derf-punk",
-      "team_name": "monke",
-      "type": "WAIVER",
-      "bid": 25,
-      "added": [
-        "Caleb Douglas"
-      ],
-      "dropped": []
-    },
-    {
-      "week": 8,
-      "date": "2026-10-28",
-      "owner": "Kevin Llerena",
-      "owner_slug": "kevin-llerena",
-      "team_name": "Serving Punt",
       "type": "WAIVER",
       "bid": 0,
       "added": [
@@ -3037,47 +2996,6 @@
       "dropped": [
         "Dominic Zvada"
       ]
-    },
-    {
-      "week": 8,
-      "date": "2026-10-28",
-      "owner": "Junior Peralta",
-      "owner_slug": "junior-peralta",
-      "team_name": "find God",
-      "type": "FREEAGENT",
-      "bid": 0,
-      "added": [
-        "Tyler Goodson"
-      ],
-      "dropped": [
-        "Kendre Miller"
-      ]
-    },
-    {
-      "week": 8,
-      "date": "2026-10-28",
-      "owner": "Chris Peralta",
-      "owner_slug": "chris-peralta",
-      "team_name": "Dustin Davis",
-      "type": "FREEAGENT",
-      "bid": 0,
-      "added": [
-        "Keon Coleman"
-      ],
-      "dropped": []
-    },
-    {
-      "week": 8,
-      "date": "2026-10-28",
-      "owner": "Devon Malki",
-      "owner_slug": "devon-malki",
-      "team_name": "Skatt brain mush",
-      "type": "WAIVER",
-      "bid": 0,
-      "added": [
-        "Terrance Ferguson"
-      ],
-      "dropped": []
     },
     {
       "week": 8,
@@ -3159,25 +3077,92 @@
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
-        "Mason Taylor"
+        "Geno Smith"
       ],
       "dropped": [
-        "Pat Freiermuth"
+        "Bam Knight"
       ]
     },
     {
       "week": 8,
-      "date": "2026-10-29",
-      "owner": "George Duran",
-      "owner_slug": "george-duran",
-      "team_name": "SLOB",
+      "date": "2026-10-28",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Skatt brain mush",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Treylon Burks"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2026-10-28",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "monke",
+      "type": "WAIVER",
+      "bid": 25,
+      "added": [
+        "Caleb Douglas"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2026-10-28",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
-        "Tyjae Spears"
+        "Tyler Goodson"
       ],
       "dropped": [
-        "J.K. Dobbins"
+        "Kendre Miller"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2026-10-28",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Keon Coleman"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2026-10-28",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Skatt brain mush",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Terrance Ferguson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2026-10-28",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mason Taylor"
+      ],
+      "dropped": [
+        "Pat Freiermuth"
       ]
     },
     {
@@ -3198,21 +3183,6 @@
     {
       "week": 8,
       "date": "2026-10-29",
-      "owner": "Junior Peralta",
-      "owner_slug": "junior-peralta",
-      "team_name": "find God",
-      "type": "FREEAGENT",
-      "bid": 0,
-      "added": [
-        "AJ Barner"
-      ],
-      "dropped": [
-        "Michael Mayer"
-      ]
-    },
-    {
-      "week": 8,
-      "date": "2026-10-29",
       "owner": "George Duran",
       "owner_slug": "george-duran",
       "team_name": "SLOB",
@@ -3227,16 +3197,33 @@
     },
     {
       "week": 8,
-      "date": "2026-10-30",
-      "owner": "Marcus Jardinez",
-      "owner_slug": "marcus-jardinez",
-      "team_name": "Pausa de Hidratacion ",
+      "date": "2026-10-29",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
-        "Efton Chism III"
+        "Tyjae Spears"
       ],
-      "dropped": []
+      "dropped": [
+        "J.K. Dobbins"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2026-10-29",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "AJ Barner"
+      ],
+      "dropped": [
+        "Michael Mayer"
+      ]
     },
     {
       "week": 8,
@@ -3275,6 +3262,19 @@
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
+        "Efton Chism III"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2026-10-30",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
         "Tank Bigsby"
       ],
       "dropped": []
@@ -3289,19 +3289,6 @@
       "bid": 0,
       "added": [
         "Tez Johnson"
-      ],
-      "dropped": []
-    },
-    {
-      "week": 8,
-      "date": "2026-10-31",
-      "owner": "Devon Malki",
-      "owner_slug": "devon-malki",
-      "team_name": "Skatt brain mush",
-      "type": "FREEAGENT",
-      "bid": 0,
-      "added": [
-        "C.J. Stroud"
       ],
       "dropped": []
     },
@@ -3334,6 +3321,92 @@
       "dropped": [
         "Elijah Mitchell"
       ]
+    },
+    {
+      "week": 8,
+      "date": "2026-10-31",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Skatt brain mush",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "C.J. Stroud"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2026-10-31",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ted Hurst III"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2026-11-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Evan McPherson"
+      ],
+      "dropped": [
+        "Jake Bates"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2026-11-01",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chad Ryland"
+      ],
+      "dropped": [
+        "Ted Hurst III"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2026-11-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Travis Hunter"
+      ],
+      "dropped": [
+        "Malik Washington"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2026-11-01",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Skatt brain mush",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Isaiah Davis"
+      ],
+      "dropped": [
+        "C.J. Stroud"
+      ]
     }
   ],
   "team_totals": [
@@ -3362,14 +3435,14 @@
       "owner": "George Duran",
       "owner_slug": "george-duran",
       "team_name": "SLOB",
-      "acquisitions": 29,
+      "acquisitions": 30,
       "spent": 100
     },
     {
       "owner": "Junior Peralta",
       "owner_slug": "junior-peralta",
       "team_name": "find God",
-      "acquisitions": 43,
+      "acquisitions": 44,
       "spent": 95
     },
     {
@@ -3383,7 +3456,7 @@
       "owner": "Super Shyguy",
       "owner_slug": "super-shyguy",
       "team_name": "Shyguy Snakes",
-      "acquisitions": 11,
+      "acquisitions": 13,
       "spent": 64
     },
     {
@@ -3397,7 +3470,7 @@
       "owner": "Devon Malki",
       "owner_slug": "devon-malki",
       "team_name": "Skatt brain mush",
-      "acquisitions": 10,
+      "acquisitions": 11,
       "spent": 53
     },
     {
