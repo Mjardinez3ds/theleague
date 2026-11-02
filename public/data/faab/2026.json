@@ -3366,6 +3366,32 @@
     {
       "week": 8,
       "date": "2026-11-01",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ted Hurst III"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2026-11-01",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kimani Vidal"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2026-11-01",
       "owner": "Super Shyguy",
       "owner_slug": "super-shyguy",
       "team_name": "Shyguy Snakes",
@@ -3463,7 +3489,7 @@
       "owner": "Matthew Taylor",
       "owner_slug": "matthew-taylor",
       "team_name": "Big Nix Energy",
-      "acquisitions": 6,
+      "acquisitions": 8,
       "spent": 60
     },
     {
