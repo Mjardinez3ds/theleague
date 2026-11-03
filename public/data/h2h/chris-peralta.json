@@ -65,6 +65,15 @@
       "pa": 779.0
     },
     {
+      "opponent": "Super Shyguy",
+      "opponent_slug": "super-shyguy",
+      "wins": 3,
+      "losses": 1,
+      "ties": 0,
+      "pf": 542.46,
+      "pa": 463.42
+    },
+    {
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
       "wins": 1,
@@ -81,15 +90,6 @@
       "ties": 0,
       "pf": 362.66,
       "pa": 375.06
-    },
-    {
-      "opponent": "Super Shyguy",
-      "opponent_slug": "super-shyguy",
-      "wins": 2,
-      "losses": 1,
-      "ties": 0,
-      "pf": 416.48,
-      "pa": 377.82
     },
     {
       "opponent": "Denniell Grijalva",

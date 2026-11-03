@@ -38,6 +38,15 @@
       "pa": 426.82
     },
     {
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "wins": 3,
+      "losses": 1,
+      "ties": 0,
+      "pf": 486.58,
+      "pa": 416.6
+    },
+    {
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
       "wins": 3,
@@ -45,15 +54,6 @@
       "ties": 0,
       "pf": 522.72,
       "pa": 418.2
-    },
-    {
-      "opponent": "George Duran",
-      "opponent_slug": "george-duran",
-      "wins": 2,
-      "losses": 1,
-      "ties": 0,
-      "pf": 345.32,
-      "pa": 331.6
     },
     {
       "opponent": "Chris Peralta",

@@ -77,6 +77,17 @@
       "opponent_score": 97.92,
       "result": "W",
       "is_playoff": false
+    },
+    {
+      "week": 8,
+      "score": 141.26,
+      "team_name": "Big Nix Energy",
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "opponent_team": "SLOB",
+      "opponent_score": 85.0,
+      "result": "W",
+      "is_playoff": false
     }
   ]
 }

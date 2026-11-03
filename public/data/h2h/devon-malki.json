@@ -29,6 +29,15 @@
       "pa": 735.74
     },
     {
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "wins": 4,
+      "losses": 2,
+      "ties": 0,
+      "pf": 794.28,
+      "pa": 653.58
+    },
+    {
       "opponent": "George Duran",
       "opponent_slug": "george-duran",
       "wins": 2,
@@ -45,15 +54,6 @@
       "ties": 0,
       "pf": 679.52,
       "pa": 758.98
-    },
-    {
-      "opponent": "Kevin Llerena",
-      "opponent_slug": "kevin-llerena",
-      "wins": 4,
-      "losses": 1,
-      "ties": 0,
-      "pf": 687.7,
-      "pa": 544.58
     },
     {
       "opponent": "Ricky Cano",

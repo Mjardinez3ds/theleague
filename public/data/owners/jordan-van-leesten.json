@@ -1,11 +1,11 @@
 {
   "owner": "Jordan van Leesten",
   "slug": "jordan-van-leesten",
-  "wins": 6,
+  "wins": 7,
   "losses": 1,
   "ties": 0,
-  "points_for": 1008.7,
-  "points_against": 886.8,
+  "points_for": 1169.5,
+  "points_against": 1021.2,
   "titles": 0,
   "runners_up": 0,
   "thirds": 0,
@@ -14,15 +14,15 @@
     {
       "year": 2026,
       "team_name": "Maybe:",
-      "wins": 6,
+      "wins": 7,
       "losses": 1,
       "ties": 0,
-      "points_for": 1008.7,
-      "points_against": 886.8,
+      "points_for": 1169.5,
+      "points_against": 1021.2,
       "finish": null,
       "league_size": 12
     }
   ],
-  "win_pct": 85.7,
-  "games": 7
+  "win_pct": 87.5,
+  "games": 8
 }

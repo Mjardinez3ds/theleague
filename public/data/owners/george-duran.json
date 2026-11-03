@@ -2,10 +2,10 @@
   "owner": "George Duran",
   "slug": "george-duran",
   "wins": 25,
-  "losses": 24,
+  "losses": 25,
   "ties": 0,
-  "points_for": 5895.1,
-  "points_against": 5879.1,
+  "points_for": 5980.1,
+  "points_against": 6020.4,
   "titles": 1,
   "runners_up": 0,
   "thirds": 1,
@@ -48,14 +48,14 @@
       "year": 2026,
       "team_name": "SLOB",
       "wins": 5,
-      "losses": 2,
+      "losses": 3,
       "ties": 0,
-      "points_for": 917.1,
-      "points_against": 777.0,
+      "points_for": 1002.1,
+      "points_against": 918.2,
       "finish": null,
       "league_size": 12
     }
   ],
-  "win_pct": 51.0,
-  "games": 49
+  "win_pct": 50.0,
+  "games": 50
 }

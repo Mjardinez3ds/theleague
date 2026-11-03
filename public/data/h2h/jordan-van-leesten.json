@@ -63,6 +63,15 @@
       "ties": 0,
       "pf": 123.96,
       "pa": 102.6
+    },
+    {
+      "opponent": "derf punk",
+      "opponent_slug": "derf-punk",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pf": 160.82,
+      "pa": 134.46
     }
   ]
 }

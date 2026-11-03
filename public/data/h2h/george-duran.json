@@ -65,6 +65,15 @@
       "pa": 494.28
     },
     {
+      "opponent": "Matthew Taylor",
+      "opponent_slug": "matthew-taylor",
+      "wins": 1,
+      "losses": 3,
+      "ties": 0,
+      "pf": 416.6,
+      "pa": 486.58
+    },
+    {
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
       "wins": 1,
@@ -81,15 +90,6 @@
       "ties": 0,
       "pf": 378.54,
       "pa": 355.2
-    },
-    {
-      "opponent": "Matthew Taylor",
-      "opponent_slug": "matthew-taylor",
-      "wins": 1,
-      "losses": 2,
-      "ties": 0,
-      "pf": 331.6,
-      "pa": 345.32
     },
     {
       "opponent": "Super Shyguy",

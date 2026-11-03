@@ -83,6 +83,15 @@
       "pa": 309.42
     },
     {
+      "opponent": "Ricky Cano",
+      "opponent_slug": "ricky-cano",
+      "wins": 1,
+      "losses": 2,
+      "ties": 0,
+      "pf": 379.58,
+      "pa": 377.72
+    },
+    {
       "opponent": "Christopher Jones",
       "opponent_slug": "christopher-jones",
       "wins": 1,
@@ -108,15 +117,6 @@
       "ties": 0,
       "pf": 200.58,
       "pa": 253.44
-    },
-    {
-      "opponent": "Ricky Cano",
-      "opponent_slug": "ricky-cano",
-      "wins": 0,
-      "losses": 2,
-      "ties": 0,
-      "pf": 240.94,
-      "pa": 276.14
     },
     {
       "opponent": "Matthew Taylor",

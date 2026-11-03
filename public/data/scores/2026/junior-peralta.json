@@ -77,6 +77,17 @@
       "opponent_score": 99.5,
       "result": "W",
       "is_playoff": false
+    },
+    {
+      "week": 8,
+      "score": 113.98,
+      "team_name": "find God",
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Pausa de Hidratacion ",
+      "opponent_score": 123.0,
+      "result": "L",
+      "is_playoff": false
     }
   ]
 }

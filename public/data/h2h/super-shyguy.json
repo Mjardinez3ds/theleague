@@ -38,6 +38,15 @@
       "pa": 447.68
     },
     {
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "wins": 1,
+      "losses": 3,
+      "ties": 0,
+      "pf": 463.42,
+      "pa": 542.46
+    },
+    {
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
       "wins": 1,
@@ -63,15 +72,6 @@
       "ties": 0,
       "pf": 368.24,
       "pa": 333.22
-    },
-    {
-      "opponent": "Chris Peralta",
-      "opponent_slug": "chris-peralta",
-      "wins": 1,
-      "losses": 2,
-      "ties": 0,
-      "pf": 377.82,
-      "pa": 416.48
     },
     {
       "opponent": "Matthew Taylor",

@@ -2,10 +2,10 @@
   "owner": "Super Shyguy",
   "slug": "super-shyguy",
   "wins": 21,
-  "losses": 14,
+  "losses": 15,
   "ties": 0,
-  "points_for": 4434.1,
-  "points_against": 3919.5,
+  "points_for": 4519.7,
+  "points_against": 4045.5,
   "titles": 1,
   "runners_up": 0,
   "thirds": 0,
@@ -37,14 +37,14 @@
       "year": 2026,
       "team_name": "Shyguy Snakes",
       "wins": 2,
-      "losses": 5,
+      "losses": 6,
       "ties": 0,
-      "points_for": 869.8,
-      "points_against": 881.8,
+      "points_for": 955.4,
+      "points_against": 1007.8,
       "finish": null,
       "league_size": 12
     }
   ],
-  "win_pct": 60.0,
-  "games": 35
+  "win_pct": 58.3,
+  "games": 36
 }

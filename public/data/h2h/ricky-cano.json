@@ -74,6 +74,15 @@
       "pa": 317.06
     },
     {
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "wins": 2,
+      "losses": 1,
+      "ties": 0,
+      "pf": 377.72,
+      "pa": 379.58
+    },
+    {
       "opponent": "Christopher Jones",
       "opponent_slug": "christopher-jones",
       "wins": 2,
@@ -81,15 +90,6 @@
       "ties": 0,
       "pf": 358.46,
       "pa": 356.04
-    },
-    {
-      "opponent": "Kevin Liang",
-      "opponent_slug": "kevin-liang",
-      "wins": 2,
-      "losses": 0,
-      "ties": 0,
-      "pf": 276.14,
-      "pa": 240.94
     },
     {
       "opponent": "Super Shyguy",
