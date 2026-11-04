@@ -2,22 +2,22 @@
   "slug": "ricky-cano",
   "owner": "Ricky Cano",
   "totals": {
-    "acquisitions": 51,
-    "spent": 159,
+    "acquisitions": 52,
+    "spent": 188,
     "biggest_bid": {
-      "year": 2023,
-      "week": 3,
-      "bid": 25,
-      "player": "Geno Smith",
-      "dropped": "Kenny Pickett"
+      "year": 2026,
+      "week": 9,
+      "bid": 29,
+      "player": "Adonai Mitchell",
+      "dropped": "Tez Johnson"
     }
   },
   "by_year": [
     {
       "year": 2026,
       "team_name": "Its a wrap for me",
-      "acquisitions": 9,
-      "spent": 25
+      "acquisitions": 10,
+      "spent": 54
     },
     {
       "year": 2025,

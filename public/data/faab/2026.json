@@ -3433,6 +3433,208 @@
       "dropped": [
         "C.J. Stroud"
       ]
+    },
+    {
+      "week": 9,
+      "date": "2026-11-04",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Kenny Gainwell"
+      ],
+      "dropped": [
+        "Kyler Murray"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2026-11-04",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "J.J. McCarthy"
+      ],
+      "dropped": [
+        "Geno Smith"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2026-11-04",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "monke",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "C.J. Stroud"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2026-11-04",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jake Bates"
+      ],
+      "dropped": [
+        "Devin Singletary"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2026-11-04",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Sione Vaki"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2026-11-04",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Treylon Burks"
+      ],
+      "dropped": [
+        "Devin Singletary"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2026-11-04",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "WAIVER",
+      "bid": 6,
+      "added": [
+        "Malik Washington"
+      ],
+      "dropped": [
+        "Chris Godwin Jr."
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2026-11-04",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Its a wrap for me",
+      "type": "WAIVER",
+      "bid": 29,
+      "added": [
+        "Adonai Mitchell"
+      ],
+      "dropped": [
+        "Tez Johnson"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2026-11-04",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Devin Singletary"
+      ],
+      "dropped": [
+        "Eli Raridon"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2026-11-04",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Wil Lutz"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2026-11-04",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Devin Singletary"
+      ],
+      "dropped": [
+        "Mason Taylor"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2026-11-04",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Sam Darnold"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2026-11-04",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brandon Aiyuk"
+      ],
+      "dropped": [
+        "J.J. McCarthy"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2026-11-04",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "WAIVER",
+      "bid": 3,
+      "added": [
+        "Elijah Mitchell"
+      ],
+      "dropped": [
+        "Chad Ryland"
+      ]
     }
   ],
   "team_totals": [
@@ -3447,28 +3649,28 @@
       "owner": "Kevin Llerena",
       "owner_slug": "kevin-llerena",
       "team_name": "Serving Punt",
-      "acquisitions": 21,
+      "acquisitions": 25,
       "spent": 100
     },
     {
       "owner": "Marcus Jardinez",
       "owner_slug": "marcus-jardinez",
       "team_name": "Pausa de Hidratacion ",
-      "acquisitions": 28,
+      "acquisitions": 29,
       "spent": 100
     },
     {
       "owner": "George Duran",
       "owner_slug": "george-duran",
       "team_name": "SLOB",
-      "acquisitions": 30,
+      "acquisitions": 33,
       "spent": 100
     },
     {
       "owner": "Junior Peralta",
       "owner_slug": "junior-peralta",
       "team_name": "find God",
-      "acquisitions": 44,
+      "acquisitions": 45,
       "spent": 95
     },
     {
@@ -3482,8 +3684,8 @@
       "owner": "Super Shyguy",
       "owner_slug": "super-shyguy",
       "team_name": "Shyguy Snakes",
-      "acquisitions": 13,
-      "spent": 64
+      "acquisitions": 16,
+      "spent": 74
     },
     {
       "owner": "Matthew Taylor",
@@ -3491,6 +3693,13 @@
       "team_name": "Big Nix Energy",
       "acquisitions": 8,
       "spent": 60
+    },
+    {
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Its a wrap for me",
+      "acquisitions": 10,
+      "spent": 54
     },
     {
       "owner": "Devon Malki",
@@ -3503,15 +3712,8 @@
       "owner": "derf punk",
       "owner_slug": "derf-punk",
       "team_name": "monke",
-      "acquisitions": 19,
-      "spent": 35
-    },
-    {
-      "owner": "Ricky Cano",
-      "owner_slug": "ricky-cano",
-      "team_name": "Its a wrap for me",
-      "acquisitions": 9,
-      "spent": 25
+      "acquisitions": 20,
+      "spent": 36
     },
     {
       "owner": "Kevin Liang",

@@ -1,7 +1,38 @@
 {
   "year": 2026,
-  "count": 9,
+  "count": 10,
   "trades": [
+    {
+      "date": "2026-11-04",
+      "sides": [
+        {
+          "team_name": "Shyguy Snakes",
+          "owner": "Super Shyguy",
+          "owner_slug": "super-shyguy",
+          "gave": [
+            "Rico Dowdle",
+            "Dalton Kincaid"
+          ],
+          "got": [
+            "Rhamondre Stevenson",
+            "Deebo Samuel Sr."
+          ]
+        },
+        {
+          "team_name": "find God",
+          "owner": "Junior Peralta",
+          "owner_slug": "junior-peralta",
+          "gave": [
+            "Rhamondre Stevenson",
+            "Deebo Samuel Sr."
+          ],
+          "got": [
+            "Rico Dowdle",
+            "Dalton Kincaid"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-30",
       "sides": [
