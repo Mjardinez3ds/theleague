@@ -3725,6 +3725,21 @@
     {
       "week": 9,
       "date": "2026-11-05",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "monke",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Eli Raridon"
+      ],
+      "dropped": [
+        "C.J. Stroud"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2026-11-05",
       "owner": "Junior Peralta",
       "owner_slug": "junior-peralta",
       "team_name": "find God",
@@ -3746,7 +3761,35 @@
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
+        "Mack Hollins"
+      ],
+      "dropped": [
+        "Eli Stowers"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2026-11-05",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
         "Joe Fagnano"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2026-11-06",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Greg Dulcich"
       ],
       "dropped": []
     }
@@ -3784,7 +3827,7 @@
       "owner": "Junior Peralta",
       "owner_slug": "junior-peralta",
       "team_name": "find God",
-      "acquisitions": 48,
+      "acquisitions": 50,
       "spent": 95
     },
     {
@@ -3826,7 +3869,7 @@
       "owner": "derf punk",
       "owner_slug": "derf-punk",
       "team_name": "monke",
-      "acquisitions": 20,
+      "acquisitions": 21,
       "spent": 36
     },
     {
