@@ -18,7 +18,7 @@
     },
     {
       "id": 10,
-      "team_name": "Maybe: SUV Hong",
+      "team_name": "Maybe:",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
       "wins": 7,
@@ -26,7 +26,7 @@
       "ties": 0,
       "points_for": 1169.5,
       "points_against": 1021.2,
-      "logo_url": "https://mystique-api.fantasy.espn.com/apis/v1/domains/lm/images/9cf99460-d8ad-11f1-b6c2-5b62248ed017",
+      "logo_url": "https://mystique-api.fantasy.espn.com/apis/v1/domains/lm/images/643fe9a0-da13-11f1-ba4c-69e269d7f628",
       "finish": null
     },
     {
