@@ -3824,6 +3824,19 @@
     {
       "week": 9,
       "date": "2026-11-07",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Skatt brain mush",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Audric Estime"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2026-11-07",
       "owner": "Junior Peralta",
       "owner_slug": "junior-peralta",
       "team_name": "find God",
@@ -3835,6 +3848,19 @@
       "dropped": [
         "Wil Lutz"
       ]
+    },
+    {
+      "week": 9,
+      "date": "2026-11-08",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Demarcus Robinson"
+      ],
+      "dropped": []
     }
   ],
   "team_totals": [
@@ -3884,7 +3910,7 @@
       "owner": "Super Shyguy",
       "owner_slug": "super-shyguy",
       "team_name": "Shyguy Snakes",
-      "acquisitions": 17,
+      "acquisitions": 18,
       "spent": 74
     },
     {
@@ -3905,7 +3931,7 @@
       "owner": "Devon Malki",
       "owner_slug": "devon-malki",
       "team_name": "Skatt brain mush",
-      "acquisitions": 11,
+      "acquisitions": 12,
       "spent": 53
     },
     {
