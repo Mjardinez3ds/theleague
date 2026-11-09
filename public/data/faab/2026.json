@@ -3480,34 +3480,6 @@
     {
       "week": 9,
       "date": "2026-11-04",
-      "owner": "Marcus Jardinez",
-      "owner_slug": "marcus-jardinez",
-      "team_name": "Pausa de Hidratacion ",
-      "type": "FREEAGENT",
-      "bid": 0,
-      "added": [
-        "Tank Dell"
-      ],
-      "dropped": []
-    },
-    {
-      "week": 9,
-      "date": "2026-11-04",
-      "owner": "Junior Peralta",
-      "owner_slug": "junior-peralta",
-      "team_name": "find God",
-      "type": "FREEAGENT",
-      "bid": 0,
-      "added": [
-        "James Conner"
-      ],
-      "dropped": [
-        "Tyler Goodson"
-      ]
-    },
-    {
-      "week": 9,
-      "date": "2026-11-04",
       "owner": "Matthew Taylor",
       "owner_slug": "matthew-taylor",
       "team_name": "Big Nix Energy",
@@ -3518,21 +3490,6 @@
       ],
       "dropped": [
         "Ted Hurst III"
-      ]
-    },
-    {
-      "week": 9,
-      "date": "2026-11-04",
-      "owner": "Kevin Llerena",
-      "owner_slug": "kevin-llerena",
-      "team_name": "Serving Punt",
-      "type": "FREEAGENT",
-      "bid": 0,
-      "added": [
-        "Treylon Burks"
-      ],
-      "dropped": [
-        "Devin Singletary"
       ]
     },
     {
@@ -3564,19 +3521,6 @@
       "dropped": [
         "Mason Taylor"
       ]
-    },
-    {
-      "week": 9,
-      "date": "2026-11-04",
-      "owner": "Super Shyguy",
-      "owner_slug": "super-shyguy",
-      "team_name": "Shyguy Snakes",
-      "type": "WAIVER",
-      "bid": 1,
-      "added": [
-        "Sam Darnold"
-      ],
-      "dropped": []
     },
     {
       "week": 9,
@@ -3654,6 +3598,75 @@
     {
       "week": 9,
       "date": "2026-11-04",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Wil Lutz"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2026-11-04",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tank Dell"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2026-11-04",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "James Conner"
+      ],
+      "dropped": [
+        "Tyler Goodson"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2026-11-04",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Treylon Burks"
+      ],
+      "dropped": [
+        "Devin Singletary"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2026-11-04",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Sam Darnold"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2026-11-04",
       "owner": "George Duran",
       "owner_slug": "george-duran",
       "team_name": "SLOB",
@@ -3665,19 +3678,6 @@
       "dropped": [
         "Eli Raridon"
       ]
-    },
-    {
-      "week": 9,
-      "date": "2026-11-04",
-      "owner": "Junior Peralta",
-      "owner_slug": "junior-peralta",
-      "team_name": "find God",
-      "type": "FREEAGENT",
-      "bid": 0,
-      "added": [
-        "Wil Lutz"
-      ],
-      "dropped": []
     },
     {
       "week": 9,
@@ -3746,21 +3746,6 @@
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
-        "Eli Stowers"
-      ],
-      "dropped": [
-        "Joe Fagnano"
-      ]
-    },
-    {
-      "week": 9,
-      "date": "2026-11-05",
-      "owner": "Junior Peralta",
-      "owner_slug": "junior-peralta",
-      "team_name": "find God",
-      "type": "FREEAGENT",
-      "bid": 0,
-      "added": [
         "Mack Hollins"
       ],
       "dropped": [
@@ -3782,6 +3767,21 @@
     },
     {
       "week": 9,
+      "date": "2026-11-05",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Eli Stowers"
+      ],
+      "dropped": [
+        "Joe Fagnano"
+      ]
+    },
+    {
+      "week": 9,
       "date": "2026-11-06",
       "owner": "Chris Peralta",
       "owner_slug": "chris-peralta",
@@ -3798,19 +3798,6 @@
     {
       "week": 9,
       "date": "2026-11-06",
-      "owner": "Chris Peralta",
-      "owner_slug": "chris-peralta",
-      "team_name": "Dustin Davis",
-      "type": "FREEAGENT",
-      "bid": 0,
-      "added": [
-        "J.K. Dobbins"
-      ],
-      "dropped": []
-    },
-    {
-      "week": 9,
-      "date": "2026-11-06",
       "owner": "Junior Peralta",
       "owner_slug": "junior-peralta",
       "team_name": "find God",
@@ -3818,6 +3805,19 @@
       "bid": 0,
       "added": [
         "Greg Dulcich"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2026-11-06",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "J.K. Dobbins"
       ],
       "dropped": []
     },
@@ -3861,6 +3861,36 @@
         "Demarcus Robinson"
       ],
       "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2026-11-08",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Goodson"
+      ],
+      "dropped": [
+        "Greg Dulcich"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2026-11-08",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Corey Kiner"
+      ],
+      "dropped": [
+        "Mack Hollins"
+      ]
     }
   ],
   "team_totals": [
@@ -3896,7 +3926,7 @@
       "owner": "Junior Peralta",
       "owner_slug": "junior-peralta",
       "team_name": "find God",
-      "acquisitions": 51,
+      "acquisitions": 53,
       "spent": 95
     },
     {
