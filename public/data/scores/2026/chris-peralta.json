@@ -62,7 +62,7 @@
       "team_name": "Dustin Davis",
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
-      "opponent_team": "Its a wrap for me",
+      "opponent_team": "Its over for me \ud83c\udf74",
       "opponent_score": 125.08,
       "result": "L",
       "is_playoff": false
@@ -87,6 +87,17 @@
       "opponent_team": "Shyguy Snakes",
       "opponent_score": 85.6,
       "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "score": 112.76,
+      "team_name": "Dustin Davis",
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "opponent_team": "Serving Punt",
+      "opponent_score": 124.1,
+      "result": "L",
       "is_playoff": false
     }
   ]

@@ -74,6 +74,15 @@
       "pa": 486.58
     },
     {
+      "opponent": "Super Shyguy",
+      "opponent_slug": "super-shyguy",
+      "wins": 1,
+      "losses": 3,
+      "ties": 0,
+      "pf": 445.5,
+      "pa": 481.54
+    },
+    {
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
       "wins": 1,
@@ -90,15 +99,6 @@
       "ties": 0,
       "pf": 378.54,
       "pa": 355.2
-    },
-    {
-      "opponent": "Super Shyguy",
-      "opponent_slug": "super-shyguy",
-      "wins": 1,
-      "losses": 2,
-      "ties": 0,
-      "pf": 333.22,
-      "pa": 368.24
     },
     {
       "opponent": "Anthony Richardson",

@@ -47,6 +47,15 @@
       "pa": 778.58
     },
     {
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "wins": 3,
+      "losses": 2,
+      "ties": 0,
+      "pf": 605.88,
+      "pa": 606.62
+    },
+    {
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
       "wins": 1,
@@ -54,15 +63,6 @@
       "ties": 0,
       "pf": 435.6,
       "pa": 489.52
-    },
-    {
-      "opponent": "Kevin Liang",
-      "opponent_slug": "kevin-liang",
-      "wins": 2,
-      "losses": 2,
-      "ties": 0,
-      "pf": 494.2,
-      "pa": 503.96
     },
     {
       "opponent": "Matthew Taylor",

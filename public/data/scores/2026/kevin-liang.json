@@ -51,7 +51,7 @@
       "team_name": "CageDg00ner",
       "opponent": "Jordan van Leesten",
       "opponent_slug": "jordan-van-leesten",
-      "opponent_team": "Maybe:",
+      "opponent_team": "Maybe: SUV Hong",
       "opponent_score": 166.84,
       "result": "L",
       "is_playoff": false
@@ -84,9 +84,20 @@
       "team_name": "CageDg00ner",
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
-      "opponent_team": "Its a wrap for me",
+      "opponent_team": "Its over for me \ud83c\udf74",
       "opponent_score": 101.58,
       "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "score": 102.66,
+      "team_name": "CageDg00ner",
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Pausa de Hidratacion ",
+      "opponent_score": 111.68,
+      "result": "L",
       "is_playoff": false
     }
   ]

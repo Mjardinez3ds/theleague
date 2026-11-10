@@ -4,10 +4,10 @@
     {
       "week": 1,
       "score": 135.9,
-      "team_name": "Its a wrap for me",
+      "team_name": "Its over for me \ud83c\udf74",
       "opponent": "Jordan van Leesten",
       "opponent_slug": "jordan-van-leesten",
-      "opponent_team": "Maybe:",
+      "opponent_team": "Maybe: SUV Hong",
       "opponent_score": 170.34,
       "result": "L",
       "is_playoff": false
@@ -15,7 +15,7 @@
     {
       "week": 2,
       "score": 83.4,
-      "team_name": "Its a wrap for me",
+      "team_name": "Its over for me \ud83c\udf74",
       "opponent": "Junior Peralta",
       "opponent_slug": "junior-peralta",
       "opponent_team": "find God",
@@ -26,7 +26,7 @@
     {
       "week": 3,
       "score": 105.7,
-      "team_name": "Its a wrap for me",
+      "team_name": "Its over for me \ud83c\udf74",
       "opponent": "Marcus Jardinez",
       "opponent_slug": "marcus-jardinez",
       "opponent_team": "Pausa de Hidratacion ",
@@ -37,7 +37,7 @@
     {
       "week": 4,
       "score": 135.48,
-      "team_name": "Its a wrap for me",
+      "team_name": "Its over for me \ud83c\udf74",
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
       "opponent_team": "monke",
@@ -48,7 +48,7 @@
     {
       "week": 5,
       "score": 110.22,
-      "team_name": "Its a wrap for me",
+      "team_name": "Its over for me \ud83c\udf74",
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
       "opponent_team": "Skatt brain mush",
@@ -59,7 +59,7 @@
     {
       "week": 6,
       "score": 125.08,
-      "team_name": "Its a wrap for me",
+      "team_name": "Its over for me \ud83c\udf74",
       "opponent": "Chris Peralta",
       "opponent_slug": "chris-peralta",
       "opponent_team": "Dustin Davis",
@@ -70,7 +70,7 @@
     {
       "week": 7,
       "score": 146.3,
-      "team_name": "Its a wrap for me",
+      "team_name": "Its over for me \ud83c\udf74",
       "opponent": "George Duran",
       "opponent_slug": "george-duran",
       "opponent_team": "SLOB",
@@ -81,11 +81,22 @@
     {
       "week": 8,
       "score": 101.58,
-      "team_name": "Its a wrap for me",
+      "team_name": "Its over for me \ud83c\udf74",
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
       "opponent_team": "CageDg00ner",
       "opponent_score": 138.64,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "score": 110.02,
+      "team_name": "Its over for me \ud83c\udf74",
+      "opponent": "Matthew Taylor",
+      "opponent_slug": "matthew-taylor",
+      "opponent_team": "Big Nix Energy",
+      "opponent_score": 123.26,
       "result": "L",
       "is_playoff": false
     }

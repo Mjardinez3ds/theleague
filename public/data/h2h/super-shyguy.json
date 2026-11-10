@@ -38,6 +38,15 @@
       "pa": 447.68
     },
     {
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "wins": 3,
+      "losses": 1,
+      "ties": 0,
+      "pf": 481.54,
+      "pa": 445.5
+    },
+    {
       "opponent": "Chris Peralta",
       "opponent_slug": "chris-peralta",
       "wins": 1,
@@ -63,15 +72,6 @@
       "ties": 0,
       "pf": 426.9,
       "pa": 327.08
-    },
-    {
-      "opponent": "George Duran",
-      "opponent_slug": "george-duran",
-      "wins": 2,
-      "losses": 1,
-      "ties": 0,
-      "pf": 368.24,
-      "pa": 333.22
     },
     {
       "opponent": "Matthew Taylor",

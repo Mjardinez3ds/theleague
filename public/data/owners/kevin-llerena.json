@@ -1,11 +1,11 @@
 {
   "owner": "Kevin Llerena",
   "slug": "kevin-llerena",
-  "wins": 22,
+  "wins": 23,
   "losses": 28,
   "ties": 0,
-  "points_for": 5851.0,
-  "points_against": 5968.5,
+  "points_for": 5975.1,
+  "points_against": 6081.3,
   "titles": 0,
   "runners_up": 0,
   "thirds": 0,
@@ -47,15 +47,15 @@
     {
       "year": 2026,
       "team_name": "Serving Punt",
-      "wins": 3,
+      "wins": 4,
       "losses": 5,
       "ties": 0,
-      "points_for": 956.1,
-      "points_against": 1028.3,
+      "points_for": 1080.2,
+      "points_against": 1141.0,
       "finish": null,
       "league_size": 12
     }
   ],
-  "win_pct": 44.0,
-  "games": 50
+  "win_pct": 45.1,
+  "games": 51
 }

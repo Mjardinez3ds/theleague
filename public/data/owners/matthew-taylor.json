@@ -1,11 +1,11 @@
 {
   "owner": "Matthew Taylor",
   "slug": "matthew-taylor",
-  "wins": 19,
+  "wins": 20,
   "losses": 17,
   "ties": 0,
-  "points_for": 4222.6,
-  "points_against": 4078.6,
+  "points_for": 4345.9,
+  "points_against": 4188.6,
   "titles": 0,
   "runners_up": 0,
   "thirds": 0,
@@ -36,15 +36,15 @@
     {
       "year": 2026,
       "team_name": "Big Nix Energy",
-      "wins": 8,
+      "wins": 9,
       "losses": 0,
       "ties": 0,
-      "points_for": 1176.4,
-      "points_against": 838.6,
+      "points_for": 1299.6,
+      "points_against": 948.7,
       "finish": null,
       "league_size": 12
     }
   ],
-  "win_pct": 52.8,
-  "games": 36
+  "win_pct": 54.1,
+  "games": 37
 }

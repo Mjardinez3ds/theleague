@@ -56,6 +56,15 @@
       "pa": 641.16
     },
     {
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "wins": 3,
+      "losses": 1,
+      "ties": 0,
+      "pf": 551.22,
+      "pa": 514.56
+    },
+    {
       "opponent": "derf punk",
       "opponent_slug": "derf-punk",
       "wins": 2,
@@ -81,15 +90,6 @@
       "ties": 0,
       "pf": 355.2,
       "pa": 378.54
-    },
-    {
-      "opponent": "Chris Peralta",
-      "opponent_slug": "chris-peralta",
-      "wins": 2,
-      "losses": 1,
-      "ties": 0,
-      "pf": 427.12,
-      "pa": 401.8
     },
     {
       "opponent": "Faust Vinas",

@@ -11,6 +11,15 @@
       "pa": 903.92
     },
     {
+      "opponent": "derf punk",
+      "opponent_slug": "derf-punk",
+      "wins": 6,
+      "losses": 0,
+      "ties": 0,
+      "pf": 695.14,
+      "pa": 644.52
+    },
+    {
       "opponent": "Marcus Jardinez",
       "opponent_slug": "marcus-jardinez",
       "wins": 2,
@@ -36,15 +45,6 @@
       "ties": 0,
       "pf": 667.64,
       "pa": 726.46
-    },
-    {
-      "opponent": "derf punk",
-      "opponent_slug": "derf-punk",
-      "wins": 5,
-      "losses": 0,
-      "ties": 0,
-      "pf": 579.4,
-      "pa": 534.26
     },
     {
       "opponent": "Kevin Llerena",

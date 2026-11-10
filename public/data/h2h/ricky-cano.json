@@ -101,6 +101,15 @@
       "pa": 268.34
     },
     {
+      "opponent": "Matthew Taylor",
+      "opponent_slug": "matthew-taylor",
+      "wins": 1,
+      "losses": 1,
+      "ties": 0,
+      "pf": 215.86,
+      "pa": 224.5
+    },
+    {
       "opponent": "Anthony Richardson",
       "opponent_slug": "anthony-richardson",
       "wins": 1,
@@ -117,15 +126,6 @@
       "ties": 0,
       "pf": 124.46,
       "pa": 142.14
-    },
-    {
-      "opponent": "Matthew Taylor",
-      "opponent_slug": "matthew-taylor",
-      "wins": 1,
-      "losses": 0,
-      "ties": 0,
-      "pf": 105.84,
-      "pa": 101.24
     },
     {
       "opponent": "Jordan van Leesten",

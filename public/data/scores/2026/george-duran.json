@@ -73,7 +73,7 @@
       "team_name": "SLOB",
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
-      "opponent_team": "Its a wrap for me",
+      "opponent_team": "Its over for me \ud83c\udf74",
       "opponent_score": 146.3,
       "result": "L",
       "is_playoff": false
@@ -86,6 +86,17 @@
       "opponent_slug": "matthew-taylor",
       "opponent_team": "Big Nix Energy",
       "opponent_score": 141.26,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "score": 112.28,
+      "team_name": "SLOB",
+      "opponent": "Super Shyguy",
+      "opponent_slug": "super-shyguy",
+      "opponent_team": "Shyguy Snakes",
+      "opponent_score": 113.3,
       "result": "L",
       "is_playoff": false
     }

@@ -18,7 +18,7 @@
       "team_name": "find God",
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
-      "opponent_team": "Its a wrap for me",
+      "opponent_team": "Its over for me \ud83c\udf74",
       "opponent_score": 83.4,
       "result": "W",
       "is_playoff": false
@@ -62,7 +62,7 @@
       "team_name": "find God",
       "opponent": "Jordan van Leesten",
       "opponent_slug": "jordan-van-leesten",
-      "opponent_team": "Maybe:",
+      "opponent_team": "Maybe: SUV Hong",
       "opponent_score": 153.74,
       "result": "L",
       "is_playoff": false
@@ -87,6 +87,17 @@
       "opponent_team": "Pausa de Hidratacion ",
       "opponent_score": 123.0,
       "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "score": 115.74,
+      "team_name": "find God",
+      "opponent": "derf punk",
+      "opponent_slug": "derf-punk",
+      "opponent_team": "monke",
+      "opponent_score": 110.26,
+      "result": "W",
       "is_playoff": false
     }
   ]

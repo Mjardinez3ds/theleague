@@ -51,7 +51,7 @@
       "team_name": "Skatt brain mush",
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
-      "opponent_team": "Its a wrap for me",
+      "opponent_team": "Its over for me \ud83c\udf74",
       "opponent_score": 110.22,
       "result": "L",
       "is_playoff": false
@@ -86,6 +86,17 @@
       "opponent_slug": "kevin-llerena",
       "opponent_team": "Serving Punt",
       "opponent_score": 109.0,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "score": 121.46,
+      "team_name": "Skatt brain mush",
+      "opponent": "Jordan van Leesten",
+      "opponent_slug": "jordan-van-leesten",
+      "opponent_team": "Maybe: SUV Hong",
+      "opponent_score": 154.3,
       "result": "L",
       "is_playoff": false
     }

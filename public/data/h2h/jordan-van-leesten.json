@@ -72,6 +72,15 @@
       "ties": 0,
       "pf": 160.82,
       "pa": 134.46
+    },
+    {
+      "opponent": "Devon Malki",
+      "opponent_slug": "devon-malki",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pf": 154.3,
+      "pa": 121.46
     }
   ]
 }

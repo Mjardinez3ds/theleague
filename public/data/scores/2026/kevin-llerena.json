@@ -40,7 +40,7 @@
       "team_name": "Serving Punt",
       "opponent": "Jordan van Leesten",
       "opponent_slug": "jordan-van-leesten",
-      "opponent_team": "Maybe:",
+      "opponent_team": "Maybe: SUV Hong",
       "opponent_score": 130.68,
       "result": "L",
       "is_playoff": false
@@ -86,6 +86,17 @@
       "opponent_slug": "devon-malki",
       "opponent_team": "Skatt brain mush",
       "opponent_score": 106.58,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "score": 124.1,
+      "team_name": "Serving Punt",
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "opponent_team": "Dustin Davis",
+      "opponent_score": 112.76,
       "result": "W",
       "is_playoff": false
     }

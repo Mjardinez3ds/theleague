@@ -29,7 +29,7 @@
       "team_name": "Pausa de Hidratacion ",
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
-      "opponent_team": "Its a wrap for me",
+      "opponent_team": "Its over for me \ud83c\udf74",
       "opponent_score": 105.7,
       "result": "W",
       "is_playoff": false
@@ -73,7 +73,7 @@
       "team_name": "Pausa de Hidratacion ",
       "opponent": "Jordan van Leesten",
       "opponent_slug": "jordan-van-leesten",
-      "opponent_team": "Maybe:",
+      "opponent_team": "Maybe: SUV Hong",
       "opponent_score": 123.96,
       "result": "L",
       "is_playoff": false
@@ -86,6 +86,17 @@
       "opponent_slug": "junior-peralta",
       "opponent_team": "find God",
       "opponent_score": 113.98,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "score": 111.68,
+      "team_name": "Pausa de Hidratacion ",
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "opponent_team": "CageDg00ner",
+      "opponent_score": 102.66,
       "result": "W",
       "is_playoff": false
     }

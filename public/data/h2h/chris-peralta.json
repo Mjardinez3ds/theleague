@@ -65,6 +65,15 @@
       "pa": 779.0
     },
     {
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "wins": 1,
+      "losses": 3,
+      "ties": 0,
+      "pf": 514.56,
+      "pa": 551.22
+    },
+    {
       "opponent": "Super Shyguy",
       "opponent_slug": "super-shyguy",
       "wins": 3,
@@ -72,15 +81,6 @@
       "ties": 0,
       "pf": 542.46,
       "pa": 463.42
-    },
-    {
-      "opponent": "Kevin Llerena",
-      "opponent_slug": "kevin-llerena",
-      "wins": 1,
-      "losses": 2,
-      "ties": 0,
-      "pf": 401.8,
-      "pa": 427.12
     },
     {
       "opponent": "Matthew Taylor",

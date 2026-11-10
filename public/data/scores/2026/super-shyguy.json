@@ -29,7 +29,7 @@
       "team_name": "Shyguy Snakes",
       "opponent": "Jordan van Leesten",
       "opponent_slug": "jordan-van-leesten",
-      "opponent_team": "Maybe:",
+      "opponent_team": "Maybe: SUV Hong",
       "opponent_score": 132.06,
       "result": "L",
       "is_playoff": false
@@ -87,6 +87,17 @@
       "opponent_team": "Dustin Davis",
       "opponent_score": 125.98,
       "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "score": 113.3,
+      "team_name": "Shyguy Snakes",
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "opponent_team": "SLOB",
+      "opponent_score": 112.28,
+      "result": "W",
       "is_playoff": false
     }
   ]

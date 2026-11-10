@@ -40,7 +40,7 @@
       "team_name": "monke",
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
-      "opponent_team": "Its a wrap for me",
+      "opponent_team": "Its over for me \ud83c\udf74",
       "opponent_score": 135.48,
       "result": "L",
       "is_playoff": false
@@ -84,8 +84,19 @@
       "team_name": "monke",
       "opponent": "Jordan van Leesten",
       "opponent_slug": "jordan-van-leesten",
-      "opponent_team": "Maybe:",
+      "opponent_team": "Maybe: SUV Hong",
       "opponent_score": 160.82,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "score": 110.26,
+      "team_name": "monke",
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "opponent_team": "find God",
+      "opponent_score": 115.74,
       "result": "L",
       "is_playoff": false
     }

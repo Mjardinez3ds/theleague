@@ -101,6 +101,15 @@
       "pa": 175.94
     },
     {
+      "opponent": "Ricky Cano",
+      "opponent_slug": "ricky-cano",
+      "wins": 1,
+      "losses": 1,
+      "ties": 0,
+      "pf": 224.5,
+      "pa": 215.86
+    },
+    {
       "opponent": "Denniell Grijalva",
       "opponent_slug": "denniell-grijalva",
       "wins": 0,
@@ -108,15 +117,6 @@
       "ties": 0,
       "pf": 96.42,
       "pa": 113.1
-    },
-    {
-      "opponent": "Ricky Cano",
-      "opponent_slug": "ricky-cano",
-      "wins": 0,
-      "losses": 1,
-      "ties": 0,
-      "pf": 101.24,
-      "pa": 105.84
     },
     {
       "opponent": "Jordan van Leesten",
