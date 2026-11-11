@@ -3891,6 +3891,189 @@
       "dropped": [
         "Mack Hollins"
       ]
+    },
+    {
+      "week": 10,
+      "date": "2026-11-11",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "monke",
+      "type": "WAIVER",
+      "bid": 21,
+      "added": [
+        "C.J. Stroud"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2026-11-11",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Its over for me \ud83c\udf74",
+      "type": "WAIVER",
+      "bid": 17,
+      "added": [
+        "Darren Waller"
+      ],
+      "dropped": [
+        "Adonai Mitchell"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2026-11-11",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "WAIVER",
+      "bid": 11,
+      "added": [
+        "Austin Ekeler"
+      ],
+      "dropped": [
+        "Elijah Mitchell"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2026-11-11",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Its over for me \ud83c\udf74",
+      "type": "WAIVER",
+      "bid": 11,
+      "added": [
+        "Jordan Watkins"
+      ],
+      "dropped": [
+        "Harrison Butker"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2026-11-11",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "monke",
+      "type": "WAIVER",
+      "bid": 27,
+      "added": [
+        "Justice Hill"
+      ],
+      "dropped": [
+        "Marvin Harrison Jr."
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2026-11-11",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "WAIVER",
+      "bid": 11,
+      "added": [
+        "Kaleb Johnson"
+      ],
+      "dropped": [
+        "Demarcus Robinson"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2026-11-11",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Cam Little"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2026-11-11",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Brevyn Spann-Ford"
+      ],
+      "dropped": [
+        "Samaje Perine"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2026-11-11",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "WAIVER",
+      "bid": 2,
+      "added": [
+        "Mack Hollins"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2026-11-11",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Dominic Zvada"
+      ],
+      "dropped": [
+        "Ja'Kobi Lane"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2026-11-11",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "CJ Daniels"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2026-11-11",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jacory Croskey-Merritt"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2026-11-11",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Skatt brain mush",
+      "type": "WAIVER",
+      "bid": 5,
+      "added": [
+        "Tyler Shough"
+      ],
+      "dropped": []
     }
   ],
   "team_totals": [
@@ -3912,36 +4095,50 @@
       "owner": "Marcus Jardinez",
       "owner_slug": "marcus-jardinez",
       "team_name": "Pausa de Hidratacion ",
-      "acquisitions": 30,
+      "acquisitions": 31,
       "spent": 100
     },
     {
       "owner": "George Duran",
       "owner_slug": "george-duran",
       "team_name": "SLOB",
-      "acquisitions": 33,
+      "acquisitions": 35,
       "spent": 100
-    },
-    {
-      "owner": "Junior Peralta",
-      "owner_slug": "junior-peralta",
-      "team_name": "find God",
-      "acquisitions": 53,
-      "spent": 95
-    },
-    {
-      "owner": "Jordan van Leesten",
-      "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe: SUV Hong",
-      "acquisitions": 5,
-      "spent": 79
     },
     {
       "owner": "Super Shyguy",
       "owner_slug": "super-shyguy",
       "team_name": "Shyguy Snakes",
-      "acquisitions": 18,
-      "spent": 74
+      "acquisitions": 21,
+      "spent": 98
+    },
+    {
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "acquisitions": 54,
+      "spent": 96
+    },
+    {
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "monke",
+      "acquisitions": 23,
+      "spent": 84
+    },
+    {
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Its over for me \ud83c\udf74",
+      "acquisitions": 13,
+      "spent": 82
+    },
+    {
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "acquisitions": 6,
+      "spent": 80
     },
     {
       "owner": "Matthew Taylor",
@@ -3951,25 +4148,11 @@
       "spent": 60
     },
     {
-      "owner": "Ricky Cano",
-      "owner_slug": "ricky-cano",
-      "team_name": "Its over for me \ud83c\udf74",
-      "acquisitions": 11,
-      "spent": 54
-    },
-    {
       "owner": "Devon Malki",
       "owner_slug": "devon-malki",
       "team_name": "Skatt brain mush",
-      "acquisitions": 12,
-      "spent": 53
-    },
-    {
-      "owner": "derf punk",
-      "owner_slug": "derf-punk",
-      "team_name": "monke",
-      "acquisitions": 21,
-      "spent": 36
+      "acquisitions": 13,
+      "spent": 58
     },
     {
       "owner": "Kevin Liang",

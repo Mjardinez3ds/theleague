@@ -1,7 +1,40 @@
 {
   "year": 2026,
-  "count": 10,
+  "count": 11,
   "trades": [
+    {
+      "date": "2026-11-11",
+      "sides": [
+        {
+          "team_name": "Dustin Davis",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
+          "gave": [
+            "Germie Bernard",
+            "Jadarian Price",
+            "Brock Bowers"
+          ],
+          "got": [
+            "Tyler Warren",
+            "Kyren Williams"
+          ]
+        },
+        {
+          "team_name": "Serving Punt",
+          "owner": "Kevin Llerena",
+          "owner_slug": "kevin-llerena",
+          "gave": [
+            "Tyler Warren",
+            "Kyren Williams"
+          ],
+          "got": [
+            "Germie Bernard",
+            "Jadarian Price",
+            "Brock Bowers"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-04",
       "sides": [
