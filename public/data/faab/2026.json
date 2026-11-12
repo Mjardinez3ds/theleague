@@ -3938,6 +3938,19 @@
     {
       "week": 10,
       "date": "2026-11-11",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bryce Young"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2026-11-11",
       "owner": "Ricky Cano",
       "owner_slug": "ricky-cano",
       "team_name": "Its over for me \ud83c\udf74",
@@ -4074,6 +4087,75 @@
         "Tyler Shough"
       ],
       "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2026-11-12",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe: SUV Hong",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Boswell"
+      ],
+      "dropped": [
+        "Dominic Zvada"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2026-11-12",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "SLOB",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Bam Knight"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2026-11-12",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tutu Atwell"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2026-11-12",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Konata Mumpfield"
+      ],
+      "dropped": [
+        "Treylon Burks"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2026-11-12",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Adonai Mitchell"
+      ],
+      "dropped": []
     }
   ],
   "team_totals": [
@@ -4081,14 +4163,14 @@
       "owner": "Chris Peralta",
       "owner_slug": "chris-peralta",
       "team_name": "Dustin Davis",
-      "acquisitions": 36,
+      "acquisitions": 38,
       "spent": 100
     },
     {
       "owner": "Kevin Llerena",
       "owner_slug": "kevin-llerena",
       "team_name": "Serving Punt",
-      "acquisitions": 25,
+      "acquisitions": 27,
       "spent": 100
     },
     {
@@ -4102,7 +4184,7 @@
       "owner": "George Duran",
       "owner_slug": "george-duran",
       "team_name": "SLOB",
-      "acquisitions": 35,
+      "acquisitions": 36,
       "spent": 100
     },
     {
@@ -4137,7 +4219,7 @@
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
       "team_name": "Maybe: SUV Hong",
-      "acquisitions": 6,
+      "acquisitions": 7,
       "spent": 80
     },
     {
