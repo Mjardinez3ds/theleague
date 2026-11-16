@@ -1,16 +1,27 @@
 {
   "owner": "Junior Peralta",
   "slug": "junior-peralta",
-  "wins": 36,
-  "losses": 29,
+  "wins": 43,
+  "losses": 35,
   "ties": 0,
-  "points_for": 7941.8,
-  "points_against": 7951.8,
+  "points_for": 9722.6,
+  "points_against": 9702.3,
   "titles": 0,
   "runners_up": 1,
   "thirds": 0,
   "lasts": 0,
   "seasons": [
+    {
+      "year": 2020,
+      "team_name": "Caught in the Parlor",
+      "wins": 7,
+      "losses": 6,
+      "ties": 0,
+      "points_for": 1780.8,
+      "points_against": 1750.5,
+      "finish": 4,
+      "league_size": 12
+    },
     {
       "year": 2021,
       "team_name": "Uncut Junior",
@@ -67,6 +78,6 @@
       "league_size": 12
     }
   ],
-  "win_pct": 55.4,
-  "games": 65
+  "win_pct": 55.1,
+  "games": 78
 }

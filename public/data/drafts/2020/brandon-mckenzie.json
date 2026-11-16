@@ -1,0 +1,98 @@
+[
+  {
+    "round": 1,
+    "pick": 6,
+    "player": "Ezekiel Elliott",
+    "position": "RB"
+  },
+  {
+    "round": 2,
+    "pick": 7,
+    "player": "Joe Mixon",
+    "position": "RB"
+  },
+  {
+    "round": 3,
+    "pick": 6,
+    "player": "Amari Cooper",
+    "position": "WR"
+  },
+  {
+    "round": 4,
+    "pick": 7,
+    "player": "Robert Woods",
+    "position": "WR"
+  },
+  {
+    "round": 5,
+    "pick": 6,
+    "player": "James White",
+    "position": "RB"
+  },
+  {
+    "round": 6,
+    "pick": 7,
+    "player": "Lamar Jackson",
+    "position": "QB"
+  },
+  {
+    "round": 7,
+    "pick": 6,
+    "player": "Emmanuel Sanders",
+    "position": "WR"
+  },
+  {
+    "round": 8,
+    "pick": 7,
+    "player": "Vance McDonald",
+    "position": "TE"
+  },
+  {
+    "round": 9,
+    "pick": 6,
+    "player": "Jaguars D/ST",
+    "position": "D/ST"
+  },
+  {
+    "round": 10,
+    "pick": 7,
+    "player": "Greg Zuerlein",
+    "position": "K"
+  },
+  {
+    "round": 11,
+    "pick": 6,
+    "player": "Courtland Sutton",
+    "position": "WR"
+  },
+  {
+    "round": 12,
+    "pick": 7,
+    "player": "Jalen Richard",
+    "position": "RB"
+  },
+  {
+    "round": 13,
+    "pick": 6,
+    "player": "Ben Roethlisberger",
+    "position": "QB"
+  },
+  {
+    "round": 14,
+    "pick": 7,
+    "player": "John Brown",
+    "position": "WR"
+  },
+  {
+    "round": 15,
+    "pick": 6,
+    "player": "Albert Wilson",
+    "position": "WR"
+  },
+  {
+    "round": 16,
+    "pick": 7,
+    "player": "Giovani Bernard",
+    "position": "RB"
+  }
+]

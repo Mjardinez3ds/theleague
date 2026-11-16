@@ -6,6 +6,7 @@ site dataset on each run (see `scripts/archive_seasons.py`).
 
 | Year | Source | League | How it was captured |
 |---|---|---|---|
+| 2020 | ESPN (old league) | "Triaq year 2", ESPN league `16607371`, **ESPN season 2019** | `py -3 scripts/capture_espn_season.py 16607371 2019`, then relabeled `year: 2020` (with `nfl_season: 2019`), because the league counts that season as its 2020 year (owner, 2026-11-16). That ESPN league's 2020-2022 seasons are empty shells (no draft, no games). |
 | 2021 | Yahoo | "The NFTFF League", Yahoo league id `1272267` | Read from the logged-in Yahoo web pages through Claude in Chrome on 2026-11-16 (Yahoo's API now requires an approved developer app, so it was unusable). |
 
 ## Layout

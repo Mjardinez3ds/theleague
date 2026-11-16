@@ -1,0 +1,181 @@
+{
+  "year": 2020,
+  "weeks": [
+    {
+      "week": 1,
+      "score": 145.32,
+      "team_name": "D.Johnson  Flaccid",
+      "opponent": "Devon Malki",
+      "opponent_slug": "devon-malki",
+      "opponent_team": "Team Malki",
+      "opponent_score": 180.92,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "score": 127.56,
+      "team_name": "D.Johnson  Flaccid",
+      "opponent": "Matthew Taylor",
+      "opponent_slug": "matthew-taylor",
+      "opponent_team": "Von Miller Lite",
+      "opponent_score": 128.42,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "score": 150.84,
+      "team_name": "D.Johnson  Flaccid",
+      "opponent": "Brandon Mckenzie",
+      "opponent_slug": "brandon-mckenzie",
+      "opponent_team": "Team Portnoy",
+      "opponent_score": 158.88,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "score": 128.8,
+      "team_name": "D.Johnson  Flaccid",
+      "opponent": "Denniell Grijalva",
+      "opponent_slug": "denniell-grijalva",
+      "opponent_team": "Popeyes and Backwoods",
+      "opponent_score": 86.8,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "score": 150.02,
+      "team_name": "D.Johnson  Flaccid",
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "opponent_team": "Caught in the Parlor",
+      "opponent_score": 133.72,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "score": 128.56,
+      "team_name": "D.Johnson  Flaccid",
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Cry me a  Rivers",
+      "opponent_score": 142.9,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "score": 63.96,
+      "team_name": "D.Johnson  Flaccid",
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "opponent_team": "PVD Fuckyahoo",
+      "opponent_score": 172.86,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "score": 133.56,
+      "team_name": "D.Johnson  Flaccid",
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "opponent_team": "Team Duran",
+      "opponent_score": 104.3,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "score": 106.9,
+      "team_name": "D.Johnson  Flaccid",
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "opponent_team": "Jesse Gemstone",
+      "opponent_score": 130.94,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "score": 93.66,
+      "team_name": "D.Johnson  Flaccid",
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "opponent_team": "Team MoneyMayfeild",
+      "opponent_score": 139.54,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "score": 90.64,
+      "team_name": "D.Johnson  Flaccid",
+      "opponent": "Matthew Taylor",
+      "opponent_slug": "matthew-taylor",
+      "opponent_team": "Von Miller Lite",
+      "opponent_score": 169.82,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "score": 93.0,
+      "team_name": "D.Johnson  Flaccid",
+      "opponent": "Devon Malki",
+      "opponent_slug": "devon-malki",
+      "opponent_team": "Team Malki",
+      "opponent_score": 135.08,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "score": 92.42,
+      "team_name": "D.Johnson  Flaccid",
+      "opponent": "Jared Brum",
+      "opponent_slug": "jared-brum",
+      "opponent_team": "Team Brum",
+      "opponent_score": 138.4,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "score": 107.86,
+      "team_name": "D.Johnson  Flaccid",
+      "opponent": "Jared Brum",
+      "opponent_slug": "jared-brum",
+      "opponent_team": "Team Brum",
+      "opponent_score": 130.22,
+      "result": "L",
+      "is_playoff": true
+    },
+    {
+      "week": 15,
+      "score": 114.32,
+      "team_name": "D.Johnson  Flaccid",
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "opponent_team": "PVD Fuckyahoo",
+      "opponent_score": 116.02,
+      "result": "L",
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "score": 75.24,
+      "team_name": "D.Johnson  Flaccid",
+      "opponent": "Jared Brum",
+      "opponent_slug": "jared-brum",
+      "opponent_team": "Team Brum",
+      "opponent_score": 214.24,
+      "result": "L",
+      "is_playoff": true
+    }
+  ]
+}

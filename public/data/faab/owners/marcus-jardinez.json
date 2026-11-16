@@ -2,7 +2,7 @@
   "slug": "marcus-jardinez",
   "owner": "Marcus Jardinez",
   "totals": {
-    "acquisitions": 155,
+    "acquisitions": 176,
     "spent": 400,
     "biggest_bid": {
       "year": 2024,
@@ -41,6 +41,12 @@
       "year": 2021,
       "team_name": "Mark won",
       "acquisitions": 16,
+      "spent": 0
+    },
+    {
+      "year": 2020,
+      "team_name": "Cry me a  Rivers",
+      "acquisitions": 21,
       "spent": 0
     }
   ]

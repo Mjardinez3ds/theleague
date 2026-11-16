@@ -1,0 +1,98 @@
+[
+  {
+    "round": 1,
+    "pick": 5,
+    "player": "Christian McCaffrey",
+    "position": "RB"
+  },
+  {
+    "round": 2,
+    "pick": 8,
+    "player": "JuJu Smith-Schuster",
+    "position": "WR"
+  },
+  {
+    "round": 3,
+    "pick": 5,
+    "player": "Chris Carson",
+    "position": "RB"
+  },
+  {
+    "round": 4,
+    "pick": 8,
+    "player": "Mark Ingram II",
+    "position": "RB"
+  },
+  {
+    "round": 5,
+    "pick": 5,
+    "player": "Cooper Kupp",
+    "position": "WR"
+  },
+  {
+    "round": 6,
+    "pick": 8,
+    "player": "Marlon Mack",
+    "position": "RB"
+  },
+  {
+    "round": 7,
+    "pick": 5,
+    "player": "O.J. Howard",
+    "position": "TE"
+  },
+  {
+    "round": 8,
+    "pick": 8,
+    "player": "Rashaad Penny",
+    "position": "RB"
+  },
+  {
+    "round": 9,
+    "pick": 5,
+    "player": "Bears D/ST",
+    "position": "D/ST"
+  },
+  {
+    "round": 10,
+    "pick": 8,
+    "player": "Larry Fitzgerald",
+    "position": "WR"
+  },
+  {
+    "round": 11,
+    "pick": 5,
+    "player": "Michael Gallup",
+    "position": "WR"
+  },
+  {
+    "round": 12,
+    "pick": 8,
+    "player": "Darrell Henderson Jr.",
+    "position": "RB"
+  },
+  {
+    "round": 13,
+    "pick": 5,
+    "player": "Dion Lewis",
+    "position": "RB"
+  },
+  {
+    "round": 14,
+    "pick": 8,
+    "player": "Kirk Cousins",
+    "position": "QB"
+  },
+  {
+    "round": 15,
+    "pick": 5,
+    "player": "Eric Ebron",
+    "position": "TE"
+  },
+  {
+    "round": 16,
+    "pick": 8,
+    "player": "Matt Prater",
+    "position": "K"
+  }
+]

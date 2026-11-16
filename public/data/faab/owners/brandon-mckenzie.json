@@ -1,0 +1,17 @@
+{
+  "slug": "brandon-mckenzie",
+  "owner": "Brandon Mckenzie",
+  "totals": {
+    "acquisitions": 59,
+    "spent": 0,
+    "biggest_bid": null
+  },
+  "by_year": [
+    {
+      "year": 2020,
+      "team_name": "Team Portnoy",
+      "acquisitions": 59,
+      "spent": 0
+    }
+  ]
+}

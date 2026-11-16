@@ -1,0 +1,98 @@
+[
+  {
+    "round": 1,
+    "pick": 9,
+    "player": "Michael Thomas",
+    "position": "WR"
+  },
+  {
+    "round": 2,
+    "pick": 4,
+    "player": "Dalvin Cook",
+    "position": "RB"
+  },
+  {
+    "round": 3,
+    "pick": 9,
+    "player": "Brandin Cooks",
+    "position": "WR"
+  },
+  {
+    "round": 4,
+    "pick": 4,
+    "player": "David Montgomery",
+    "position": "RB"
+  },
+  {
+    "round": 5,
+    "pick": 9,
+    "player": "Sterling Shepard",
+    "position": "WR"
+  },
+  {
+    "round": 6,
+    "pick": 4,
+    "player": "Phillip Lindsay",
+    "position": "RB"
+  },
+  {
+    "round": 7,
+    "pick": 9,
+    "player": "Devin Singletary",
+    "position": "RB"
+  },
+  {
+    "round": 8,
+    "pick": 4,
+    "player": "Drew Brees",
+    "position": "QB"
+  },
+  {
+    "round": 9,
+    "pick": 9,
+    "player": "Marvin Jones Jr.",
+    "position": "WR"
+  },
+  {
+    "round": 10,
+    "pick": 4,
+    "player": "Austin Hooper",
+    "position": "TE"
+  },
+  {
+    "round": 11,
+    "pick": 9,
+    "player": "Justin Tucker",
+    "position": "K"
+  },
+  {
+    "round": 12,
+    "pick": 4,
+    "player": "Tyrell Williams",
+    "position": "WR"
+  },
+  {
+    "round": 13,
+    "pick": 9,
+    "player": "Adam Humphries",
+    "position": "WR"
+  },
+  {
+    "round": 14,
+    "pick": 4,
+    "player": "Broncos D/ST",
+    "position": "D/ST"
+  },
+  {
+    "round": 15,
+    "pick": 9,
+    "player": "Adrian Peterson",
+    "position": "RB"
+  },
+  {
+    "round": 16,
+    "pick": 4,
+    "player": "Mark Andrews",
+    "position": "TE"
+  }
+]

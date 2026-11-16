@@ -1,0 +1,98 @@
+[
+  {
+    "round": 1,
+    "pick": 10,
+    "player": "Davante Adams",
+    "position": "WR"
+  },
+  {
+    "round": 2,
+    "pick": 3,
+    "player": "Todd Gurley II",
+    "position": "RB"
+  },
+  {
+    "round": 3,
+    "pick": 10,
+    "player": "Zach Ertz",
+    "position": "TE"
+  },
+  {
+    "round": 4,
+    "pick": 3,
+    "player": "Mike Williams",
+    "position": "WR"
+  },
+  {
+    "round": 5,
+    "pick": 10,
+    "player": "Jarvis Landry",
+    "position": "WR"
+  },
+  {
+    "round": 6,
+    "pick": 3,
+    "player": "LeSean McCoy",
+    "position": "RB"
+  },
+  {
+    "round": 7,
+    "pick": 10,
+    "player": "Will Fuller V",
+    "position": "WR"
+  },
+  {
+    "round": 8,
+    "pick": 3,
+    "player": "Russell Wilson",
+    "position": "QB"
+  },
+  {
+    "round": 9,
+    "pick": 10,
+    "player": "Kareem Hunt",
+    "position": "RB"
+  },
+  {
+    "round": 10,
+    "pick": 3,
+    "player": "Delanie Walker",
+    "position": "TE"
+  },
+  {
+    "round": 11,
+    "pick": 10,
+    "player": "Marquise Brown",
+    "position": "WR"
+  },
+  {
+    "round": 12,
+    "pick": 3,
+    "player": "Mecole Hardman",
+    "position": "WR"
+  },
+  {
+    "round": 13,
+    "pick": 10,
+    "player": "Carlos Hyde",
+    "position": "RB"
+  },
+  {
+    "round": 14,
+    "pick": 3,
+    "player": "Jets D/ST",
+    "position": "D/ST"
+  },
+  {
+    "round": 15,
+    "pick": 10,
+    "player": "Tyler Eifert",
+    "position": "TE"
+  },
+  {
+    "round": 16,
+    "pick": 3,
+    "player": "Aldrick Rosas",
+    "position": "K"
+  }
+]

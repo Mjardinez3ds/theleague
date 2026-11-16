@@ -1,16 +1,27 @@
 {
   "owner": "Kevin Llerena",
   "slug": "kevin-llerena",
-  "wins": 29,
-  "losses": 36,
+  "wins": 34,
+  "losses": 44,
   "ties": 0,
-  "points_for": 7663.2,
-  "points_against": 7790.5,
+  "points_for": 9305.7,
+  "points_against": 9490.4,
   "titles": 0,
   "runners_up": 0,
   "thirds": 0,
   "lasts": 1,
   "seasons": [
+    {
+      "year": 2020,
+      "team_name": "PVD Fuckyahoo",
+      "wins": 5,
+      "losses": 8,
+      "ties": 0,
+      "points_for": 1642.5,
+      "points_against": 1699.9,
+      "finish": 10,
+      "league_size": 12
+    },
     {
       "year": 2021,
       "team_name": "Llerena\u2019s Buttpirates",
@@ -67,6 +78,6 @@
       "league_size": 12
     }
   ],
-  "win_pct": 44.6,
-  "games": 65
+  "win_pct": 43.6,
+  "games": 78
 }

@@ -1,0 +1,17 @@
+{
+  "slug": "jared-brum",
+  "owner": "Jared Brum",
+  "totals": {
+    "acquisitions": 10,
+    "spent": 0,
+    "biggest_bid": null
+  },
+  "by_year": [
+    {
+      "year": 2020,
+      "team_name": "Team Brum",
+      "acquisitions": 10,
+      "spent": 0
+    }
+  ]
+}

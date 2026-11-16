@@ -1,0 +1,1062 @@
+{
+  "year": 2020,
+  "rounds": 16,
+  "slots": [
+    {
+      "slot": 1,
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "picks": [
+        {
+          "round": 1,
+          "player": "Saquon Barkley",
+          "position": "RB"
+        },
+        {
+          "round": 2,
+          "player": "Leonard Fournette",
+          "position": "RB"
+        },
+        {
+          "round": 3,
+          "player": "Keenan Allen",
+          "position": "WR"
+        },
+        {
+          "round": 4,
+          "player": "Tyler Lockett",
+          "position": "WR"
+        },
+        {
+          "round": 5,
+          "player": "Chris Godwin",
+          "position": "WR"
+        },
+        {
+          "round": 6,
+          "player": "Matt Ryan",
+          "position": "QB"
+        },
+        {
+          "round": 7,
+          "player": "Josh Gordon",
+          "position": "WR"
+        },
+        {
+          "round": 8,
+          "player": "Dante Pettis",
+          "position": "WR"
+        },
+        {
+          "round": 9,
+          "player": "Greg Olsen",
+          "position": "TE"
+        },
+        {
+          "round": 10,
+          "player": "Corey Davis",
+          "position": "WR"
+        },
+        {
+          "round": 11,
+          "player": "DK Metcalf",
+          "position": "WR"
+        },
+        {
+          "round": 12,
+          "player": "Dare Ogunbowale",
+          "position": "RB"
+        },
+        {
+          "round": 13,
+          "player": "Keke Coutee",
+          "position": "WR"
+        },
+        {
+          "round": 14,
+          "player": "Seahawks D/ST",
+          "position": "D/ST"
+        },
+        {
+          "round": 15,
+          "player": "Brett Maher",
+          "position": "K"
+        },
+        {
+          "round": 16,
+          "player": "Kalen Ballage",
+          "position": "RB"
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Team MoneyMayfeild",
+      "picks": [
+        {
+          "round": 1,
+          "player": "Le'Veon Bell",
+          "position": "RB"
+        },
+        {
+          "round": 2,
+          "player": "Mike Evans",
+          "position": "WR"
+        },
+        {
+          "round": 3,
+          "player": "Josh Jacobs",
+          "position": "RB"
+        },
+        {
+          "round": 4,
+          "player": "Derrius Guice",
+          "position": "RB"
+        },
+        {
+          "round": 5,
+          "player": "Damien Williams",
+          "position": "RB"
+        },
+        {
+          "round": 6,
+          "player": "DJ Moore",
+          "position": "WR"
+        },
+        {
+          "round": 7,
+          "player": "Austin Ekeler",
+          "position": "RB"
+        },
+        {
+          "round": 8,
+          "player": "Marquez Valdes-Scantling",
+          "position": "WR"
+        },
+        {
+          "round": 9,
+          "player": "Ty Montgomery",
+          "position": "RB"
+        },
+        {
+          "round": 10,
+          "player": "Mitchell Trubisky",
+          "position": "QB"
+        },
+        {
+          "round": 11,
+          "player": "Jordan Howard",
+          "position": "RB"
+        },
+        {
+          "round": 12,
+          "player": "DeSean Jackson",
+          "position": "WR"
+        },
+        {
+          "round": 13,
+          "player": "T.J. Hockenson",
+          "position": "TE"
+        },
+        {
+          "round": 14,
+          "player": "Wil Lutz",
+          "position": "K"
+        },
+        {
+          "round": 15,
+          "player": "Cowboys D/ST",
+          "position": "D/ST"
+        },
+        {
+          "round": 16,
+          "player": "Paul Richardson Jr.",
+          "position": "WR"
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "picks": [
+        {
+          "round": 1,
+          "player": "Alvin Kamara",
+          "position": "RB"
+        },
+        {
+          "round": 2,
+          "player": "Antonio Brown",
+          "position": "WR"
+        },
+        {
+          "round": 3,
+          "player": "George Kittle",
+          "position": "TE"
+        },
+        {
+          "round": 4,
+          "player": "Aaron Rodgers",
+          "position": "QB"
+        },
+        {
+          "round": 5,
+          "player": "Latavius Murray",
+          "position": "RB"
+        },
+        {
+          "round": 6,
+          "player": "Sammy Watkins",
+          "position": "WR"
+        },
+        {
+          "round": 7,
+          "player": "Allen Robinson II",
+          "position": "WR"
+        },
+        {
+          "round": 8,
+          "player": "Justice Hill",
+          "position": "RB"
+        },
+        {
+          "round": 9,
+          "player": "Peyton Barber",
+          "position": "RB"
+        },
+        {
+          "round": 10,
+          "player": "Jameis Winston",
+          "position": "QB"
+        },
+        {
+          "round": 11,
+          "player": "Stephen Gostkowski",
+          "position": "K"
+        },
+        {
+          "round": 12,
+          "player": "Browns D/ST",
+          "position": "D/ST"
+        },
+        {
+          "round": 13,
+          "player": "Chase Edmonds",
+          "position": "RB"
+        },
+        {
+          "round": 14,
+          "player": "Jordan Reed",
+          "position": "TE"
+        },
+        {
+          "round": 15,
+          "player": "Matt Bryant",
+          "position": "K"
+        },
+        {
+          "round": 16,
+          "player": "Vikings D/ST",
+          "position": "D/ST"
+        }
+      ]
+    },
+    {
+      "slot": 4,
+      "owner": "Jared Brum",
+      "owner_slug": "jared-brum",
+      "team_name": "Team Brum",
+      "picks": [
+        {
+          "round": 1,
+          "player": "Patrick Mahomes",
+          "position": "QB"
+        },
+        {
+          "round": 2,
+          "player": "Devonta Freeman",
+          "position": "RB"
+        },
+        {
+          "round": 3,
+          "player": "Kerryon Johnson",
+          "position": "RB"
+        },
+        {
+          "round": 4,
+          "player": "Kenny Golladay",
+          "position": "WR"
+        },
+        {
+          "round": 5,
+          "player": "Tyler Boyd",
+          "position": "WR"
+        },
+        {
+          "round": 6,
+          "player": "Kenyan Drake",
+          "position": "RB"
+        },
+        {
+          "round": 7,
+          "player": "Dede Westbrook",
+          "position": "WR"
+        },
+        {
+          "round": 8,
+          "player": "Curtis Samuel",
+          "position": "WR"
+        },
+        {
+          "round": 9,
+          "player": "Royce Freeman",
+          "position": "RB"
+        },
+        {
+          "round": 10,
+          "player": "Jamison Crowder",
+          "position": "WR"
+        },
+        {
+          "round": 11,
+          "player": "Trey Burton",
+          "position": "TE"
+        },
+        {
+          "round": 12,
+          "player": "Harrison Butker",
+          "position": "K"
+        },
+        {
+          "round": 13,
+          "player": "Chargers D/ST",
+          "position": "D/ST"
+        },
+        {
+          "round": 14,
+          "player": "Saints D/ST",
+          "position": "D/ST"
+        },
+        {
+          "round": 15,
+          "player": "Jack Doyle",
+          "position": "TE"
+        },
+        {
+          "round": 16,
+          "player": "Ronald Jones II",
+          "position": "RB"
+        }
+      ]
+    },
+    {
+      "slot": 5,
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Team Malki",
+      "picks": [
+        {
+          "round": 1,
+          "player": "Christian McCaffrey",
+          "position": "RB"
+        },
+        {
+          "round": 2,
+          "player": "JuJu Smith-Schuster",
+          "position": "WR"
+        },
+        {
+          "round": 3,
+          "player": "Chris Carson",
+          "position": "RB"
+        },
+        {
+          "round": 4,
+          "player": "Mark Ingram II",
+          "position": "RB"
+        },
+        {
+          "round": 5,
+          "player": "Cooper Kupp",
+          "position": "WR"
+        },
+        {
+          "round": 6,
+          "player": "Marlon Mack",
+          "position": "RB"
+        },
+        {
+          "round": 7,
+          "player": "O.J. Howard",
+          "position": "TE"
+        },
+        {
+          "round": 8,
+          "player": "Rashaad Penny",
+          "position": "RB"
+        },
+        {
+          "round": 9,
+          "player": "Bears D/ST",
+          "position": "D/ST"
+        },
+        {
+          "round": 10,
+          "player": "Larry Fitzgerald",
+          "position": "WR"
+        },
+        {
+          "round": 11,
+          "player": "Michael Gallup",
+          "position": "WR"
+        },
+        {
+          "round": 12,
+          "player": "Darrell Henderson Jr.",
+          "position": "RB"
+        },
+        {
+          "round": 13,
+          "player": "Dion Lewis",
+          "position": "RB"
+        },
+        {
+          "round": 14,
+          "player": "Kirk Cousins",
+          "position": "QB"
+        },
+        {
+          "round": 15,
+          "player": "Eric Ebron",
+          "position": "TE"
+        },
+        {
+          "round": 16,
+          "player": "Matt Prater",
+          "position": "K"
+        }
+      ]
+    },
+    {
+      "slot": 6,
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "picks": [
+        {
+          "round": 1,
+          "player": "Ezekiel Elliott",
+          "position": "RB"
+        },
+        {
+          "round": 2,
+          "player": "Joe Mixon",
+          "position": "RB"
+        },
+        {
+          "round": 3,
+          "player": "Amari Cooper",
+          "position": "WR"
+        },
+        {
+          "round": 4,
+          "player": "Robert Woods",
+          "position": "WR"
+        },
+        {
+          "round": 5,
+          "player": "James White",
+          "position": "RB"
+        },
+        {
+          "round": 6,
+          "player": "Lamar Jackson",
+          "position": "QB"
+        },
+        {
+          "round": 7,
+          "player": "Emmanuel Sanders",
+          "position": "WR"
+        },
+        {
+          "round": 8,
+          "player": "Vance McDonald",
+          "position": "TE"
+        },
+        {
+          "round": 9,
+          "player": "Jaguars D/ST",
+          "position": "D/ST"
+        },
+        {
+          "round": 10,
+          "player": "Greg Zuerlein",
+          "position": "K"
+        },
+        {
+          "round": 11,
+          "player": "Courtland Sutton",
+          "position": "WR"
+        },
+        {
+          "round": 12,
+          "player": "Jalen Richard",
+          "position": "RB"
+        },
+        {
+          "round": 13,
+          "player": "Ben Roethlisberger",
+          "position": "QB"
+        },
+        {
+          "round": 14,
+          "player": "John Brown",
+          "position": "WR"
+        },
+        {
+          "round": 15,
+          "player": "Albert Wilson",
+          "position": "WR"
+        },
+        {
+          "round": 16,
+          "player": "Giovani Bernard",
+          "position": "RB"
+        }
+      ]
+    },
+    {
+      "slot": 7,
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "picks": [
+        {
+          "round": 1,
+          "player": "DeAndre Hopkins",
+          "position": "WR"
+        },
+        {
+          "round": 2,
+          "player": "James Conner",
+          "position": "RB"
+        },
+        {
+          "round": 3,
+          "player": "Adam Thielen",
+          "position": "WR"
+        },
+        {
+          "round": 4,
+          "player": "Deshaun Watson",
+          "position": "QB"
+        },
+        {
+          "round": 5,
+          "player": "Sony Michel",
+          "position": "RB"
+        },
+        {
+          "round": 6,
+          "player": "Hunter Henry",
+          "position": "TE"
+        },
+        {
+          "round": 7,
+          "player": "Matt Breida",
+          "position": "RB"
+        },
+        {
+          "round": 8,
+          "player": "Carson Wentz",
+          "position": "QB"
+        },
+        {
+          "round": 9,
+          "player": "Justin Jackson",
+          "position": "RB"
+        },
+        {
+          "round": 10,
+          "player": "Geronimo Allison",
+          "position": "WR"
+        },
+        {
+          "round": 11,
+          "player": "Damien Harris",
+          "position": "RB"
+        },
+        {
+          "round": 12,
+          "player": "Donte Moncrief",
+          "position": "WR"
+        },
+        {
+          "round": 13,
+          "player": "Ka'imi Fairbairn",
+          "position": "K"
+        },
+        {
+          "round": 14,
+          "player": "Darwin Thompson",
+          "position": "RB"
+        },
+        {
+          "round": 15,
+          "player": "Eagles D/ST",
+          "position": "D/ST"
+        },
+        {
+          "round": 16,
+          "player": "Alexander Mattison",
+          "position": "RB"
+        }
+      ]
+    },
+    {
+      "slot": 8,
+      "owner": "Denis Yanes",
+      "owner_slug": "denis-yanes",
+      "team_name": "D.Johnson  Flaccid",
+      "picks": [
+        {
+          "round": 1,
+          "player": "David Johnson",
+          "position": "RB"
+        },
+        {
+          "round": 2,
+          "player": "Nick Chubb",
+          "position": "RB"
+        },
+        {
+          "round": 3,
+          "player": "Julian Edelman",
+          "position": "WR"
+        },
+        {
+          "round": 4,
+          "player": "Baker Mayfield",
+          "position": "QB"
+        },
+        {
+          "round": 5,
+          "player": "A.J. Green",
+          "position": "WR"
+        },
+        {
+          "round": 6,
+          "player": "Evan Engram",
+          "position": "TE"
+        },
+        {
+          "round": 7,
+          "player": "Tarik Cohen",
+          "position": "RB"
+        },
+        {
+          "round": 8,
+          "player": "Robby Anderson",
+          "position": "WR"
+        },
+        {
+          "round": 9,
+          "player": "Tom Brady",
+          "position": "QB"
+        },
+        {
+          "round": 10,
+          "player": "David Njoku",
+          "position": "TE"
+        },
+        {
+          "round": 11,
+          "player": "Rams D/ST",
+          "position": "D/ST"
+        },
+        {
+          "round": 12,
+          "player": "Austin Seibert",
+          "position": "K"
+        },
+        {
+          "round": 13,
+          "player": "Kyler Murray",
+          "position": "QB"
+        },
+        {
+          "round": 14,
+          "player": "Willie Snead IV",
+          "position": "WR"
+        },
+        {
+          "round": 15,
+          "player": "DJ Chark Jr.",
+          "position": "WR"
+        },
+        {
+          "round": 16,
+          "player": "Hunter Renfrow",
+          "position": "WR"
+        }
+      ]
+    },
+    {
+      "slot": 9,
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Von Miller Lite",
+      "picks": [
+        {
+          "round": 1,
+          "player": "Michael Thomas",
+          "position": "WR"
+        },
+        {
+          "round": 2,
+          "player": "Dalvin Cook",
+          "position": "RB"
+        },
+        {
+          "round": 3,
+          "player": "Brandin Cooks",
+          "position": "WR"
+        },
+        {
+          "round": 4,
+          "player": "David Montgomery",
+          "position": "RB"
+        },
+        {
+          "round": 5,
+          "player": "Sterling Shepard",
+          "position": "WR"
+        },
+        {
+          "round": 6,
+          "player": "Phillip Lindsay",
+          "position": "RB"
+        },
+        {
+          "round": 7,
+          "player": "Devin Singletary",
+          "position": "RB"
+        },
+        {
+          "round": 8,
+          "player": "Drew Brees",
+          "position": "QB"
+        },
+        {
+          "round": 9,
+          "player": "Marvin Jones Jr.",
+          "position": "WR"
+        },
+        {
+          "round": 10,
+          "player": "Austin Hooper",
+          "position": "TE"
+        },
+        {
+          "round": 11,
+          "player": "Justin Tucker",
+          "position": "K"
+        },
+        {
+          "round": 12,
+          "player": "Tyrell Williams",
+          "position": "WR"
+        },
+        {
+          "round": 13,
+          "player": "Adam Humphries",
+          "position": "WR"
+        },
+        {
+          "round": 14,
+          "player": "Broncos D/ST",
+          "position": "D/ST"
+        },
+        {
+          "round": 15,
+          "player": "Adrian Peterson",
+          "position": "RB"
+        },
+        {
+          "round": 16,
+          "player": "Mark Andrews",
+          "position": "TE"
+        }
+      ]
+    },
+    {
+      "slot": 10,
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "picks": [
+        {
+          "round": 1,
+          "player": "Davante Adams",
+          "position": "WR"
+        },
+        {
+          "round": 2,
+          "player": "Todd Gurley II",
+          "position": "RB"
+        },
+        {
+          "round": 3,
+          "player": "Zach Ertz",
+          "position": "TE"
+        },
+        {
+          "round": 4,
+          "player": "Mike Williams",
+          "position": "WR"
+        },
+        {
+          "round": 5,
+          "player": "Jarvis Landry",
+          "position": "WR"
+        },
+        {
+          "round": 6,
+          "player": "LeSean McCoy",
+          "position": "RB"
+        },
+        {
+          "round": 7,
+          "player": "Will Fuller V",
+          "position": "WR"
+        },
+        {
+          "round": 8,
+          "player": "Russell Wilson",
+          "position": "QB"
+        },
+        {
+          "round": 9,
+          "player": "Kareem Hunt",
+          "position": "RB"
+        },
+        {
+          "round": 10,
+          "player": "Delanie Walker",
+          "position": "TE"
+        },
+        {
+          "round": 11,
+          "player": "Marquise Brown",
+          "position": "WR"
+        },
+        {
+          "round": 12,
+          "player": "Mecole Hardman",
+          "position": "WR"
+        },
+        {
+          "round": 13,
+          "player": "Carlos Hyde",
+          "position": "RB"
+        },
+        {
+          "round": 14,
+          "player": "Jets D/ST",
+          "position": "D/ST"
+        },
+        {
+          "round": 15,
+          "player": "Tyler Eifert",
+          "position": "TE"
+        },
+        {
+          "round": 16,
+          "player": "Aldrick Rosas",
+          "position": "K"
+        }
+      ]
+    },
+    {
+      "slot": 11,
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "picks": [
+        {
+          "round": 1,
+          "player": "Julio Jones",
+          "position": "WR"
+        },
+        {
+          "round": 2,
+          "player": "Odell Beckham Jr.",
+          "position": "WR"
+        },
+        {
+          "round": 3,
+          "player": "Aaron Jones",
+          "position": "RB"
+        },
+        {
+          "round": 4,
+          "player": "Melvin Gordon",
+          "position": "RB"
+        },
+        {
+          "round": 5,
+          "player": "T.Y. Hilton",
+          "position": "WR"
+        },
+        {
+          "round": 6,
+          "player": "Alshon Jeffery",
+          "position": "WR"
+        },
+        {
+          "round": 7,
+          "player": "Jared Cook",
+          "position": "TE"
+        },
+        {
+          "round": 8,
+          "player": "Miles Sanders",
+          "position": "RB"
+        },
+        {
+          "round": 9,
+          "player": "Cam Newton",
+          "position": "QB"
+        },
+        {
+          "round": 10,
+          "player": "Dak Prescott",
+          "position": "QB"
+        },
+        {
+          "round": 11,
+          "player": "James Washington",
+          "position": "WR"
+        },
+        {
+          "round": 12,
+          "player": "Nyheim Hines",
+          "position": "RB"
+        },
+        {
+          "round": 13,
+          "player": "Jared Goff",
+          "position": "QB"
+        },
+        {
+          "round": 14,
+          "player": "Anthony Miller",
+          "position": "WR"
+        },
+        {
+          "round": 15,
+          "player": "Bills D/ST",
+          "position": "D/ST"
+        },
+        {
+          "round": 16,
+          "player": "Michael Badgley",
+          "position": "K"
+        }
+      ]
+    },
+    {
+      "slot": 12,
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Cry me a  Rivers",
+      "picks": [
+        {
+          "round": 1,
+          "player": "Tyreek Hill",
+          "position": "WR"
+        },
+        {
+          "round": 2,
+          "player": "Travis Kelce",
+          "position": "TE"
+        },
+        {
+          "round": 3,
+          "player": "Stefon Diggs",
+          "position": "WR"
+        },
+        {
+          "round": 4,
+          "player": "Derrick Henry",
+          "position": "RB"
+        },
+        {
+          "round": 5,
+          "player": "Calvin Ridley",
+          "position": "WR"
+        },
+        {
+          "round": 6,
+          "player": "Duke Johnson",
+          "position": "RB"
+        },
+        {
+          "round": 7,
+          "player": "Tevin Coleman",
+          "position": "RB"
+        },
+        {
+          "round": 8,
+          "player": "Tony Pollard",
+          "position": "RB"
+        },
+        {
+          "round": 9,
+          "player": "Christian Kirk",
+          "position": "WR"
+        },
+        {
+          "round": 10,
+          "player": "Patriots D/ST",
+          "position": "D/ST"
+        },
+        {
+          "round": 11,
+          "player": "Golden Tate",
+          "position": "WR"
+        },
+        {
+          "round": 12,
+          "player": "Jaylen Samuels",
+          "position": "RB"
+        },
+        {
+          "round": 13,
+          "player": "Philip Rivers",
+          "position": "QB"
+        },
+        {
+          "round": 14,
+          "player": "Mohamed Sanu Sr.",
+          "position": "WR"
+        },
+        {
+          "round": 15,
+          "player": "Gunner Olszewski",
+          "position": "WR"
+        },
+        {
+          "round": 16,
+          "player": "Robbie Gould",
+          "position": "K"
+        }
+      ]
+    }
+  ]
+}

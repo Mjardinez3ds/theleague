@@ -4,38 +4,56 @@
     {
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
-      "wins": 2,
+      "wins": 3,
       "losses": 5,
       "ties": 0,
-      "pf": 695.36,
-      "pa": 764.4
+      "pf": 845.06,
+      "pa": 868.26
+    },
+    {
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "wins": 4,
+      "losses": 3,
+      "ties": 0,
+      "pf": 831.12,
+      "pa": 759.9
     },
     {
       "opponent": "George Duran",
       "opponent_slug": "george-duran",
       "wins": 3,
-      "losses": 3,
+      "losses": 4,
       "ties": 0,
-      "pf": 700.54,
-      "pa": 719.16
-    },
-    {
-      "opponent": "Kevin Liang",
-      "opponent_slug": "kevin-liang",
-      "wins": 3,
-      "losses": 2,
-      "ties": 0,
-      "pf": 590.48,
-      "pa": 516.34
+      "pf": 853.26,
+      "pa": 875.66
     },
     {
       "opponent": "Chris Peralta",
       "opponent_slug": "chris-peralta",
       "wins": 1,
+      "losses": 5,
+      "ties": 0,
+      "pf": 701.76,
+      "pa": 725.12
+    },
+    {
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "wins": 1,
+      "losses": 4,
+      "ties": 0,
+      "pf": 642.22,
+      "pa": 715.12
+    },
+    {
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "wins": 1,
       "losses": 3,
       "ties": 0,
-      "pf": 457.66,
-      "pa": 437.04
+      "pf": 416.84,
+      "pa": 497.92
     },
     {
       "opponent": "derf punk",
@@ -47,13 +65,13 @@
       "pa": 426.78
     },
     {
-      "opponent": "Junior Peralta",
-      "opponent_slug": "junior-peralta",
+      "opponent": "Devon Malki",
+      "opponent_slug": "devon-malki",
       "wins": 1,
       "losses": 3,
       "ties": 0,
-      "pf": 516.42,
-      "pa": 553.42
+      "pf": 493.98,
+      "pa": 530.7
     },
     {
       "opponent": "Anthony Richardson",
@@ -65,22 +83,22 @@
       "pa": 369.98
     },
     {
-      "opponent": "Marcus Jardinez",
-      "opponent_slug": "marcus-jardinez",
-      "wins": 0,
-      "losses": 3,
+      "opponent": "Matthew Taylor",
+      "opponent_slug": "matthew-taylor",
+      "wins": 1,
+      "losses": 2,
       "ties": 0,
-      "pf": 294.7,
-      "pa": 391.8
+      "pf": 381.24,
+      "pa": 419.7
     },
     {
-      "opponent": "Devon Malki",
-      "opponent_slug": "devon-malki",
-      "wins": 0,
-      "losses": 3,
+      "opponent": "Jared Brum",
+      "opponent_slug": "jared-brum",
+      "wins": 2,
+      "losses": 1,
       "ties": 0,
-      "pf": 319.36,
-      "pa": 384.86
+      "pf": 410.38,
+      "pa": 443.76
     },
     {
       "opponent": "Ricky Cano",
@@ -119,15 +137,6 @@
       "pa": 108.94
     },
     {
-      "opponent": "Matthew Taylor",
-      "opponent_slug": "matthew-taylor",
-      "wins": 1,
-      "losses": 0,
-      "ties": 0,
-      "pf": 113.1,
-      "pa": 96.42
-    },
-    {
       "opponent": "Faust Vinas",
       "opponent_slug": "faust-vinas",
       "wins": 0,
@@ -135,6 +144,24 @@
       "ties": 0,
       "pf": 75.7,
       "pa": 103.08
+    },
+    {
+      "opponent": "Denis Yanes",
+      "opponent_slug": "denis-yanes",
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "pf": 86.8,
+      "pa": 128.8
+    },
+    {
+      "opponent": "Brandon Mckenzie",
+      "opponent_slug": "brandon-mckenzie",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pf": 137.36,
+      "pa": 126.78
     },
     {
       "opponent": "Jordan van Leesten",

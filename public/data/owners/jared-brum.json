@@ -1,0 +1,28 @@
+{
+  "owner": "Jared Brum",
+  "slug": "jared-brum",
+  "wins": 5,
+  "losses": 8,
+  "ties": 0,
+  "points_for": 1635.7,
+  "points_against": 1694.0,
+  "titles": 0,
+  "runners_up": 0,
+  "thirds": 0,
+  "lasts": 0,
+  "seasons": [
+    {
+      "year": 2020,
+      "team_name": "Team Brum",
+      "wins": 5,
+      "losses": 8,
+      "ties": 0,
+      "points_for": 1635.7,
+      "points_against": 1694.0,
+      "finish": 11,
+      "league_size": 12
+    }
+  ],
+  "win_pct": 38.5,
+  "games": 13
+}

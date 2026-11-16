@@ -1,0 +1,98 @@
+[
+  {
+    "round": 1,
+    "pick": 1,
+    "player": "Saquon Barkley",
+    "position": "RB"
+  },
+  {
+    "round": 2,
+    "pick": 12,
+    "player": "Leonard Fournette",
+    "position": "RB"
+  },
+  {
+    "round": 3,
+    "pick": 1,
+    "player": "Keenan Allen",
+    "position": "WR"
+  },
+  {
+    "round": 4,
+    "pick": 12,
+    "player": "Tyler Lockett",
+    "position": "WR"
+  },
+  {
+    "round": 5,
+    "pick": 1,
+    "player": "Chris Godwin",
+    "position": "WR"
+  },
+  {
+    "round": 6,
+    "pick": 12,
+    "player": "Matt Ryan",
+    "position": "QB"
+  },
+  {
+    "round": 7,
+    "pick": 1,
+    "player": "Josh Gordon",
+    "position": "WR"
+  },
+  {
+    "round": 8,
+    "pick": 12,
+    "player": "Dante Pettis",
+    "position": "WR"
+  },
+  {
+    "round": 9,
+    "pick": 1,
+    "player": "Greg Olsen",
+    "position": "TE"
+  },
+  {
+    "round": 10,
+    "pick": 12,
+    "player": "Corey Davis",
+    "position": "WR"
+  },
+  {
+    "round": 11,
+    "pick": 1,
+    "player": "DK Metcalf",
+    "position": "WR"
+  },
+  {
+    "round": 12,
+    "pick": 12,
+    "player": "Dare Ogunbowale",
+    "position": "RB"
+  },
+  {
+    "round": 13,
+    "pick": 1,
+    "player": "Keke Coutee",
+    "position": "WR"
+  },
+  {
+    "round": 14,
+    "pick": 12,
+    "player": "Seahawks D/ST",
+    "position": "D/ST"
+  },
+  {
+    "round": 15,
+    "pick": 1,
+    "player": "Brett Maher",
+    "position": "K"
+  },
+  {
+    "round": 16,
+    "pick": 12,
+    "player": "Kalen Ballage",
+    "position": "RB"
+  }
+]

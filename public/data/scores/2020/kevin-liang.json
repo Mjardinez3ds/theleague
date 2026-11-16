@@ -1,0 +1,181 @@
+{
+  "year": 2020,
+  "weeks": [
+    {
+      "week": 1,
+      "score": 176.12,
+      "team_name": "Team MoneyMayfeild",
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Cry me a  Rivers",
+      "opponent_score": 135.42,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "score": 129.62,
+      "team_name": "Team MoneyMayfeild",
+      "opponent": "Denniell Grijalva",
+      "opponent_slug": "denniell-grijalva",
+      "opponent_team": "Popeyes and Backwoods",
+      "opponent_score": 111.4,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "score": 143.52,
+      "team_name": "Team MoneyMayfeild",
+      "opponent": "Matthew Taylor",
+      "opponent_slug": "matthew-taylor",
+      "opponent_team": "Von Miller Lite",
+      "opponent_score": 141.88,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "score": 144.82,
+      "team_name": "Team MoneyMayfeild",
+      "opponent": "Devon Malki",
+      "opponent_slug": "devon-malki",
+      "opponent_team": "Team Malki",
+      "opponent_score": 163.24,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "score": 123.86,
+      "team_name": "Team MoneyMayfeild",
+      "opponent": "Jared Brum",
+      "opponent_slug": "jared-brum",
+      "opponent_team": "Team Brum",
+      "opponent_score": 126.04,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "score": 108.44,
+      "team_name": "Team MoneyMayfeild",
+      "opponent": "Brandon Mckenzie",
+      "opponent_slug": "brandon-mckenzie",
+      "opponent_team": "Team Portnoy",
+      "opponent_score": 109.14,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "score": 113.94,
+      "team_name": "Team MoneyMayfeild",
+      "opponent": "Denniell Grijalva",
+      "opponent_slug": "denniell-grijalva",
+      "opponent_team": "Popeyes and Backwoods",
+      "opponent_score": 129.24,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "score": 152.06,
+      "team_name": "Team MoneyMayfeild",
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "opponent_team": "Caught in the Parlor",
+      "opponent_score": 108.18,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "score": 166.0,
+      "team_name": "Team MoneyMayfeild",
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Cry me a  Rivers",
+      "opponent_score": 114.66,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "score": 139.54,
+      "team_name": "Team MoneyMayfeild",
+      "opponent": "Denis Yanes",
+      "opponent_slug": "denis-yanes",
+      "opponent_team": "D.Johnson  Flaccid",
+      "opponent_score": 93.66,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "score": 123.34,
+      "team_name": "Team MoneyMayfeild",
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "opponent_team": "Team Duran",
+      "opponent_score": 107.56,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "score": 67.6,
+      "team_name": "Team MoneyMayfeild",
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "opponent_team": "Jesse Gemstone",
+      "opponent_score": 172.12,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "score": 133.8,
+      "team_name": "Team MoneyMayfeild",
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "opponent_team": "PVD Fuckyahoo",
+      "opponent_score": 162.92,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "score": 129.1,
+      "team_name": "Team MoneyMayfeild",
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Cry me a  Rivers",
+      "opponent_score": 115.0,
+      "result": "W",
+      "is_playoff": true
+    },
+    {
+      "week": 15,
+      "score": 154.64,
+      "team_name": "Team MoneyMayfeild",
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "opponent_team": "Team Duran",
+      "opponent_score": 162.06,
+      "result": "L",
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "score": 163.46,
+      "team_name": "Team MoneyMayfeild",
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "opponent_team": "Caught in the Parlor",
+      "opponent_score": 127.3,
+      "result": "W",
+      "is_playoff": true
+    }
+  ]
+}

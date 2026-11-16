@@ -1,0 +1,6778 @@
+{
+  "year": 2020,
+  "transactions": [
+    {
+      "week": 1,
+      "date": "2019-09-05",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Ryquell Armstead"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2019-09-05",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Thompson"
+      ],
+      "dropped": [
+        "Chase Edmonds"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2019-09-05",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Ravens D/ST"
+      ],
+      "dropped": [
+        "John Brown"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2019-09-05",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Keelan Doss"
+      ],
+      "dropped": [
+        "Carlos Hyde"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2019-09-05",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cole Beasley"
+      ],
+      "dropped": [
+        "Vikings D/ST"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2019-09-05",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "J.J. Nelson"
+      ],
+      "dropped": [
+        "Keelan Doss"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2019-09-06",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Conley"
+      ],
+      "dropped": [
+        "Giovani Bernard"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2019-09-06",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darren Waller"
+      ],
+      "dropped": [
+        "Jalen Richard"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2019-09-07",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jay Ajayi"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2019-09-07",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Higbee"
+      ],
+      "dropped": [
+        "Tyler Eifert"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2019-09-07",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Carlos Hyde"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2019-09-08",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Cry me a  Rivers",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rob Gronkowski"
+      ],
+      "dropped": [
+        "Gunner Olszewski"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2019-09-08",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jake Elliott"
+      ],
+      "dropped": [
+        "Michael Badgley"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2019-09-11",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Adrian Peterson"
+      ],
+      "dropped": [
+        "Nyheim Hines"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2019-09-11",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Derek Carr"
+      ],
+      "dropped": [
+        "Justice Hill"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2019-09-11",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Malcolm Brown"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2019-09-11",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Giovani Bernard"
+      ],
+      "dropped": [
+        "Courtland Sutton"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2019-09-11",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "John Brown"
+      ],
+      "dropped": [
+        "Corey Davis"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2019-09-11",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Von Miller Lite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Titans D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2019-09-11",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Texans D/ST"
+      ],
+      "dropped": [
+        "Jets D/ST"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2019-09-11",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rex Burkhead"
+      ],
+      "dropped": [
+        "Kalen Ballage"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2019-09-11",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Herndon"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2019-09-11",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Raheem Mostert"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2019-09-11",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Terry McLaurin"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2019-09-11",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Colts D/ST"
+      ],
+      "dropped": [
+        "Seahawks D/ST"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2019-09-11",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Cry me a  Rivers",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "John Ross III"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2019-09-11",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "A.J. Brown"
+      ],
+      "dropped": [
+        "Jay Ajayi"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2019-09-11",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Danny Amendola"
+      ],
+      "dropped": [
+        "Keke Coutee"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2019-09-11",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Panthers D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2019-09-11",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jimmy Graham"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2019-09-12",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ian Thomas"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2019-09-12",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dallas Goedert"
+      ],
+      "dropped": [
+        "Tyler Higbee"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2019-09-12",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Courtland Sutton"
+      ],
+      "dropped": [
+        "Anthony Miller"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2019-09-13",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Vernon Davis"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2019-09-13",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Team MoneyMayfeild",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Diontae Johnson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2019-09-13",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Trey Quinn"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2019-09-14",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Vikings D/ST"
+      ],
+      "dropped": [
+        "Jordan Reed"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2019-09-14",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Damien Harris"
+      ],
+      "dropped": [
+        "Darwin Thompson"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2019-09-14",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Randall Cobb"
+      ],
+      "dropped": [
+        "James Washington"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2019-09-15",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kalen Ballage"
+      ],
+      "dropped": [
+        "Randall Cobb"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2019-09-15",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Cry me a  Rivers",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cody Latimer"
+      ],
+      "dropped": [
+        "Rob Gronkowski"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2019-09-15",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Team MoneyMayfeild",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Josh Allen"
+      ],
+      "dropped": [
+        "Mitchell Trubisky"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2019-09-18",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Packers D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2019-09-18",
+      "owner": "Denis Yanes",
+      "owner_slug": "denis-yanes",
+      "team_name": "D.Johnson  Flaccid",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Demarcus Robinson"
+      ],
+      "dropped": [
+        "Hunter Renfrow"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2019-09-18",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jason Witten"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2019-09-18",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Frank Gore"
+      ],
+      "dropped": [
+        "Giovani Bernard"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2019-09-18",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Eagles D/ST"
+      ],
+      "dropped": [
+        "Texans D/ST"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2019-09-18",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Daniel Jones"
+      ],
+      "dropped": [
+        "A.J. Brown"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2019-09-18",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Joey Slye"
+      ],
+      "dropped": [
+        "Brett Maher"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2019-09-18",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Deebo Samuel"
+      ],
+      "dropped": [
+        "Damien Harris"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2019-09-18",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Von Miller Lite",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jimmy Garoppolo"
+      ],
+      "dropped": [
+        "Sterling Shepard"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2019-09-18",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Von Miller Lite",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "49ers D/ST"
+      ],
+      "dropped": [
+        "Titans D/ST"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2019-09-18",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Nelson Agholor"
+      ],
+      "dropped": [
+        "Jimmy Graham"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2019-09-18",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Devin Smith"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2019-09-18",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Will Dissly"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2019-09-18",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Randall Cobb"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2019-09-19",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Sterling Shepard"
+      ],
+      "dropped": [
+        "Dallas Goedert"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2019-09-19",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mitchell Trubisky"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2019-09-19",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Titans D/ST"
+      ],
+      "dropped": [
+        "Eagles D/ST"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2019-09-19",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jordan Reed"
+      ],
+      "dropped": [
+        "Kalen Ballage"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2019-09-19",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Robby Anderson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2019-09-19",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Brett Maher"
+      ],
+      "dropped": [
+        "Aldrick Rosas"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2019-09-20",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Giovani Bernard"
+      ],
+      "dropped": [
+        "Trey Quinn"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2019-09-20",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Phillip Dorsett II"
+      ],
+      "dropped": [
+        "Mitchell Trubisky"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2019-09-20",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ito Smith"
+      ],
+      "dropped": [
+        "Jason Witten"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2019-09-20",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "James Washington"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2019-09-20",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jacoby Brissett"
+      ],
+      "dropped": [
+        "Giovani Bernard"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2019-09-20",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jamaal Williams"
+      ],
+      "dropped": [
+        "Danny Amendola"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2019-09-21",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Eagles D/ST"
+      ],
+      "dropped": [
+        "Colts D/ST"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2019-09-21",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darwin Thompson"
+      ],
+      "dropped": [
+        "Ito Smith"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2019-09-22",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Zane Gonzalez"
+      ],
+      "dropped": [
+        "Ka'imi Fairbairn"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2019-09-22",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Team MoneyMayfeild",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jimmy Graham"
+      ],
+      "dropped": [
+        "Diontae Johnson"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2019-09-22",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darrel Williams"
+      ],
+      "dropped": [
+        "Deebo Samuel"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2019-09-22",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jason Witten"
+      ],
+      "dropped": [
+        "Will Dissly"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2019-09-25",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Steelers D/ST"
+      ],
+      "dropped": [
+        "Colts D/ST"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2019-09-25",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Team MoneyMayfeild",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Danny Amendola"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2019-09-25",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Broncos D/ST"
+      ],
+      "dropped": [
+        "Titans D/ST"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2019-09-25",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Cry me a  Rivers",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mason Crosby"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2019-09-25",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Seahawks D/ST"
+      ],
+      "dropped": [
+        "Robby Anderson"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2019-09-25",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Will Dissly"
+      ],
+      "dropped": [
+        "Randall Cobb"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2019-09-25",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Colts D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2019-09-25",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Gus Edwards"
+      ],
+      "dropped": [
+        "Raheem Mostert"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2019-09-25",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Texans D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2019-09-25",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Boswell"
+      ],
+      "dropped": [
+        "Jake Elliott"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2019-09-25",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Team MoneyMayfeild",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Trey Quinn"
+      ],
+      "dropped": [
+        "Danny Amendola"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2019-09-25",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Paul Richardson Jr."
+      ],
+      "dropped": [
+        "Steelers D/ST"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2019-09-25",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Aldrick Rosas"
+      ],
+      "dropped": [
+        "Brett Maher"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2019-09-25",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Team Malki",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Wayne Gallman"
+      ],
+      "dropped": [
+        "Darrell Henderson Jr."
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2019-09-25",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Panthers D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2019-09-25",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Steelers D/ST"
+      ],
+      "dropped": [
+        "Darwin Thompson"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2019-09-25",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Von Miller Lite",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Gardner Minshew II"
+      ],
+      "dropped": [
+        "Jimmy Garoppolo"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2019-09-26",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jay Ajayi"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2019-09-26",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Hunter Renfrow"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2019-09-26",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Seahawks D/ST"
+      ],
+      "dropped": [
+        "Broncos D/ST"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2019-09-26",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Eifert"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2019-09-26",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Giovani Bernard"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2019-09-26",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Packers D/ST"
+      ],
+      "dropped": [
+        "Eagles D/ST"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2019-09-26",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Cry me a  Rivers",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Randall Cobb"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2019-09-26",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Colts D/ST"
+      ],
+      "dropped": [
+        "Seahawks D/ST"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2019-09-26",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Team Malki",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matthew Stafford"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2019-09-27",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Von Miller Lite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Lions D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2019-09-27",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Vernon Davis"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2019-09-27",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Taylor Gabriel"
+      ],
+      "dropped": [
+        "Will Fuller V"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2019-09-27",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Team MoneyMayfeild",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "A.J. Brown"
+      ],
+      "dropped": [
+        "Trey Quinn"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2019-09-27",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Robby Anderson"
+      ],
+      "dropped": [
+        "Tyler Eifert"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2019-09-27",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Parris Campbell"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2019-09-27",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brett Maher"
+      ],
+      "dropped": [
+        "Zane Gonzalez"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2019-09-27",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Cry me a  Rivers",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kelvin Harmon"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2019-09-27",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Preston Williams"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2019-09-28",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Cry me a  Rivers",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Trey Quinn"
+      ],
+      "dropped": [
+        "Randall Cobb"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2019-09-28",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Cry me a  Rivers",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Will Fuller V"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2019-09-28",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dontrelle Inman"
+      ],
+      "dropped": [
+        "Taylor Gabriel"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2019-09-28",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mohamed Sanu Sr."
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2019-09-29",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Von Miller Lite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Seahawks D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2019-09-29",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Von Miller Lite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kyle Allen"
+      ],
+      "dropped": [
+        "Gardner Minshew II"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2019-09-30",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Herndon"
+      ],
+      "dropped": [
+        "Dante Pettis"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2019-10-02",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cardinals D/ST"
+      ],
+      "dropped": [
+        "Paul Richardson Jr."
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2019-10-02",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Corey Davis"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2019-10-02",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Team Malki",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jake Elliott"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2019-10-02",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Marquise Goodwin"
+      ],
+      "dropped": [
+        "Jay Ajayi"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2019-10-02",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Titans D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2019-10-02",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Duke Johnson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2019-10-02",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Eagles D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2019-10-02",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Panthers D/ST"
+      ],
+      "dropped": [
+        "Packers D/ST"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2019-10-02",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chiefs D/ST"
+      ],
+      "dropped": [
+        "Texans D/ST"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2019-10-02",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Team Malki",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Andy Dalton"
+      ],
+      "dropped": [
+        "Kirk Cousins"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2019-10-02",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Robbie Gould"
+      ],
+      "dropped": [
+        "Brett Maher"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2019-10-02",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dawson Knox"
+      ],
+      "dropped": [
+        "Chris Conley"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2019-10-02",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Geronimo Allison"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2019-10-02",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Auden Tate"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2019-10-02",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Von Miller Lite",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Marcus Mariota"
+      ],
+      "dropped": [
+        "Kyle Allen"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2019-10-02",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Deebo Samuel"
+      ],
+      "dropped": [
+        "Marquise Goodwin"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2019-10-02",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Nyheim Hines"
+      ],
+      "dropped": [
+        "Rex Burkhead"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2019-10-02",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Antonio Callaway"
+      ],
+      "dropped": [
+        "Deebo Samuel"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2019-10-02",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Team MoneyMayfeild",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jaylen Samuels"
+      ],
+      "dropped": [
+        "Ty Montgomery"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2019-10-02",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Dexter Williams"
+      ],
+      "dropped": [
+        "Giovani Bernard"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2019-10-02",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Cry me a  Rivers",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Diontae Johnson"
+      ],
+      "dropped": [
+        "Trey Quinn"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2019-10-03",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mike Nugent"
+      ],
+      "dropped": [
+        "Chris Boswell"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2019-10-03",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Cry me a  Rivers",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ryquell Armstead"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2019-10-03",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matt Gay"
+      ],
+      "dropped": [
+        "Aldrick Rosas"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2019-10-03",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Younghoe Koo"
+      ],
+      "dropped": [
+        "Derek Carr"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2019-10-03",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Eifert"
+      ],
+      "dropped": [
+        "Antonio Callaway"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2019-10-04",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Eddy Pineiro"
+      ],
+      "dropped": [
+        "Younghoe Koo"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2019-10-04",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Brett Maher"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2019-10-06",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Deebo Samuel"
+      ],
+      "dropped": [
+        "Dawson Knox"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2019-10-09",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Von Miller Lite",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Gardner Minshew II"
+      ],
+      "dropped": [
+        "Marcus Mariota"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2019-10-09",
+      "owner": "Jared Brum",
+      "owner_slug": "jared-brum",
+      "team_name": "Team Brum",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Gerald Everett"
+      ],
+      "dropped": [
+        "Trey Burton"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2019-10-09",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jonathan Hilliman"
+      ],
+      "dropped": [
+        "Jaguars D/ST"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2019-10-09",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rex Burkhead"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2019-10-09",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Adrian Peterson"
+      ],
+      "dropped": [
+        "Nelson Agholor"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2019-10-09",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Marquise Goodwin"
+      ],
+      "dropped": [
+        "Corey Davis"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2019-10-09",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Zane Gonzalez"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2019-10-09",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rhett Ellison"
+      ],
+      "dropped": [
+        "Hayden Hurst"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2019-10-09",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Darius Slayton"
+      ],
+      "dropped": [
+        "Deebo Samuel"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2019-10-09",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Hayden Hurst"
+      ],
+      "dropped": [
+        "Jonathan Hilliman"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2019-10-09",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darius Slayton"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2019-10-09",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Colts D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2019-10-09",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ito Smith"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2019-10-09",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Preston Williams"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2019-10-09",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Cry me a  Rivers",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Reggie Bonnafon"
+      ],
+      "dropped": [
+        "Diontae Johnson"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2019-10-09",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Washington D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2019-10-09",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jonathan Hilliman"
+      ],
+      "dropped": [
+        "Darius Slayton"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2019-10-09",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Broncos D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2019-10-09",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chase Edmonds"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2019-10-09",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Packers D/ST"
+      ],
+      "dropped": [
+        "Panthers D/ST"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2019-10-09",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Josh Lambo"
+      ],
+      "dropped": [
+        "Matt Gay"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2019-10-10",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "DeVante Parker"
+      ],
+      "dropped": [
+        "Colts D/ST"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2019-10-10",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Randall Cobb"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2019-10-10",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Titans D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2019-10-10",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Diontae Johnson"
+      ],
+      "dropped": [
+        "Frank Gore"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2019-10-10",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Deebo Samuel"
+      ],
+      "dropped": [
+        "Byron Pringle"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2019-10-10",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Byron Pringle"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2019-10-10",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darius Slayton"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2019-10-11",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dion Lewis"
+      ],
+      "dropped": [
+        "Raheem Mostert"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2019-10-11",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Latavius Murray"
+      ],
+      "dropped": [
+        "Dion Lewis"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2019-10-11",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Raheem Mostert"
+      ],
+      "dropped": [
+        "Deebo Samuel"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2019-10-11",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Team Malki",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Falcons D/ST"
+      ],
+      "dropped": [
+        "Jake Elliott"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2019-10-11",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Geronimo Allison"
+      ],
+      "dropped": [
+        "Robby Anderson"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2019-10-11",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darrell Henderson Jr."
+      ],
+      "dropped": [
+        "Diontae Johnson"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2019-10-12",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Panthers D/ST"
+      ],
+      "dropped": [
+        "Chiefs D/ST"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2019-10-12",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Duke Johnson"
+      ],
+      "dropped": [
+        "Nyheim Hines"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2019-10-13",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dion Lewis"
+      ],
+      "dropped": [
+        "Latavius Murray"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2019-10-13",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Robby Anderson"
+      ],
+      "dropped": [
+        "Darrell Henderson Jr."
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2019-10-13",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Diontae Johnson"
+      ],
+      "dropped": [
+        "Broncos D/ST"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2019-10-14",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Frank Gore"
+      ],
+      "dropped": [
+        "Jacoby Brissett"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-16",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Luke Willson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2019-10-16",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Latavius Murray"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2019-10-16",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Von Miller Lite",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Sam Darnold"
+      ],
+      "dropped": [
+        "Seahawks D/ST"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-16",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Ben Watson"
+      ],
+      "dropped": [
+        "Vance McDonald"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-16",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Dallas Goedert"
+      ],
+      "dropped": [
+        "Eagles D/ST"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-16",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Allen Lazard"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2019-10-16",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Steelers D/ST"
+      ],
+      "dropped": [
+        "Rhett Ellison"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-16",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jimmy Garoppolo"
+      ],
+      "dropped": [
+        "Daniel Jones"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-16",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Brandon McManus"
+      ],
+      "dropped": [
+        "Washington D/ST"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-16",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dawson Knox"
+      ],
+      "dropped": [
+        "Dallas Goedert"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-16",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaron Brown"
+      ],
+      "dropped": [
+        "Diontae Johnson"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-16",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jacoby Brissett"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2019-10-16",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Vikings D/ST"
+      ],
+      "dropped": [
+        "Jacoby Brissett"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-16",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "N'Keal Harry"
+      ],
+      "dropped": [
+        "DeVante Parker"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-16",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Team Malki",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Adam Humphries"
+      ],
+      "dropped": [
+        "Falcons D/ST"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-16",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Nyheim Hines"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2019-10-16",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Giants D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2019-10-16",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jaguars D/ST"
+      ],
+      "dropped": [
+        "Jonathan Hilliman"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-16",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Team Malki",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Corey Davis"
+      ],
+      "dropped": [
+        "Andy Dalton"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-17",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Team MoneyMayfeild",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Conley"
+      ],
+      "dropped": [
+        "Jaylen Samuels"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-17",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dante Pettis"
+      ],
+      "dropped": [
+        "Nyheim Hines"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-17",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Titans D/ST"
+      ],
+      "dropped": [
+        "Vikings D/ST"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-17",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Nelson Agholor"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2019-10-17",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Seahawks D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2019-10-18",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Robbie Gould"
+      ],
+      "dropped": [
+        "Brett Maher"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-18",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Vikings D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2019-10-18",
+      "owner": "Jared Brum",
+      "owner_slug": "jared-brum",
+      "team_name": "Team Brum",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jacoby Brissett"
+      ],
+      "dropped": [
+        "Gerald Everett"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-18",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Von Miller Lite",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "DeVante Parker"
+      ],
+      "dropped": [
+        "Marquise Goodwin"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-19",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dallas Goedert"
+      ],
+      "dropped": [
+        "Dawson Knox"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-19",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Nyheim Hines"
+      ],
+      "dropped": [
+        "Browns D/ST"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-19",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Colts D/ST"
+      ],
+      "dropped": [
+        "Giants D/ST"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-19",
+      "owner": "Denis Yanes",
+      "owner_slug": "denis-yanes",
+      "team_name": "D.Johnson  Flaccid",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Taylor Gabriel"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2019-10-19",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Gerald Everett"
+      ],
+      "dropped": [
+        "Dante Pettis"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-19",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jakobi Meyers"
+      ],
+      "dropped": [
+        "Jaron Brown"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-20",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Demaryius Thomas"
+      ],
+      "dropped": [
+        "Luke Willson"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-20",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Duke Williams"
+      ],
+      "dropped": [
+        "Allen Lazard"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-20",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ben Watson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2019-10-20",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Team MoneyMayfeild",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Eagles D/ST"
+      ],
+      "dropped": [
+        "Cowboys D/ST"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2019-10-20",
+      "owner": "Jared Brum",
+      "owner_slug": "jared-brum",
+      "team_name": "Team Brum",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Geronimo Allison"
+      ],
+      "dropped": [
+        "Jack Doyle"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2019-10-23",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaylen Samuels"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2019-10-23",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Danny Amendola"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2019-10-23",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Alex Erickson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2019-10-23",
+      "owner": "Denis Yanes",
+      "owner_slug": "denis-yanes",
+      "team_name": "D.Johnson  Flaccid",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Ty Johnson"
+      ],
+      "dropped": [
+        "Demarcus Robinson"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2019-10-23",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mark Walton"
+      ],
+      "dropped": [
+        "Bills D/ST"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2019-10-23",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Lions D/ST"
+      ],
+      "dropped": [
+        "Packers D/ST"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2019-10-23",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Keke Coutee"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2019-10-23",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bisi Johnson"
+      ],
+      "dropped": [
+        "J.D. McKissic"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2019-10-23",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "J.D. McKissic"
+      ],
+      "dropped": [
+        "Mecole Hardman"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2019-10-23",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Kyle Rudolph"
+      ],
+      "dropped": [
+        "Dallas Goedert"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2019-10-23",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Kirk Cousins"
+      ],
+      "dropped": [
+        "Matt Ryan"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2019-10-23",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Teddy Bridgewater"
+      ],
+      "dropped": [
+        "Jaguars D/ST"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2019-10-23",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Kenny Stills"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2019-10-23",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "DaeSean Hamilton"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2019-10-23",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Mike Gesicki"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2019-10-23",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Antonio Brown"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2019-10-24",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaguars D/ST"
+      ],
+      "dropped": [
+        "Vikings D/ST"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2019-10-24",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dallas Goedert"
+      ],
+      "dropped": [
+        "Kyle Rudolph"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2019-10-24",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Von Miller Lite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Boswell"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2019-10-24",
+      "owner": "Jared Brum",
+      "owner_slug": "jared-brum",
+      "team_name": "Team Brum",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matt Ryan"
+      ],
+      "dropped": [
+        "Geronimo Allison"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2019-10-25",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ted Ginn Jr."
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2019-10-25",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Vance McDonald"
+      ],
+      "dropped": [
+        "Dallas Goedert"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2019-10-25",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "J.D. McKissic"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2019-10-25",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ryquell Armstead"
+      ],
+      "dropped": [
+        "J.D. McKissic"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2019-10-25",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Josh Gordon"
+      ],
+      "dropped": [
+        "Ted Ginn Jr."
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2019-10-26",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jameis Winston"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2019-10-26",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaylen Samuels"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2019-10-26",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Benny Snell Jr."
+      ],
+      "dropped": [
+        "Jaylen Samuels"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2019-10-26",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "J.D. McKissic"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2019-10-26",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jameis Winston"
+      ],
+      "dropped": [
+        "Teddy Bridgewater"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2019-10-26",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dallas Goedert"
+      ],
+      "dropped": [
+        "Jameis Winston"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2019-10-26",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bills D/ST"
+      ],
+      "dropped": [
+        "Seahawks D/ST"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2019-10-27",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Geronimo Allison"
+      ],
+      "dropped": [
+        "Vance McDonald"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2019-10-27",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Cry me a  Rivers",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ted Ginn Jr."
+      ],
+      "dropped": [
+        "Reggie Bonnafon"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2019-10-27",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Team MoneyMayfeild",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Titans D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2019-10-27",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darrell Henderson Jr."
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2019-10-28",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Preston Williams"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2019-10-30",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darren Fells"
+      ],
+      "dropped": [
+        "Tra Carson"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2019-10-30",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jonnu Smith"
+      ],
+      "dropped": [
+        "Rex Burkhead"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2019-10-30",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matt Gay"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2019-10-30",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Cowboys D/ST"
+      ],
+      "dropped": [
+        "Mike Gesicki"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2019-10-30",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jason Myers"
+      ],
+      "dropped": [
+        "Jameis Winston"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2019-10-30",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Cry me a  Rivers",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jets D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2019-10-30",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jaylen Samuels"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2019-10-30",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Diontae Johnson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2019-10-30",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Vikings D/ST"
+      ],
+      "dropped": [
+        "Dallas Goedert"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2019-10-30",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jack Doyle"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2019-10-30",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Mecole Hardman"
+      ],
+      "dropped": [
+        "Keke Coutee"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2019-10-30",
+      "owner": "Jared Brum",
+      "owner_slug": "jared-brum",
+      "team_name": "Team Brum",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Seahawks D/ST"
+      ],
+      "dropped": [
+        "Chargers D/ST"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2019-10-30",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Eagles D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2019-10-30",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Sam Darnold"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2019-10-30",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Gus Edwards"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2019-10-30",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Team MoneyMayfeild",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Michael Badgley"
+      ],
+      "dropped": [
+        "Wil Lutz"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2019-10-30",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Browns D/ST"
+      ],
+      "dropped": [
+        "Lions D/ST"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2019-10-30",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tra Carson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2019-10-31",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jameis Winston"
+      ],
+      "dropped": [
+        "Peyton Barber"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2019-10-31",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tra Carson"
+      ],
+      "dropped": [
+        "Gus Edwards"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2019-10-31",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Demaryius Thomas"
+      ],
+      "dropped": [
+        "Steelers D/ST"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2019-10-31",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brett Maher"
+      ],
+      "dropped": [
+        "Zane Gonzalez"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2019-10-31",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Team MoneyMayfeild",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Rex Burkhead"
+      ],
+      "dropped": [
+        "T.J. Hockenson"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2019-10-31",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "C.J. Prosise"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2019-11-01",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Zach Pascal"
+      ],
+      "dropped": [
+        "C.J. Prosise"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2019-11-01",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "T.J. Hockenson"
+      ],
+      "dropped": [
+        "Greg Olsen"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2019-11-01",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Von Miller Lite",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Dallas Goedert"
+      ],
+      "dropped": [
+        "Chris Thompson"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2019-11-02",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ryan Griffin"
+      ],
+      "dropped": [
+        "Ben Watson"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2019-11-02",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ben Watson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2019-11-02",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Von Miller Lite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Greg Olsen"
+      ],
+      "dropped": [
+        "Dallas Goedert"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2019-11-03",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Peyton Barber"
+      ],
+      "dropped": [
+        "Cowboys D/ST"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2019-11-03",
+      "owner": "Jared Brum",
+      "owner_slug": "jared-brum",
+      "team_name": "Team Brum",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Randall Cobb"
+      ],
+      "dropped": [
+        "Dede Westbrook"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2019-11-03",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Hunter Renfrow"
+      ],
+      "dropped": [
+        "Ravens D/ST"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2019-11-03",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Boswell"
+      ],
+      "dropped": [
+        "Brett Maher"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2019-11-03",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Derek Carr"
+      ],
+      "dropped": [
+        "Sam Darnold"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-06",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chiefs D/ST"
+      ],
+      "dropped": [
+        "Demaryius Thomas"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-06",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Steelers D/ST"
+      ],
+      "dropped": [
+        "Nyheim Hines"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-06",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Wil Lutz"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2019-11-06",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Zane Gonzalez"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2019-11-06",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Josh Reynolds"
+      ],
+      "dropped": [
+        "Steelers D/ST"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-06",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rams D/ST"
+      ],
+      "dropped": [
+        "Chris Boswell"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-06",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Noah Fant"
+      ],
+      "dropped": [
+        "Diontae Johnson"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-06",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bilal Powell"
+      ],
+      "dropped": [
+        "Chase Edmonds"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-06",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Ravens D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2019-11-06",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Steelers D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2019-11-06",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ryan Tannehill"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2019-11-06",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mike Gesicki"
+      ],
+      "dropped": [
+        "Alex Erickson"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-06",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "J.D. McKissic"
+      ],
+      "dropped": [
+        "Vikings D/ST"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-06",
+      "owner": "Jared Brum",
+      "owner_slug": "jared-brum",
+      "team_name": "Team Brum",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Kalen Ballage"
+      ],
+      "dropped": [
+        "Jacoby Brissett"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-06",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Auden Tate"
+      ],
+      "dropped": [
+        "Jason Myers"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-06",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jacob Hollister"
+      ],
+      "dropped": [
+        "Peyton Barber"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-06",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jared Cook"
+      ],
+      "dropped": [
+        "Noah Fant"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-07",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kyle Rudolph"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2019-11-07",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Antonio Brown"
+      ],
+      "dropped": [
+        "Josh Lambo"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-07",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jacoby Brissett"
+      ],
+      "dropped": [
+        "Ryan Tannehill"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-07",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Daniel Jones"
+      ],
+      "dropped": [
+        "Ryan Tannehill"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-07",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ryan Tannehill"
+      ],
+      "dropped": [
+        "Daniel Jones"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-07",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Packers D/ST"
+      ],
+      "dropped": [
+        "Bills D/ST"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-07",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Danny Amendola"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2019-11-08",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Von Miller Lite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Peyton Barber"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2019-11-08",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Eagles D/ST"
+      ],
+      "dropped": [
+        "Rams D/ST"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-08",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Laquon Treadwell"
+      ],
+      "dropped": [
+        "Antonio Brown"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-08",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Von Miller Lite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Daniel Jones"
+      ],
+      "dropped": [
+        "Gardner Minshew II"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-08",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Chris Boswell"
+      ],
+      "dropped": [
+        "Robbie Gould"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-09",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Deebo Samuel"
+      ],
+      "dropped": [
+        "Panthers D/ST"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-09",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bills D/ST"
+      ],
+      "dropped": [
+        "Breshad Perriman"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-09",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ryan Tannehill"
+      ],
+      "dropped": [
+        "Jacoby Brissett"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-09",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ted Ginn Jr."
+      ],
+      "dropped": [
+        "Josh Reynolds"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-09",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Demarcus Robinson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2019-11-09",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Breshad Perriman"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2019-11-09",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Nyheim Hines"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2019-11-10",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Von Miller Lite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Alex Erickson"
+      ],
+      "dropped": [
+        "Greg Olsen"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-10",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Team Malki",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Baker Mayfield"
+      ],
+      "dropped": [
+        "Wayne Gallman"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-10",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rams D/ST"
+      ],
+      "dropped": [
+        "Cowboys D/ST"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-10",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brian Hill"
+      ],
+      "dropped": [
+        "Eagles D/ST"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-10",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cowboys D/ST"
+      ],
+      "dropped": [
+        "Browns D/ST"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-10",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Von Miller Lite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Trey Edmunds"
+      ],
+      "dropped": [
+        "Darren Fells"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-10",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jacoby Brissett"
+      ],
+      "dropped": [
+        "Jonnu Smith"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2019-11-10",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Von Miller Lite",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Josh Reynolds"
+      ],
+      "dropped": [
+        "Peyton Barber"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2019-11-13",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Russell Gage"
+      ],
+      "dropped": [
+        "Robby Anderson"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2019-11-13",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Nick Foles"
+      ],
+      "dropped": [
+        "Kyle Rudolph"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2019-11-13",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Dede Westbrook"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2019-11-13",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Vikings D/ST"
+      ],
+      "dropped": [
+        "Packers D/ST"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2019-11-13",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Demaryius Thomas"
+      ],
+      "dropped": [
+        "Jacoby Brissett"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2019-11-13",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Raiders D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2019-11-13",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Eagles D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2019-11-13",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kenny Stills"
+      ],
+      "dropped": [
+        "Demarcus Robinson"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2019-11-13",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ryquell Armstead"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2019-11-13",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Von Miller Lite",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Greg Olsen"
+      ],
+      "dropped": [
+        "Alex Erickson"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2019-11-13",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Raheem Mostert"
+      ],
+      "dropped": [
+        "N'Keal Harry"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2019-11-13",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jacob Hollister"
+      ],
+      "dropped": [
+        "Mike Gesicki"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2019-11-14",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Diontae Johnson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2019-11-14",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Cry me a  Rivers",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dan Bailey"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2019-11-14",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Taylor Gabriel"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2019-11-14",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Panthers D/ST"
+      ],
+      "dropped": [
+        "Diontae Johnson"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2019-11-14",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ted Ginn Jr."
+      ],
+      "dropped": [
+        "Kenny Stills"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2019-11-15",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jay Ajayi"
+      ],
+      "dropped": [
+        "Ted Ginn Jr."
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2019-11-15",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kyle Rudolph"
+      ],
+      "dropped": [
+        "Jason Witten"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2019-11-15",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Team Malki",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Derek Carr"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2019-11-16",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Nyheim Hines"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2019-11-16",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darrel Williams"
+      ],
+      "dropped": [
+        "Russell Gage"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2019-11-17",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jacoby Brissett"
+      ],
+      "dropped": [
+        "Nick Foles"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2019-11-18",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Demarcus Robinson"
+      ],
+      "dropped": [
+        "Mecole Hardman"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2019-11-18",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mecole Hardman"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2019-11-18",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mecole Hardman"
+      ],
+      "dropped": [
+        "Demarcus Robinson"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2019-11-20",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Cry me a  Rivers",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ka'imi Fairbairn"
+      ],
+      "dropped": [
+        "Philip Rivers"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2019-11-20",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Bo Scarbrough"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2019-11-20",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaguars D/ST"
+      ],
+      "dropped": [
+        "Vikings D/ST"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2019-11-20",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Ryan Griffin"
+      ],
+      "dropped": [
+        "Mecole Hardman"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2019-11-20",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jeff Driskel"
+      ],
+      "dropped": [
+        "Demaryius Thomas"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2019-11-20",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jonathan Williams"
+      ],
+      "dropped": [
+        "Raheem Mostert"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2019-11-20",
+      "owner": "Jared Brum",
+      "owner_slug": "jared-brum",
+      "team_name": "Team Brum",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Noah Fant"
+      ],
+      "dropped": [
+        "Royce Freeman"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2019-11-20",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Colts D/ST"
+      ],
+      "dropped": [
+        "Rams D/ST"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2019-11-20",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Wayne Gallman"
+      ],
+      "dropped": [
+        "Robby Anderson"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2019-11-20",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "A.J. Green"
+      ],
+      "dropped": [
+        "Jay Ajayi"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2019-11-20",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Robby Anderson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2019-11-20",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Browns D/ST"
+      ],
+      "dropped": [
+        "Raiders D/ST"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2019-11-20",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Nick Folk"
+      ],
+      "dropped": [
+        "Chris Boswell"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2019-11-20",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darrel Williams"
+      ],
+      "dropped": [
+        "Russell Gage"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2019-11-20",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Cry me a  Rivers",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Falcons D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2019-11-20",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Cry me a  Rivers",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Sam Darnold"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2019-11-20",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Josh Gordon"
+      ],
+      "dropped": [
+        "Zach Pascal"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2019-11-20",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Nick Foles"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2019-11-20",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Stephen Hauschka"
+      ],
+      "dropped": [
+        "Zane Gonzalez"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2019-11-20",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Team MoneyMayfeild",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Josh Lambo"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2019-11-20",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Russell Gage"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2019-11-20",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Cry me a  Rivers",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Vance McDonald"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2019-11-20",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Team MoneyMayfeild",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Nelson Agholor"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2019-11-20",
+      "owner": "Jared Brum",
+      "owner_slug": "jared-brum",
+      "team_name": "Team Brum",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Younghoe Koo"
+      ],
+      "dropped": [
+        "Harrison Butker"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2019-11-21",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Lions D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2019-11-21",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Antonio Brown"
+      ],
+      "dropped": [
+        "Duke Johnson"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2019-11-22",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Diontae Johnson"
+      ],
+      "dropped": [
+        "Browns D/ST"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2019-11-22",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Raiders D/ST"
+      ],
+      "dropped": [
+        "Lions D/ST"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2019-11-23",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Raheem Mostert"
+      ],
+      "dropped": [
+        "Wayne Gallman"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2019-11-23",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Team Malki",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "N'Keal Harry"
+      ],
+      "dropped": [
+        "Derek Carr"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2019-11-24",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jason Witten"
+      ],
+      "dropped": [
+        "Jameis Winston"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2019-11-24",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Zane Gonzalez"
+      ],
+      "dropped": [
+        "Ryan Griffin"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2019-11-24",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jay Ajayi"
+      ],
+      "dropped": [
+        "Raheem Mostert"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2019-11-24",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Browns D/ST"
+      ],
+      "dropped": [
+        "Jaguars D/ST"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2019-11-27",
+      "owner": "Jared Brum",
+      "owner_slug": "jared-brum",
+      "team_name": "Team Brum",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Harrison Butker"
+      ],
+      "dropped": [
+        "Younghoe Koo"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2019-11-27",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Benny Snell Jr."
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2019-11-27",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Von Miller Lite",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Zach Pascal"
+      ],
+      "dropped": [
+        "Josh Reynolds"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2019-11-27",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Russell Gage"
+      ],
+      "dropped": [
+        "A.J. Green"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2019-11-27",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Dallas Goedert"
+      ],
+      "dropped": [
+        "Diontae Johnson"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2019-11-27",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cowboys D/ST"
+      ],
+      "dropped": [
+        "Dallas Goedert"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2019-11-27",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brett Maher"
+      ],
+      "dropped": [
+        "Joey Slye"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2019-11-27",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Cry me a  Rivers",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Panthers D/ST"
+      ],
+      "dropped": [
+        "Vance McDonald"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2019-11-27",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Packers D/ST"
+      ],
+      "dropped": [
+        "Colts D/ST"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2019-11-27",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jets D/ST"
+      ],
+      "dropped": [
+        "Raiders D/ST"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2019-11-27",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jameis Winston"
+      ],
+      "dropped": [
+        "Jay Ajayi"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2019-11-27",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rams D/ST"
+      ],
+      "dropped": [
+        "Taylor Gabriel"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2019-11-27",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Robby Anderson"
+      ],
+      "dropped": [
+        "Steelers D/ST"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2019-11-27",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Ryan Tannehill"
+      ],
+      "dropped": [
+        "Nick Foles"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2019-11-28",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dallas Goedert"
+      ],
+      "dropped": [
+        "Antonio Brown"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2019-11-28",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chargers D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2019-11-28",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Boswell"
+      ],
+      "dropped": [
+        "Nick Folk"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2019-11-28",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaguars D/ST"
+      ],
+      "dropped": [
+        "Browns D/ST"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2019-11-28",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Team MoneyMayfeild",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Colts D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2019-11-28",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Anthony Miller"
+      ],
+      "dropped": [
+        "Josh Gordon"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2019-11-29",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jonnu Smith"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2019-12-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jay Ajayi"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2019-12-01",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Higbee"
+      ],
+      "dropped": [
+        "Jonnu Smith"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2019-12-01",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Nick Foles"
+      ],
+      "dropped": [
+        "Jacoby Brissett"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2019-12-01",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bisi Johnson"
+      ],
+      "dropped": [
+        "Gerald Everett"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2019-12-01",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jason Myers"
+      ],
+      "dropped": [
+        "Chris Boswell"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2019-12-04",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Steelers D/ST"
+      ],
+      "dropped": [
+        "Jets D/ST"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2019-12-04",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Robbie Gould"
+      ],
+      "dropped": [
+        "Brett Maher"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2019-12-04",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Diontae Johnson"
+      ],
+      "dropped": [
+        "Auden Tate"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2019-12-04",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Vikings D/ST"
+      ],
+      "dropped": [
+        "Frank Gore"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2019-12-04",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Raheem Mostert"
+      ],
+      "dropped": [
+        "Brian Hill"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2019-12-04",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mike Gesicki"
+      ],
+      "dropped": [
+        "Hunter Renfrow"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2019-12-04",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Buccaneers D/ST"
+      ],
+      "dropped": [
+        "Packers D/ST"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2019-12-04",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kerryon Johnson"
+      ],
+      "dropped": [
+        "Matt Breida"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2019-12-04",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Patrick Laird"
+      ],
+      "dropped": [
+        "Jeff Driskel"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2019-12-04",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "James Washington"
+      ],
+      "dropped": [
+        "Nick Foles"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2019-12-04",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Ryan Fitzpatrick"
+      ],
+      "dropped": [
+        "Jonathan Williams"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2019-12-05",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Packers D/ST"
+      ],
+      "dropped": [
+        "Chiefs D/ST"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2019-12-06",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Michael Badgley"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2019-12-06",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Cry me a  Rivers",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jets D/ST"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2019-12-07",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chiefs D/ST"
+      ],
+      "dropped": [
+        "Chargers D/ST"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2019-12-07",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bilal Powell"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2019-12-08",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "DeAndre Washington"
+      ],
+      "dropped": [
+        "Diontae Johnson"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2019-12-11",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Thompson"
+      ],
+      "dropped": [
+        "Marvin Jones Jr."
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2019-12-11",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Hayden Hurst"
+      ],
+      "dropped": [
+        "Mike Gesicki"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2019-12-11",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Duke Johnson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2019-12-12",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Diontae Johnson"
+      ],
+      "dropped": [
+        "Packers D/ST"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2019-12-12",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Cry me a  Rivers",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Panthers D/ST"
+      ],
+      "dropped": [
+        "Jets D/ST"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2019-12-13",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Breshad Perriman"
+      ],
+      "dropped": [
+        "Vikings D/ST"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2019-12-13",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Lions D/ST"
+      ],
+      "dropped": [
+        "Jaguars D/ST"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2019-12-13",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bills D/ST"
+      ],
+      "dropped": [
+        "Jacob Hollister"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2019-12-14",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jared Goff"
+      ],
+      "dropped": [
+        "Ryan Fitzpatrick"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2019-12-15",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darwin Thompson"
+      ],
+      "dropped": [
+        "Michael Badgley"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2019-12-15",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Team MoneyMayfeild",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ian Thomas"
+      ],
+      "dropped": [
+        "Derrius Guice"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2019-12-18",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Falcons D/ST"
+      ],
+      "dropped": [
+        "Bills D/ST"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2019-12-18",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Mike Boone"
+      ],
+      "dropped": [
+        "Ronald Jones II"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2019-12-18",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Younghoe Koo"
+      ],
+      "dropped": [
+        "DeAndre Washington"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2019-12-18",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Boston Scott"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 16,
+      "date": "2019-12-18",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Greg Ward Jr."
+      ],
+      "dropped": [
+        "Darwin Thompson"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2019-12-18",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jacob Hollister"
+      ],
+      "dropped": [
+        "Dallas Goedert"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2019-12-18",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Broncos D/ST"
+      ],
+      "dropped": [
+        "Buccaneers D/ST"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2019-12-19",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "DeAndre Washington"
+      ],
+      "dropped": [
+        "Chris Godwin"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2019-12-22",
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dion Lewis"
+      ],
+      "dropped": [
+        "Chris Thompson"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2019-12-22",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ryan Fitzpatrick"
+      ],
+      "dropped": [
+        "Kirk Cousins"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2019-12-22",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Team MoneyMayfeild",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Albert Wilson"
+      ],
+      "dropped": [
+        "Ian Thomas"
+      ]
+    }
+  ],
+  "team_totals": [
+    {
+      "owner": "Brandon Mckenzie",
+      "owner_slug": "brandon-mckenzie",
+      "team_name": "Team Portnoy",
+      "acquisitions": 59,
+      "spent": 0
+    },
+    {
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "Team Duran",
+      "acquisitions": 63,
+      "spent": 0
+    },
+    {
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "Team MoneyMayfeild",
+      "acquisitions": 17,
+      "spent": 0
+    },
+    {
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Caught in the Parlor",
+      "acquisitions": 33,
+      "spent": 0
+    },
+    {
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Team Malki",
+      "acquisitions": 10,
+      "spent": 0
+    },
+    {
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Cry me a  Rivers",
+      "acquisitions": 21,
+      "spent": 0
+    },
+    {
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Von Miller Lite",
+      "acquisitions": 21,
+      "spent": 0
+    },
+    {
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Popeyes and Backwoods",
+      "acquisitions": 107,
+      "spent": 0
+    },
+    {
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Jesse Gemstone",
+      "acquisitions": 81,
+      "spent": 0
+    },
+    {
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "PVD Fuckyahoo",
+      "acquisitions": 40,
+      "spent": 0
+    },
+    {
+      "owner": "Jared Brum",
+      "owner_slug": "jared-brum",
+      "team_name": "Team Brum",
+      "acquisitions": 10,
+      "spent": 0
+    },
+    {
+      "owner": "Denis Yanes",
+      "owner_slug": "denis-yanes",
+      "team_name": "D.Johnson  Flaccid",
+      "acquisitions": 3,
+      "spent": 0
+    }
+  ]
+}

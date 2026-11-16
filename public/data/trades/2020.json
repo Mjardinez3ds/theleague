@@ -1,0 +1,1032 @@
+{
+  "year": 2020,
+  "count": 34,
+  "trades": [
+    {
+      "date": "2019-09-04",
+      "sides": [
+        {
+          "team_name": "D.Johnson  Flaccid",
+          "owner": "Denis Yanes",
+          "owner_slug": "denis-yanes",
+          "gave": [
+            "Baker Mayfield",
+            "Tarik Cohen"
+          ],
+          "got": [
+            "Jarvis Landry",
+            "Russell Wilson",
+            "Delanie Walker",
+            "Marquise Brown"
+          ]
+        },
+        {
+          "team_name": "Popeyes and Backwoods",
+          "owner": "Denniell Grijalva",
+          "owner_slug": "denniell-grijalva",
+          "gave": [
+            "Jarvis Landry",
+            "Russell Wilson",
+            "Delanie Walker",
+            "Marquise Brown"
+          ],
+          "got": [
+            "Baker Mayfield",
+            "Tarik Cohen"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-09-11",
+      "sides": [
+        {
+          "team_name": "PVD Fuckyahoo",
+          "owner": "Kevin Llerena",
+          "owner_slug": "kevin-llerena",
+          "gave": [
+            "Antonio Brown"
+          ],
+          "got": [
+            "Vance McDonald",
+            "Robert Woods"
+          ]
+        },
+        {
+          "team_name": "Team Portnoy",
+          "owner": "Brandon Mckenzie",
+          "owner_slug": "brandon-mckenzie",
+          "gave": [
+            "Vance McDonald",
+            "Robert Woods"
+          ],
+          "got": [
+            "Antonio Brown"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-09-16",
+      "sides": [
+        {
+          "team_name": "Cry me a  Rivers",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
+          "gave": [
+            "Stefon Diggs",
+            "Jaylen Samuels"
+          ],
+          "got": [
+            "Terry McLaurin",
+            "Matt Breida",
+            "Malcolm Brown",
+            "Carson Wentz"
+          ]
+        },
+        {
+          "team_name": "Jesse Gemstone",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
+          "gave": [
+            "Terry McLaurin",
+            "Matt Breida",
+            "Malcolm Brown",
+            "Carson Wentz"
+          ],
+          "got": [
+            "Stefon Diggs",
+            "Jaylen Samuels"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-09-17",
+      "sides": [
+        {
+          "team_name": "D.Johnson  Flaccid",
+          "owner": "Denis Yanes",
+          "owner_slug": "denis-yanes",
+          "gave": [
+            "Russell Wilson"
+          ],
+          "got": [
+            "Baker Mayfield",
+            "LeSean McCoy"
+          ]
+        },
+        {
+          "team_name": "Popeyes and Backwoods",
+          "owner": "Denniell Grijalva",
+          "owner_slug": "denniell-grijalva",
+          "gave": [
+            "Baker Mayfield",
+            "LeSean McCoy"
+          ],
+          "got": [
+            "Russell Wilson"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-09-17",
+      "sides": [
+        {
+          "team_name": "Von Miller Lite",
+          "owner": "Matthew Taylor",
+          "owner_slug": "matthew-taylor",
+          "gave": [
+            "David Montgomery"
+          ],
+          "got": [
+            "Josh Gordon",
+            "DK Metcalf"
+          ]
+        },
+        {
+          "team_name": "Team Duran",
+          "owner": "George Duran",
+          "owner_slug": "george-duran",
+          "gave": [
+            "Josh Gordon",
+            "DK Metcalf"
+          ],
+          "got": [
+            "David Montgomery"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-09-19",
+      "sides": [
+        {
+          "team_name": "Caught in the Parlor",
+          "owner": "Junior Peralta",
+          "owner_slug": "junior-peralta",
+          "gave": [
+            "Aaron Jones",
+            "T.Y. Hilton"
+          ],
+          "got": [
+            "Joe Mixon",
+            "Amari Cooper"
+          ]
+        },
+        {
+          "team_name": "Team Portnoy",
+          "owner": "Brandon Mckenzie",
+          "owner_slug": "brandon-mckenzie",
+          "gave": [
+            "Joe Mixon",
+            "Amari Cooper"
+          ],
+          "got": [
+            "Aaron Jones",
+            "T.Y. Hilton"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-09-20",
+      "sides": [
+        {
+          "team_name": "Team Portnoy",
+          "owner": "Brandon Mckenzie",
+          "owner_slug": "brandon-mckenzie",
+          "gave": [
+            "Ezekiel Elliott",
+            "Emmanuel Sanders"
+          ],
+          "got": [
+            "Marlon Mack",
+            "Cooper Kupp",
+            "Mark Ingram II"
+          ]
+        },
+        {
+          "team_name": "Team Malki",
+          "owner": "Devon Malki",
+          "owner_slug": "devon-malki",
+          "gave": [
+            "Marlon Mack",
+            "Cooper Kupp",
+            "Mark Ingram II"
+          ],
+          "got": [
+            "Ezekiel Elliott",
+            "Emmanuel Sanders"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-09-20",
+      "sides": [
+        {
+          "team_name": "Team Portnoy",
+          "owner": "Brandon Mckenzie",
+          "owner_slug": "brandon-mckenzie",
+          "gave": [
+            "Aaron Jones",
+            "Christian Kirk"
+          ],
+          "got": [
+            "James Conner"
+          ]
+        },
+        {
+          "team_name": "Jesse Gemstone",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
+          "gave": [
+            "James Conner"
+          ],
+          "got": [
+            "Aaron Jones",
+            "Christian Kirk"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-09-24",
+      "sides": [
+        {
+          "team_name": "Cry me a  Rivers",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
+          "gave": [
+            "Tyreek Hill",
+            "Matt Breida"
+          ],
+          "got": [
+            "Leonard Fournette"
+          ]
+        },
+        {
+          "team_name": "Team Duran",
+          "owner": "George Duran",
+          "owner_slug": "george-duran",
+          "gave": [
+            "Leonard Fournette"
+          ],
+          "got": [
+            "Tyreek Hill",
+            "Matt Breida"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-09-25",
+      "sides": [
+        {
+          "team_name": "PVD Fuckyahoo",
+          "owner": "Kevin Llerena",
+          "owner_slug": "kevin-llerena",
+          "gave": [
+            "Chris Thompson",
+            "George Kittle"
+          ],
+          "got": [
+            "Adam Thielen",
+            "Sony Michel",
+            "Jason Witten"
+          ]
+        },
+        {
+          "team_name": "Jesse Gemstone",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
+          "gave": [
+            "Adam Thielen",
+            "Sony Michel",
+            "Jason Witten"
+          ],
+          "got": [
+            "Chris Thompson",
+            "George Kittle"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-09-25",
+      "sides": [
+        {
+          "team_name": "Popeyes and Backwoods",
+          "owner": "Denniell Grijalva",
+          "owner_slug": "denniell-grijalva",
+          "gave": [
+            "Davante Adams"
+          ],
+          "got": [
+            "Saquon Barkley"
+          ]
+        },
+        {
+          "team_name": "Team Duran",
+          "owner": "George Duran",
+          "owner_slug": "george-duran",
+          "gave": [
+            "Saquon Barkley"
+          ],
+          "got": [
+            "Davante Adams"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-10-03",
+      "sides": [
+        {
+          "team_name": "Team MoneyMayfeild",
+          "owner": "Kevin Liang",
+          "owner_slug": "kevin-liang",
+          "gave": [
+            "Marquez Valdes-Scantling"
+          ],
+          "got": [
+            "Carson Wentz"
+          ]
+        },
+        {
+          "team_name": "Cry me a  Rivers",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
+          "gave": [
+            "Carson Wentz"
+          ],
+          "got": [
+            "Marquez Valdes-Scantling"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-10-07",
+      "sides": [
+        {
+          "team_name": "Popeyes and Backwoods",
+          "owner": "Denniell Grijalva",
+          "owner_slug": "denniell-grijalva",
+          "gave": [
+            "Zach Ertz"
+          ],
+          "got": [
+            "Greg Olsen",
+            "Chris Herndon",
+            "Tyler Lockett"
+          ]
+        },
+        {
+          "team_name": "Team Duran",
+          "owner": "George Duran",
+          "owner_slug": "george-duran",
+          "gave": [
+            "Greg Olsen",
+            "Chris Herndon",
+            "Tyler Lockett"
+          ],
+          "got": [
+            "Zach Ertz"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-10-09",
+      "sides": [
+        {
+          "team_name": "Cry me a  Rivers",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
+          "gave": [
+            "Golden Tate"
+          ],
+          "got": [
+            "Phillip Dorsett II",
+            "Kareem Hunt"
+          ]
+        },
+        {
+          "team_name": "Popeyes and Backwoods",
+          "owner": "Denniell Grijalva",
+          "owner_slug": "denniell-grijalva",
+          "gave": [
+            "Phillip Dorsett II",
+            "Kareem Hunt"
+          ],
+          "got": [
+            "Golden Tate"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-10-09",
+      "sides": [
+        {
+          "team_name": "Team Duran",
+          "owner": "George Duran",
+          "owner_slug": "george-duran",
+          "gave": [
+            "John Brown"
+          ],
+          "got": [
+            "Ronald Jones II"
+          ]
+        },
+        {
+          "team_name": "Team Brum",
+          "owner": "Jared Brum",
+          "owner_slug": "jared-brum",
+          "gave": [
+            "Ronald Jones II"
+          ],
+          "got": [
+            "John Brown"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-10-10",
+      "sides": [
+        {
+          "team_name": "Von Miller Lite",
+          "owner": "Matthew Taylor",
+          "owner_slug": "matthew-taylor",
+          "gave": [
+            "Devin Singletary",
+            "Mark Andrews"
+          ],
+          "got": [
+            "Stefon Diggs",
+            "Chris Thompson"
+          ]
+        },
+        {
+          "team_name": "Jesse Gemstone",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
+          "gave": [
+            "Stefon Diggs",
+            "Chris Thompson"
+          ],
+          "got": [
+            "Devin Singletary",
+            "Mark Andrews"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-10-10",
+      "sides": [
+        {
+          "team_name": "Von Miller Lite",
+          "owner": "Matthew Taylor",
+          "owner_slug": "matthew-taylor",
+          "gave": [
+            "Josh Gordon"
+          ],
+          "got": [
+            "Tarik Cohen",
+            "Marquise Goodwin"
+          ]
+        },
+        {
+          "team_name": "Popeyes and Backwoods",
+          "owner": "Denniell Grijalva",
+          "owner_slug": "denniell-grijalva",
+          "gave": [
+            "Tarik Cohen",
+            "Marquise Goodwin"
+          ],
+          "got": [
+            "Josh Gordon"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-10-15",
+      "sides": [
+        {
+          "team_name": "Team Portnoy",
+          "owner": "Brandon Mckenzie",
+          "owner_slug": "brandon-mckenzie",
+          "gave": [
+            "Marlon Mack",
+            "Robby Anderson"
+          ],
+          "got": [
+            "Aaron Jones",
+            "Auden Tate"
+          ]
+        },
+        {
+          "team_name": "Jesse Gemstone",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
+          "gave": [
+            "Aaron Jones",
+            "Auden Tate"
+          ],
+          "got": [
+            "Marlon Mack",
+            "Robby Anderson"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-10-17",
+      "sides": [
+        {
+          "team_name": "Team Brum",
+          "owner": "Jared Brum",
+          "owner_slug": "jared-brum",
+          "gave": [
+            "Kerryon Johnson",
+            "Jamison Crowder",
+            "John Brown"
+          ],
+          "got": [
+            "Hunter Henry",
+            "Christian Kirk"
+          ]
+        },
+        {
+          "team_name": "Jesse Gemstone",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
+          "gave": [
+            "Hunter Henry",
+            "Christian Kirk"
+          ],
+          "got": [
+            "Kerryon Johnson",
+            "Jamison Crowder",
+            "John Brown"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-10-17",
+      "sides": [
+        {
+          "team_name": "PVD Fuckyahoo",
+          "owner": "Kevin Llerena",
+          "owner_slug": "kevin-llerena",
+          "gave": [
+            "Sony Michel"
+          ],
+          "got": [
+            "James White",
+            "Latavius Murray",
+            "George Kittle"
+          ]
+        },
+        {
+          "team_name": "Jesse Gemstone",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
+          "gave": [
+            "James White",
+            "Latavius Murray",
+            "George Kittle"
+          ],
+          "got": [
+            "Sony Michel"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-10-22",
+      "sides": [
+        {
+          "team_name": "Team MoneyMayfeild",
+          "owner": "Kevin Liang",
+          "owner_slug": "kevin-liang",
+          "gave": [
+            "Le'Veon Bell",
+            "DJ Moore"
+          ],
+          "got": [
+            "Melvin Gordon",
+            "Julio Jones"
+          ]
+        },
+        {
+          "team_name": "Caught in the Parlor",
+          "owner": "Junior Peralta",
+          "owner_slug": "junior-peralta",
+          "gave": [
+            "Melvin Gordon",
+            "Julio Jones"
+          ],
+          "got": [
+            "Le'Veon Bell",
+            "DJ Moore"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-10-23",
+      "sides": [
+        {
+          "team_name": "D.Johnson  Flaccid",
+          "owner": "Denis Yanes",
+          "owner_slug": "denis-yanes",
+          "gave": [
+            "Jarvis Landry"
+          ],
+          "got": [
+            "Adrian Peterson",
+            "Mike Williams"
+          ]
+        },
+        {
+          "team_name": "Popeyes and Backwoods",
+          "owner": "Denniell Grijalva",
+          "owner_slug": "denniell-grijalva",
+          "gave": [
+            "Adrian Peterson",
+            "Mike Williams"
+          ],
+          "got": [
+            "Jarvis Landry"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-10-23",
+      "sides": [
+        {
+          "team_name": "PVD Fuckyahoo",
+          "owner": "Kevin Llerena",
+          "owner_slug": "kevin-llerena",
+          "gave": [
+            "Sammy Watkins",
+            "Nyheim Hines"
+          ],
+          "got": [
+            "Gerald Everett"
+          ]
+        },
+        {
+          "team_name": "Jesse Gemstone",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
+          "gave": [
+            "Gerald Everett"
+          ],
+          "got": [
+            "Sammy Watkins",
+            "Nyheim Hines"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-10-25",
+      "sides": [
+        {
+          "team_name": "Cry me a  Rivers",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
+          "gave": [
+            "Travis Kelce"
+          ],
+          "got": [
+            "Hunter Henry"
+          ]
+        },
+        {
+          "team_name": "Team Brum",
+          "owner": "Jared Brum",
+          "owner_slug": "jared-brum",
+          "gave": [
+            "Hunter Henry"
+          ],
+          "got": [
+            "Travis Kelce"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-10-26",
+      "sides": [
+        {
+          "team_name": "Team Portnoy",
+          "owner": "Brandon Mckenzie",
+          "owner_slug": "brandon-mckenzie",
+          "gave": [
+            "Darren Waller",
+            "James Conner"
+          ],
+          "got": [
+            "Chase Edmonds",
+            "Mark Andrews",
+            "Jamison Crowder",
+            "Sony Michel"
+          ]
+        },
+        {
+          "team_name": "Jesse Gemstone",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
+          "gave": [
+            "Chase Edmonds",
+            "Mark Andrews",
+            "Jamison Crowder",
+            "Sony Michel"
+          ],
+          "got": [
+            "Darren Waller",
+            "James Conner"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-10-30",
+      "sides": [
+        {
+          "team_name": "D.Johnson  Flaccid",
+          "owner": "Denis Yanes",
+          "owner_slug": "denis-yanes",
+          "gave": [
+            "DJ Chark Jr."
+          ],
+          "got": [
+            "Phillip Dorsett II",
+            "Patriots D/ST"
+          ]
+        },
+        {
+          "team_name": "Cry me a  Rivers",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
+          "gave": [
+            "Phillip Dorsett II",
+            "Patriots D/ST"
+          ],
+          "got": [
+            "DJ Chark Jr."
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-10-30",
+      "sides": [
+        {
+          "team_name": "Cry me a  Rivers",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
+          "gave": [
+            "Kareem Hunt",
+            "Leonard Fournette"
+          ],
+          "got": [
+            "John Brown",
+            "Jaylen Samuels",
+            "James Conner"
+          ]
+        },
+        {
+          "team_name": "Jesse Gemstone",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
+          "gave": [
+            "John Brown",
+            "Jaylen Samuels",
+            "James Conner"
+          ],
+          "got": [
+            "Kareem Hunt",
+            "Leonard Fournette"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-11-01",
+      "sides": [
+        {
+          "team_name": "Von Miller Lite",
+          "owner": "Matthew Taylor",
+          "owner_slug": "matthew-taylor",
+          "gave": [
+            "Tarik Cohen"
+          ],
+          "got": [
+            "Darren Fells"
+          ]
+        },
+        {
+          "team_name": "Popeyes and Backwoods",
+          "owner": "Denniell Grijalva",
+          "owner_slug": "denniell-grijalva",
+          "gave": [
+            "Darren Fells"
+          ],
+          "got": [
+            "Tarik Cohen"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-11-06",
+      "sides": [
+        {
+          "team_name": "Cry me a  Rivers",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
+          "gave": [
+            "Terry McLaurin"
+          ],
+          "got": [
+            "Jamison Crowder"
+          ]
+        },
+        {
+          "team_name": "Team Portnoy",
+          "owner": "Brandon Mckenzie",
+          "owner_slug": "brandon-mckenzie",
+          "gave": [
+            "Jamison Crowder"
+          ],
+          "got": [
+            "Terry McLaurin"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-11-08",
+      "sides": [
+        {
+          "team_name": "D.Johnson  Flaccid",
+          "owner": "Denis Yanes",
+          "owner_slug": "denis-yanes",
+          "gave": [
+            "Nick Chubb"
+          ],
+          "got": [
+            "Tarik Cohen",
+            "Josh Gordon",
+            "Chris Herndon",
+            "Todd Gurley II"
+          ]
+        },
+        {
+          "team_name": "Popeyes and Backwoods",
+          "owner": "Denniell Grijalva",
+          "owner_slug": "denniell-grijalva",
+          "gave": [
+            "Tarik Cohen",
+            "Josh Gordon",
+            "Chris Herndon",
+            "Todd Gurley II"
+          ],
+          "got": [
+            "Nick Chubb"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-11-10",
+      "sides": [
+        {
+          "team_name": "Von Miller Lite",
+          "owner": "Matthew Taylor",
+          "owner_slug": "matthew-taylor",
+          "gave": [
+            "Marvin Jones Jr."
+          ],
+          "got": [
+            "Kareem Hunt"
+          ]
+        },
+        {
+          "team_name": "Jesse Gemstone",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
+          "gave": [
+            "Kareem Hunt"
+          ],
+          "got": [
+            "Marvin Jones Jr."
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-11-12",
+      "sides": [
+        {
+          "team_name": "Team Portnoy",
+          "owner": "Brandon Mckenzie",
+          "owner_slug": "brandon-mckenzie",
+          "gave": [
+            "Odell Beckham Jr."
+          ],
+          "got": [
+            "Brian Hill",
+            "Marvin Jones Jr."
+          ]
+        },
+        {
+          "team_name": "Jesse Gemstone",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
+          "gave": [
+            "Brian Hill",
+            "Marvin Jones Jr."
+          ],
+          "got": [
+            "Odell Beckham Jr."
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-11-12",
+      "sides": [
+        {
+          "team_name": "Caught in the Parlor",
+          "owner": "Junior Peralta",
+          "owner_slug": "junior-peralta",
+          "gave": [
+            "Deebo Samuel",
+            "Miles Sanders",
+            "Carlos Hyde",
+            "Robert Woods"
+          ],
+          "got": [
+            "Saquon Barkley",
+            "Golden Tate"
+          ]
+        },
+        {
+          "team_name": "Popeyes and Backwoods",
+          "owner": "Denniell Grijalva",
+          "owner_slug": "denniell-grijalva",
+          "gave": [
+            "Saquon Barkley",
+            "Golden Tate"
+          ],
+          "got": [
+            "Deebo Samuel",
+            "Miles Sanders",
+            "Carlos Hyde",
+            "Robert Woods"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2019-11-15",
+      "sides": [
+        {
+          "team_name": "D.Johnson  Flaccid",
+          "owner": "Denis Yanes",
+          "owner_slug": "denis-yanes",
+          "gave": [
+            "Josh Gordon"
+          ],
+          "got": [
+            "T.J. Hockenson"
+          ]
+        },
+        {
+          "team_name": "Popeyes and Backwoods",
+          "owner": "Denniell Grijalva",
+          "owner_slug": "denniell-grijalva",
+          "gave": [
+            "T.J. Hockenson"
+          ],
+          "got": [
+            "Josh Gordon"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "slug": "george-duran",
   "owner": "George Duran",
   "totals": {
-    "acquisitions": 251,
+    "acquisitions": 314,
     "spent": 371,
     "biggest_bid": {
       "year": 2026,
@@ -41,6 +41,12 @@
       "year": 2021,
       "team_name": "I.AM.FINANCIALLY.RUINED.",
       "acquisitions": 65,
+      "spent": 0
+    },
+    {
+      "year": 2020,
+      "team_name": "Team Duran",
+      "acquisitions": 63,
       "spent": 0
     }
   ]

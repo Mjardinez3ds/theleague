@@ -1,0 +1,28 @@
+{
+  "owner": "Brandon Mckenzie",
+  "slug": "brandon-mckenzie",
+  "wins": 10,
+  "losses": 3,
+  "ties": 0,
+  "points_for": 1780.9,
+  "points_against": 1669.5,
+  "titles": 1,
+  "runners_up": 0,
+  "thirds": 0,
+  "lasts": 0,
+  "seasons": [
+    {
+      "year": 2020,
+      "team_name": "Team Portnoy",
+      "wins": 10,
+      "losses": 3,
+      "ties": 0,
+      "points_for": 1780.9,
+      "points_against": 1669.5,
+      "finish": 1,
+      "league_size": 12
+    }
+  ],
+  "win_pct": 76.9,
+  "games": 13
+}

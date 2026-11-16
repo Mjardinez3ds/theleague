@@ -1,0 +1,98 @@
+[
+  {
+    "round": 1,
+    "pick": 4,
+    "player": "Patrick Mahomes",
+    "position": "QB"
+  },
+  {
+    "round": 2,
+    "pick": 9,
+    "player": "Devonta Freeman",
+    "position": "RB"
+  },
+  {
+    "round": 3,
+    "pick": 4,
+    "player": "Kerryon Johnson",
+    "position": "RB"
+  },
+  {
+    "round": 4,
+    "pick": 9,
+    "player": "Kenny Golladay",
+    "position": "WR"
+  },
+  {
+    "round": 5,
+    "pick": 4,
+    "player": "Tyler Boyd",
+    "position": "WR"
+  },
+  {
+    "round": 6,
+    "pick": 9,
+    "player": "Kenyan Drake",
+    "position": "RB"
+  },
+  {
+    "round": 7,
+    "pick": 4,
+    "player": "Dede Westbrook",
+    "position": "WR"
+  },
+  {
+    "round": 8,
+    "pick": 9,
+    "player": "Curtis Samuel",
+    "position": "WR"
+  },
+  {
+    "round": 9,
+    "pick": 4,
+    "player": "Royce Freeman",
+    "position": "RB"
+  },
+  {
+    "round": 10,
+    "pick": 9,
+    "player": "Jamison Crowder",
+    "position": "WR"
+  },
+  {
+    "round": 11,
+    "pick": 4,
+    "player": "Trey Burton",
+    "position": "TE"
+  },
+  {
+    "round": 12,
+    "pick": 9,
+    "player": "Harrison Butker",
+    "position": "K"
+  },
+  {
+    "round": 13,
+    "pick": 4,
+    "player": "Chargers D/ST",
+    "position": "D/ST"
+  },
+  {
+    "round": 14,
+    "pick": 9,
+    "player": "Saints D/ST",
+    "position": "D/ST"
+  },
+  {
+    "round": 15,
+    "pick": 4,
+    "player": "Jack Doyle",
+    "position": "TE"
+  },
+  {
+    "round": 16,
+    "pick": 9,
+    "player": "Ronald Jones II",
+    "position": "RB"
+  }
+]

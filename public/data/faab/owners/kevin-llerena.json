@@ -2,7 +2,7 @@
   "slug": "kevin-llerena",
   "owner": "Kevin Llerena",
   "totals": {
-    "acquisitions": 147,
+    "acquisitions": 187,
     "spent": 375,
     "biggest_bid": {
       "year": 2023,
@@ -40,6 +40,12 @@
     {
       "year": 2021,
       "team_name": "Llerena\u2019s Buttpirates",
+      "acquisitions": 40,
+      "spent": 0
+    },
+    {
+      "year": 2020,
+      "team_name": "PVD Fuckyahoo",
       "acquisitions": 40,
       "spent": 0
     }

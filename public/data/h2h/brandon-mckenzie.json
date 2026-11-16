@@ -1,0 +1,104 @@
+{
+  "slug": "brandon-mckenzie",
+  "records": [
+    {
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "wins": 2,
+      "losses": 1,
+      "ties": 0,
+      "pf": 442.3,
+      "pa": 429.94
+    },
+    {
+      "opponent": "Devon Malki",
+      "opponent_slug": "devon-malki",
+      "wins": 2,
+      "losses": 0,
+      "ties": 0,
+      "pf": 313.52,
+      "pa": 210.88
+    },
+    {
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "wins": 2,
+      "losses": 0,
+      "ties": 0,
+      "pf": 322.4,
+      "pa": 271.14
+    },
+    {
+      "opponent": "Denis Yanes",
+      "opponent_slug": "denis-yanes",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pf": 158.88,
+      "pa": 150.84
+    },
+    {
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "pf": 119.64,
+      "pa": 186.54
+    },
+    {
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pf": 109.14,
+      "pa": 108.44
+    },
+    {
+      "opponent": "Matthew Taylor",
+      "opponent_slug": "matthew-taylor",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pf": 158.02,
+      "pa": 156.9
+    },
+    {
+      "opponent": "Jared Brum",
+      "opponent_slug": "jared-brum",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pf": 132.62,
+      "pa": 118.26
+    },
+    {
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pf": 135.02,
+      "pa": 118.12
+    },
+    {
+      "opponent": "Denniell Grijalva",
+      "opponent_slug": "denniell-grijalva",
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "pf": 126.78,
+      "pa": 137.36
+    },
+    {
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pf": 107.2,
+      "pa": 88.88
+    }
+  ]
+}

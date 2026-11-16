@@ -1,16 +1,27 @@
 {
   "owner": "Matthew Taylor",
   "slug": "matthew-taylor",
-  "wins": 20,
-  "losses": 17,
+  "wins": 25,
+  "losses": 25,
   "ties": 0,
-  "points_for": 4345.9,
-  "points_against": 4188.6,
+  "points_for": 6159.5,
+  "points_against": 5988.8,
   "titles": 0,
   "runners_up": 0,
   "thirds": 0,
   "lasts": 0,
   "seasons": [
+    {
+      "year": 2020,
+      "team_name": "Von Miller Lite",
+      "wins": 5,
+      "losses": 8,
+      "ties": 0,
+      "points_for": 1813.6,
+      "points_against": 1800.2,
+      "finish": 7,
+      "league_size": 12
+    },
     {
       "year": 2024,
       "team_name": "Maybe Nix Year",
@@ -45,6 +56,6 @@
       "league_size": 12
     }
   ],
-  "win_pct": 54.1,
-  "games": 37
+  "win_pct": 50.0,
+  "games": 50
 }

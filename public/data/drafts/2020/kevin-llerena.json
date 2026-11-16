@@ -1,0 +1,98 @@
+[
+  {
+    "round": 1,
+    "pick": 3,
+    "player": "Alvin Kamara",
+    "position": "RB"
+  },
+  {
+    "round": 2,
+    "pick": 10,
+    "player": "Antonio Brown",
+    "position": "WR"
+  },
+  {
+    "round": 3,
+    "pick": 3,
+    "player": "George Kittle",
+    "position": "TE"
+  },
+  {
+    "round": 4,
+    "pick": 10,
+    "player": "Aaron Rodgers",
+    "position": "QB"
+  },
+  {
+    "round": 5,
+    "pick": 3,
+    "player": "Latavius Murray",
+    "position": "RB"
+  },
+  {
+    "round": 6,
+    "pick": 10,
+    "player": "Sammy Watkins",
+    "position": "WR"
+  },
+  {
+    "round": 7,
+    "pick": 3,
+    "player": "Allen Robinson II",
+    "position": "WR"
+  },
+  {
+    "round": 8,
+    "pick": 10,
+    "player": "Justice Hill",
+    "position": "RB"
+  },
+  {
+    "round": 9,
+    "pick": 3,
+    "player": "Peyton Barber",
+    "position": "RB"
+  },
+  {
+    "round": 10,
+    "pick": 10,
+    "player": "Jameis Winston",
+    "position": "QB"
+  },
+  {
+    "round": 11,
+    "pick": 3,
+    "player": "Stephen Gostkowski",
+    "position": "K"
+  },
+  {
+    "round": 12,
+    "pick": 10,
+    "player": "Browns D/ST",
+    "position": "D/ST"
+  },
+  {
+    "round": 13,
+    "pick": 3,
+    "player": "Chase Edmonds",
+    "position": "RB"
+  },
+  {
+    "round": 14,
+    "pick": 10,
+    "player": "Jordan Reed",
+    "position": "TE"
+  },
+  {
+    "round": 15,
+    "pick": 3,
+    "player": "Matt Bryant",
+    "position": "K"
+  },
+  {
+    "round": 16,
+    "pick": 10,
+    "player": "Vikings D/ST",
+    "position": "D/ST"
+  }
+]

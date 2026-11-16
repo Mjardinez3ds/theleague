@@ -1,16 +1,27 @@
 {
   "owner": "Chris Peralta",
   "slug": "chris-peralta",
-  "wins": 37,
-  "losses": 28,
+  "wins": 44,
+  "losses": 34,
   "ties": 0,
-  "points_for": 8106.0,
-  "points_against": 8005.4,
+  "points_for": 9800.5,
+  "points_against": 9645.2,
   "titles": 0,
   "runners_up": 2,
   "thirds": 1,
   "lasts": 0,
   "seasons": [
+    {
+      "year": 2020,
+      "team_name": "Jesse Gemstone",
+      "wins": 7,
+      "losses": 6,
+      "ties": 0,
+      "points_for": 1694.5,
+      "points_against": 1639.8,
+      "finish": 9,
+      "league_size": 12
+    },
     {
       "year": 2021,
       "team_name": "Ryder",
@@ -67,6 +78,6 @@
       "league_size": 12
     }
   ],
-  "win_pct": 56.9,
-  "games": 65
+  "win_pct": 56.4,
+  "games": 78
 }

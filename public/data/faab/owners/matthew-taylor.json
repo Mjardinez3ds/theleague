@@ -2,7 +2,7 @@
   "slug": "matthew-taylor",
   "owner": "Matthew Taylor",
   "totals": {
-    "acquisitions": 50,
+    "acquisitions": 71,
     "spent": 245,
     "biggest_bid": {
       "year": 2024,
@@ -30,6 +30,12 @@
       "team_name": "Maybe Nix Year",
       "acquisitions": 19,
       "spent": 85
+    },
+    {
+      "year": 2020,
+      "team_name": "Von Miller Lite",
+      "acquisitions": 21,
+      "spent": 0
     }
   ]
 }

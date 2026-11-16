@@ -1,0 +1,98 @@
+[
+  {
+    "round": 1,
+    "pick": 11,
+    "player": "Julio Jones",
+    "position": "WR"
+  },
+  {
+    "round": 2,
+    "pick": 2,
+    "player": "Odell Beckham Jr.",
+    "position": "WR"
+  },
+  {
+    "round": 3,
+    "pick": 11,
+    "player": "Aaron Jones",
+    "position": "RB"
+  },
+  {
+    "round": 4,
+    "pick": 2,
+    "player": "Melvin Gordon",
+    "position": "RB"
+  },
+  {
+    "round": 5,
+    "pick": 11,
+    "player": "T.Y. Hilton",
+    "position": "WR"
+  },
+  {
+    "round": 6,
+    "pick": 2,
+    "player": "Alshon Jeffery",
+    "position": "WR"
+  },
+  {
+    "round": 7,
+    "pick": 11,
+    "player": "Jared Cook",
+    "position": "TE"
+  },
+  {
+    "round": 8,
+    "pick": 2,
+    "player": "Miles Sanders",
+    "position": "RB"
+  },
+  {
+    "round": 9,
+    "pick": 11,
+    "player": "Cam Newton",
+    "position": "QB"
+  },
+  {
+    "round": 10,
+    "pick": 2,
+    "player": "Dak Prescott",
+    "position": "QB"
+  },
+  {
+    "round": 11,
+    "pick": 11,
+    "player": "James Washington",
+    "position": "WR"
+  },
+  {
+    "round": 12,
+    "pick": 2,
+    "player": "Nyheim Hines",
+    "position": "RB"
+  },
+  {
+    "round": 13,
+    "pick": 11,
+    "player": "Jared Goff",
+    "position": "QB"
+  },
+  {
+    "round": 14,
+    "pick": 2,
+    "player": "Anthony Miller",
+    "position": "WR"
+  },
+  {
+    "round": 15,
+    "pick": 11,
+    "player": "Bills D/ST",
+    "position": "D/ST"
+  },
+  {
+    "round": 16,
+    "pick": 2,
+    "player": "Michael Badgley",
+    "position": "K"
+  }
+]

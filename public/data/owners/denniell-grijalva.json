@@ -1,16 +1,27 @@
 {
   "owner": "Denniell Grijalva",
   "slug": "denniell-grijalva",
-  "wins": 15,
-  "losses": 27,
+  "wins": 21,
+  "losses": 34,
   "ties": 0,
-  "points_for": 4816.8,
-  "points_against": 5058.4,
+  "points_for": 6508.4,
+  "points_against": 6827.9,
   "titles": 0,
   "runners_up": 0,
   "thirds": 0,
   "lasts": 0,
   "seasons": [
+    {
+      "year": 2020,
+      "team_name": "Popeyes and Backwoods",
+      "wins": 6,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1691.6,
+      "points_against": 1769.5,
+      "finish": 8,
+      "league_size": 12
+    },
     {
       "year": 2021,
       "team_name": "Ruggs in Cuffs Speed Kills",
@@ -45,6 +56,6 @@
       "league_size": 12
     }
   ],
-  "win_pct": 35.7,
-  "games": 42
+  "win_pct": 38.2,
+  "games": 55
 }

@@ -2,22 +2,58 @@
   "slug": "marcus-jardinez",
   "records": [
     {
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "wins": 5,
+      "losses": 5,
+      "ties": 0,
+      "pf": 1227.86,
+      "pa": 1273.4
+    },
+    {
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
-      "wins": 4,
+      "wins": 6,
       "losses": 4,
       "ties": 0,
-      "pf": 900.16,
-      "pa": 719.14
+      "pf": 1226.52,
+      "pa": 930.9
     },
     {
       "opponent": "Chris Peralta",
       "opponent_slug": "chris-peralta",
       "wins": 5,
-      "losses": 3,
+      "losses": 4,
       "ties": 0,
-      "pf": 1013.88,
-      "pa": 1019.76
+      "pf": 1149.62,
+      "pa": 1174.42
+    },
+    {
+      "opponent": "Devon Malki",
+      "opponent_slug": "devon-malki",
+      "wins": 2,
+      "losses": 6,
+      "ties": 0,
+      "pf": 868.92,
+      "pa": 1077.36
+    },
+    {
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "wins": 6,
+      "losses": 2,
+      "ties": 0,
+      "pf": 1037.7,
+      "pa": 908.0
+    },
+    {
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "wins": 4,
+      "losses": 4,
+      "ties": 0,
+      "pf": 848.22,
+      "pa": 921.52
     },
     {
       "opponent": "derf punk",
@@ -29,33 +65,6 @@
       "pa": 888.36
     },
     {
-      "opponent": "Kevin Liang",
-      "opponent_slug": "kevin-liang",
-      "wins": 5,
-      "losses": 2,
-      "ties": 0,
-      "pf": 862.78,
-      "pa": 802.18
-    },
-    {
-      "opponent": "Junior Peralta",
-      "opponent_slug": "junior-peralta",
-      "wins": 5,
-      "losses": 2,
-      "ties": 0,
-      "pf": 908.4,
-      "pa": 808.28
-    },
-    {
-      "opponent": "George Duran",
-      "opponent_slug": "george-duran",
-      "wins": 3,
-      "losses": 4,
-      "ties": 0,
-      "pf": 733.56,
-      "pa": 862.76
-    },
-    {
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
       "wins": 2,
@@ -65,13 +74,13 @@
       "pa": 585.26
     },
     {
-      "opponent": "Devon Malki",
-      "opponent_slug": "devon-malki",
-      "wins": 1,
-      "losses": 4,
+      "opponent": "Matthew Taylor",
+      "opponent_slug": "matthew-taylor",
+      "wins": 3,
+      "losses": 2,
       "ties": 0,
-      "pf": 513.26,
-      "pa": 683.22
+      "pf": 530.74,
+      "pa": 559.2
     },
     {
       "opponent": "Anthony Richardson",
@@ -83,13 +92,13 @@
       "pa": 444.74
     },
     {
-      "opponent": "Matthew Taylor",
-      "opponent_slug": "matthew-taylor",
-      "wins": 2,
-      "losses": 2,
+      "opponent": "Denniell Grijalva",
+      "opponent_slug": "denniell-grijalva",
+      "wins": 3,
+      "losses": 1,
       "ties": 0,
-      "pf": 389.66,
-      "pa": 422.62
+      "pf": 497.92,
+      "pa": 416.84
     },
     {
       "opponent": "Super Shyguy",
@@ -99,15 +108,6 @@
       "ties": 0,
       "pf": 447.68,
       "pa": 450.34
-    },
-    {
-      "opponent": "Denniell Grijalva",
-      "opponent_slug": "denniell-grijalva",
-      "wins": 3,
-      "losses": 0,
-      "ties": 0,
-      "pf": 391.8,
-      "pa": 294.7
     },
     {
       "opponent": "Faust Vinas",
@@ -153,6 +153,33 @@
       "ties": 0,
       "pf": 107.26,
       "pa": 153.64
+    },
+    {
+      "opponent": "Denis Yanes",
+      "opponent_slug": "denis-yanes",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pf": 142.9,
+      "pa": 128.56
+    },
+    {
+      "opponent": "Jared Brum",
+      "opponent_slug": "jared-brum",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pf": 129.5,
+      "pa": 98.54
+    },
+    {
+      "opponent": "Brandon Mckenzie",
+      "opponent_slug": "brandon-mckenzie",
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "pf": 88.88,
+      "pa": 107.2
     }
   ]
 }

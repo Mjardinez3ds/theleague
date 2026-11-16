@@ -231,6 +231,62 @@
         "logo_url": "",
         "finish": 12
       }
+    },
+    {
+      "year": 2020,
+      "league_name": "Triaq year 2",
+      "champion": {
+        "id": 10,
+        "team_name": "Team Portnoy",
+        "owner": "Brandon Mckenzie",
+        "owner_slug": "brandon-mckenzie",
+        "wins": 10,
+        "losses": 3,
+        "ties": 0,
+        "points_for": 1780.9,
+        "points_against": 1669.5,
+        "logo_url": "",
+        "finish": 1
+      },
+      "runner_up": {
+        "id": 8,
+        "team_name": "Team Duran",
+        "owner": "George Duran",
+        "owner_slug": "george-duran",
+        "wins": 8,
+        "losses": 5,
+        "ties": 0,
+        "points_for": 1772.3,
+        "points_against": 1630.2,
+        "logo_url": "",
+        "finish": 2
+      },
+      "third": {
+        "id": 1,
+        "team_name": "Team MoneyMayfeild",
+        "owner": "Kevin Liang",
+        "owner_slug": "kevin-liang",
+        "wins": 7,
+        "losses": 6,
+        "ties": 0,
+        "points_for": 1722.7,
+        "points_against": 1675.5,
+        "logo_url": "",
+        "finish": 3
+      },
+      "last": {
+        "id": 2,
+        "team_name": "D.Johnson  Flaccid",
+        "owner": "Denis Yanes",
+        "owner_slug": "denis-yanes",
+        "wins": 3,
+        "losses": 10,
+        "ties": 0,
+        "points_for": 1505.2,
+        "points_against": 1822.6,
+        "logo_url": "",
+        "finish": 12
+      }
     }
   ]
 }

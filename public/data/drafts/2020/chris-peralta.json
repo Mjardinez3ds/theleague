@@ -1,0 +1,98 @@
+[
+  {
+    "round": 1,
+    "pick": 7,
+    "player": "DeAndre Hopkins",
+    "position": "WR"
+  },
+  {
+    "round": 2,
+    "pick": 6,
+    "player": "James Conner",
+    "position": "RB"
+  },
+  {
+    "round": 3,
+    "pick": 7,
+    "player": "Adam Thielen",
+    "position": "WR"
+  },
+  {
+    "round": 4,
+    "pick": 6,
+    "player": "Deshaun Watson",
+    "position": "QB"
+  },
+  {
+    "round": 5,
+    "pick": 7,
+    "player": "Sony Michel",
+    "position": "RB"
+  },
+  {
+    "round": 6,
+    "pick": 6,
+    "player": "Hunter Henry",
+    "position": "TE"
+  },
+  {
+    "round": 7,
+    "pick": 7,
+    "player": "Matt Breida",
+    "position": "RB"
+  },
+  {
+    "round": 8,
+    "pick": 6,
+    "player": "Carson Wentz",
+    "position": "QB"
+  },
+  {
+    "round": 9,
+    "pick": 7,
+    "player": "Justin Jackson",
+    "position": "RB"
+  },
+  {
+    "round": 10,
+    "pick": 6,
+    "player": "Geronimo Allison",
+    "position": "WR"
+  },
+  {
+    "round": 11,
+    "pick": 7,
+    "player": "Damien Harris",
+    "position": "RB"
+  },
+  {
+    "round": 12,
+    "pick": 6,
+    "player": "Donte Moncrief",
+    "position": "WR"
+  },
+  {
+    "round": 13,
+    "pick": 7,
+    "player": "Ka'imi Fairbairn",
+    "position": "K"
+  },
+  {
+    "round": 14,
+    "pick": 6,
+    "player": "Darwin Thompson",
+    "position": "RB"
+  },
+  {
+    "round": 15,
+    "pick": 7,
+    "player": "Eagles D/ST",
+    "position": "D/ST"
+  },
+  {
+    "round": 16,
+    "pick": 6,
+    "player": "Alexander Mattison",
+    "position": "RB"
+  }
+]

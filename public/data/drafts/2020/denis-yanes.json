@@ -1,0 +1,98 @@
+[
+  {
+    "round": 1,
+    "pick": 8,
+    "player": "David Johnson",
+    "position": "RB"
+  },
+  {
+    "round": 2,
+    "pick": 5,
+    "player": "Nick Chubb",
+    "position": "RB"
+  },
+  {
+    "round": 3,
+    "pick": 8,
+    "player": "Julian Edelman",
+    "position": "WR"
+  },
+  {
+    "round": 4,
+    "pick": 5,
+    "player": "Baker Mayfield",
+    "position": "QB"
+  },
+  {
+    "round": 5,
+    "pick": 8,
+    "player": "A.J. Green",
+    "position": "WR"
+  },
+  {
+    "round": 6,
+    "pick": 5,
+    "player": "Evan Engram",
+    "position": "TE"
+  },
+  {
+    "round": 7,
+    "pick": 8,
+    "player": "Tarik Cohen",
+    "position": "RB"
+  },
+  {
+    "round": 8,
+    "pick": 5,
+    "player": "Robby Anderson",
+    "position": "WR"
+  },
+  {
+    "round": 9,
+    "pick": 8,
+    "player": "Tom Brady",
+    "position": "QB"
+  },
+  {
+    "round": 10,
+    "pick": 5,
+    "player": "David Njoku",
+    "position": "TE"
+  },
+  {
+    "round": 11,
+    "pick": 8,
+    "player": "Rams D/ST",
+    "position": "D/ST"
+  },
+  {
+    "round": 12,
+    "pick": 5,
+    "player": "Austin Seibert",
+    "position": "K"
+  },
+  {
+    "round": 13,
+    "pick": 8,
+    "player": "Kyler Murray",
+    "position": "QB"
+  },
+  {
+    "round": 14,
+    "pick": 5,
+    "player": "Willie Snead IV",
+    "position": "WR"
+  },
+  {
+    "round": 15,
+    "pick": 8,
+    "player": "DJ Chark Jr.",
+    "position": "WR"
+  },
+  {
+    "round": 16,
+    "pick": 5,
+    "player": "Hunter Renfrow",
+    "position": "WR"
+  }
+]

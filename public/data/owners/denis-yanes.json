@@ -1,0 +1,28 @@
+{
+  "owner": "Denis Yanes",
+  "slug": "denis-yanes",
+  "wins": 3,
+  "losses": 10,
+  "ties": 0,
+  "points_for": 1505.2,
+  "points_against": 1822.6,
+  "titles": 0,
+  "runners_up": 0,
+  "thirds": 0,
+  "lasts": 1,
+  "seasons": [
+    {
+      "year": 2020,
+      "team_name": "D.Johnson  Flaccid",
+      "wins": 3,
+      "losses": 10,
+      "ties": 0,
+      "points_for": 1505.2,
+      "points_against": 1822.6,
+      "finish": 12,
+      "league_size": 12
+    }
+  ],
+  "win_pct": 23.1,
+  "games": 13
+}

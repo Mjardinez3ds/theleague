@@ -1,0 +1,98 @@
+[
+  {
+    "round": 1,
+    "pick": 2,
+    "player": "Le'Veon Bell",
+    "position": "RB"
+  },
+  {
+    "round": 2,
+    "pick": 11,
+    "player": "Mike Evans",
+    "position": "WR"
+  },
+  {
+    "round": 3,
+    "pick": 2,
+    "player": "Josh Jacobs",
+    "position": "RB"
+  },
+  {
+    "round": 4,
+    "pick": 11,
+    "player": "Derrius Guice",
+    "position": "RB"
+  },
+  {
+    "round": 5,
+    "pick": 2,
+    "player": "Damien Williams",
+    "position": "RB"
+  },
+  {
+    "round": 6,
+    "pick": 11,
+    "player": "DJ Moore",
+    "position": "WR"
+  },
+  {
+    "round": 7,
+    "pick": 2,
+    "player": "Austin Ekeler",
+    "position": "RB"
+  },
+  {
+    "round": 8,
+    "pick": 11,
+    "player": "Marquez Valdes-Scantling",
+    "position": "WR"
+  },
+  {
+    "round": 9,
+    "pick": 2,
+    "player": "Ty Montgomery",
+    "position": "RB"
+  },
+  {
+    "round": 10,
+    "pick": 11,
+    "player": "Mitchell Trubisky",
+    "position": "QB"
+  },
+  {
+    "round": 11,
+    "pick": 2,
+    "player": "Jordan Howard",
+    "position": "RB"
+  },
+  {
+    "round": 12,
+    "pick": 11,
+    "player": "DeSean Jackson",
+    "position": "WR"
+  },
+  {
+    "round": 13,
+    "pick": 2,
+    "player": "T.J. Hockenson",
+    "position": "TE"
+  },
+  {
+    "round": 14,
+    "pick": 11,
+    "player": "Wil Lutz",
+    "position": "K"
+  },
+  {
+    "round": 15,
+    "pick": 2,
+    "player": "Cowboys D/ST",
+    "position": "D/ST"
+  },
+  {
+    "round": 16,
+    "pick": 11,
+    "player": "Paul Richardson Jr.",
+    "position": "WR"
+  }
+]
