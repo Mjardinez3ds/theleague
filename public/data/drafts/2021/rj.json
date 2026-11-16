@@ -1,0 +1,98 @@
+[
+  {
+    "round": 1,
+    "pick": 10,
+    "player": "Aaron Jones Sr.",
+    "position": "RB"
+  },
+  {
+    "round": 2,
+    "pick": 3,
+    "player": "Travis Kelce",
+    "position": "TE"
+  },
+  {
+    "round": 3,
+    "pick": 10,
+    "player": "Robert Woods",
+    "position": "WR"
+  },
+  {
+    "round": 4,
+    "pick": 3,
+    "player": "James Robinson",
+    "position": "RB"
+  },
+  {
+    "round": 5,
+    "pick": 10,
+    "player": "Darrell Henderson Jr.",
+    "position": "RB"
+  },
+  {
+    "round": 6,
+    "pick": 3,
+    "player": "Robbie Chosen",
+    "position": "WR"
+  },
+  {
+    "round": 7,
+    "pick": 10,
+    "player": "DeVonta Smith",
+    "position": "WR"
+  },
+  {
+    "round": 8,
+    "pick": 3,
+    "player": "Laviska Shenault Jr.",
+    "position": "WR"
+  },
+  {
+    "round": 9,
+    "pick": 10,
+    "player": "Marquez Callaway",
+    "position": "WR"
+  },
+  {
+    "round": 10,
+    "pick": 3,
+    "player": "Ryan Tannehill",
+    "position": "QB"
+  },
+  {
+    "round": 11,
+    "pick": 10,
+    "player": "Phillip Lindsay",
+    "position": "RB"
+  },
+  {
+    "round": 12,
+    "pick": 3,
+    "player": "Darrel Williams",
+    "position": "RB"
+  },
+  {
+    "round": 13,
+    "pick": 10,
+    "player": "Steelers",
+    "position": "D/ST"
+  },
+  {
+    "round": 14,
+    "pick": 3,
+    "player": "Greg Zuerlein",
+    "position": "K"
+  },
+  {
+    "round": 15,
+    "pick": 10,
+    "player": "Cole Kmet",
+    "position": "TE"
+  },
+  {
+    "round": 16,
+    "pick": 3,
+    "player": "Malcolm Brown",
+    "position": "RB"
+  }
+]

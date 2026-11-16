@@ -20,6 +20,8 @@ from datetime import datetime, timezone
 import requests as _requests
 from espn_api.football import League
 
+import archive_seasons as arch
+
 # ---------- Config ----------
 # GitHub Actions passes an unset secret/variable as an EMPTY STRING, and
 # os.getenv("X", default) returns that "" instead of the default. int("")
@@ -73,11 +75,21 @@ def _raw_owner_id(team) -> str:
     return f"{first}|{last}".lower() or f"team-{getattr(team, 'team_id', '?')}"
 
 
+# ESPN shows a member's CURRENT profile name on every past season too, so a
+# manager renaming their ESPN account would split them into a new person and
+# take all their history with it. Map such joke/renamed names back to the
+# real person. Key = lowercased "first last" as ESPN returns it.
+# Keep in sync with sportsbook-bot's fantasy_espn.py.
+NAME_ALIASES: dict[str, tuple[str, str]] = {
+    "ally of kim": ("George", "Duran"),   # George renamed his ESPN account (seen 2026-11-16)
+}
+
+
 def _owner_first_last(team) -> tuple[str, str]:
     o = _owner_dict(team)
     first = (o.get("firstName") or "").strip() or "?"
     last = (o.get("lastName") or "").strip()
-    return first, last
+    return NAME_ALIASES.get(f"{first} {last}".strip().lower(), (first, last))
 
 
 def _short_name(first: str, last: str, last_letters: int = 1) -> str:
@@ -426,6 +438,45 @@ def write_json(rel: str, data) -> None:
     print(f"  wrote {path.relative_to(OUT_DIR.parent.parent)}  ({path.stat().st_size//1024} KB)")
 
 
+def write_draft_files(yr: int, picks_by_slug: dict[str, list], slug_to_display: dict[str, str],
+                      slug_to_team: dict[str, str]) -> None:
+    """drafts/{yr}/{slug}.json per manager + draft_board/{yr}.json."""
+    for slug, picks in picks_by_slug.items():
+        picks.sort(key=lambda p: (p["round"], p["pick"]))
+        write_json(f"drafts/{yr}/{slug}.json", picks)
+
+    # Draft board: one file per year with all picks in slot order
+    # Draft slot = pick number in round 1 (snake draft)
+    slot_by_slug: dict[str, int] = {}
+    for s, picks in picks_by_slug.items():
+        r1 = next((p for p in picks if p["round"] == 1), None)
+        if r1:
+            slot_by_slug[s] = r1["pick"]
+
+    max_round = max(
+        (p["round"] for picks in picks_by_slug.values() for p in picks),
+        default=0
+    )
+
+    board_slots = []
+    for s in sorted(slot_by_slug, key=lambda x: slot_by_slug[x]):
+        round_picks = sorted(picks_by_slug[s], key=lambda p: p["round"])
+        board_slots.append({
+            "slot":       slot_by_slug[s],
+            "owner":      slug_to_display.get(s, "?"),
+            "owner_slug": s,
+            "team_name":  slug_to_team.get(s, "?"),
+            "picks": [
+                {"round": p["round"], "player": p["player"], "position": p["position"]}
+                for p in round_picks
+            ],
+        })
+
+    write_json(f"draft_board/{yr}.json", {
+        "year": yr, "rounds": max_round, "slots": board_slots,
+    })
+
+
 def serialize_team(team, finish: int | None, owner_display: str, owner_slug: str) -> dict:
     return {
         "id": team.team_id,
@@ -442,11 +493,30 @@ def serialize_team(team, finish: int | None, owner_display: str, owner_slug: str
     }
 
 
+def _add_h2h(h2h: dict, slug: str, weeks: list[dict]) -> None:
+    """Accumulate one manager-season of WeekResults into the H2H table."""
+    for w in weeks:
+        opp = w["opponent_slug"]
+        rec = h2h.setdefault(slug, {}).setdefault(opp, {
+            "opponent": w["opponent"],
+            "opponent_slug": opp,
+            "wins": 0, "losses": 0, "ties": 0,
+            "pf": 0.0, "pa": 0.0,
+        })
+        if w["result"] == "W":   rec["wins"]   += 1
+        elif w["result"] == "L": rec["losses"] += 1
+        else:                    rec["ties"]   += 1
+        rec["pf"] += w["score"]
+        rec["pa"] += w["opponent_score"]
+
+
 def build_scores(
     leagues_by_year: dict,
     canonical_by_raw: dict,
     display_by_canonical: dict,
     slug_by_canonical: dict,
+    archives: dict | None = None,
+    display_by_slug: dict | None = None,
 ) -> dict:
     """
     Fetch weekly matchup scores for every manager in every season.
@@ -581,21 +651,20 @@ def build_scores(
                 total += len(deduped)
 
                 # Accumulate H2H — keyed by (my_slug, opp_slug)
-                for w in deduped:
-                    opp = w["opponent_slug"]
-                    rec = h2h.setdefault(slug, {}).setdefault(opp, {
-                        "opponent": w["opponent"],
-                        "opponent_slug": opp,
-                        "wins": 0, "losses": 0, "ties": 0,
-                        "pf": 0.0, "pa": 0.0,
-                    })
-                    if w["result"] == "W":   rec["wins"]   += 1
-                    elif w["result"] == "L": rec["losses"] += 1
-                    else:                    rec["ties"]   += 1
-                    rec["pf"] += w["score"]
-                    rec["pa"] += w["opponent_score"]
+                _add_h2h(h2h, slug, deduped)
 
         print(f"  scores {yr}: {total} matchup records across {len(scores_by_slug)} teams")
+
+    # Archived (non-ESPN) seasons — same files, same H2H table.
+    for yr, season in sorted((archives or {}).items()):
+        total = 0
+        for slug, weeks in arch.weekly_results(season, display_by_slug or {}).items():
+            if not weeks:
+                continue
+            write_json(f"scores/{yr}/{slug}.json", {"year": yr, "weeks": weeks})
+            _add_h2h(h2h, slug, weeks)
+            total += len(weeks)
+        print(f"  scores {yr} (archive): {total} matchup records")
 
     # Write H2H files — one per manager, sorted by games played desc
     for slug, opponents in h2h.items():
@@ -617,6 +686,8 @@ def build_faab(
     canonical_by_raw: dict,
     display_by_canonical: dict,
     slug_by_canonical: dict,
+    archives: dict | None = None,
+    display_by_slug: dict | None = None,
 ) -> None:
     """
     Pull free-agent + waiver transactions for every week of every season.
@@ -629,6 +700,50 @@ def build_faab(
 
     # Aggregate per-owner across all seasons
     owners_data: dict[str, dict] = {}
+
+    def rollup(yr: int, team_totals: list[dict], all_txns: list[dict]) -> None:
+        for tt in team_totals:
+            slug = tt["owner_slug"]
+            d = owners_data.setdefault(slug, {
+                "slug": slug,
+                "owner": tt["owner"],
+                "totals": {
+                    "acquisitions": 0, "spent": 0,
+                    "biggest_bid": None,
+                },
+                "by_year": [],
+            })
+            d["totals"]["acquisitions"] += tt["acquisitions"]
+            d["totals"]["spent"] += tt["spent"]
+            d["by_year"].append({
+                "year": yr,
+                "team_name": tt["team_name"],
+                "acquisitions": tt["acquisitions"],
+                "spent": tt["spent"],
+            })
+
+        # Find biggest bid per manager from this year's transactions
+        for tx in all_txns:
+            if tx["bid"] <= 0:
+                continue
+            d = owners_data.get(tx["owner_slug"])
+            if not d:
+                continue
+            cur = d["totals"]["biggest_bid"]
+            if cur is None or tx["bid"] > cur["bid"]:
+                d["totals"]["biggest_bid"] = {
+                    "year": yr,
+                    "week": tx["week"],
+                    "bid": tx["bid"],
+                    "player": tx["added"][0] if tx["added"] else "?",
+                    "dropped": tx["dropped"][0] if tx["dropped"] else None,
+                }
+
+    for yr, season in sorted((archives or {}).items()):
+        payload = arch.faab_payload(season, display_by_slug or {})
+        write_json(f"faab/{yr}.json", payload)
+        rollup(yr, payload["team_totals"], payload["transactions"])
+        print(f"  faab {yr} (archive): {len(payload['transactions'])} transactions")
 
     for yr, lg in sorted(leagues_by_year.items()):
         # team_id -> (display, slug, team_name)
@@ -718,43 +833,7 @@ def build_faab(
         print(f"  faab {yr}: {len(all_txns)} transactions, {len(team_totals)} teams")
 
         # Roll up into per-owner career profile
-        for tt in team_totals:
-            slug = tt["owner_slug"]
-            d = owners_data.setdefault(slug, {
-                "slug": slug,
-                "owner": tt["owner"],
-                "totals": {
-                    "acquisitions": 0, "spent": 0,
-                    "biggest_bid": None,
-                },
-                "by_year": [],
-            })
-            d["totals"]["acquisitions"] += tt["acquisitions"]
-            d["totals"]["spent"] += tt["spent"]
-            d["by_year"].append({
-                "year": yr,
-                "team_name": tt["team_name"],
-                "acquisitions": tt["acquisitions"],
-                "spent": tt["spent"],
-            })
-
-        # Find biggest bid per manager from this year's transactions
-        for tx in all_txns:
-            if tx["bid"] <= 0:
-                continue
-            slug = tx["owner_slug"]
-            d = owners_data.get(slug)
-            if not d:
-                continue
-            cur = d["totals"]["biggest_bid"]
-            if cur is None or tx["bid"] > cur["bid"]:
-                d["totals"]["biggest_bid"] = {
-                    "year": yr,
-                    "week": tx["week"],
-                    "bid": tx["bid"],
-                    "player": tx["added"][0] if tx["added"] else "?",
-                    "dropped": tx["dropped"][0] if tx["dropped"] else None,
-                }
+        rollup(yr, team_totals, all_txns)
 
     # Write per-owner career FAAB files
     for slug, d in owners_data.items():
@@ -773,13 +852,19 @@ def main():
     years = sorted(set(prior + [CURRENT_YEAR]))
     print(f"  seasons: {years}")
 
+    # Seasons played off ESPN (archive/{year}/season.json). They are listed
+    # in league.json like any other year; everything below merges them in.
+    archives = {yr: s for yr, s in arch.load_archives().items() if yr not in years}
+    if archives:
+        print(f"  archived seasons: {sorted(archives)}")
+
     # ---------- league.json (meta) ----------
     write_json("league.json", {
         "league_id": LEAGUE_ID,
         "league_name": current.settings.name,
         "current_year": CURRENT_YEAR,
         "current_week": current.current_week,
-        "years": years,
+        "years": sorted(set(years) | set(archives)),
         "team_count": len(current.teams),
         "updated_at": datetime.now(timezone.utc).isoformat(),
     })
@@ -880,6 +965,60 @@ def main():
             "last": serialize_team(last, len(ranked), *disp(last)) if last else None,
         })
 
+    # ---------- archived (non-ESPN) seasons ----------
+    # Display names come from the ESPN identity map so a manager reads the
+    # same everywhere; slugs only in the archive keep the archive's name.
+    display_by_slug = {slug_by_canonical[c]: display_by_canonical[c]
+                       for c in slug_by_canonical if c in display_by_canonical}
+    for yr, season in sorted(archives.items()):
+        rows = arch.standings_rows(season, display_by_slug)
+        n = len(rows)
+        for r in rows:
+            slug, finish = r["owner_slug"], r["finish"]
+            d = careers.setdefault(slug, {
+                "owner": r["owner"],
+                "slug": slug,
+                "wins": 0, "losses": 0, "ties": 0,
+                "points_for": 0.0, "points_against": 0.0,
+                "titles": 0, "runners_up": 0, "thirds": 0, "lasts": 0,
+                "seasons": [],
+            })
+            d["wins"] += r["wins"]
+            d["losses"] += r["losses"]
+            d["ties"] += r["ties"]
+            d["points_for"] += r["points_for"]
+            d["points_against"] += r["points_against"]
+            if finish == 1: d["titles"] += 1
+            elif finish == 2: d["runners_up"] += 1
+            elif finish == 3: d["thirds"] += 1
+            if finish and finish == n: d["lasts"] += 1
+            d["seasons"].append({
+                "year": yr,
+                "team_name": r["team_name"],
+                "wins": r["wins"], "losses": r["losses"], "ties": r["ties"],
+                "points_for": r["points_for"],
+                "points_against": r["points_against"],
+                "finish": finish,
+                "league_size": n,
+            })
+        write_json(f"standings/{yr}.json", {
+            "year": yr,
+            "league_name": season["league_name"],
+            "current_week": season["final_week"],
+            "teams": rows,
+        })
+        by_finish = {r["finish"]: r for r in rows}
+        history.append({
+            "year": yr,
+            "league_name": season["league_name"],
+            "champion": by_finish.get(1),
+            "runner_up": by_finish.get(2),
+            "third": by_finish.get(3),
+            "last": by_finish.get(n),
+        })
+    for d in careers.values():
+        d["seasons"].sort(key=lambda s: s["year"])
+
     # ---------- careers + history ----------
     # Round floats
     for d in careers.values():
@@ -895,9 +1034,12 @@ def main():
     legacy_path = OUT_DIR / "legacy_champions.json"
     if legacy_path.exists():
         legacy: dict[str, list[int]] = json.loads(legacy_path.read_text(encoding="utf-8"))
+        # A legacy year that now has real data (an archived season) already
+        # counted its champion above — don't count it twice.
+        real_years = {h["year"] for h in history if h["champion"]}
         for slug, yrs in legacy.items():
             if slug in careers:
-                careers[slug]["titles"] += len(yrs)
+                careers[slug]["titles"] += len([y for y in yrs if y not in real_years])
         print(f"  legacy champions merged: {legacy}")
 
     write_json("careers.json", {
@@ -915,7 +1057,8 @@ def main():
     # ---------- weekly scores (runs first so we get playerId->position map) ----------
     player_positions: dict[int, dict[int, str]] = {}
     try:
-        player_positions = build_scores(leagues_by_year, canonical_by_raw, display_by_canonical, slug_by_canonical)
+        player_positions = build_scores(leagues_by_year, canonical_by_raw, display_by_canonical, slug_by_canonical,
+                                        archives, display_by_slug)
     except Exception as e:
         print(f"  ! scores error: {e}")
 
@@ -981,51 +1124,28 @@ def main():
             s = slug_by_canonical.get(cid, "unknown")
             slug_to_team[s] = t.team_name or "?"
 
-        for slug, picks in picks_by_slug.items():
-            picks.sort(key=lambda p: (p["round"], p["pick"]))
-            write_json(f"drafts/{yr}/{slug}.json", picks)
-
-        # Draft board: one file per year with all picks in slot order
-        # Draft slot = pick number in round 1 (snake draft)
-        slot_by_slug: dict[str, int] = {}
-        for s, picks in picks_by_slug.items():
-            r1 = next((p for p in picks if p["round"] == 1), None)
-            if r1:
-                slot_by_slug[s] = r1["pick"]
-
-        max_round = max(
-            (p["round"] for picks in picks_by_slug.values() for p in picks),
-            default=0
-        )
-
-        board_slots = []
-        for s in sorted(slot_by_slug, key=lambda x: slot_by_slug[x]):
-            round_picks = sorted(picks_by_slug[s], key=lambda p: p["round"])
-            board_slots.append({
-                "slot":       slot_by_slug[s],
-                "owner":      slug_to_display.get(s, "?"),
-                "owner_slug": s,
-                "team_name":  slug_to_team.get(s, "?"),
-                "picks": [
-                    {"round": p["round"], "player": p["player"], "position": p["position"]}
-                    for p in round_picks
-                ],
-            })
-
-        write_json(f"draft_board/{yr}.json", {
-            "year": yr, "rounds": max_round, "slots": board_slots,
-        })
+        write_draft_files(yr, picks_by_slug, slug_to_display, slug_to_team)
         print(f"  draft {yr}: {total} picks across {len(picks_by_slug)} teams")
+
+    for yr, season in sorted(archives.items()):
+        picks_by_slug = arch.draft_by_slug(season)
+        slug_to_team = {t["owner_slug"]: t["team_name"] for t in season["teams"]}
+        names = {t["owner_slug"]: display_by_slug.get(t["owner_slug"], t["owner"]) for t in season["teams"]}
+        write_draft_files(yr, picks_by_slug, names, slug_to_team)
+        print(f"  draft {yr} (archive): {sum(len(v) for v in picks_by_slug.values())} picks")
 
     # ---------- trades ----------
     try:
         build_trades(leagues_by_year, canonical_by_raw, display_by_canonical, slug_by_canonical)
     except Exception as e:
         print(f"  ! trades error: {e}")
+    for yr, season in sorted(archives.items()):
+        write_json(f"trades/{yr}.json", arch.trades_payload(season, display_by_slug))
 
     # ---------- FAAB / waivers ----------
     try:
-        build_faab(leagues_by_year, canonical_by_raw, display_by_canonical, slug_by_canonical)
+        build_faab(leagues_by_year, canonical_by_raw, display_by_canonical, slug_by_canonical,
+                   archives, display_by_slug)
     except Exception as e:
         print(f"  ! faab error: {e}")
 

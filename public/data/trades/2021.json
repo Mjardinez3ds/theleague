@@ -1,0 +1,699 @@
+{
+  "year": 2021,
+  "count": 23,
+  "trades": [
+    {
+      "date": "2021-09-07",
+      "sides": [
+        {
+          "team_name": "Uncut Junior",
+          "owner": "Junior Peralta",
+          "owner_slug": "junior-peralta",
+          "gave": [
+            "Broncos"
+          ],
+          "got": [
+            "Patriots"
+          ]
+        },
+        {
+          "team_name": "I.AM.FINANCIALLY.RUINED.",
+          "owner": "George Duran",
+          "owner_slug": "george-duran",
+          "gave": [
+            "Patriots"
+          ],
+          "got": [
+            "Broncos"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2021-09-08",
+      "sides": [
+        {
+          "team_name": "Uncut Junior",
+          "owner": "Junior Peralta",
+          "owner_slug": "junior-peralta",
+          "gave": [
+            "Melvin Gordon III",
+            "Michael Thomas"
+          ],
+          "got": [
+            "Antonio Brown",
+            "Michael Carter"
+          ]
+        },
+        {
+          "team_name": "UrMomSquirtedAgain",
+          "owner": "Anthony Richardson",
+          "owner_slug": "anthony-richardson",
+          "gave": [
+            "Antonio Brown",
+            "Michael Carter"
+          ],
+          "got": [
+            "Melvin Gordon III",
+            "Michael Thomas"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2021-09-14",
+      "sides": [
+        {
+          "team_name": "Mark won",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
+          "gave": [
+            "Courtland Sutton",
+            "Michael Pittman Jr."
+          ],
+          "got": [
+            "Henry Ruggs III",
+            "Joe Burrow",
+            "James White"
+          ]
+        },
+        {
+          "team_name": "Ryder",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
+          "gave": [
+            "Henry Ruggs III",
+            "Joe Burrow",
+            "James White"
+          ],
+          "got": [
+            "Courtland Sutton",
+            "Michael Pittman Jr."
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2021-09-15",
+      "sides": [
+        {
+          "team_name": "I.AM.FINANCIALLY.RUINED.",
+          "owner": "George Duran",
+          "owner_slug": "george-duran",
+          "gave": [
+            "DK Metcalf",
+            "Devin Singletary"
+          ],
+          "got": [
+            "Stefon Diggs",
+            "Noah Fant"
+          ]
+        },
+        {
+          "team_name": "Llerena\u2019s Buttpirates",
+          "owner": "Kevin Llerena",
+          "owner_slug": "kevin-llerena",
+          "gave": [
+            "Stefon Diggs",
+            "Noah Fant"
+          ],
+          "got": [
+            "DK Metcalf",
+            "Devin Singletary"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2021-09-28",
+      "sides": [
+        {
+          "team_name": "Ruggs in Cuffs Speed Kills",
+          "owner": "Denniell Grijalva",
+          "owner_slug": "denniell-grijalva",
+          "gave": [
+            "Clyde Edwards-Helaire",
+            "Christian Kirk"
+          ],
+          "got": [
+            "Justin Jefferson"
+          ]
+        },
+        {
+          "team_name": "Mark won",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
+          "gave": [
+            "Justin Jefferson"
+          ],
+          "got": [
+            "Clyde Edwards-Helaire",
+            "Christian Kirk"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2021-10-02",
+      "sides": [
+        {
+          "team_name": "Llerena\u2019s Buttpirates",
+          "owner": "Kevin Llerena",
+          "owner_slug": "kevin-llerena",
+          "gave": [
+            "Calvin Ridley"
+          ],
+          "got": [
+            "Deebo Samuel Sr.",
+            "Dawson Knox",
+            "Chase Claypool"
+          ]
+        },
+        {
+          "team_name": "Ruggs in Cuffs Speed Kills",
+          "owner": "Denniell Grijalva",
+          "owner_slug": "denniell-grijalva",
+          "gave": [
+            "Deebo Samuel Sr.",
+            "Dawson Knox",
+            "Chase Claypool"
+          ],
+          "got": [
+            "Calvin Ridley"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2021-10-10",
+      "sides": [
+        {
+          "team_name": "Uncut Junior",
+          "owner": "Junior Peralta",
+          "owner_slug": "junior-peralta",
+          "gave": [
+            "Latavius Murray"
+          ],
+          "got": [
+            "Dalton Schultz"
+          ]
+        },
+        {
+          "team_name": "Ryder",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
+          "gave": [
+            "Dalton Schultz"
+          ],
+          "got": [
+            "Latavius Murray"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2021-10-13",
+      "sides": [
+        {
+          "team_name": "Twin River Buffet for 2",
+          "owner": "Jordan van Leesten",
+          "owner_slug": "jordan-van-leesten",
+          "gave": [
+            "Marlon Mack"
+          ],
+          "got": [
+            "Mike Gesicki"
+          ]
+        },
+        {
+          "team_name": "I.AM.FINANCIALLY.RUINED.",
+          "owner": "George Duran",
+          "owner_slug": "george-duran",
+          "gave": [
+            "Mike Gesicki"
+          ],
+          "got": [
+            "Marlon Mack"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2021-10-13",
+      "sides": [
+        {
+          "team_name": "Llerena\u2019s Buttpirates",
+          "owner": "Kevin Llerena",
+          "owner_slug": "kevin-llerena",
+          "gave": [
+            "Mike Evans",
+            "Chase Claypool"
+          ],
+          "got": [
+            "Davante Adams",
+            "Tyler Boyd"
+          ]
+        },
+        {
+          "team_name": "I.AM.FINANCIALLY.RUINED.",
+          "owner": "George Duran",
+          "owner_slug": "george-duran",
+          "gave": [
+            "Davante Adams",
+            "Tyler Boyd"
+          ],
+          "got": [
+            "Mike Evans",
+            "Chase Claypool"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2021-10-19",
+      "sides": [
+        {
+          "team_name": "Mark won",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
+          "gave": [
+            "Henry Ruggs III"
+          ],
+          "got": [
+            "Miles Sanders",
+            "Rashod Bateman",
+            "Jamison Crowder",
+            "Jerick McKinnon"
+          ]
+        },
+        {
+          "team_name": "Ruggs in Cuffs Speed Kills",
+          "owner": "Denniell Grijalva",
+          "owner_slug": "denniell-grijalva",
+          "gave": [
+            "Miles Sanders",
+            "Rashod Bateman",
+            "Jamison Crowder",
+            "Jerick McKinnon"
+          ],
+          "got": [
+            "Henry Ruggs III"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2021-10-20",
+      "sides": [
+        {
+          "team_name": "Uncut Junior",
+          "owner": "Junior Peralta",
+          "owner_slug": "junior-peralta",
+          "gave": [
+            "Myles Gaskin",
+            "Dalton Schultz"
+          ],
+          "got": [
+            "Allen Robinson"
+          ]
+        },
+        {
+          "team_name": "Support Odell",
+          "owner": "Ricky Cano",
+          "owner_slug": "ricky-cano",
+          "gave": [
+            "Allen Robinson"
+          ],
+          "got": [
+            "Myles Gaskin",
+            "Dalton Schultz"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2021-10-27",
+      "sides": [
+        {
+          "team_name": "Ryder",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
+          "gave": [
+            "Courtland Sutton",
+            "Javonte Williams"
+          ],
+          "got": [
+            "DK Metcalf"
+          ]
+        },
+        {
+          "team_name": "Llerena\u2019s Buttpirates",
+          "owner": "Kevin Llerena",
+          "owner_slug": "kevin-llerena",
+          "gave": [
+            "DK Metcalf"
+          ],
+          "got": [
+            "Courtland Sutton",
+            "Javonte Williams"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2021-10-27",
+      "sides": [
+        {
+          "team_name": "The Yeetles",
+          "owner": "RJ",
+          "owner_slug": "rj",
+          "gave": [
+            "Darrell Henderson Jr."
+          ],
+          "got": [
+            "Adam Thielen"
+          ]
+        },
+        {
+          "team_name": "Uncut Junior",
+          "owner": "Junior Peralta",
+          "owner_slug": "junior-peralta",
+          "gave": [
+            "Adam Thielen"
+          ],
+          "got": [
+            "Darrell Henderson Jr."
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2021-10-28",
+      "sides": [
+        {
+          "team_name": "Ruggs in Cuffs Speed Kills",
+          "owner": "Denniell Grijalva",
+          "owner_slug": "denniell-grijalva",
+          "gave": [
+            "Jaylen Waddle",
+            "Evan Engram"
+          ],
+          "got": [
+            "Sony Michel",
+            "Cole Beasley"
+          ]
+        },
+        {
+          "team_name": "Zach to the Future",
+          "owner": "Devon Malki",
+          "owner_slug": "devon-malki",
+          "gave": [
+            "Sony Michel",
+            "Cole Beasley"
+          ],
+          "got": [
+            "Jaylen Waddle",
+            "Evan Engram"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2021-10-28",
+      "sides": [
+        {
+          "team_name": "Mark won",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
+          "gave": [
+            "Keenan Allen"
+          ],
+          "got": [
+            "Emmanuel Sanders",
+            "Chuba Hubbard"
+          ]
+        },
+        {
+          "team_name": "I.AM.FINANCIALLY.RUINED.",
+          "owner": "George Duran",
+          "owner_slug": "george-duran",
+          "gave": [
+            "Emmanuel Sanders",
+            "Chuba Hubbard"
+          ],
+          "got": [
+            "Keenan Allen"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2021-10-28",
+      "sides": [
+        {
+          "team_name": "Uncut Junior",
+          "owner": "Junior Peralta",
+          "owner_slug": "junior-peralta",
+          "gave": [
+            "Austin Ekeler",
+            "Marquez Valdes-Scantling"
+          ],
+          "got": [
+            "Javonte Williams",
+            "Davante Adams",
+            "DeVante Parker"
+          ]
+        },
+        {
+          "team_name": "Llerena\u2019s Buttpirates",
+          "owner": "Kevin Llerena",
+          "owner_slug": "kevin-llerena",
+          "gave": [
+            "Javonte Williams",
+            "Davante Adams",
+            "DeVante Parker"
+          ],
+          "got": [
+            "Austin Ekeler",
+            "Marquez Valdes-Scantling"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2021-11-02",
+      "sides": [
+        {
+          "team_name": "Uncut Junior",
+          "owner": "Junior Peralta",
+          "owner_slug": "junior-peralta",
+          "gave": [
+            "Javonte Williams",
+            "Davante Adams"
+          ],
+          "got": [
+            "Stefon Diggs",
+            "Tyler Lockett"
+          ]
+        },
+        {
+          "team_name": "I.AM.FINANCIALLY.RUINED.",
+          "owner": "George Duran",
+          "owner_slug": "george-duran",
+          "gave": [
+            "Stefon Diggs",
+            "Tyler Lockett"
+          ],
+          "got": [
+            "Javonte Williams",
+            "Davante Adams"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2021-11-04",
+      "sides": [
+        {
+          "team_name": "KEVINS LAST PLACE TEAM",
+          "owner": "Kevin Liang",
+          "owner_slug": "kevin-liang",
+          "gave": [
+            "Julio Jones"
+          ],
+          "got": [
+            "Cole Beasley",
+            "Kenyan Drake"
+          ]
+        },
+        {
+          "team_name": "Ruggs in Cuffs Speed Kills",
+          "owner": "Denniell Grijalva",
+          "owner_slug": "denniell-grijalva",
+          "gave": [
+            "Cole Beasley",
+            "Kenyan Drake"
+          ],
+          "got": [
+            "Julio Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2021-11-04",
+      "sides": [
+        {
+          "team_name": "UrMomSquirtedAgain",
+          "owner": "Anthony Richardson",
+          "owner_slug": "anthony-richardson",
+          "gave": [
+            "Jalen Hurts",
+            "Melvin Gordon III",
+            "Jakobi Meyers"
+          ],
+          "got": [
+            "David Montgomery",
+            "Van Jefferson",
+            "Courtland Sutton"
+          ]
+        },
+        {
+          "team_name": "Llerena\u2019s Buttpirates",
+          "owner": "Kevin Llerena",
+          "owner_slug": "kevin-llerena",
+          "gave": [
+            "David Montgomery",
+            "Van Jefferson",
+            "Courtland Sutton"
+          ],
+          "got": [
+            "Jalen Hurts",
+            "Melvin Gordon III",
+            "Jakobi Meyers"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2021-11-05",
+      "sides": [
+        {
+          "team_name": "Ruggs in Cuffs Speed Kills",
+          "owner": "Denniell Grijalva",
+          "owner_slug": "denniell-grijalva",
+          "gave": [
+            "Sony Michel",
+            "T.J. Hockenson"
+          ],
+          "got": [
+            "George Kittle"
+          ]
+        },
+        {
+          "team_name": "Uncut Junior",
+          "owner": "Junior Peralta",
+          "owner_slug": "junior-peralta",
+          "gave": [
+            "George Kittle"
+          ],
+          "got": [
+            "Sony Michel",
+            "T.J. Hockenson"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2021-11-05",
+      "sides": [
+        {
+          "team_name": "I.AM.FINANCIALLY.RUINED.",
+          "owner": "George Duran",
+          "owner_slug": "george-duran",
+          "gave": [
+            "Chris Carson"
+          ],
+          "got": [
+            "Calvin Ridley",
+            "Kadarius Toney"
+          ]
+        },
+        {
+          "team_name": "Ruggs in Cuffs Speed Kills",
+          "owner": "Denniell Grijalva",
+          "owner_slug": "denniell-grijalva",
+          "gave": [
+            "Calvin Ridley",
+            "Kadarius Toney"
+          ],
+          "got": [
+            "Chris Carson"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2021-11-10",
+      "sides": [
+        {
+          "team_name": "Mark won",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
+          "gave": [
+            "Joe Burrow",
+            "Ja'Marr Chase",
+            "Christian Kirk"
+          ],
+          "got": [
+            "Austin Ekeler",
+            "Jalen Hurts",
+            "Devin Singletary"
+          ]
+        },
+        {
+          "team_name": "Llerena\u2019s Buttpirates",
+          "owner": "Kevin Llerena",
+          "owner_slug": "kevin-llerena",
+          "gave": [
+            "Austin Ekeler",
+            "Jalen Hurts",
+            "Devin Singletary"
+          ],
+          "got": [
+            "Joe Burrow",
+            "Ja'Marr Chase",
+            "Christian Kirk"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2021-11-10",
+      "sides": [
+        {
+          "team_name": "Uncut Junior",
+          "owner": "Junior Peralta",
+          "owner_slug": "junior-peralta",
+          "gave": [
+            "Brandon Aiyuk"
+          ],
+          "got": [
+            "Chase Claypool"
+          ]
+        },
+        {
+          "team_name": "I.AM.FINANCIALLY.RUINED.",
+          "owner": "George Duran",
+          "owner_slug": "george-duran",
+          "gave": [
+            "Chase Claypool"
+          ],
+          "got": [
+            "Brandon Aiyuk"
+          ]
+        }
+      ]
+    }
+  ]
+}

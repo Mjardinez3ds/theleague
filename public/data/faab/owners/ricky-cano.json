@@ -2,7 +2,7 @@
   "slug": "ricky-cano",
   "owner": "Ricky Cano",
   "totals": {
-    "acquisitions": 55,
+    "acquisitions": 73,
     "spent": 216,
     "biggest_bid": {
       "year": 2026,
@@ -30,6 +30,12 @@
       "team_name": "Team Cano",
       "acquisitions": 21,
       "spent": 71
+    },
+    {
+      "year": 2021,
+      "team_name": "Support Odell",
+      "acquisitions": 18,
+      "spent": 0
     }
   ]
 }

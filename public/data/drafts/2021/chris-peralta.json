@@ -1,0 +1,98 @@
+[
+  {
+    "round": 1,
+    "pick": 2,
+    "player": "Dalvin Cook",
+    "position": "RB"
+  },
+  {
+    "round": 2,
+    "pick": 11,
+    "player": "A.J. Brown",
+    "position": "WR"
+  },
+  {
+    "round": 3,
+    "pick": 2,
+    "player": "Darren Waller",
+    "position": "TE"
+  },
+  {
+    "round": 4,
+    "pick": 11,
+    "player": "D'Andre Swift",
+    "position": "RB"
+  },
+  {
+    "round": 5,
+    "pick": 2,
+    "player": "Brandon Aiyuk",
+    "position": "WR"
+  },
+  {
+    "round": 6,
+    "pick": 11,
+    "player": "Justin Herbert",
+    "position": "QB"
+  },
+  {
+    "round": 7,
+    "pick": 2,
+    "player": "Javonte Williams",
+    "position": "RB"
+  },
+  {
+    "round": 8,
+    "pick": 11,
+    "player": "Jamaal Williams",
+    "position": "RB"
+  },
+  {
+    "round": 9,
+    "pick": 2,
+    "player": "Mecole Hardman Jr.",
+    "position": "WR"
+  },
+  {
+    "round": 10,
+    "pick": 11,
+    "player": "Henry Ruggs III",
+    "position": "WR"
+  },
+  {
+    "round": 11,
+    "pick": 2,
+    "player": "Alexander Mattison",
+    "position": "RB"
+  },
+  {
+    "round": 12,
+    "pick": 11,
+    "player": "Joe Burrow",
+    "position": "QB"
+  },
+  {
+    "round": 13,
+    "pick": 2,
+    "player": "James White",
+    "position": "RB"
+  },
+  {
+    "round": 14,
+    "pick": 11,
+    "player": "49ers",
+    "position": "D/ST"
+  },
+  {
+    "round": 15,
+    "pick": 2,
+    "player": "Tevin Coleman",
+    "position": "RB"
+  },
+  {
+    "round": 16,
+    "pick": 11,
+    "player": "Jason Myers",
+    "position": "K"
+  }
+]

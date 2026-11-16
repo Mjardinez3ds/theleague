@@ -1,0 +1,98 @@
+[
+  {
+    "round": 1,
+    "pick": 11,
+    "player": "Jonathan Taylor",
+    "position": "RB"
+  },
+  {
+    "round": 2,
+    "pick": 2,
+    "player": "Saquon Barkley",
+    "position": "RB"
+  },
+  {
+    "round": 3,
+    "pick": 11,
+    "player": "Cooper Kupp",
+    "position": "WR"
+  },
+  {
+    "round": 4,
+    "pick": 2,
+    "player": "Amari Cooper",
+    "position": "WR"
+  },
+  {
+    "round": 5,
+    "pick": 11,
+    "player": "Mike Davis",
+    "position": "RB"
+  },
+  {
+    "round": 6,
+    "pick": 2,
+    "player": "Dak Prescott",
+    "position": "QB"
+  },
+  {
+    "round": 7,
+    "pick": 11,
+    "player": "Antonio Brown",
+    "position": "WR"
+  },
+  {
+    "round": 8,
+    "pick": 2,
+    "player": "Jakobi Meyers",
+    "position": "WR"
+  },
+  {
+    "round": 9,
+    "pick": 11,
+    "player": "Rams",
+    "position": "D/ST"
+  },
+  {
+    "round": 10,
+    "pick": 2,
+    "player": "Hunter Henry",
+    "position": "TE"
+  },
+  {
+    "round": 11,
+    "pick": 11,
+    "player": "Michael Carter",
+    "position": "RB"
+  },
+  {
+    "round": 12,
+    "pick": 2,
+    "player": "Jalen Hurts",
+    "position": "QB"
+  },
+  {
+    "round": 13,
+    "pick": 11,
+    "player": "Gerald Everett",
+    "position": "TE"
+  },
+  {
+    "round": 14,
+    "pick": 2,
+    "player": "Justin Tucker",
+    "position": "K"
+  },
+  {
+    "round": 15,
+    "pick": 11,
+    "player": "Jamison Crowder",
+    "position": "WR"
+  },
+  {
+    "round": 16,
+    "pick": 2,
+    "player": "Ty'Son Williams",
+    "position": "RB"
+  }
+]

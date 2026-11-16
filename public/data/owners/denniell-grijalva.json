@@ -1,16 +1,27 @@
 {
   "owner": "Denniell Grijalva",
   "slug": "denniell-grijalva",
-  "wins": 10,
-  "losses": 18,
+  "wins": 15,
+  "losses": 27,
   "ties": 0,
-  "points_for": 3145.0,
-  "points_against": 3364.4,
+  "points_for": 4816.8,
+  "points_against": 5058.4,
   "titles": 0,
   "runners_up": 0,
   "thirds": 0,
   "lasts": 0,
   "seasons": [
+    {
+      "year": 2021,
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "wins": 5,
+      "losses": 9,
+      "ties": 0,
+      "points_for": 1671.8,
+      "points_against": 1694,
+      "finish": 11,
+      "league_size": 12
+    },
     {
       "year": 2023,
       "team_name": "1 Percent Poot",
@@ -35,5 +46,5 @@
     }
   ],
   "win_pct": 35.7,
-  "games": 28
+  "games": 42
 }

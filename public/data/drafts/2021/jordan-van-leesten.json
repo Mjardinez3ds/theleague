@@ -1,0 +1,98 @@
+[
+  {
+    "round": 1,
+    "pick": 9,
+    "player": "Tyreek Hill",
+    "position": "WR"
+  },
+  {
+    "round": 2,
+    "pick": 4,
+    "player": "Najee Harris",
+    "position": "RB"
+  },
+  {
+    "round": 3,
+    "pick": 9,
+    "player": "Chris Godwin Jr.",
+    "position": "WR"
+  },
+  {
+    "round": 4,
+    "pick": 4,
+    "player": "Lamar Jackson",
+    "position": "QB"
+  },
+  {
+    "round": 5,
+    "pick": 9,
+    "player": "Kareem Hunt",
+    "position": "RB"
+  },
+  {
+    "round": 6,
+    "pick": 4,
+    "player": "Jerry Jeudy",
+    "position": "WR"
+  },
+  {
+    "round": 7,
+    "pick": 9,
+    "player": "Tyler Higbee",
+    "position": "TE"
+  },
+  {
+    "round": 8,
+    "pick": 4,
+    "player": "DJ Chark",
+    "position": "WR"
+  },
+  {
+    "round": 9,
+    "pick": 9,
+    "player": "Mike Williams",
+    "position": "WR"
+  },
+  {
+    "round": 10,
+    "pick": 4,
+    "player": "Tony Pollard",
+    "position": "RB"
+  },
+  {
+    "round": 11,
+    "pick": 9,
+    "player": "Ravens",
+    "position": "D/ST"
+  },
+  {
+    "round": 12,
+    "pick": 4,
+    "player": "Latavius Murray",
+    "position": "RB"
+  },
+  {
+    "round": 13,
+    "pick": 9,
+    "player": "Harrison Butker",
+    "position": "K"
+  },
+  {
+    "round": 14,
+    "pick": 4,
+    "player": "Marlon Mack",
+    "position": "RB"
+  },
+  {
+    "round": 15,
+    "pick": 9,
+    "player": "Rondale Moore",
+    "position": "WR"
+  },
+  {
+    "round": 16,
+    "pick": 4,
+    "player": "Justin Fields",
+    "position": "QB"
+  }
+]

@@ -1,0 +1,159 @@
+{
+  "year": 2021,
+  "weeks": [
+    {
+      "week": 1,
+      "score": 159.66,
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "opponent_team": "Ryder",
+      "opponent_score": 112.58,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "score": 107.42,
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "opponent": "RJ",
+      "opponent_slug": "rj",
+      "opponent_team": "The Yeetles",
+      "opponent_score": 127.88,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "score": 119.02,
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "opponent_team": "Uncut Junior",
+      "opponent_score": 138.42,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "score": 97.7,
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "opponent": "Ricky Cano",
+      "opponent_slug": "ricky-cano",
+      "opponent_team": "Support Odell",
+      "opponent_score": 140.32,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "score": 116.2,
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "opponent_team": "Llerena\u2019s Buttpirates",
+      "opponent_score": 147.3,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "score": 146.94,
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "opponent": "Jordan van Leesten",
+      "opponent_slug": "jordan-van-leesten",
+      "opponent_team": "Twin River Buffet for 2",
+      "opponent_score": 126.28,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "score": 105.06,
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Mark won",
+      "opponent_score": 123.34,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "score": 104.76,
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "opponent": "Anthony Richardson",
+      "opponent_slug": "anthony-richardson",
+      "opponent_team": "UrMomSquirtedAgain",
+      "opponent_score": 146.62,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "score": 106.46,
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "opponent_team": "KEVINS LAST PLACE TEAM",
+      "opponent_score": 52.1,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "score": 101.02,
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "opponent_team": "I.AM.FINANCIALLY.RUINED.",
+      "opponent_score": 88.88,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "score": 122.4,
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "opponent": "Devon Malki",
+      "opponent_slug": "devon-malki",
+      "opponent_team": "Zach to the Future",
+      "opponent_score": 151.08,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "score": 88.84,
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "opponent_team": "Ryder",
+      "opponent_score": 97.12,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "score": 153.3,
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "opponent": "RJ",
+      "opponent_slug": "rj",
+      "opponent_team": "The Yeetles",
+      "opponent_score": 88.86,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "score": 142.98,
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "opponent_team": "Uncut Junior",
+      "opponent_score": 153.22,
+      "result": "L",
+      "is_playoff": false
+    }
+  ]
+}

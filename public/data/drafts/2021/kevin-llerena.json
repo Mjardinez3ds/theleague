@@ -1,0 +1,98 @@
+[
+  {
+    "round": 1,
+    "pick": 12,
+    "player": "Stefon Diggs",
+    "position": "WR"
+  },
+  {
+    "round": 2,
+    "pick": 1,
+    "player": "Calvin Ridley",
+    "position": "WR"
+  },
+  {
+    "round": 3,
+    "pick": 12,
+    "player": "Mike Evans",
+    "position": "WR"
+  },
+  {
+    "round": 4,
+    "pick": 1,
+    "player": "David Montgomery",
+    "position": "RB"
+  },
+  {
+    "round": 5,
+    "pick": 12,
+    "player": "Trey Sermon",
+    "position": "RB"
+  },
+  {
+    "round": 6,
+    "pick": 1,
+    "player": "Russell Wilson",
+    "position": "QB"
+  },
+  {
+    "round": 7,
+    "pick": 12,
+    "player": "Ronald Jones",
+    "position": "RB"
+  },
+  {
+    "round": 8,
+    "pick": 1,
+    "player": "Robert Tonyan",
+    "position": "TE"
+  },
+  {
+    "round": 9,
+    "pick": 12,
+    "player": "James Conner",
+    "position": "RB"
+  },
+  {
+    "round": 10,
+    "pick": 1,
+    "player": "Noah Fant",
+    "position": "TE"
+  },
+  {
+    "round": 11,
+    "pick": 12,
+    "player": "Elijah Moore",
+    "position": "WR"
+  },
+  {
+    "round": 12,
+    "pick": 1,
+    "player": "David Johnson",
+    "position": "RB"
+  },
+  {
+    "round": 13,
+    "pick": 12,
+    "player": "Rob Gronkowski",
+    "position": "TE"
+  },
+  {
+    "round": 14,
+    "pick": 1,
+    "player": "Baker Mayfield",
+    "position": "QB"
+  },
+  {
+    "round": 15,
+    "pick": 12,
+    "player": "Ryan Succop",
+    "position": "K"
+  },
+  {
+    "round": 16,
+    "pick": 1,
+    "player": "Jameis Winston",
+    "position": "QB"
+  }
+]

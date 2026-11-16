@@ -117,9 +117,11 @@ check("aggregates consistent", not bad, "; ".join(bad[:6]))
 
 print("\n[5b] titles/runners_up/thirds/lasts == counted finishes (+legacy)")
 bad = []
+# A legacy year that has real data (an archived season) is counted once, from the data.
+real_title_years = {y for y, h in history.items() if h.get("champion")}
 for slug, c in careers.items():
     fin = [s["finish"] for s in c["seasons"]]
-    exp_t = sum(1 for f in fin if f == 1) + len(legacy.get(slug, []))
+    exp_t = sum(1 for f in fin if f == 1) + len([y for y in legacy.get(slug, []) if y not in real_title_years])
     if exp_t != c["titles"]:
         bad.append(f"{slug}.titles: {c['titles']} != {exp_t} (career={sum(1 for f in fin if f==1)} legacy={len(legacy.get(slug,[]))})")
     for k, n in (("runners_up", 2), ("thirds", 3)):

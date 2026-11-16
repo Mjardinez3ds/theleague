@@ -5,19 +5,46 @@
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
       "wins": 4,
-      "losses": 3,
+      "losses": 4,
       "ties": 0,
-      "pf": 823.8,
-      "pa": 850.52
+      "pf": 913.0,
+      "pa": 949.32
     },
     {
       "opponent": "George Duran",
       "opponent_slug": "george-duran",
-      "wins": 4,
-      "losses": 2,
+      "wins": 5,
+      "losses": 3,
       "ties": 0,
-      "pf": 816.16,
-      "pa": 698.48
+      "pf": 1035.54,
+      "pa": 892.0
+    },
+    {
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "wins": 3,
+      "losses": 5,
+      "ties": 0,
+      "pf": 1019.76,
+      "pa": 1013.88
+    },
+    {
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "wins": 4,
+      "losses": 3,
+      "ties": 0,
+      "pf": 943.76,
+      "pa": 896.4
+    },
+    {
+      "opponent": "Ricky Cano",
+      "opponent_slug": "ricky-cano",
+      "wins": 6,
+      "losses": 1,
+      "ties": 0,
+      "pf": 934.02,
+      "pa": 796.76
     },
     {
       "opponent": "derf punk",
@@ -29,49 +56,31 @@
       "pa": 695.9
     },
     {
-      "opponent": "Marcus Jardinez",
-      "opponent_slug": "marcus-jardinez",
-      "wins": 2,
-      "losses": 4,
-      "ties": 0,
-      "pf": 778.58,
-      "pa": 811.88
-    },
-    {
-      "opponent": "Junior Peralta",
-      "opponent_slug": "junior-peralta",
-      "wins": 4,
-      "losses": 1,
-      "ties": 0,
-      "pf": 726.46,
-      "pa": 667.64
-    },
-    {
-      "opponent": "Ricky Cano",
-      "opponent_slug": "ricky-cano",
-      "wins": 4,
-      "losses": 1,
-      "ties": 0,
-      "pf": 667.98,
-      "pa": 563.34
-    },
-    {
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
-      "wins": 0,
+      "wins": 1,
       "losses": 5,
       "ties": 0,
-      "pf": 664.5,
-      "pa": 779.0
+      "pf": 790.32,
+      "pa": 852.46
     },
     {
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
       "wins": 1,
-      "losses": 3,
+      "losses": 4,
       "ties": 0,
-      "pf": 514.56,
-      "pa": 551.22
+      "pf": 598.64,
+      "pa": 719.78
+    },
+    {
+      "opponent": "Denniell Grijalva",
+      "opponent_slug": "denniell-grijalva",
+      "wins": 3,
+      "losses": 1,
+      "ties": 0,
+      "pf": 437.04,
+      "pa": 457.66
     },
     {
       "opponent": "Super Shyguy",
@@ -92,22 +101,22 @@
       "pa": 375.06
     },
     {
-      "opponent": "Denniell Grijalva",
-      "opponent_slug": "denniell-grijalva",
+      "opponent": "Anthony Richardson",
+      "opponent_slug": "anthony-richardson",
       "wins": 2,
       "losses": 0,
       "ties": 0,
-      "pf": 227.34,
-      "pa": 209.16
+      "pf": 300.76,
+      "pa": 251.36
     },
     {
-      "opponent": "Anthony Richardson",
-      "opponent_slug": "anthony-richardson",
-      "wins": 1,
+      "opponent": "RJ",
+      "opponent_slug": "rj",
+      "wins": 2,
       "losses": 0,
       "ties": 0,
-      "pf": 154.44,
-      "pa": 115.82
+      "pf": 240.92,
+      "pa": 97.72
     },
     {
       "opponent": "Abraham Pinales",
@@ -135,6 +144,15 @@
       "ties": 0,
       "pf": 159.92,
       "pa": 100.8
+    },
+    {
+      "opponent": "Jordan van Leesten",
+      "opponent_slug": "jordan-van-leesten",
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "pf": 158.22,
+      "pa": 191.58
     }
   ]
 }

@@ -1,16 +1,27 @@
 {
   "owner": "Kevin Liang",
   "slug": "kevin-liang",
-  "wins": 27,
-  "losses": 23,
+  "wins": 32,
+  "losses": 32,
   "ties": 1,
-  "points_for": 6116.8,
-  "points_against": 6248.1,
+  "points_for": 7683.6,
+  "points_against": 8031.5,
   "titles": 1,
   "runners_up": 0,
   "thirds": 0,
-  "lasts": 1,
+  "lasts": 2,
   "seasons": [
+    {
+      "year": 2021,
+      "team_name": "KEVINS LAST PLACE TEAM",
+      "wins": 5,
+      "losses": 9,
+      "ties": 0,
+      "points_for": 1566.8,
+      "points_against": 1783.4,
+      "finish": 12,
+      "league_size": 12
+    },
     {
       "year": 2023,
       "team_name": "DECAPITATED WEASEL",
@@ -56,6 +67,6 @@
       "league_size": 12
     }
   ],
-  "win_pct": 53.9,
-  "games": 51
+  "win_pct": 50.0,
+  "games": 65
 }

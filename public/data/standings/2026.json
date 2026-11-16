@@ -18,7 +18,7 @@
     },
     {
       "id": 10,
-      "team_name": "Maybe: SUV Hong",
+      "team_name": "Maybe:",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
       "wins": 8,
@@ -26,7 +26,7 @@
       "ties": 0,
       "points_for": 1323.8,
       "points_against": 1142.7,
-      "logo_url": "https://mystique-api.fantasy.espn.com/apis/v1/domains/lm/images/a35e4760-dccc-11f1-8920-035269672fca",
+      "logo_url": "https://mystique-api.fantasy.espn.com/apis/v1/domains/lm/images/cf89ba70-dedb-11f1-8902-81b7ea60f4aa",
       "finish": null
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "id": 5,
-      "team_name": "SLOB",
+      "team_name": "NORTH KOREAN ALLY",
       "owner": "George Duran",
       "owner_slug": "george-duran",
       "wins": 5,
@@ -65,7 +65,7 @@
       "ties": 0,
       "points_for": 1114.4,
       "points_against": 1031.5,
-      "logo_url": "https://mystique-api.fantasy.espn.com/apis/v1/domains/lm/images/2bb080a0-bdd4-11f1-8520-9185947ee637",
+      "logo_url": "https://mystique-api.fantasy.espn.com/apis/v1/domains/lm/images/83544600-ded3-11f1-be46-5dce0864fd96",
       "finish": null
     },
     {

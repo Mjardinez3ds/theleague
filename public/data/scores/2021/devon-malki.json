@@ -1,0 +1,192 @@
+{
+  "year": 2021,
+  "weeks": [
+    {
+      "week": 1,
+      "score": 124.06,
+      "team_name": "Zach to the Future",
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "opponent_team": "Uncut Junior",
+      "opponent_score": 132.4,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "score": 124.54,
+      "team_name": "Zach to the Future",
+      "opponent": "Ricky Cano",
+      "opponent_slug": "ricky-cano",
+      "opponent_team": "Support Odell",
+      "opponent_score": 136.82,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "score": 123.28,
+      "team_name": "Zach to the Future",
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "opponent_team": "Llerena\u2019s Buttpirates",
+      "opponent_score": 121.22,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "score": 147.36,
+      "team_name": "Zach to the Future",
+      "opponent": "Jordan van Leesten",
+      "opponent_slug": "jordan-van-leesten",
+      "opponent_team": "Twin River Buffet for 2",
+      "opponent_score": 120.44,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "score": 151.04,
+      "team_name": "Zach to the Future",
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Mark won",
+      "opponent_score": 97.54,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "score": 121.88,
+      "team_name": "Zach to the Future",
+      "opponent": "Anthony Richardson",
+      "opponent_slug": "anthony-richardson",
+      "opponent_team": "UrMomSquirtedAgain",
+      "opponent_score": 167.1,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "score": 142.34,
+      "team_name": "Zach to the Future",
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "opponent_team": "KEVINS LAST PLACE TEAM",
+      "opponent_score": 145.44,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "score": 123.2,
+      "team_name": "Zach to the Future",
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "opponent_team": "I.AM.FINANCIALLY.RUINED.",
+      "opponent_score": 126.36,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "score": 128.8,
+      "team_name": "Zach to the Future",
+      "opponent": "RJ",
+      "opponent_slug": "rj",
+      "opponent_team": "The Yeetles",
+      "opponent_score": 118.82,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "score": 98.8,
+      "team_name": "Zach to the Future",
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "opponent_team": "Ryder",
+      "opponent_score": 89.2,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "score": 151.08,
+      "team_name": "Zach to the Future",
+      "opponent": "Denniell Grijalva",
+      "opponent_slug": "denniell-grijalva",
+      "opponent_team": "Ruggs in Cuffs Speed Kills",
+      "opponent_score": 122.4,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "score": 130.94,
+      "team_name": "Zach to the Future",
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "opponent_team": "Uncut Junior",
+      "opponent_score": 159.2,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "score": 123.82,
+      "team_name": "Zach to the Future",
+      "opponent": "Ricky Cano",
+      "opponent_slug": "ricky-cano",
+      "opponent_team": "Support Odell",
+      "opponent_score": 123.26,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "score": 147.12,
+      "team_name": "Zach to the Future",
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "opponent_team": "Llerena\u2019s Buttpirates",
+      "opponent_score": 147.72,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 15,
+      "score": 111.96,
+      "team_name": "Zach to the Future",
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Mark won",
+      "opponent_score": 103.44,
+      "result": "W",
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "score": 123.68,
+      "team_name": "Zach to the Future",
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "opponent_team": "Uncut Junior",
+      "opponent_score": 156.36,
+      "result": "L",
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "score": 151.2,
+      "team_name": "Zach to the Future",
+      "opponent": "Anthony Richardson",
+      "opponent_slug": "anthony-richardson",
+      "opponent_team": "UrMomSquirtedAgain",
+      "opponent_score": 161.54,
+      "result": "L",
+      "is_playoff": true
+    }
+  ]
+}

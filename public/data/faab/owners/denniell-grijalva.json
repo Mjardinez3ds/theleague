@@ -2,7 +2,7 @@
   "slug": "denniell-grijalva",
   "owner": "Denniell Grijalva",
   "totals": {
-    "acquisitions": 113,
+    "acquisitions": 189,
     "spent": 180,
     "biggest_bid": {
       "year": 2023,
@@ -24,6 +24,12 @@
       "team_name": "1 Percent Poot",
       "acquisitions": 62,
       "spent": 100
+    },
+    {
+      "year": 2021,
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "acquisitions": 76,
+      "spent": 0
     }
   ]
 }

@@ -2,7 +2,7 @@
   "slug": "george-duran",
   "owner": "George Duran",
   "totals": {
-    "acquisitions": 185,
+    "acquisitions": 251,
     "spent": 371,
     "biggest_bid": {
       "year": 2026,
@@ -15,8 +15,8 @@
   "by_year": [
     {
       "year": 2026,
-      "team_name": "SLOB",
-      "acquisitions": 36,
+      "team_name": "NORTH KOREAN ALLY",
+      "acquisitions": 37,
       "spent": 100
     },
     {
@@ -36,6 +36,12 @@
       "team_name": "Tony Pollard Therapy Club ",
       "acquisitions": 64,
       "spent": 97
+    },
+    {
+      "year": 2021,
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "acquisitions": 65,
+      "spent": 0
     }
   ]
 }

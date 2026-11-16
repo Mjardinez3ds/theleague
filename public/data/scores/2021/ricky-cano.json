@@ -1,0 +1,159 @@
+{
+  "year": 2021,
+  "weeks": [
+    {
+      "week": 1,
+      "score": 144.58,
+      "team_name": "Support Odell",
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "opponent_team": "I.AM.FINANCIALLY.RUINED.",
+      "opponent_score": 96.32,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "score": 136.82,
+      "team_name": "Support Odell",
+      "opponent": "Devon Malki",
+      "opponent_slug": "devon-malki",
+      "opponent_team": "Zach to the Future",
+      "opponent_score": 124.54,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "score": 112,
+      "team_name": "Support Odell",
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "opponent_team": "Ryder",
+      "opponent_score": 135.54,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "score": 140.32,
+      "team_name": "Support Odell",
+      "opponent": "Denniell Grijalva",
+      "opponent_slug": "denniell-grijalva",
+      "opponent_team": "Ruggs in Cuffs Speed Kills",
+      "opponent_score": 97.7,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "score": 140.08,
+      "team_name": "Support Odell",
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "opponent_team": "Uncut Junior",
+      "opponent_score": 161.5,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "score": 107.88,
+      "team_name": "Support Odell",
+      "opponent": "RJ",
+      "opponent_slug": "rj",
+      "opponent_team": "The Yeetles",
+      "opponent_score": 133.74,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "score": 121.94,
+      "team_name": "Support Odell",
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "opponent_team": "Llerena\u2019s Buttpirates",
+      "opponent_score": 114.7,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "score": 95.9,
+      "team_name": "Support Odell",
+      "opponent": "Jordan van Leesten",
+      "opponent_slug": "jordan-van-leesten",
+      "opponent_team": "Twin River Buffet for 2",
+      "opponent_score": 119.84,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "score": 95.74,
+      "team_name": "Support Odell",
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Mark won",
+      "opponent_score": 106.2,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "score": 128.8,
+      "team_name": "Support Odell",
+      "opponent": "Anthony Richardson",
+      "opponent_slug": "anthony-richardson",
+      "opponent_team": "UrMomSquirtedAgain",
+      "opponent_score": 119.14,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "score": 103.1,
+      "team_name": "Support Odell",
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "opponent_team": "KEVINS LAST PLACE TEAM",
+      "opponent_score": 105.92,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "score": 124.7,
+      "team_name": "Support Odell",
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "opponent_team": "I.AM.FINANCIALLY.RUINED.",
+      "opponent_score": 126.98,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "score": 123.26,
+      "team_name": "Support Odell",
+      "opponent": "Devon Malki",
+      "opponent_slug": "devon-malki",
+      "opponent_team": "Zach to the Future",
+      "opponent_score": 123.82,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "score": 121.42,
+      "team_name": "Support Odell",
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "opponent_team": "Ryder",
+      "opponent_score": 130.5,
+      "result": "L",
+      "is_playoff": false
+    }
+  ]
+}

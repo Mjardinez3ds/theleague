@@ -1,0 +1,98 @@
+[
+  {
+    "round": 1,
+    "pick": 5,
+    "player": "Derrick Henry",
+    "position": "RB"
+  },
+  {
+    "round": 2,
+    "pick": 8,
+    "player": "DeAndre Hopkins",
+    "position": "WR"
+  },
+  {
+    "round": 3,
+    "pick": 5,
+    "player": "Julio Jones",
+    "position": "WR"
+  },
+  {
+    "round": 4,
+    "pick": 8,
+    "player": "Kyle Pitts Sr.",
+    "position": "TE"
+  },
+  {
+    "round": 5,
+    "pick": 5,
+    "player": "Kyler Murray",
+    "position": "QB"
+  },
+  {
+    "round": 6,
+    "pick": 8,
+    "player": "Chase Edmonds",
+    "position": "RB"
+  },
+  {
+    "round": 7,
+    "pick": 5,
+    "player": "Corey Davis",
+    "position": "WR"
+  },
+  {
+    "round": 8,
+    "pick": 8,
+    "player": "Jarvis Landry",
+    "position": "WR"
+  },
+  {
+    "round": 9,
+    "pick": 5,
+    "player": "Leonard Fournette",
+    "position": "RB"
+  },
+  {
+    "round": 10,
+    "pick": 8,
+    "player": "Nelson Agholor",
+    "position": "WR"
+  },
+  {
+    "round": 11,
+    "pick": 5,
+    "player": "Marvin Jones Jr.",
+    "position": "WR"
+  },
+  {
+    "round": 12,
+    "pick": 8,
+    "player": "Russell Gage Jr.",
+    "position": "WR"
+  },
+  {
+    "round": 13,
+    "pick": 5,
+    "player": "Browns",
+    "position": "D/ST"
+  },
+  {
+    "round": 14,
+    "pick": 8,
+    "player": "J.D. McKissic",
+    "position": "RB"
+  },
+  {
+    "round": 15,
+    "pick": 5,
+    "player": "Boston Scott",
+    "position": "RB"
+  },
+  {
+    "round": 16,
+    "pick": 8,
+    "player": "Robbie Gould",
+    "position": "K"
+  }
+]

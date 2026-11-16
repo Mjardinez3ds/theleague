@@ -1,0 +1,98 @@
+[
+  {
+    "round": 1,
+    "pick": 8,
+    "player": "Austin Ekeler",
+    "position": "RB"
+  },
+  {
+    "round": 2,
+    "pick": 5,
+    "player": "Antonio Gibson",
+    "position": "RB"
+  },
+  {
+    "round": 3,
+    "pick": 8,
+    "player": "Josh Allen",
+    "position": "QB"
+  },
+  {
+    "round": 4,
+    "pick": 5,
+    "player": "George Kittle",
+    "position": "TE"
+  },
+  {
+    "round": 5,
+    "pick": 8,
+    "player": "Adam Thielen",
+    "position": "WR"
+  },
+  {
+    "round": 6,
+    "pick": 5,
+    "player": "Myles Gaskin",
+    "position": "RB"
+  },
+  {
+    "round": 7,
+    "pick": 8,
+    "player": "Kenny Golladay",
+    "position": "WR"
+  },
+  {
+    "round": 8,
+    "pick": 5,
+    "player": "Melvin Gordon III",
+    "position": "RB"
+  },
+  {
+    "round": 9,
+    "pick": 8,
+    "player": "AJ Dillon",
+    "position": "RB"
+  },
+  {
+    "round": 10,
+    "pick": 5,
+    "player": "Michael Thomas",
+    "position": "WR"
+  },
+  {
+    "round": 11,
+    "pick": 8,
+    "player": "Darnell Mooney",
+    "position": "WR"
+  },
+  {
+    "round": 12,
+    "pick": 5,
+    "player": "Younghoe Koo",
+    "position": "K"
+  },
+  {
+    "round": 13,
+    "pick": 8,
+    "player": "Tyrell Williams",
+    "position": "WR"
+  },
+  {
+    "round": 14,
+    "pick": 5,
+    "player": "Tua Tagovailoa",
+    "position": "QB"
+  },
+  {
+    "round": 15,
+    "pick": 8,
+    "player": "Broncos",
+    "position": "D/ST"
+  },
+  {
+    "round": 16,
+    "pick": 5,
+    "player": "Dawson Knox",
+    "position": "TE"
+  }
+]

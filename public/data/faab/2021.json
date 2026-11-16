@@ -1,0 +1,8835 @@
+{
+  "year": 2021,
+  "transactions": [
+    {
+      "week": 1,
+      "date": "2021-09-07",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Baker Mayfield"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2021-09-07",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Gunner Olszewski"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2021-09-08",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Dawson Knox"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2021-09-09",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kadarius Toney"
+      ],
+      "dropped": [
+        "Todd Gurley"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2021-09-09",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Devonta Freeman"
+      ],
+      "dropped": [
+        "Curtis Samuel"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2021-09-09",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Gus Edwards"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2021-09-09",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Todd Gurley"
+      ],
+      "dropped": [
+        "Le'Veon Bell"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2021-09-09",
+      "owner": "RJ",
+      "owner_slug": "rj",
+      "team_name": "The Yeetles",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaguars"
+      ],
+      "dropped": [
+        "Cole Kmet"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2021-09-09",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Sam Darnold"
+      ],
+      "dropped": [
+        "Carson Wentz"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2021-09-09",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Christian Kirk"
+      ],
+      "dropped": [
+        "Terrace Marshall Jr."
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2021-09-09",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Parris Campbell"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2021-09-09",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Colts"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2021-09-09",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Justin Jackson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2021-09-09",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Trevor Lawrence"
+      ],
+      "dropped": [
+        "Tua Tagovailoa"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2021-09-09",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Twin River Buffet for 2",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tony Jones"
+      ],
+      "dropped": [
+        "Latavius Murray"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2021-09-09",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Saints"
+      ],
+      "dropped": [
+        "Rhamondre Stevenson"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2021-09-09",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Matt Gay"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2021-09-09",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Chuba Hubbard"
+      ],
+      "dropped": [
+        "Jalen Reagor"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2021-09-09",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Panthers"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2021-09-10",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Devonta Freeman"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2021-09-11",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Josh Lambo"
+      ],
+      "dropped": [
+        "Quinn Nordin"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2021-09-12",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Tevin Coleman"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2021-09-12",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Nick Folk"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2021-09-12",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Packers"
+      ],
+      "dropped": [
+        "Giants"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2021-09-12",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Rhamondre Stevenson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 1,
+      "date": "2021-09-12",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Latavius Murray"
+      ],
+      "dropped": [
+        "Michael Carter"
+      ]
+    },
+    {
+      "week": 1,
+      "date": "2021-09-13",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Justin Jackson"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2021-09-14",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Raheem Mostert"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2021-09-14",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Nick Folk"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2021-09-14",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Mike Gesicki"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2021-09-14",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Kadarius Toney"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2021-09-15",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jalen Reagor"
+      ],
+      "dropped": [
+        "Damien Williams"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2021-09-15",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaret Patterson"
+      ],
+      "dropped": [
+        "Tyrell Williams"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2021-09-15",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Larry Rountree III"
+      ],
+      "dropped": [
+        "Salvon Ahmed"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2021-09-15",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Twin River Buffet for 2",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chiefs"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2021-09-15",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tim Patrick"
+      ],
+      "dropped": [
+        "Rashaad Penny"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2021-09-15",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Carlos Hyde"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2021-09-15",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Evan McPherson"
+      ],
+      "dropped": [
+        "Rodrigo Blankenship"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2021-09-15",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Giants"
+      ],
+      "dropped": [
+        "Packers"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2021-09-15",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dalton Schultz"
+      ],
+      "dropped": [
+        "Evan Engram"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2021-09-15",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Salvon Ahmed"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2021-09-15",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dolphins"
+      ],
+      "dropped": [
+        "Parris Campbell"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2021-09-15",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Sammy Watkins"
+      ],
+      "dropped": [
+        "Colts"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2021-09-15",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Evan Engram"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2021-09-15",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Mark Ingram II"
+      ],
+      "dropped": [
+        "Adam Humphries"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2021-09-15",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Cardinals"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2021-09-15",
+      "owner": "RJ",
+      "owner_slug": "rj",
+      "team_name": "The Yeetles",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Elijah Mitchell"
+      ],
+      "dropped": [
+        "Malcolm Brown"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2021-09-15",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kenny Gainwell"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2021-09-15",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Damien Williams"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2021-09-16",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Deonte Harty"
+      ],
+      "dropped": [
+        "Jameis Winston"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2021-09-16",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Juwan Johnson"
+      ],
+      "dropped": [
+        "Elijah Moore"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2021-09-16",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ty Johnson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 2,
+      "date": "2021-09-16",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "A.J. Green"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2021-09-18",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Packers"
+      ],
+      "dropped": [
+        "Panthers"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2021-09-19",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Nick Folk"
+      ],
+      "dropped": [
+        "Josh Lambo"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2021-09-19",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Damien Williams"
+      ],
+      "dropped": [
+        "Zack Moss"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2021-09-19",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Jamison Crowder"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2021-09-21",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "49ers"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2021-09-21",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Jason Myers"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2021-09-22",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cole Kmet"
+      ],
+      "dropped": [
+        "Giants"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2021-09-22",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "K.J. Osborn"
+      ],
+      "dropped": [
+        "Jeff Wilson Jr."
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2021-09-22",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Demetric Felton"
+      ],
+      "dropped": [
+        "Rhamondre Stevenson"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2021-09-22",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bears"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2021-09-22",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Curtis Samuel"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2021-09-22",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jeff Wilson Jr."
+      ],
+      "dropped": [
+        "Jaret Patterson"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2021-09-22",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Evan Engram"
+      ],
+      "dropped": [
+        "Ben Roethlisberger"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2021-09-22",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darius Slayton"
+      ],
+      "dropped": [
+        "Dalton Schultz"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2021-09-22",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Zack Moss"
+      ],
+      "dropped": [
+        "Damien Williams"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2021-09-22",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Graham Gano"
+      ],
+      "dropped": [
+        "Tyler Bass"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2021-09-22",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Michael Carter"
+      ],
+      "dropped": [
+        "Gerald Everett"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2021-09-22",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Cordarrelle Patterson"
+      ],
+      "dropped": [
+        "Eric Ebron"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2021-09-22",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Zach Pascal"
+      ],
+      "dropped": [
+        "Jonnu Smith"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2021-09-22",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Panthers"
+      ],
+      "dropped": [
+        "Dolphins"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2021-09-22",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Raiders"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2021-09-22",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Titans"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2021-09-22",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Jalen Reagor"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2021-09-22",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Daniel Carlson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2021-09-23",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Quintez Cephus"
+      ],
+      "dropped": [
+        "K.J. Osborn"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2021-09-24",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Derek Carr"
+      ],
+      "dropped": [
+        "Cole Kmet"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2021-09-24",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rashod Bateman"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 3,
+      "date": "2021-09-25",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jalen Reagor"
+      ],
+      "dropped": [
+        "Trevor Lawrence"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2021-09-25",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Giants"
+      ],
+      "dropped": [
+        "Packers"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2021-09-26",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matt Prater"
+      ],
+      "dropped": [
+        "Ryan Succop"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2021-09-26",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Daniel Jones"
+      ],
+      "dropped": [
+        "Derek Carr"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2021-09-28",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Daniel Jones"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2021-09-28",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Jalen Reagor"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2021-09-28",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "James White"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2021-09-28",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Evan Engram"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2021-09-28",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Darius Slayton"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2021-09-28",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Quintez Cephus"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2021-09-28",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Raiders"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2021-09-29",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rhamondre Stevenson"
+      ],
+      "dropped": [
+        "Carlos Hyde"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2021-09-29",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Hunter Renfrow"
+      ],
+      "dropped": [
+        "Younghoe Koo"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2021-09-29",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "DeSean Jackson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2021-09-29",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dawson Knox"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2021-09-29",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Mike Gesicki"
+      ],
+      "dropped": [
+        "Demetric Felton"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2021-09-29",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Packers"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2021-09-29",
+      "owner": "RJ",
+      "owner_slug": "rj",
+      "team_name": "The Yeetles",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Bengals"
+      ],
+      "dropped": [
+        "Jaguars"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2021-09-29",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Tyler Bass"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2021-09-29",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "J.J. Taylor"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2021-09-29",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dalton Schultz"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2021-09-30",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Deshaun Watson"
+      ],
+      "dropped": [
+        "Larry Rountree III"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2021-09-30",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Darnell Mooney"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2021-10-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Peyton Barber"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2021-10-02",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Derek Carr"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2021-10-02",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Colts"
+      ],
+      "dropped": [
+        "Giants"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2021-10-02",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brandon McManus"
+      ],
+      "dropped": [
+        "Nick Folk"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2021-10-02",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cowboys"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2021-10-02",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Evan Engram"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 4,
+      "date": "2021-10-02",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Juwan Johnson"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2021-10-02",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Deonte Harty"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2021-10-03",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jared Cook"
+      ],
+      "dropped": [
+        "Sammy Watkins"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-05",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Bears"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-05",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Deshaun Watson"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-05",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Peyton Barber"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-05",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Derek Carr"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-06",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Alex Collins"
+      ],
+      "dropped": [
+        "Zach Pascal"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-06",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jonnu Smith"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2021-10-06",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Falcons"
+      ],
+      "dropped": [
+        "Colts"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-06",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rodrigo Blankenship"
+      ],
+      "dropped": [
+        "Evan McPherson"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-06",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Josh Gordon"
+      ],
+      "dropped": [
+        "Curtis Samuel"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-06",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kadarius Toney"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2021-10-06",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Evan Engram"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-06",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Raiders"
+      ],
+      "dropped": [
+        "Titans"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-06",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Zach Ertz"
+      ],
+      "dropped": [
+        "Jonnu Smith"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-06",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jonnu Smith"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2021-10-06",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Vikings"
+      ],
+      "dropped": [
+        "Hunter Henry"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-06",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darnell Mooney"
+      ],
+      "dropped": [
+        "Ty'Son Williams"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-06",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Randall Cobb"
+      ],
+      "dropped": [
+        "Ronald Jones"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-06",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jeremy McNichols"
+      ],
+      "dropped": [
+        "Ty Johnson"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-06",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Twin River Buffet for 2",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "A.J. Green"
+      ],
+      "dropped": [
+        "DJ Chark"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-06",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Chase McLaughlin"
+      ],
+      "dropped": [
+        "Brandon McManus"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-06",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jamison Crowder"
+      ],
+      "dropped": [
+        "Kenyan Drake"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-06",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Trey Lance"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2021-10-06",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Sammy Watkins"
+      ],
+      "dropped": [
+        "David Johnson"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-06",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Samaje Perine"
+      ],
+      "dropped": [
+        "Mark Ingram II"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-06",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Twin River Buffet for 2",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Damien Williams"
+      ],
+      "dropped": [
+        "Tony Jones"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-07",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Van Jefferson"
+      ],
+      "dropped": [
+        "Khalil Herbert"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-07",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Khalil Herbert"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2021-10-07",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kirk Cousins"
+      ],
+      "dropped": [
+        "Trey Sermon"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-07",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "KEVINS LAST PLACE TEAM",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chargers"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2021-10-07",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "KEVINS LAST PLACE TEAM",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ryan Succop"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2021-10-07",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "KEVINS LAST PLACE TEAM",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Browns"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-07",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "KEVINS LAST PLACE TEAM",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Robbie Gould"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-08",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "C.J. Uzomah"
+      ],
+      "dropped": [
+        "Packers"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-08",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mason Crosby"
+      ],
+      "dropped": [
+        "Chase McLaughlin"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-10",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Colts"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2021-10-10",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ty'Son Williams"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 5,
+      "date": "2021-10-10",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ronald Jones"
+      ],
+      "dropped": [
+        "C.J. Uzomah"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-10",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Trey Sermon"
+      ],
+      "dropped": [
+        "J.J. Taylor"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-11",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Trey Lance"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-11",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Josh Gordon"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2021-10-11",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Zach Ertz"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2021-10-12",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Rodrigo Blankenship"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2021-10-12",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Vikings"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2021-10-12",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Daniel Carlson"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2021-10-12",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Raiders"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2021-10-13",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jeff Wilson Jr."
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2021-10-13",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Carson Wentz"
+      ],
+      "dropped": [
+        "Kirk Cousins"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2021-10-13",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Jonnu Smith"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2021-10-13",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chase McLaughlin"
+      ],
+      "dropped": [
+        "Mason Crosby"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2021-10-13",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Khalil Herbert"
+      ],
+      "dropped": [
+        "DeVante Parker"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2021-10-13",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "T.Y. Hilton"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2021-10-13",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Juwan Johnson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2021-10-13",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "JuJu Smith-Schuster"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2021-10-13",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Amon-Ra St. Brown"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2021-10-13",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jameis Winston"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2021-10-13",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dolphins"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2021-10-13",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Packers"
+      ],
+      "dropped": [
+        "Cowboys"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2021-10-13",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Evan McPherson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2021-10-13",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jerick McKinnon"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2021-10-13",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Devontae Booker"
+      ],
+      "dropped": [
+        "Panthers"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2021-10-13",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "KEVINS LAST PLACE TEAM",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Hunter Henry"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2021-10-13",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Gerald Everett"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2021-10-13",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brandon McManus"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2021-10-13",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Ronald Jones"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2021-10-14",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Kenny Gainwell"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2021-10-14",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Nick Folk"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2021-10-14",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brandon Bolden"
+      ],
+      "dropped": [
+        "Juwan Johnson"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2021-10-14",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Zach Ertz"
+      ],
+      "dropped": [
+        "Jared Cook"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2021-10-15",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Derek Carr"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2021-10-16",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Deonte Harty"
+      ],
+      "dropped": [
+        "Ty'Son Williams"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2021-10-16",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Adam Humphries"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2021-10-16",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ricky Seals-Jones"
+      ],
+      "dropped": [
+        "Brandon Bolden"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2021-10-16",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Carlos Hyde"
+      ],
+      "dropped": [
+        "Gabe Davis"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2021-10-16",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Twin River Buffet for 2",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rashaad Penny"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2021-10-16",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaguars"
+      ],
+      "dropped": [
+        "Falcons"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2021-10-16",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Panthers"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2021-10-16",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "DeVante Parker"
+      ],
+      "dropped": [
+        "Randall Cobb"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2021-10-16",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Twin River Buffet for 2",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Cowboys"
+      ],
+      "dropped": [
+        "Chiefs"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2021-10-17",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "DeSean Jackson"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2021-10-17",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Demetric Felton"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2021-10-17",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Evan Engram"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 6,
+      "date": "2021-10-17",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Vikings"
+      ],
+      "dropped": [
+        "Dolphins"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2021-10-17",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Boswell"
+      ],
+      "dropped": [
+        "Brandon McManus"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-19",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "KEVINS LAST PLACE TEAM",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Chargers"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-19",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Packers"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-19",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Nick Folk"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-19",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Robert Tonyan"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-19",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Jaguars"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-19",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Vikings"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-19",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Chris Boswell"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-19",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Carlos Hyde"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-19",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Trey Sermon"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-19",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Saints"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-20",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Dustin Hopkins"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-20",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Deshaun Watson"
+      ],
+      "dropped": [
+        "Kendrick Bourne"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-20",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kenny Gainwell"
+      ],
+      "dropped": [
+        "Deonte Harty"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-20",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tua Tagovailoa"
+      ],
+      "dropped": [
+        "Jameis Winston"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-20",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "49ers"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2021-10-20",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Elijah Moore"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2021-10-20",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Amon-Ra St. Brown"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-20",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Jeremy McNichols"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-20",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Randall Cobb"
+      ],
+      "dropped": [
+        "Darius Slayton"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-20",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brandon McManus"
+      ],
+      "dropped": [
+        "Chase McLaughlin"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-20",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Randy Bullock"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2021-10-20",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Austin Hooper"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-20",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mo Alie-Cox"
+      ],
+      "dropped": [
+        "Evan Engram"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-20",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dustin Hopkins"
+      ],
+      "dropped": [
+        "Graham Gano"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-20",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kendrick Bourne"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2021-10-20",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darius Slayton"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2021-10-20",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mark Ingram II"
+      ],
+      "dropped": [
+        "DeeJay Dallas"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-20",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mason Crosby"
+      ],
+      "dropped": [
+        "Evan McPherson"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-20",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "DeeJay Dallas"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2021-10-20",
+      "owner": "RJ",
+      "owner_slug": "rj",
+      "team_name": "The Yeetles",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Browns"
+      ],
+      "dropped": [
+        "Bengals"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-20",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Twin River Buffet for 2",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jaret Patterson"
+      ],
+      "dropped": [
+        "Justin Fields"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-20",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Kenyan Drake"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2021-10-20",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Donovan Peoples-Jones"
+      ],
+      "dropped": [
+        "Gerald Everett"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-20",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "D'Ernest Johnson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2021-10-20",
+      "owner": "RJ",
+      "owner_slug": "rj",
+      "team_name": "The Yeetles",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Daniel Carlson"
+      ],
+      "dropped": [
+        "Phillip Lindsay"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-20",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Younghoe Koo"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2021-10-21",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brandon Bolden"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2021-10-21",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Saints"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2021-10-21",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Joey Slye"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2021-10-22",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Zach Pascal"
+      ],
+      "dropped": [
+        "Kenny Gainwell"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-22",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "O.J. Howard"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2021-10-22",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Devonta Freeman"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2021-10-22",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "KEVINS LAST PLACE TEAM",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Packers"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2021-10-23",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Deshaun Watson"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-23",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "DeeJay Dallas"
+      ],
+      "dropped": [
+        "Brandon Bolden"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-23",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Marquez Valdes-Scantling"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2021-10-24",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chargers"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2021-10-24",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Allen Lazard"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2021-10-24",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darius Slayton"
+      ],
+      "dropped": [
+        "Mack Hollins"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-24",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mack Hollins"
+      ],
+      "dropped": [
+        "Zach Pascal"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-24",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Gerald Everett"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2021-10-24",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Robert Tonyan"
+      ],
+      "dropped": [
+        "Mo Alie-Cox"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-24",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Demetric Felton"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-24",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Amon-Ra St. Brown"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 7,
+      "date": "2021-10-24",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Marquez Valdes-Scantling"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2021-10-24",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Randall Cobb"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-26",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Adam Humphries"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-26",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Devonta Freeman"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-26",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Tua Tagovailoa"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-26",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Tim Patrick"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-26",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Donovan Peoples-Jones"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-26",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Randy Bullock"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-26",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Amon-Ra St. Brown"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-26",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Mason Crosby"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-26",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Derek Carr"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-26",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Gerald Everett"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Evan Engram"
+      ],
+      "dropped": [
+        "David Johnson"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ronald Jones"
+      ],
+      "dropped": [
+        "Rhamondre Stevenson"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Phillip Lindsay"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "David Johnson"
+      ],
+      "dropped": [
+        "Ronald Jones"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ronald Jones"
+      ],
+      "dropped": [
+        "Larry Rountree III"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "O.J. Howard"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "K.J. Osborn"
+      ],
+      "dropped": [
+        "Brandon Bolden"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Marquez Valdes-Scantling"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Falcons"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Larry Rountree III"
+      ],
+      "dropped": [
+        "Curtis Samuel"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ty Johnson"
+      ],
+      "dropped": [
+        "Sammy Watkins"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mo Alie-Cox"
+      ],
+      "dropped": [
+        "Mark Ingram II"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Titans"
+      ],
+      "dropped": [
+        "Broncos"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jake Elliott"
+      ],
+      "dropped": [
+        "Joey Slye"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Curtis Samuel"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Graham Gano"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Falcons"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brandon Bolden"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Conklin"
+      ],
+      "dropped": [
+        "Ricky Seals-Jones"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Randall Cobb"
+      ],
+      "dropped": [
+        "DeeJay Dallas"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Seahawks"
+      ],
+      "dropped": [
+        "Saints"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Evan McPherson"
+      ],
+      "dropped": [
+        "Darnell Mooney"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jared Cook"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Kirk Cousins"
+      ],
+      "dropped": [
+        "Carson Wentz"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Nick Folk"
+      ],
+      "dropped": [
+        "Brandon McManus"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "C.J. Uzomah"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Bengals"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Kenny Gainwell"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Brandon Aiyuk"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-27",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Latavius Murray"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-28",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "David Johnson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2021-10-28",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Joshua Kelley"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2021-10-28",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kalif Raymond"
+      ],
+      "dropped": [
+        "David Johnson"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-28",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Darius Slayton"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-28",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "David Johnson"
+      ],
+      "dropped": [
+        "Patriots"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-28",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "T.Y. Hilton"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-28",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Jamison Crowder"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-28",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Jerick McKinnon"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-28",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "KEVINS LAST PLACE TEAM",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Boston Scott"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-29",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brandon Bolden"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2021-10-29",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Twin River Buffet for 2",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Rashaad Penny"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-30",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Broncos"
+      ],
+      "dropped": [
+        "Titans"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-30",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Saints"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 8,
+      "date": "2021-10-30",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "KEVINS LAST PLACE TEAM",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Mark Ingram II"
+      ],
+      "dropped": [
+        "Russell Gage Jr."
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-30",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Twin River Buffet for 2",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Carson Wentz"
+      ],
+      "dropped": [
+        "Jaret Patterson"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-31",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Boston Scott"
+      ],
+      "dropped": [
+        "Chargers"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-31",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "T.Y. Hilton"
+      ],
+      "dropped": [
+        "Ty Johnson"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-10-31",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ricky Seals-Jones"
+      ],
+      "dropped": [
+        "Tyler Conklin"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2021-11-01",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Derek Carr"
+      ],
+      "dropped": [
+        "T.Y. Hilton"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-02",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Henry Ruggs III"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-02",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Evan McPherson"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-02",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "K.J. Osborn"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-02",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Kalif Raymond"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-02",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Ricky Seals-Jones"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-02",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Jared Cook"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-03",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Joshua Kelley"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-03",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ty Johnson"
+      ],
+      "dropped": [
+        "Tajae Sharpe"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-03",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mike White"
+      ],
+      "dropped": [
+        "Taysom Hill"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-03",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "KEVINS LAST PLACE TEAM",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Ryan Succop"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-03",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Taysom Hill"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2021-11-03",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Broncos"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-03",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Daniel Jones"
+      ],
+      "dropped": [
+        "Commanders"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-03",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tajae Sharpe"
+      ],
+      "dropped": [
+        "Alex Collins"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-03",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Conklin"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2021-11-03",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chargers"
+      ],
+      "dropped": [
+        "Phillip Lindsay"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-03",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Latavius Murray"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2021-11-03",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Derrick Gore"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2021-11-03",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Brandon Aiyuk"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2021-11-03",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Dolphins"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2021-11-03",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Patriots"
+      ],
+      "dropped": [
+        "Seahawks"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-03",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Pat Freiermuth"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2021-11-03",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Carlos Hyde"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2021-11-03",
+      "owner": "RJ",
+      "owner_slug": "rj",
+      "team_name": "The Yeetles",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Adrian Peterson"
+      ],
+      "dropped": [
+        "Daniel Carlson"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-03",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jeremy McNichols"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2021-11-04",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darnell Mooney"
+      ],
+      "dropped": [
+        "Sammy Watkins"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-04",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Sammy Watkins"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2021-11-04",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Michael Thomas"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-04",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Michael Badgley"
+      ],
+      "dropped": [
+        "Brandon Bolden"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-04",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Marquez Valdes-Scantling"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-04",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tua Tagovailoa"
+      ],
+      "dropped": [
+        "Mike White"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-04",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chiefs"
+      ],
+      "dropped": [
+        "Bengals"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-05",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jordan Love"
+      ],
+      "dropped": [
+        "Calvin Ridley"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-05",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dan Arnold"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2021-11-05",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jordan Howard"
+      ],
+      "dropped": [
+        "Cedrick Wilson Jr."
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-05",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cedrick Wilson Jr."
+      ],
+      "dropped": [
+        "Rashard Higgins"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-05",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Darius Slayton"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2021-11-05",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Donovan Peoples-Jones"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2021-11-05",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rashard Higgins"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2021-11-05",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Allen Robinson"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-05",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Marlon Mack"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-05",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Deonte Harty"
+      ],
+      "dropped": [
+        "Derek Carr"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-05",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Taysom Hill"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-05",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Taysom Hill"
+      ],
+      "dropped": [
+        "Tua Tagovailoa"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-05",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jared Cook"
+      ],
+      "dropped": [
+        "Kirk Cousins"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-05",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Tyler Conklin"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-06",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Devonta Freeman"
+      ],
+      "dropped": [
+        "Latavius Murray"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-06",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Daniel Carlson"
+      ],
+      "dropped": [
+        "Matt Prater"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-06",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rhamondre Stevenson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2021-11-07",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Bryan Edwards"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-07",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "D'Ernest Johnson"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-07",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Trey Lance"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2021-11-07",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "KEVINS LAST PLACE TEAM",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dustin Hopkins"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2021-11-07",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "KEVINS LAST PLACE TEAM",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Raiders"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2021-11-07",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "KEVINS LAST PLACE TEAM",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Hunter Henry"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-07",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "KEVINS LAST PLACE TEAM",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Packers"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-07",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tim Patrick"
+      ],
+      "dropped": [
+        "Devonta Freeman"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-08",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Alex Collins"
+      ],
+      "dropped": [
+        "Ty Johnson"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2021-11-08",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaret Patterson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 9,
+      "date": "2021-11-08",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Allen Robinson"
+      ],
+      "dropped": [
+        "C.J. Uzomah"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-09",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Sam Darnold"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-09",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Noah Fant"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-09",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Devontae Booker"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-09",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Khalil Herbert"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-09",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Saints"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-09",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Jordan Love"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-09",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Dolphins"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-09",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Daniel Jones"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-09",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Kenny Golladay"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-09",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Trey Lance"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-09",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Mo Alie-Cox"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-09",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Derrick Gore"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-09",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Chargers"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-09",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Mecole Hardman Jr."
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-09",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "David Johnson"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-10",
+      "owner": "RJ",
+      "owner_slug": "rj",
+      "team_name": "The Yeetles",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matt Prater"
+      ],
+      "dropped": [
+        "Robbie Chosen"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-10",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Randall Cobb"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-10",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Packers"
+      ],
+      "dropped": [
+        "Chiefs"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-10",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Scotty Miller"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2021-11-10",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Johnson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2021-11-10",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kirk Cousins"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2021-11-10",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "T.Y. Hilton"
+      ],
+      "dropped": [
+        "Jaret Patterson"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-10",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Broncos"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2021-11-10",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Devonta Freeman"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2021-11-10",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Derek Carr"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2021-11-10",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Russell Gage Jr."
+      ],
+      "dropped": [
+        "Marquez Valdes-Scantling"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-10",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Ryan Succop"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2021-11-10",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Justin Fields"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2021-11-10",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Chris Boswell"
+      ],
+      "dropped": [
+        "Nick Folk"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-10",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Calvin Ridley"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2021-11-10",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Titans"
+      ],
+      "dropped": [
+        "Michael Badgley"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-10",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Brandon Bolden"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2021-11-10",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Twin River Buffet for 2",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "D'Ernest Johnson"
+      ],
+      "dropped": [
+        "Ravens"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-10",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Eno Benjamin"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2021-11-10",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Marquez Valdes-Scantling"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2021-11-10",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Commanders"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2021-11-11",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "KEVINS LAST PLACE TEAM",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Eagles"
+      ],
+      "dropped": [
+        "Raiders"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-12",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dwayne Washington"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2021-11-12",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kalen Ballage"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2021-11-12",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Hunter Henry"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2021-11-12",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Kenny Golladay"
+      ],
+      "dropped": [
+        "Darius Slayton"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-12",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Noah Fant"
+      ],
+      "dropped": [
+        "Mike Davis"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-13",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mecole Hardman Jr."
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2021-11-13",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Julio Jones"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-13",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Graham Gano"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-13",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Kirk Cousins"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-13",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jaret Patterson"
+      ],
+      "dropped": [
+        "Dan Arnold"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-13",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jamison Crowder"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2021-11-13",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Giovani Bernard"
+      ],
+      "dropped": [
+        "Eno Benjamin"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-14",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Devontae Booker"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2021-11-14",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Matt Ryan"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-14",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ty Johnson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2021-11-14",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Giovani Bernard"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2021-11-14",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "KEVINS LAST PLACE TEAM",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Trevor Lawrence"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 10,
+      "date": "2021-11-15",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "T.Y. Hilton"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-16",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Tyler Johnson"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-16",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Jamison Crowder"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-16",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Russell Gage Jr."
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-16",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Kenny Gainwell"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-16",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Boston Scott"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-17",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Latavius Murray"
+      ],
+      "dropped": [
+        "Brandon Bolden"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-17",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jamal Agnew"
+      ],
+      "dropped": [
+        "Kadarius Toney"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-17",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chargers"
+      ],
+      "dropped": [
+        "Devonta Freeman"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-17",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dan Arnold"
+      ],
+      "dropped": [
+        "Zach Ertz"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-17",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Marcus Johnson"
+      ],
+      "dropped": [
+        "Jeremy McNichols"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-17",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Julio Jones"
+      ],
+      "dropped": [
+        "Justin Fields"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-17",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dolphins"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2021-11-17",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "David Johnson"
+      ],
+      "dropped": [
+        "Jared Cook"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-17",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Randy Bullock"
+      ],
+      "dropped": [
+        "Chris Boswell"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-17",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Seahawks"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2021-11-17",
+      "owner": "RJ",
+      "owner_slug": "rj",
+      "team_name": "The Yeetles",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Robbie Chosen"
+      ],
+      "dropped": [
+        "Robert Woods"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-17",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Mike Davis"
+      ],
+      "dropped": [
+        "Carlos Hyde"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-17",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Ravens"
+      ],
+      "dropped": [
+        "Broncos"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-17",
+      "owner": "RJ",
+      "owner_slug": "rj",
+      "team_name": "The Yeetles",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "D'Onta Foreman"
+      ],
+      "dropped": [
+        "Matt Prater"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-17",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Wayne Gallman"
+      ],
+      "dropped": [
+        "Dwayne Washington"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-18",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Michael Badgley"
+      ],
+      "dropped": [
+        "Matt Gay"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-18",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyler Conklin"
+      ],
+      "dropped": [
+        "Latavius Murray"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-19",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Larry Rountree III"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2021-11-19",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bryan Edwards"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2021-11-19",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Chris Carson"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-20",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jamison Crowder"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2021-11-20",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Twin River Buffet for 2",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tua Tagovailoa"
+      ],
+      "dropped": [
+        "Rondale Moore"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-20",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Khalil Herbert"
+      ],
+      "dropped": [
+        "Ty Johnson"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-20",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "James Washington"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2021-11-20",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Devonta Freeman"
+      ],
+      "dropped": [
+        "Larry Rountree III"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-20",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Zach Ertz"
+      ],
+      "dropped": [
+        "Devontae Booker"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-20",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Kadarius Toney"
+      ],
+      "dropped": [
+        "Bryan Edwards"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-21",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Broncos"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2021-11-21",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "KEVINS LAST PLACE TEAM",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ben Roethlisberger"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2021-11-21",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "KEVINS LAST PLACE TEAM",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Trevor Lawrence"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-21",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rashard Higgins"
+      ],
+      "dropped": [
+        "Khalil Herbert"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-21",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bears"
+      ],
+      "dropped": [
+        "Jordan Howard"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2021-11-21",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Latavius Murray"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2021-11-21",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rashaad Penny"
+      ],
+      "dropped": [
+        "Mike Davis"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2021-11-23",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Marcus Johnson"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2021-11-23",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Jamison Crowder"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2021-11-23",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Kalen Ballage"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2021-11-23",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Younghoe Koo"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2021-11-23",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Rashaad Penny"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2021-11-23",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "James Washington"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2021-11-24",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Dolphins"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2021-11-24",
+      "owner": "RJ",
+      "owner_slug": "rj",
+      "team_name": "The Yeetles",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Falcons"
+      ],
+      "dropped": [
+        "Adrian Peterson"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2021-11-24",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tevin Coleman"
+      ],
+      "dropped": [
+        "Jamal Agnew"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2021-11-24",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Matt Gay"
+      ],
+      "dropped": [
+        "Randy Bullock"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2021-11-24",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Vikings"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2021-11-24",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mike Davis"
+      ],
+      "dropped": [
+        "Tevin Coleman"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2021-11-24",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tevin Coleman"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2021-11-24",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Texans"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2021-11-24",
+      "owner": "RJ",
+      "owner_slug": "rj",
+      "team_name": "The Yeetles",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Cole Kmet"
+      ],
+      "dropped": [
+        "Browns"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2021-11-24",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Cam Newton"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2021-11-24",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Kirk Cousins"
+      ],
+      "dropped": [
+        "Seahawks"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2021-11-24",
+      "owner": "RJ",
+      "owner_slug": "rj",
+      "team_name": "The Yeetles",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Ty Johnson"
+      ],
+      "dropped": [
+        "D'Onta Foreman"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2021-11-24",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Tony Jones"
+      ],
+      "dropped": [
+        "Wayne Gallman"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2021-11-24",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Cedrick Wilson Jr."
+      ],
+      "dropped": [
+        "Rashard Higgins"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2021-11-24",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Twin River Buffet for 2",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Chris Boswell"
+      ],
+      "dropped": [
+        "Damien Williams"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2021-11-24",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Nick Folk"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2021-11-24",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Matt Ryan"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2021-11-25",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Marquez Valdes-Scantling"
+      ],
+      "dropped": [
+        "Titans"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2021-11-25",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Twin River Buffet for 2",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kendrick Bourne"
+      ],
+      "dropped": [
+        "Tua Tagovailoa"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2021-11-26",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Russell Gage Jr."
+      ],
+      "dropped": [
+        "Curtis Samuel"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2021-11-26",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Curtis Samuel"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2021-11-26",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jamison Crowder"
+      ],
+      "dropped": [
+        "Deonte Harty"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2021-11-27",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "D'Onta Foreman"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2021-11-29",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Cam Newton"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2021-11-29",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Dan Arnold"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2021-11-29",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Latavius Murray"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2021-11-30",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Will Fuller V"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2021-11-30",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Tony Jones"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2021-11-30",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Chargers"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2021-11-30",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Christian McCaffrey"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2021-11-30",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Texans"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2021-11-30",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Jake Elliott"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2021-11-30",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Matt Ryan"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2021-11-30",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Allen Lazard"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2021-11-30",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Mike Davis"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2021-11-30",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Commanders"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2021-12-01",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Adrian Peterson"
+      ],
+      "dropped": [
+        "Bears"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2021-12-01",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Greg Joseph"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2021-12-01",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Taylor Heinicke"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2021-12-01",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rondale Moore"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2021-12-01",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Boston Scott"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2021-12-01",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jared Cook"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2021-12-01",
+      "owner": "RJ",
+      "owner_slug": "rj",
+      "team_name": "The Yeetles",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Taysom Hill"
+      ],
+      "dropped": [
+        "Ty Johnson"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2021-12-01",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Chiefs"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2021-12-01",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Matt Breida"
+      ],
+      "dropped": [
+        "Alex Collins"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2021-12-01",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Phillip Lindsay"
+      ],
+      "dropped": [
+        "Derek Carr"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2021-12-01",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "T.Y. Hilton"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2021-12-01",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Dolphins"
+      ],
+      "dropped": [
+        "Russell Gage Jr."
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2021-12-02",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Foster Moreau"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2021-12-04",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Russell Gage Jr."
+      ],
+      "dropped": [
+        "Allen Robinson"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2021-12-05",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Derek Carr"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 13,
+      "date": "2021-12-05",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brandon Bolden"
+      ],
+      "dropped": [
+        "Rex Burkhead"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2021-12-05",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rex Burkhead"
+      ],
+      "dropped": [
+        "Marquez Valdes-Scantling"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2021-12-05",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Kadarius Toney"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-07",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Rondale Moore"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-07",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "KEVINS LAST PLACE TEAM",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Kenyan Drake"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-07",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "KEVINS LAST PLACE TEAM",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Corey Davis"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-07",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Boston Scott"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-07",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "T.Y. Hilton"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-07",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Donovan Peoples-Jones"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-07",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Cedrick Wilson Jr."
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-08",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Allen Robinson"
+      ],
+      "dropped": [
+        "Tre'Quan Smith"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-08",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "K.J. Osborn"
+      ],
+      "dropped": [
+        "Courtland Sutton"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-08",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Matt Prater"
+      ],
+      "dropped": [
+        "Jason Sanders"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-08",
+      "owner": "RJ",
+      "owner_slug": "rj",
+      "team_name": "The Yeetles",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Marquez Valdes-Scantling"
+      ],
+      "dropped": [
+        "Falcons"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-08",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Chargers"
+      ],
+      "dropped": [
+        "Rams"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-08",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Seahawks"
+      ],
+      "dropped": [
+        "Ravens"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-08",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "KEVINS LAST PLACE TEAM",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Dontrell Hilliard"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2021-12-08",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Randy Bullock"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2021-12-08",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tre'Quan Smith"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2021-12-08",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Nick Westbrook-Ikhine"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2021-12-08",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Tim Patrick"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-09",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Matt Breida"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-09",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Saints"
+      ],
+      "dropped": [
+        "David Johnson"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-09",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Titans"
+      ],
+      "dropped": [
+        "Phillip Lindsay"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-09",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Jaret Patterson"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-09",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Khalil Herbert"
+      ],
+      "dropped": [
+        "Randy Bullock"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-09",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "KEVINS LAST PLACE TEAM",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Ben Roethlisberger"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-10",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Godwin Igwebuike"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2021-12-10",
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tre'Quan Smith"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2021-12-10",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Brandon McManus"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2021-12-10",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Khalil Herbert"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-10",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jermar Jefferson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2021-12-10",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ty Johnson"
+      ],
+      "dropped": [
+        "Kirk Cousins"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-10",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jason Myers"
+      ],
+      "dropped": [
+        "Devin Singletary"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-10",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Gerald Everett"
+      ],
+      "dropped": [
+        "Michael Badgley"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-10",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "JaMycal Hasty"
+      ],
+      "dropped": [
+        "Tevin Coleman"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-11",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mike Davis"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2021-12-11",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Joshua Palmer"
+      ],
+      "dropped": [
+        "JaMycal Hasty"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-11",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rashaad Penny"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2021-12-11",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "KEVINS LAST PLACE TEAM",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Courtland Sutton"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2021-12-12",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "KEVINS LAST PLACE TEAM",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bengals"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2021-12-12",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "KEVINS LAST PLACE TEAM",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Eagles"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-12",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rex Burkhead"
+      ],
+      "dropped": [
+        "Jermar Jefferson"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-12",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Browns"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 14,
+      "date": "2021-12-12",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Twin River Buffet for 2",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "D'Ernest Johnson"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-13",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Twin River Buffet for 2",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Kendall Blanton"
+      ],
+      "dropped": [
+        "Chris Boswell"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2021-12-13",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Taylor Heinicke"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2021-12-14",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Broncos"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2021-12-14",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Allen Robinson"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2021-12-14",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Brandon McManus"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2021-12-14",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Jeff Wilson Jr."
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2021-12-15",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rondale Moore"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2021-12-15",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Malcolm Brown"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2021-12-15",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Eagles"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2021-12-15",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Amon-Ra St. Brown"
+      ],
+      "dropped": [
+        "Evan Engram"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2021-12-15",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Justin Jackson"
+      ],
+      "dropped": [
+        "Godwin Igwebuike"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2021-12-15",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Donovan Peoples-Jones"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2021-12-15",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Devin Singletary"
+      ],
+      "dropped": [
+        "Mike Davis"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2021-12-15",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Rex Burkhead"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2021-12-15",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Nick Westbrook-Ikhine"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2021-12-16",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Jared Cook"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2021-12-16",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "David Njoku"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2021-12-16",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Joshua Palmer"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2021-12-16",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "David Johnson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2021-12-16",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "D'Ernest Johnson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2021-12-16",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Laquon Treadwell"
+      ],
+      "dropped": [
+        "Foster Moreau"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2021-12-16",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Robbie Gould"
+      ],
+      "dropped": [
+        "Jason Myers"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2021-12-16",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Rams"
+      ],
+      "dropped": [
+        "Panthers"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2021-12-16",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaguars"
+      ],
+      "dropped": [
+        "Ty Johnson"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2021-12-17",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jeff Wilson Jr."
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2021-12-17",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Craig Reynolds"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2021-12-17",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Gardner Minshew II"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2021-12-17",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Austin Hooper"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2021-12-17",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "T.J. Hockenson"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2021-12-17",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Gabe Davis"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2021-12-17",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Broncos"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 15,
+      "date": "2021-12-18",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Mike Davis"
+      ],
+      "dropped": [
+        "Ronald Jones"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2021-12-19",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "David Johnson"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2021-12-20",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Donovan Peoples-Jones"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2021-12-20",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Foster Moreau"
+      ],
+      "dropped": [
+        "David Njoku"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2021-12-21",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Malcolm Brown"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2021-12-21",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Gardner Minshew II"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2021-12-22",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "K.J. Osborn"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2021-12-22",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Vikings"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2021-12-22",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Chase Claypool"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2021-12-22",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Austin Hooper"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2021-12-22",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Packers"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2021-12-22",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Laquon Treadwell"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2021-12-22",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Mike Davis"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2021-12-23",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "C.J. Uzomah"
+      ],
+      "dropped": [
+        "Tyler Conklin"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2021-12-23",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cam Akers"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 16,
+      "date": "2021-12-23",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Evan McPherson"
+      ],
+      "dropped": [
+        "Tyler Bass"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2021-12-23",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Duke Johnson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 16,
+      "date": "2021-12-23",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Tyler Johnson"
+      ],
+      "dropped": [
+        "Rhamondre Stevenson"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2021-12-23",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Jaret Patterson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 16,
+      "date": "2021-12-23",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Josh Reynolds"
+      ],
+      "dropped": [
+        "Jaguars"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2021-12-23",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Ronald Jones"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 16,
+      "date": "2021-12-24",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jordan Howard"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 16,
+      "date": "2021-12-24",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jonnu Smith"
+      ],
+      "dropped": [
+        "Seahawks"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2021-12-25",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Byron Pringle"
+      ],
+      "dropped": [
+        "D'Ernest Johnson"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2021-12-25",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Packers"
+      ],
+      "dropped": [
+        "Broncos"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2021-12-25",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Chase Claypool"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 16,
+      "date": "2021-12-26",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Phillip Lindsay"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 16,
+      "date": "2021-12-26",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Jonathan Williams"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2021-12-26",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jonathan Williams"
+      ],
+      "dropped": [
+        "Jordan Howard"
+      ]
+    },
+    {
+      "week": 17,
+      "date": "2021-12-28",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Duke Johnson"
+      ]
+    },
+    {
+      "week": 17,
+      "date": "2021-12-28",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "DROP",
+      "bid": 0,
+      "added": [],
+      "dropped": [
+        "Phillip Lindsay"
+      ]
+    },
+    {
+      "week": 17,
+      "date": "2021-12-29",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dare Ogunbowale"
+      ],
+      "dropped": [
+        "Jonnu Smith"
+      ]
+    },
+    {
+      "week": 17,
+      "date": "2021-12-29",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Seahawks"
+      ],
+      "dropped": [
+        "Gabe Davis"
+      ]
+    },
+    {
+      "week": 17,
+      "date": "2021-12-29",
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bears"
+      ],
+      "dropped": [
+        "Chargers"
+      ]
+    },
+    {
+      "week": 17,
+      "date": "2021-12-29",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Allen Lazard"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 17,
+      "date": "2021-12-29",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Rhamondre Stevenson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 17,
+      "date": "2021-12-31",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "K.J. Osborn"
+      ],
+      "dropped": [
+        "Tyler Johnson"
+      ]
+    }
+  ],
+  "team_totals": [
+    {
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "I.AM.FINANCIALLY.RUINED.",
+      "acquisitions": 65,
+      "spent": 0
+    },
+    {
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "Uncut Junior",
+      "acquisitions": 74,
+      "spent": 0
+    },
+    {
+      "owner": "Anthony Richardson",
+      "owner_slug": "anthony-richardson",
+      "team_name": "UrMomSquirtedAgain",
+      "acquisitions": 37,
+      "spent": 0
+    },
+    {
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Zach to the Future",
+      "acquisitions": 27,
+      "spent": 0
+    },
+    {
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Mark won",
+      "acquisitions": 16,
+      "spent": 0
+    },
+    {
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Ryder",
+      "acquisitions": 51,
+      "spent": 0
+    },
+    {
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Llerena\u2019s Buttpirates",
+      "acquisitions": 40,
+      "spent": 0
+    },
+    {
+      "owner": "RJ",
+      "owner_slug": "rj",
+      "team_name": "The Yeetles",
+      "acquisitions": 14,
+      "spent": 0
+    },
+    {
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Twin River Buffet for 2",
+      "acquisitions": 13,
+      "spent": 0
+    },
+    {
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Support Odell",
+      "acquisitions": 18,
+      "spent": 0
+    },
+    {
+      "owner": "Denniell Grijalva",
+      "owner_slug": "denniell-grijalva",
+      "team_name": "Ruggs in Cuffs Speed Kills",
+      "acquisitions": 76,
+      "spent": 0
+    },
+    {
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "KEVINS LAST PLACE TEAM",
+      "acquisitions": 13,
+      "spent": 0
+    }
+  ]
+}

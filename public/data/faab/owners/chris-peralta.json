@@ -2,7 +2,7 @@
   "slug": "chris-peralta",
   "owner": "Chris Peralta",
   "totals": {
-    "acquisitions": 270,
+    "acquisitions": 322,
     "spent": 400,
     "biggest_bid": {
       "year": 2026,
@@ -16,7 +16,7 @@
     {
       "year": 2026,
       "team_name": "Dustin Davis",
-      "acquisitions": 38,
+      "acquisitions": 39,
       "spent": 100
     },
     {
@@ -36,6 +36,12 @@
       "team_name": "Paul Giamatti in Big Fat Liar",
       "acquisitions": 86,
       "spent": 100
+    },
+    {
+      "year": 2021,
+      "team_name": "Ryder",
+      "acquisitions": 51,
+      "spent": 0
     }
   ]
 }

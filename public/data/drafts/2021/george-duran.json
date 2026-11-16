@@ -1,0 +1,98 @@
+[
+  {
+    "round": 1,
+    "pick": 4,
+    "player": "Davante Adams",
+    "position": "WR"
+  },
+  {
+    "round": 2,
+    "pick": 9,
+    "player": "DK Metcalf",
+    "position": "WR"
+  },
+  {
+    "round": 3,
+    "pick": 4,
+    "player": "Chris Carson",
+    "position": "RB"
+  },
+  {
+    "round": 4,
+    "pick": 9,
+    "player": "Damien Harris",
+    "position": "RB"
+  },
+  {
+    "round": 5,
+    "pick": 4,
+    "player": "Tyler Lockett",
+    "position": "WR"
+  },
+  {
+    "round": 6,
+    "pick": 9,
+    "player": "Tyler Boyd",
+    "position": "WR"
+  },
+  {
+    "round": 7,
+    "pick": 4,
+    "player": "Aaron Rodgers",
+    "position": "QB"
+  },
+  {
+    "round": 8,
+    "pick": 9,
+    "player": "Jonnu Smith",
+    "position": "TE"
+  },
+  {
+    "round": 9,
+    "pick": 4,
+    "player": "Curtis Samuel",
+    "position": "WR"
+  },
+  {
+    "round": 10,
+    "pick": 9,
+    "player": "Devin Singletary",
+    "position": "RB"
+  },
+  {
+    "round": 11,
+    "pick": 4,
+    "player": "Emmanuel Sanders",
+    "position": "WR"
+  },
+  {
+    "round": 12,
+    "pick": 9,
+    "player": "Jalen Reagor",
+    "position": "WR"
+  },
+  {
+    "round": 13,
+    "pick": 4,
+    "player": "DeVante Parker",
+    "position": "WR"
+  },
+  {
+    "round": 14,
+    "pick": 9,
+    "player": "Rashaad Penny",
+    "position": "RB"
+  },
+  {
+    "round": 15,
+    "pick": 4,
+    "player": "Quinn Nordin",
+    "position": "K"
+  },
+  {
+    "round": 16,
+    "pick": 9,
+    "player": "Patriots",
+    "position": "D/ST"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "round": 1,
+    "pick": 6,
+    "player": "Ezekiel Elliott",
+    "position": "RB"
+  },
+  {
+    "round": 2,
+    "pick": 7,
+    "player": "Patrick Mahomes",
+    "position": "QB"
+  },
+  {
+    "round": 3,
+    "pick": 6,
+    "player": "Allen Robinson",
+    "position": "WR"
+  },
+  {
+    "round": 4,
+    "pick": 7,
+    "player": "Josh Jacobs",
+    "position": "RB"
+  },
+  {
+    "round": 5,
+    "pick": 6,
+    "player": "Diontae Johnson",
+    "position": "WR"
+  },
+  {
+    "round": 6,
+    "pick": 7,
+    "player": "Odell Beckham Jr.",
+    "position": "WR"
+  },
+  {
+    "round": 7,
+    "pick": 6,
+    "player": "Logan Thomas",
+    "position": "TE"
+  },
+  {
+    "round": 8,
+    "pick": 7,
+    "player": "Brandin Cooks",
+    "position": "WR"
+  },
+  {
+    "round": 9,
+    "pick": 6,
+    "player": "Hollywood Brown",
+    "position": "WR"
+  },
+  {
+    "round": 10,
+    "pick": 7,
+    "player": "Buccaneers",
+    "position": "D/ST"
+  },
+  {
+    "round": 11,
+    "pick": 6,
+    "player": "Zack Moss",
+    "position": "RB"
+  },
+  {
+    "round": 12,
+    "pick": 7,
+    "player": "Sterling Shepard",
+    "position": "WR"
+  },
+  {
+    "round": 13,
+    "pick": 6,
+    "player": "Austin Hooper",
+    "position": "TE"
+  },
+  {
+    "round": 14,
+    "pick": 7,
+    "player": "Tyler Bass",
+    "position": "K"
+  },
+  {
+    "round": 15,
+    "pick": 6,
+    "player": "Bills",
+    "position": "D/ST"
+  },
+  {
+    "round": 16,
+    "pick": 7,
+    "player": "Ben Roethlisberger",
+    "position": "QB"
+  }
+]

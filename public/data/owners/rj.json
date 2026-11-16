@@ -1,0 +1,28 @@
+{
+  "owner": "RJ",
+  "slug": "rj",
+  "wins": 6,
+  "losses": 8,
+  "ties": 0,
+  "points_for": 1594.8,
+  "points_against": 1758.9,
+  "titles": 0,
+  "runners_up": 0,
+  "thirds": 0,
+  "lasts": 0,
+  "seasons": [
+    {
+      "year": 2021,
+      "team_name": "The Yeetles",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "points_for": 1594.8,
+      "points_against": 1758.9,
+      "finish": 8,
+      "league_size": 12
+    }
+  ],
+  "win_pct": 42.9,
+  "games": 14
+}

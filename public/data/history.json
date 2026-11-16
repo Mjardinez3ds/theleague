@@ -175,6 +175,62 @@
         "logo_url": "https://s.turbifycdn.com/aah/amigofoods/dominican-republic-flag-17.png",
         "finish": 12
       }
+    },
+    {
+      "year": 2021,
+      "league_name": "The NFTFF League",
+      "champion": {
+        "id": 10,
+        "team_name": "I.AM.FINANCIALLY.RUINED.",
+        "owner": "George Duran",
+        "owner_slug": "george-duran",
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "points_for": 1769.8,
+        "points_against": 1699.1,
+        "logo_url": "",
+        "finish": 1
+      },
+      "runner_up": {
+        "id": 3,
+        "team_name": "Uncut Junior",
+        "owner": "Junior Peralta",
+        "owner_slug": "junior-peralta",
+        "wins": 11,
+        "losses": 3,
+        "ties": 0,
+        "points_for": 1807.4,
+        "points_against": 1629.1,
+        "logo_url": "",
+        "finish": 2
+      },
+      "third": {
+        "id": 8,
+        "team_name": "UrMomSquirtedAgain",
+        "owner": "Anthony Richardson",
+        "owner_slug": "anthony-richardson",
+        "wins": 11,
+        "losses": 3,
+        "ties": 0,
+        "points_for": 1868.3,
+        "points_against": 1596.7,
+        "logo_url": "",
+        "finish": 3
+      },
+      "last": {
+        "id": 9,
+        "team_name": "KEVINS LAST PLACE TEAM",
+        "owner": "Kevin Liang",
+        "owner_slug": "kevin-liang",
+        "wins": 5,
+        "losses": 9,
+        "ties": 0,
+        "points_for": 1566.8,
+        "points_against": 1783.4,
+        "logo_url": "",
+        "finish": 12
+      }
     }
   ]
 }

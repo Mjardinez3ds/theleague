@@ -1,0 +1,17 @@
+{
+  "slug": "rj",
+  "owner": "RJ",
+  "totals": {
+    "acquisitions": 14,
+    "spent": 0,
+    "biggest_bid": null
+  },
+  "by_year": [
+    {
+      "year": 2021,
+      "team_name": "The Yeetles",
+      "acquisitions": 14,
+      "spent": 0
+    }
+  ]
+}

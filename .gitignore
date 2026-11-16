@@ -43,3 +43,6 @@ next-env.d.ts
 # local backup database (run scripts/build_backup_db.py to regenerate)
 /backup/*.db
 /scripts/__pycache__/
+
+# Yahoo Fantasy OAuth credentials + tokens (never commit)
+scripts/.yahoo_credentials.json

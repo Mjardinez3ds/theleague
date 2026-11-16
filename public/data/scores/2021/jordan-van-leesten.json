@@ -1,0 +1,159 @@
+{
+  "year": 2021,
+  "weeks": [
+    {
+      "week": 1,
+      "score": 145.2,
+      "team_name": "Twin River Buffet for 2",
+      "opponent": "Anthony Richardson",
+      "opponent_slug": "anthony-richardson",
+      "opponent_team": "UrMomSquirtedAgain",
+      "opponent_score": 146.62,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "score": 109.56,
+      "team_name": "Twin River Buffet for 2",
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "opponent_team": "KEVINS LAST PLACE TEAM",
+      "opponent_score": 156.8,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "score": 140.88,
+      "team_name": "Twin River Buffet for 2",
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "opponent_team": "I.AM.FINANCIALLY.RUINED.",
+      "opponent_score": 132.74,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "score": 120.44,
+      "team_name": "Twin River Buffet for 2",
+      "opponent": "Devon Malki",
+      "opponent_slug": "devon-malki",
+      "opponent_team": "Zach to the Future",
+      "opponent_score": 147.36,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "score": 191.58,
+      "team_name": "Twin River Buffet for 2",
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "opponent_team": "Ryder",
+      "opponent_score": 158.22,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "score": 126.28,
+      "team_name": "Twin River Buffet for 2",
+      "opponent": "Denniell Grijalva",
+      "opponent_slug": "denniell-grijalva",
+      "opponent_team": "Ruggs in Cuffs Speed Kills",
+      "opponent_score": 146.94,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "score": 87.68,
+      "team_name": "Twin River Buffet for 2",
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "opponent_team": "Uncut Junior",
+      "opponent_score": 106.64,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "score": 119.84,
+      "team_name": "Twin River Buffet for 2",
+      "opponent": "Ricky Cano",
+      "opponent_slug": "ricky-cano",
+      "opponent_team": "Support Odell",
+      "opponent_score": 95.9,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "score": 104.14,
+      "team_name": "Twin River Buffet for 2",
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "opponent_team": "Llerena\u2019s Buttpirates",
+      "opponent_score": 133.18,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "score": 133.52,
+      "team_name": "Twin River Buffet for 2",
+      "opponent": "RJ",
+      "opponent_slug": "rj",
+      "opponent_team": "The Yeetles",
+      "opponent_score": 134.62,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "score": 131.12,
+      "team_name": "Twin River Buffet for 2",
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "opponent_team": "Mark won",
+      "opponent_score": 130.08,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "score": 78.3,
+      "team_name": "Twin River Buffet for 2",
+      "opponent": "Anthony Richardson",
+      "opponent_slug": "anthony-richardson",
+      "opponent_team": "UrMomSquirtedAgain",
+      "opponent_score": 130.8,
+      "result": "L",
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "score": 137.42,
+      "team_name": "Twin River Buffet for 2",
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "opponent_team": "KEVINS LAST PLACE TEAM",
+      "opponent_score": 97.62,
+      "result": "W",
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "score": 112.18,
+      "team_name": "Twin River Buffet for 2",
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "opponent_team": "I.AM.FINANCIALLY.RUINED.",
+      "opponent_score": 174.14,
+      "result": "L",
+      "is_playoff": false
+    }
+  ]
+}
