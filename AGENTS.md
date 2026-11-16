@@ -669,6 +669,54 @@ looked for; 2022 is the deleted ESPN league (see 2026-05-11).
 (new), `scripts/audit_data.py`, `archive/**` (new), `.gitignore`,
 `public/data/**`, `AGENTS.md`.
 
+**Full session log (in order):**
+1. **Status check.** The daily refresh fix from 2026-10-08 is confirmed
+   working: GitHub had 34 automated data commits (Oct 10 to Nov 12) not yet
+   pulled locally. No refresh commits for Nov 13-16 at the time. Not
+   investigated (no `gh` CLI here), but the local rebuild this session worked
+   with the committed cookie. **Check the Actions tab** if the gap continues.
+2. **Wrong league ruled out.** ESPN league `1180861655` was checked as a
+   possible old league year. It's an unrelated 2025-only league ("Rhode
+   Island crime family"); the owner played in it, but none of our managers did. Dropped.
+3. **Yahoo 2021 league found** (`/2021/f1/1272267`). The owner confirmed it's
+   the year George won and the only Yahoo season.
+4. **Yahoo API attempt (failed).** App 1 was a Public Client: no secret;
+   PKCE login worked, but the Fantasy API returned 403. App 2 was a
+   Confidential Client; its Client ID OCR'd ambiguously (capital I vs lowercase l), and
+   the right one was found by testing both against the token endpoint. Login worked,
+   but the API still returned 403, even with an explicit `scope=fspt-r`. Cause:
+   Yahoo now gates the Fantasy API behind an approval process (GitHub reports, July
+   2026). Credentials are kept in the git-ignored `scripts/.yahoo_credentials.json`.
+5. **Captured via Claude in Chrome** (owner's browser "Browser 1"). Got
+   rate-limited (999) after ~30 fast loads; resumed at 1 page per 6 s after
+   ~10 minutes blocked. Pages: standings, teams, draft (both tabs), 17 weeks
+   of box scores (`matchup?week=N&mid1=T`, each team once per week), 27
+   transaction pages (`transactions?transactionsfilter=all&count=N`, 25 per
+   page), Week 1 team pages. Hidden managers stay hidden on team pages too.
+6. **Getting the data to disk:** automatic downloads didn't save, and clicking a
+   download button didn't either. A localhost POST receiver worked (see gotchas).
+7. **Build integration + rebuilds.** First run failed on one-sided
+   playoff pages (no opponent): dropped 12 non-games. Second run surfaced
+   the "ALLY OF KIM" split; fixed with `NAME_ALIASES`. Third run: audit 16/16.
+8. **Privacy:** 602 email addresses (from Yahoo's Managers page and nav)
+   were scrubbed from `raw.json.gz` before commit. `season.json` never had any.
+9. Pushed as `da70536`; Cloudflare deployed. Verified live on
+   `theleague.pages.dev`: `league.json` lists 2021, and `/standings`,
+   `/draft`, `/trades`, `/managers/rj` and `/managers/george-duran/2021` all
+   return 200. (`theleague.dev` doesn't resolve; the site is on `pages.dev`.)
+
+**Open follow-ups:**
+- RJ's full name (owner to provide), then rename slug `rj` (update
+  `archive/2021/season.json`, `parse_yahoo.js`, rebuild, delete stale `rj.json` files).
+- Decide whether the two 0.00 locked-team playoff scores should count in
+  Stats records (currently they do).
+- The site has no transaction-log page for any year (data exists in
+  `faab/{year}.json`). Candidate feature.
+- Yahoo 2021 shows "$0 spent" in the FAAB section (that league had no FAAB).
+  Could show "—" for archive years.
+- 2020 league not found yet.
+- Mirror `NAME_ALIASES` into sportsbook-bot's `fantasy_espn.py`.
+
 ### 2026-10-09 — Trades corrected across every season
 
 **Why:** the owner spotted the 9/23 Chris Peralta ↔ Kevin Llerena trade
