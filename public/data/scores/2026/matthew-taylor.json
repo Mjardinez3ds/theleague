@@ -99,6 +99,17 @@
       "opponent_score": 110.02,
       "result": "W",
       "is_playoff": false
+    },
+    {
+      "week": 10,
+      "score": 126.24,
+      "team_name": "Big Nix Energy",
+      "opponent": "Kevin Liang",
+      "opponent_slug": "kevin-liang",
+      "opponent_team": "CageDg00ner",
+      "opponent_score": 102.12,
+      "result": "W",
+      "is_playoff": false
     }
   ]
 }

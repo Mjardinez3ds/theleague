@@ -99,6 +99,17 @@
       "opponent_score": 113.3,
       "result": "L",
       "is_playoff": false
+    },
+    {
+      "week": 10,
+      "score": 188.38,
+      "team_name": "NORTH KOREAN ALLY",
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "opponent_team": "Serving Punt",
+      "opponent_score": 108.82,
+      "result": "W",
+      "is_playoff": false
     }
   ]
 }

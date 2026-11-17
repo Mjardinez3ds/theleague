@@ -1,11 +1,11 @@
 {
   "owner": "Marcus Jardinez",
   "slug": "marcus-jardinez",
-  "wins": 42,
+  "wins": 43,
   "losses": 36,
   "ties": 0,
-  "points_for": 9170.1,
-  "points_against": 9134.8,
+  "points_for": 9320.6,
+  "points_against": 9249.9,
   "titles": 1,
   "runners_up": 0,
   "thirds": 0,
@@ -69,15 +69,15 @@
     {
       "year": 2026,
       "team_name": "Pausa de Hidratacion ",
-      "wins": 6,
+      "wins": 7,
       "losses": 3,
       "ties": 0,
-      "points_for": 1068.4,
-      "points_against": 978.7,
+      "points_for": 1218.8,
+      "points_against": 1093.7,
       "finish": null,
       "league_size": 12
     }
   ],
-  "win_pct": 53.8,
-  "games": 78
+  "win_pct": 54.4,
+  "games": 79
 }

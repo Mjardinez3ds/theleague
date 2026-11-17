@@ -99,6 +99,17 @@
       "opponent_score": 124.1,
       "result": "L",
       "is_playoff": false
+    },
+    {
+      "week": 10,
+      "score": 127.1,
+      "team_name": "Dustin Davis",
+      "opponent": "Jordan van Leesten",
+      "opponent_slug": "jordan-van-leesten",
+      "opponent_team": "Maybe:",
+      "opponent_score": 97.7,
+      "result": "W",
+      "is_playoff": false
     }
   ]
 }

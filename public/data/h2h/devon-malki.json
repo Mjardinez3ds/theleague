@@ -2,6 +2,15 @@
   "slug": "devon-malki",
   "records": [
     {
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "wins": 2,
+      "losses": 8,
+      "ties": 0,
+      "pf": 1238.52,
+      "pa": 1376.36
+    },
+    {
       "opponent": "Chris Peralta",
       "opponent_slug": "chris-peralta",
       "wins": 5,
@@ -18,15 +27,6 @@
       "ties": 0,
       "pf": 1191.18,
       "pa": 1027.54
-    },
-    {
-      "opponent": "Junior Peralta",
-      "opponent_slug": "junior-peralta",
-      "wins": 2,
-      "losses": 7,
-      "ties": 0,
-      "pf": 1111.64,
-      "pa": 1222.8
     },
     {
       "opponent": "Kevin Liang",

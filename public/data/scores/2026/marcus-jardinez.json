@@ -99,6 +99,17 @@
       "opponent_score": 102.66,
       "result": "W",
       "is_playoff": false
+    },
+    {
+      "week": 10,
+      "score": 150.46,
+      "team_name": "Pausa de Hidratacion ",
+      "opponent": "derf punk",
+      "opponent_slug": "derf-punk",
+      "opponent_team": "monke",
+      "opponent_score": 115.02,
+      "result": "W",
+      "is_playoff": false
     }
   ]
 }

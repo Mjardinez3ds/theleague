@@ -99,6 +99,17 @@
       "opponent_score": 112.28,
       "result": "W",
       "is_playoff": false
+    },
+    {
+      "week": 10,
+      "score": 152.5,
+      "team_name": "Shyguy Snakes",
+      "opponent": "Ricky Cano",
+      "opponent_slug": "ricky-cano",
+      "opponent_team": "Its over for me \ud83c\udf74",
+      "opponent_score": 119.36,
+      "result": "W",
+      "is_playoff": false
     }
   ]
 }

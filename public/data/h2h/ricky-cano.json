@@ -83,6 +83,15 @@
       "pa": 281.58
     },
     {
+      "opponent": "Super Shyguy",
+      "opponent_slug": "super-shyguy",
+      "wins": 0,
+      "losses": 3,
+      "ties": 0,
+      "pf": 284.34,
+      "pa": 420.84
+    },
+    {
       "opponent": "Christopher Jones",
       "opponent_slug": "christopher-jones",
       "wins": 2,
@@ -108,15 +117,6 @@
       "ties": 0,
       "pf": 264.78,
       "pa": 239.84
-    },
-    {
-      "opponent": "Super Shyguy",
-      "opponent_slug": "super-shyguy",
-      "wins": 0,
-      "losses": 2,
-      "ties": 0,
-      "pf": 164.98,
-      "pa": 268.34
     },
     {
       "opponent": "Matthew Taylor",

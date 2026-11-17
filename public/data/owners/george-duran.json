@@ -1,11 +1,11 @@
 {
   "owner": "George Duran",
   "slug": "george-duran",
-  "wins": 40,
+  "wins": 41,
   "losses": 38,
   "ties": 0,
-  "points_for": 9634.5,
-  "points_against": 9463.0,
+  "points_for": 9822.9,
+  "points_against": 9571.8,
   "titles": 1,
   "runners_up": 1,
   "thirds": 1,
@@ -69,15 +69,15 @@
     {
       "year": 2026,
       "team_name": "NORTH KOREAN ALLY",
-      "wins": 5,
+      "wins": 6,
       "losses": 4,
       "ties": 0,
-      "points_for": 1114.4,
-      "points_against": 1031.5,
+      "points_for": 1302.8,
+      "points_against": 1140.3,
       "finish": null,
       "league_size": 12
     }
   ],
-  "win_pct": 51.3,
-  "games": 78
+  "win_pct": 51.9,
+  "games": 79
 }

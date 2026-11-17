@@ -99,6 +99,17 @@
       "opponent_score": 123.26,
       "result": "L",
       "is_playoff": false
+    },
+    {
+      "week": 10,
+      "score": 119.36,
+      "team_name": "Its over for me \ud83c\udf74",
+      "opponent": "Super Shyguy",
+      "opponent_slug": "super-shyguy",
+      "opponent_team": "Shyguy Snakes",
+      "opponent_score": 152.5,
+      "result": "L",
+      "is_playoff": false
     }
   ]
 }

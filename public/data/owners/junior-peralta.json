@@ -1,11 +1,11 @@
 {
   "owner": "Junior Peralta",
   "slug": "junior-peralta",
-  "wins": 43,
+  "wins": 44,
   "losses": 35,
   "ties": 0,
-  "points_for": 9722.6,
-  "points_against": 9702.3,
+  "points_for": 9876.1,
+  "points_against": 9829.1,
   "titles": 0,
   "runners_up": 1,
   "thirds": 0,
@@ -69,15 +69,15 @@
     {
       "year": 2026,
       "team_name": "find God",
-      "wins": 4,
+      "wins": 5,
       "losses": 5,
       "ties": 0,
-      "points_for": 1048.3,
-      "points_against": 1122.6,
+      "points_for": 1201.8,
+      "points_against": 1249.5,
       "finish": null,
       "league_size": 12
     }
   ],
-  "win_pct": 55.1,
-  "games": 78
+  "win_pct": 55.7,
+  "games": 79
 }

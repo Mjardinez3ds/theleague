@@ -29,6 +29,15 @@
       "pa": 1174.42
     },
     {
+      "opponent": "derf punk",
+      "opponent_slug": "derf-punk",
+      "wins": 4,
+      "losses": 4,
+      "ties": 0,
+      "pf": 959.96,
+      "pa": 1003.38
+    },
+    {
       "opponent": "Devon Malki",
       "opponent_slug": "devon-malki",
       "wins": 2,
@@ -54,15 +63,6 @@
       "ties": 0,
       "pf": 848.22,
       "pa": 921.52
-    },
-    {
-      "opponent": "derf punk",
-      "opponent_slug": "derf-punk",
-      "wins": 3,
-      "losses": 4,
-      "ties": 0,
-      "pf": 809.5,
-      "pa": 888.36
     },
     {
       "opponent": "Ricky Cano",

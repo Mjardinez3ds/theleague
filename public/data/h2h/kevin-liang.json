@@ -83,6 +83,15 @@
       "pa": 581.16
     },
     {
+      "opponent": "Matthew Taylor",
+      "opponent_slug": "matthew-taylor",
+      "wins": 2,
+      "losses": 2,
+      "ties": 0,
+      "pf": 431.88,
+      "pa": 486.64
+    },
+    {
       "opponent": "Anthony Richardson",
       "opponent_slug": "anthony-richardson",
       "wins": 0,
@@ -99,15 +108,6 @@
       "ties": 1,
       "pf": 324.04,
       "pa": 309.42
-    },
-    {
-      "opponent": "Matthew Taylor",
-      "opponent_slug": "matthew-taylor",
-      "wins": 2,
-      "losses": 1,
-      "ties": 0,
-      "pf": 329.76,
-      "pa": 360.4
     },
     {
       "opponent": "Christopher Jones",

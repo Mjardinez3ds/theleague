@@ -2,10 +2,10 @@
   "owner": "Kevin Liang",
   "slug": "kevin-liang",
   "wins": 39,
-  "losses": 38,
+  "losses": 39,
   "ties": 1,
-  "points_for": 9406.3,
-  "points_against": 9707.0,
+  "points_for": 9508.4,
+  "points_against": 9833.2,
   "titles": 1,
   "runners_up": 0,
   "thirds": 1,
@@ -70,14 +70,14 @@
       "year": 2026,
       "team_name": "CageDg00ner",
       "wins": 5,
-      "losses": 4,
+      "losses": 5,
       "ties": 0,
-      "points_for": 1119.9,
-      "points_against": 1176.3,
+      "points_for": 1222.0,
+      "points_against": 1302.5,
       "finish": null,
       "league_size": 12
     }
   ],
-  "win_pct": 50.6,
-  "games": 78
+  "win_pct": 50.0,
+  "games": 79
 }

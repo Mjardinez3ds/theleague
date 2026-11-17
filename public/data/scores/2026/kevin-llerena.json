@@ -99,6 +99,17 @@
       "opponent_score": 112.76,
       "result": "W",
       "is_playoff": false
+    },
+    {
+      "week": 10,
+      "score": 108.82,
+      "team_name": "Serving Punt",
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "opponent_team": "NORTH KOREAN ALLY",
+      "opponent_score": 188.38,
+      "result": "L",
+      "is_playoff": false
     }
   ]
 }

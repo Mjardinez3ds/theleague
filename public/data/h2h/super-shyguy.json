@@ -83,6 +83,15 @@
       "pa": 272.92
     },
     {
+      "opponent": "Ricky Cano",
+      "opponent_slug": "ricky-cano",
+      "wins": 3,
+      "losses": 0,
+      "ties": 0,
+      "pf": 420.84,
+      "pa": 284.34
+    },
+    {
       "opponent": "Faust Vinas",
       "opponent_slug": "faust-vinas",
       "wins": 2,
@@ -90,15 +99,6 @@
       "ties": 0,
       "pf": 218.68,
       "pa": 197.58
-    },
-    {
-      "opponent": "Ricky Cano",
-      "opponent_slug": "ricky-cano",
-      "wins": 2,
-      "losses": 0,
-      "ties": 0,
-      "pf": 268.34,
-      "pa": 164.98
     },
     {
       "opponent": "Denniell Grijalva",

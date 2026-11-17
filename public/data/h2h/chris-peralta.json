@@ -110,6 +110,15 @@
       "pa": 251.36
     },
     {
+      "opponent": "Jordan van Leesten",
+      "opponent_slug": "jordan-van-leesten",
+      "wins": 1,
+      "losses": 1,
+      "ties": 0,
+      "pf": 285.32,
+      "pa": 289.28
+    },
+    {
       "opponent": "Jared Brum",
       "opponent_slug": "jared-brum",
       "wins": 0,
@@ -171,15 +180,6 @@
       "ties": 0,
       "pf": 130.94,
       "pa": 106.9
-    },
-    {
-      "opponent": "Jordan van Leesten",
-      "opponent_slug": "jordan-van-leesten",
-      "wins": 0,
-      "losses": 1,
-      "ties": 0,
-      "pf": 158.22,
-      "pa": 191.58
     }
   ]
 }

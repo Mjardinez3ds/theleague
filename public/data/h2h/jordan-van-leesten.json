@@ -56,6 +56,15 @@
       "pa": 268.82
     },
     {
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "wins": 1,
+      "losses": 1,
+      "ties": 0,
+      "pf": 289.28,
+      "pa": 285.32
+    },
+    {
       "opponent": "Anthony Richardson",
       "opponent_slug": "anthony-richardson",
       "wins": 0,
@@ -99,15 +108,6 @@
       "ties": 0,
       "pf": 160.82,
       "pa": 134.46
-    },
-    {
-      "opponent": "Chris Peralta",
-      "opponent_slug": "chris-peralta",
-      "wins": 1,
-      "losses": 0,
-      "ties": 0,
-      "pf": 191.58,
-      "pa": 158.22
     },
     {
       "opponent": "Denniell Grijalva",

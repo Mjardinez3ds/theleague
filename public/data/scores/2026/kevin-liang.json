@@ -99,6 +99,17 @@
       "opponent_score": 111.68,
       "result": "L",
       "is_playoff": false
+    },
+    {
+      "week": 10,
+      "score": 102.12,
+      "team_name": "CageDg00ner",
+      "opponent": "Matthew Taylor",
+      "opponent_slug": "matthew-taylor",
+      "opponent_team": "Big Nix Energy",
+      "opponent_score": 126.24,
+      "result": "L",
+      "is_playoff": false
     }
   ]
 }
