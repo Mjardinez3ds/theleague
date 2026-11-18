@@ -1,7 +1,34 @@
 {
   "year": 2026,
-  "count": 11,
+  "count": 12,
   "trades": [
+    {
+      "date": "2026-11-18",
+      "sides": [
+        {
+          "team_name": "Serving Punt",
+          "owner": "Kevin Llerena",
+          "owner_slug": "kevin-llerena",
+          "gave": [
+            "Puka Nacua"
+          ],
+          "got": [
+            "Ryan Flournoy"
+          ]
+        },
+        {
+          "team_name": "Pausa de Hidratacion ",
+          "owner": "Marcus Jardinez",
+          "owner_slug": "marcus-jardinez",
+          "gave": [
+            "Ryan Flournoy"
+          ],
+          "got": [
+            "Puka Nacua"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-11",
       "sides": [

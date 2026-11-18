@@ -4257,6 +4257,217 @@
       "dropped": [
         "Chase McLaughlin"
       ]
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ja'Kobi Lane"
+      ],
+      "dropped": [
+        "Bryce Young"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "J.K. Dobbins"
+      ],
+      "dropped": [
+        "Austin Ekeler"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Cam Ward"
+      ],
+      "dropped": [
+        "Drew Lock"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "NORTH KOREAN ALLY",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaylen Wright"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Chase McLaughlin"
+      ],
+      "dropped": [
+        "Jason Myers"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "NORTH KOREAN ALLY",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "De'Zhaun Stribling"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Its over for me \ud83c\udf74",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Elic Ayomanor"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Its over for me \ud83c\udf74",
+      "type": "WAIVER",
+      "bid": 10,
+      "added": [
+        "Bo Nix"
+      ],
+      "dropped": [
+        "Jordan Watkins"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Samaje Perine"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Sione Vaki"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "NORTH KOREAN ALLY",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyjae Spears"
+      ],
+      "dropped": [
+        "Will Shipley"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "NORTH KOREAN ALLY",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Will Shipley"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Michael Pittman Jr."
+      ],
+      "dropped": [
+        "Corey Kiner"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "NORTH KOREAN ALLY",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ray Davis"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Emari Demercado"
+      ],
+      "dropped": [
+        "Mack Hollins"
+      ]
     }
   ],
   "team_totals": [
@@ -4264,7 +4475,7 @@
       "owner": "Chris Peralta",
       "owner_slug": "chris-peralta",
       "team_name": "Dustin Davis",
-      "acquisitions": 39,
+      "acquisitions": 40,
       "spent": 100
     },
     {
@@ -4278,29 +4489,36 @@
       "owner": "Marcus Jardinez",
       "owner_slug": "marcus-jardinez",
       "team_name": "Pausa de Hidratacion ",
-      "acquisitions": 31,
+      "acquisitions": 32,
       "spent": 100
     },
     {
       "owner": "George Duran",
       "owner_slug": "george-duran",
       "team_name": "NORTH KOREAN ALLY",
-      "acquisitions": 37,
+      "acquisitions": 42,
       "spent": 100
     },
     {
       "owner": "Super Shyguy",
       "owner_slug": "super-shyguy",
       "team_name": "Shyguy Snakes",
-      "acquisitions": 22,
+      "acquisitions": 25,
       "spent": 98
     },
     {
       "owner": "Junior Peralta",
       "owner_slug": "junior-peralta",
       "team_name": "find God",
-      "acquisitions": 54,
+      "acquisitions": 56,
       "spent": 96
+    },
+    {
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Its over for me \ud83c\udf74",
+      "acquisitions": 15,
+      "spent": 92
     },
     {
       "owner": "Jordan van Leesten",
@@ -4317,17 +4535,10 @@
       "spent": 84
     },
     {
-      "owner": "Ricky Cano",
-      "owner_slug": "ricky-cano",
-      "team_name": "Its over for me \ud83c\udf74",
-      "acquisitions": 13,
-      "spent": 82
-    },
-    {
       "owner": "Matthew Taylor",
       "owner_slug": "matthew-taylor",
       "team_name": "Big Nix Energy",
-      "acquisitions": 10,
+      "acquisitions": 11,
       "spent": 60
     },
     {
