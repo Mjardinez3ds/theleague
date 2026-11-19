@@ -1,7 +1,36 @@
 {
   "year": 2026,
-  "count": 12,
+  "count": 13,
   "trades": [
+    {
+      "date": "2026-11-19",
+      "sides": [
+        {
+          "team_name": "Dustin Davis",
+          "owner": "Chris Peralta",
+          "owner_slug": "chris-peralta",
+          "gave": [
+            "Tyler Warren",
+            "Travis Etienne Jr."
+          ],
+          "got": [
+            "T.J. Hockenson"
+          ]
+        },
+        {
+          "team_name": "Shyguy Snakes",
+          "owner": "Super Shyguy",
+          "owner_slug": "super-shyguy",
+          "gave": [
+            "T.J. Hockenson"
+          ],
+          "got": [
+            "Tyler Warren",
+            "Travis Etienne Jr."
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-18",
       "sides": [
@@ -111,7 +140,7 @@
           ]
         },
         {
-          "team_name": "Skatt brain mush",
+          "team_name": "Ringless mush",
           "owner": "Devon Malki",
           "owner_slug": "devon-malki",
           "gave": [

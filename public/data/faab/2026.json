@@ -348,7 +348,7 @@
       "date": "2026-09-16",
       "owner": "Devon Malki",
       "owner_slug": "devon-malki",
-      "team_name": "Skatt brain mush",
+      "team_name": "Ringless mush",
       "type": "WAIVER",
       "bid": 10,
       "added": [
@@ -909,7 +909,7 @@
       "date": "2026-09-26",
       "owner": "Devon Malki",
       "owner_slug": "devon-malki",
-      "team_name": "Skatt brain mush",
+      "team_name": "Ringless mush",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -993,7 +993,7 @@
       "date": "2026-09-30",
       "owner": "Devon Malki",
       "owner_slug": "devon-malki",
-      "team_name": "Skatt brain mush",
+      "team_name": "Ringless mush",
       "type": "WAIVER",
       "bid": 43,
       "added": [
@@ -1646,7 +1646,7 @@
       "date": "2026-10-07",
       "owner": "Devon Malki",
       "owner_slug": "devon-malki",
-      "team_name": "Skatt brain mush",
+      "team_name": "Ringless mush",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -2123,7 +2123,7 @@
       "date": "2026-10-14",
       "owner": "Devon Malki",
       "owner_slug": "devon-malki",
-      "team_name": "Skatt brain mush",
+      "team_name": "Ringless mush",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -2224,7 +2224,7 @@
       "date": "2026-10-14",
       "owner": "Devon Malki",
       "owner_slug": "devon-malki",
-      "team_name": "Skatt brain mush",
+      "team_name": "Ringless mush",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -2557,7 +2557,7 @@
       "date": "2026-10-18",
       "owner": "Devon Malki",
       "owner_slug": "devon-malki",
-      "team_name": "Skatt brain mush",
+      "team_name": "Ringless mush",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -3088,7 +3088,7 @@
       "date": "2026-10-28",
       "owner": "Devon Malki",
       "owner_slug": "devon-malki",
-      "team_name": "Skatt brain mush",
+      "team_name": "Ringless mush",
       "type": "WAIVER",
       "bid": 0,
       "added": [
@@ -3142,7 +3142,7 @@
       "date": "2026-10-28",
       "owner": "Devon Malki",
       "owner_slug": "devon-malki",
-      "team_name": "Skatt brain mush",
+      "team_name": "Ringless mush",
       "type": "WAIVER",
       "bid": 0,
       "added": [
@@ -3327,7 +3327,7 @@
       "date": "2026-10-31",
       "owner": "Devon Malki",
       "owner_slug": "devon-malki",
-      "team_name": "Skatt brain mush",
+      "team_name": "Ringless mush",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -3424,7 +3424,7 @@
       "date": "2026-11-01",
       "owner": "Devon Malki",
       "owner_slug": "devon-malki",
-      "team_name": "Skatt brain mush",
+      "team_name": "Ringless mush",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -3826,7 +3826,7 @@
       "date": "2026-11-07",
       "owner": "Devon Malki",
       "owner_slug": "devon-malki",
-      "team_name": "Skatt brain mush",
+      "team_name": "Ringless mush",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -4080,7 +4080,7 @@
       "date": "2026-11-11",
       "owner": "Devon Malki",
       "owner_slug": "devon-malki",
-      "team_name": "Skatt brain mush",
+      "team_name": "Ringless mush",
       "type": "WAIVER",
       "bid": 5,
       "added": [
@@ -4261,6 +4261,133 @@
     {
       "week": 11,
       "date": "2026-11-18",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "NORTH KOREAN ALLY",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "De'Zhaun Stribling"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Its over for me \ud83c\udf74",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Elic Ayomanor"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Its over for me \ud83c\udf74",
+      "type": "WAIVER",
+      "bid": 10,
+      "added": [
+        "Bo Nix"
+      ],
+      "dropped": [
+        "Jordan Watkins"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Sione Vaki"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "NORTH KOREAN ALLY",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Will Shipley"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Michael Pittman Jr."
+      ],
+      "dropped": [
+        "Corey Kiner"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Emari Demercado"
+      ],
+      "dropped": [
+        "Mack Hollins"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Bam Knight"
+      ],
+      "dropped": [
+        "Xavier Worthy"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Michael Mayer"
+      ],
+      "dropped": [
+        "Samaje Perine"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
       "owner": "Chris Peralta",
       "owner_slug": "chris-peralta",
       "team_name": "Dustin Davis",
@@ -4334,47 +4461,6 @@
     {
       "week": 11,
       "date": "2026-11-18",
-      "owner": "George Duran",
-      "owner_slug": "george-duran",
-      "team_name": "NORTH KOREAN ALLY",
-      "type": "WAIVER",
-      "bid": 0,
-      "added": [
-        "De'Zhaun Stribling"
-      ],
-      "dropped": []
-    },
-    {
-      "week": 11,
-      "date": "2026-11-18",
-      "owner": "Ricky Cano",
-      "owner_slug": "ricky-cano",
-      "team_name": "Its over for me \ud83c\udf74",
-      "type": "FREEAGENT",
-      "bid": 0,
-      "added": [
-        "Elic Ayomanor"
-      ],
-      "dropped": []
-    },
-    {
-      "week": 11,
-      "date": "2026-11-18",
-      "owner": "Ricky Cano",
-      "owner_slug": "ricky-cano",
-      "team_name": "Its over for me \ud83c\udf74",
-      "type": "WAIVER",
-      "bid": 10,
-      "added": [
-        "Bo Nix"
-      ],
-      "dropped": [
-        "Jordan Watkins"
-      ]
-    },
-    {
-      "week": 11,
-      "date": "2026-11-18",
       "owner": "Junior Peralta",
       "owner_slug": "junior-peralta",
       "team_name": "find God",
@@ -4388,13 +4474,13 @@
     {
       "week": 11,
       "date": "2026-11-18",
-      "owner": "Marcus Jardinez",
-      "owner_slug": "marcus-jardinez",
-      "team_name": "Pausa de Hidratacion ",
-      "type": "WAIVER",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Ringless mush",
+      "type": "FREEAGENT",
       "bid": 0,
       "added": [
-        "Sione Vaki"
+        "Malachi Fields"
       ],
       "dropped": []
     },
@@ -4422,52 +4508,78 @@
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
-        "Will Shipley"
-      ],
-      "dropped": []
-    },
-    {
-      "week": 11,
-      "date": "2026-11-18",
-      "owner": "Junior Peralta",
-      "owner_slug": "junior-peralta",
-      "team_name": "find God",
-      "type": "FREEAGENT",
-      "bid": 0,
-      "added": [
-        "Michael Pittman Jr."
-      ],
-      "dropped": [
-        "Corey Kiner"
-      ]
-    },
-    {
-      "week": 11,
-      "date": "2026-11-18",
-      "owner": "George Duran",
-      "owner_slug": "george-duran",
-      "team_name": "NORTH KOREAN ALLY",
-      "type": "FREEAGENT",
-      "bid": 0,
-      "added": [
         "Ray Davis"
       ],
       "dropped": []
     },
     {
       "week": 11,
-      "date": "2026-11-18",
-      "owner": "Super Shyguy",
-      "owner_slug": "super-shyguy",
-      "team_name": "Shyguy Snakes",
+      "date": "2026-11-19",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Darren Waller"
+      ],
+      "dropped": [
+        "Brevyn Spann-Ford"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2026-11-19",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
-        "Emari Demercado"
+        "Terrance Ferguson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2026-11-19",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tre' Harris"
       ],
       "dropped": [
-        "Mack Hollins"
+        "Samaje Perine"
       ]
+    },
+    {
+      "week": 11,
+      "date": "2026-11-19",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Samaje Perine"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2026-11-19",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Sione Vaki"
+      ],
+      "dropped": []
     }
   ],
   "team_totals": [
@@ -4475,21 +4587,21 @@
       "owner": "Chris Peralta",
       "owner_slug": "chris-peralta",
       "team_name": "Dustin Davis",
-      "acquisitions": 40,
+      "acquisitions": 42,
       "spent": 100
     },
     {
       "owner": "Kevin Llerena",
       "owner_slug": "kevin-llerena",
       "team_name": "Serving Punt",
-      "acquisitions": 27,
+      "acquisitions": 28,
       "spent": 100
     },
     {
       "owner": "Marcus Jardinez",
       "owner_slug": "marcus-jardinez",
       "team_name": "Pausa de Hidratacion ",
-      "acquisitions": 32,
+      "acquisitions": 35,
       "spent": 100
     },
     {
@@ -4510,7 +4622,7 @@
       "owner": "Junior Peralta",
       "owner_slug": "junior-peralta",
       "team_name": "find God",
-      "acquisitions": 56,
+      "acquisitions": 57,
       "spent": 96
     },
     {
@@ -4544,8 +4656,8 @@
     {
       "owner": "Devon Malki",
       "owner_slug": "devon-malki",
-      "team_name": "Skatt brain mush",
-      "acquisitions": 13,
+      "team_name": "Ringless mush",
+      "acquisitions": 14,
       "spent": 58
     },
     {
