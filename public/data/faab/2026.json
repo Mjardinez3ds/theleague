@@ -19,7 +19,7 @@
       "date": "2026-09-01",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe:",
+      "team_name": "Maybe: SUV Hong Add",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -75,7 +75,7 @@
       "date": "2026-09-03",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe:",
+      "team_name": "Maybe: SUV Hong Add",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -262,7 +262,7 @@
       "date": "2026-09-11",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe:",
+      "team_name": "Maybe: SUV Hong Add",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -621,7 +621,7 @@
       "date": "2026-09-23",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe:",
+      "team_name": "Maybe: SUV Hong Add",
       "type": "WAIVER",
       "bid": 27,
       "added": [
@@ -1790,7 +1790,7 @@
       "date": "2026-10-07",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe:",
+      "team_name": "Maybe: SUV Hong Add",
       "type": "WAIVER",
       "bid": 9,
       "added": [
@@ -2078,7 +2078,7 @@
       "date": "2026-10-14",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe:",
+      "team_name": "Maybe: SUV Hong Add",
       "type": "WAIVER",
       "bid": 43,
       "added": [
@@ -2957,7 +2957,7 @@
       "date": "2026-10-25",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe:",
+      "team_name": "Maybe: SUV Hong Add",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -4013,7 +4013,7 @@
       "date": "2026-11-11",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe:",
+      "team_name": "Maybe: SUV Hong Add",
       "type": "WAIVER",
       "bid": 1,
       "added": [
@@ -4093,7 +4093,7 @@
       "date": "2026-11-12",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe:",
+      "team_name": "Maybe: SUV Hong Add",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -4248,7 +4248,7 @@
       "date": "2026-11-15",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe:",
+      "team_name": "Maybe: SUV Hong Add",
       "type": "WAIVER",
       "bid": 11,
       "added": [
@@ -4530,6 +4530,21 @@
     {
       "week": 11,
       "date": "2026-11-19",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dalton Schultz"
+      ],
+      "dropped": [
+        "Michael Mayer"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2026-11-19",
       "owner": "Marcus Jardinez",
       "owner_slug": "marcus-jardinez",
       "team_name": "Pausa de Hidratacion ",
@@ -4537,6 +4552,19 @@
       "bid": 0,
       "added": [
         "Terrance Ferguson"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2026-11-19",
+      "owner": "Devon Malki",
+      "owner_slug": "devon-malki",
+      "team_name": "Ringless mush",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Gunnar Helm"
       ],
       "dropped": []
     },
@@ -4558,6 +4586,21 @@
     {
       "week": 11,
       "date": "2026-11-19",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Samaje Perine"
+      ],
+      "dropped": [
+        "Bam Knight"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2026-11-19",
       "owner": "Chris Peralta",
       "owner_slug": "chris-peralta",
       "team_name": "Dustin Davis",
@@ -4567,6 +4610,21 @@
         "Samaje Perine"
       ],
       "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2026-11-19",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "NORTH KOREAN ALLY",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Rodriguez Jr."
+      ],
+      "dropped": [
+        "Ray Davis"
+      ]
     },
     {
       "week": 11,
@@ -4594,7 +4652,7 @@
       "owner": "Kevin Llerena",
       "owner_slug": "kevin-llerena",
       "team_name": "Serving Punt",
-      "acquisitions": 28,
+      "acquisitions": 29,
       "spent": 100
     },
     {
@@ -4608,7 +4666,7 @@
       "owner": "George Duran",
       "owner_slug": "george-duran",
       "team_name": "NORTH KOREAN ALLY",
-      "acquisitions": 42,
+      "acquisitions": 43,
       "spent": 100
     },
     {
@@ -4622,7 +4680,7 @@
       "owner": "Junior Peralta",
       "owner_slug": "junior-peralta",
       "team_name": "find God",
-      "acquisitions": 57,
+      "acquisitions": 58,
       "spent": 96
     },
     {
@@ -4635,7 +4693,7 @@
     {
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe:",
+      "team_name": "Maybe: SUV Hong Add",
       "acquisitions": 8,
       "spent": 91
     },
@@ -4657,7 +4715,7 @@
       "owner": "Devon Malki",
       "owner_slug": "devon-malki",
       "team_name": "Ringless mush",
-      "acquisitions": 14,
+      "acquisitions": 15,
       "spent": 58
     },
     {
