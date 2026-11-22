@@ -19,7 +19,7 @@
       "date": "2026-09-01",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe: HWT Hong",
+      "team_name": "Maybe:",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -75,7 +75,7 @@
       "date": "2026-09-03",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe: HWT Hong",
+      "team_name": "Maybe:",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -262,7 +262,7 @@
       "date": "2026-09-11",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe: HWT Hong",
+      "team_name": "Maybe:",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -621,7 +621,7 @@
       "date": "2026-09-23",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe: HWT Hong",
+      "team_name": "Maybe:",
       "type": "WAIVER",
       "bid": 27,
       "added": [
@@ -1790,7 +1790,7 @@
       "date": "2026-10-07",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe: HWT Hong",
+      "team_name": "Maybe:",
       "type": "WAIVER",
       "bid": 9,
       "added": [
@@ -2078,7 +2078,7 @@
       "date": "2026-10-14",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe: HWT Hong",
+      "team_name": "Maybe:",
       "type": "WAIVER",
       "bid": 43,
       "added": [
@@ -2957,7 +2957,7 @@
       "date": "2026-10-25",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe: HWT Hong",
+      "team_name": "Maybe:",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -4013,7 +4013,7 @@
       "date": "2026-11-11",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe: HWT Hong",
+      "team_name": "Maybe:",
       "type": "WAIVER",
       "bid": 1,
       "added": [
@@ -4093,7 +4093,7 @@
       "date": "2026-11-12",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe: HWT Hong",
+      "team_name": "Maybe:",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
@@ -4248,7 +4248,7 @@
       "date": "2026-11-15",
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe: HWT Hong",
+      "team_name": "Maybe:",
       "type": "WAIVER",
       "bid": 11,
       "added": [
@@ -4653,6 +4653,34 @@
       "dropped": [
         "Chris Rodriguez Jr."
       ]
+    },
+    {
+      "week": 11,
+      "date": "2026-11-21",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "NORTH KOREAN ALLY",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ray Davis"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2026-11-22",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Chris Rodriguez Jr."
+      ],
+      "dropped": [
+        "Tre' Harris"
+      ]
     }
   ],
   "team_totals": [
@@ -4660,7 +4688,7 @@
       "owner": "Chris Peralta",
       "owner_slug": "chris-peralta",
       "team_name": "Dustin Davis",
-      "acquisitions": 42,
+      "acquisitions": 43,
       "spent": 100
     },
     {
@@ -4681,7 +4709,7 @@
       "owner": "George Duran",
       "owner_slug": "george-duran",
       "team_name": "NORTH KOREAN ALLY",
-      "acquisitions": 44,
+      "acquisitions": 45,
       "spent": 100
     },
     {
@@ -4708,7 +4736,7 @@
     {
       "owner": "Jordan van Leesten",
       "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe: HWT Hong",
+      "team_name": "Maybe:",
       "acquisitions": 8,
       "spent": 91
     },
