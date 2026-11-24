@@ -110,6 +110,17 @@
       "opponent_score": 152.5,
       "result": "L",
       "is_playoff": false
+    },
+    {
+      "week": 11,
+      "score": 97.4,
+      "team_name": "Its over for me \ud83c\udf74",
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "opponent_team": "Serving Punt",
+      "opponent_score": 145.3,
+      "result": "L",
+      "is_playoff": false
     }
   ]
 }

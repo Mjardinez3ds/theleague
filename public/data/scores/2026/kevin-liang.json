@@ -110,6 +110,17 @@
       "opponent_score": 126.24,
       "result": "L",
       "is_playoff": false
+    },
+    {
+      "week": 11,
+      "score": 107.66,
+      "team_name": "CageDg00ner",
+      "opponent": "derf punk",
+      "opponent_slug": "derf-punk",
+      "opponent_team": "monke",
+      "opponent_score": 124.96,
+      "result": "L",
+      "is_playoff": false
     }
   ]
 }

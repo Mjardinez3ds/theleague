@@ -4277,19 +4277,6 @@
       "owner": "Ricky Cano",
       "owner_slug": "ricky-cano",
       "team_name": "Its over for me \ud83c\udf74",
-      "type": "FREEAGENT",
-      "bid": 0,
-      "added": [
-        "Elic Ayomanor"
-      ],
-      "dropped": []
-    },
-    {
-      "week": 11,
-      "date": "2026-11-18",
-      "owner": "Ricky Cano",
-      "owner_slug": "ricky-cano",
-      "team_name": "Its over for me \ud83c\udf74",
       "type": "WAIVER",
       "bid": 10,
       "added": [
@@ -4315,19 +4302,6 @@
     {
       "week": 11,
       "date": "2026-11-18",
-      "owner": "George Duran",
-      "owner_slug": "george-duran",
-      "team_name": "NORTH KOREAN ALLY",
-      "type": "FREEAGENT",
-      "bid": 0,
-      "added": [
-        "Will Shipley"
-      ],
-      "dropped": []
-    },
-    {
-      "week": 11,
-      "date": "2026-11-18",
       "owner": "Junior Peralta",
       "owner_slug": "junior-peralta",
       "team_name": "find God",
@@ -4343,21 +4317,6 @@
     {
       "week": 11,
       "date": "2026-11-18",
-      "owner": "Super Shyguy",
-      "owner_slug": "super-shyguy",
-      "team_name": "Shyguy Snakes",
-      "type": "FREEAGENT",
-      "bid": 0,
-      "added": [
-        "Emari Demercado"
-      ],
-      "dropped": [
-        "Mack Hollins"
-      ]
-    },
-    {
-      "week": 11,
-      "date": "2026-11-18",
       "owner": "Kevin Llerena",
       "owner_slug": "kevin-llerena",
       "team_name": "Serving Punt",
@@ -4368,6 +4327,118 @@
       ],
       "dropped": [
         "Xavier Worthy"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "J.K. Dobbins"
+      ],
+      "dropped": [
+        "Austin Ekeler"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "NORTH KOREAN ALLY",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jaylen Wright"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "Matthew Taylor",
+      "owner_slug": "matthew-taylor",
+      "team_name": "Big Nix Energy",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Chase McLaughlin"
+      ],
+      "dropped": [
+        "Jason Myers"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "NORTH KOREAN ALLY",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tyjae Spears"
+      ],
+      "dropped": [
+        "Will Shipley"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "NORTH KOREAN ALLY",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ray Davis"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Its over for me \ud83c\udf74",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Elic Ayomanor"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "NORTH KOREAN ALLY",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Will Shipley"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2026-11-18",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Emari Demercado"
+      ],
+      "dropped": [
+        "Mack Hollins"
       ]
     },
     {
@@ -4409,53 +4480,10 @@
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
-        "J.K. Dobbins"
-      ],
-      "dropped": [
-        "Austin Ekeler"
-      ]
-    },
-    {
-      "week": 11,
-      "date": "2026-11-18",
-      "owner": "Super Shyguy",
-      "owner_slug": "super-shyguy",
-      "team_name": "Shyguy Snakes",
-      "type": "FREEAGENT",
-      "bid": 0,
-      "added": [
         "Cam Ward"
       ],
       "dropped": [
         "Drew Lock"
-      ]
-    },
-    {
-      "week": 11,
-      "date": "2026-11-18",
-      "owner": "George Duran",
-      "owner_slug": "george-duran",
-      "team_name": "NORTH KOREAN ALLY",
-      "type": "FREEAGENT",
-      "bid": 0,
-      "added": [
-        "Jaylen Wright"
-      ],
-      "dropped": []
-    },
-    {
-      "week": 11,
-      "date": "2026-11-18",
-      "owner": "Matthew Taylor",
-      "owner_slug": "matthew-taylor",
-      "team_name": "Big Nix Energy",
-      "type": "WAIVER",
-      "bid": 0,
-      "added": [
-        "Chase McLaughlin"
-      ],
-      "dropped": [
-        "Jason Myers"
       ]
     },
     {
@@ -4486,64 +4514,6 @@
     },
     {
       "week": 11,
-      "date": "2026-11-18",
-      "owner": "George Duran",
-      "owner_slug": "george-duran",
-      "team_name": "NORTH KOREAN ALLY",
-      "type": "FREEAGENT",
-      "bid": 0,
-      "added": [
-        "Tyjae Spears"
-      ],
-      "dropped": [
-        "Will Shipley"
-      ]
-    },
-    {
-      "week": 11,
-      "date": "2026-11-18",
-      "owner": "George Duran",
-      "owner_slug": "george-duran",
-      "team_name": "NORTH KOREAN ALLY",
-      "type": "FREEAGENT",
-      "bid": 0,
-      "added": [
-        "Ray Davis"
-      ],
-      "dropped": []
-    },
-    {
-      "week": 11,
-      "date": "2026-11-19",
-      "owner": "Marcus Jardinez",
-      "owner_slug": "marcus-jardinez",
-      "team_name": "Pausa de Hidratacion ",
-      "type": "WAIVER",
-      "bid": 0,
-      "added": [
-        "Darren Waller"
-      ],
-      "dropped": [
-        "Brevyn Spann-Ford"
-      ]
-    },
-    {
-      "week": 11,
-      "date": "2026-11-19",
-      "owner": "Junior Peralta",
-      "owner_slug": "junior-peralta",
-      "team_name": "find God",
-      "type": "FREEAGENT",
-      "bid": 0,
-      "added": [
-        "Dalton Schultz"
-      ],
-      "dropped": [
-        "Michael Mayer"
-      ]
-    },
-    {
-      "week": 11,
       "date": "2026-11-19",
       "owner": "Marcus Jardinez",
       "owner_slug": "marcus-jardinez",
@@ -4567,21 +4537,6 @@
         "Gunnar Helm"
       ],
       "dropped": []
-    },
-    {
-      "week": 11,
-      "date": "2026-11-19",
-      "owner": "Chris Peralta",
-      "owner_slug": "chris-peralta",
-      "team_name": "Dustin Davis",
-      "type": "FREEAGENT",
-      "bid": 0,
-      "added": [
-        "Tre' Harris"
-      ],
-      "dropped": [
-        "Samaje Perine"
-      ]
     },
     {
       "week": 11,
@@ -4638,6 +4593,51 @@
         "Sione Vaki"
       ],
       "dropped": []
+    },
+    {
+      "week": 11,
+      "date": "2026-11-19",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Darren Waller"
+      ],
+      "dropped": [
+        "Brevyn Spann-Ford"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2026-11-19",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dalton Schultz"
+      ],
+      "dropped": [
+        "Michael Mayer"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2026-11-19",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tre' Harris"
+      ],
+      "dropped": [
+        "Samaje Perine"
+      ]
     },
     {
       "week": 11,

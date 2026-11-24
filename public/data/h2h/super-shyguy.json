@@ -56,6 +56,15 @@
       "pa": 542.46
     },
     {
+      "opponent": "Matthew Taylor",
+      "opponent_slug": "matthew-taylor",
+      "wins": 4,
+      "losses": 0,
+      "ties": 0,
+      "pf": 526.66,
+      "pa": 368.78
+    },
+    {
       "opponent": "Kevin Llerena",
       "opponent_slug": "kevin-llerena",
       "wins": 1,
@@ -72,15 +81,6 @@
       "ties": 0,
       "pf": 426.9,
       "pa": 327.08
-    },
-    {
-      "opponent": "Matthew Taylor",
-      "opponent_slug": "matthew-taylor",
-      "wins": 3,
-      "losses": 0,
-      "ties": 0,
-      "pf": 405.14,
-      "pa": 272.92
     },
     {
       "opponent": "Ricky Cano",

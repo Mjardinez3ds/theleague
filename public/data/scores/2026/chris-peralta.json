@@ -110,6 +110,17 @@
       "opponent_score": 97.7,
       "result": "W",
       "is_playoff": false
+    },
+    {
+      "week": 11,
+      "score": 150.26,
+      "team_name": "Dustin Davis",
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "opponent_team": "find God",
+      "opponent_score": 109.5,
+      "result": "W",
+      "is_playoff": false
     }
   ]
 }

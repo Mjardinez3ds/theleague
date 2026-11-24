@@ -20,6 +20,15 @@
       "pa": 650.22
     },
     {
+      "opponent": "Kevin Llerena",
+      "opponent_slug": "kevin-llerena",
+      "wins": 3,
+      "losses": 2,
+      "ties": 0,
+      "pf": 553.66,
+      "pa": 603.76
+    },
+    {
       "opponent": "Marcus Jardinez",
       "opponent_slug": "marcus-jardinez",
       "wins": 3,
@@ -36,15 +45,6 @@
       "ties": 0,
       "pf": 626.5,
       "pa": 540.36
-    },
-    {
-      "opponent": "Kevin Llerena",
-      "opponent_slug": "kevin-llerena",
-      "wins": 3,
-      "losses": 1,
-      "ties": 0,
-      "pf": 456.26,
-      "pa": 458.46
     },
     {
       "opponent": "Junior Peralta",

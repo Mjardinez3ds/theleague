@@ -110,6 +110,17 @@
       "opponent_score": 102.12,
       "result": "W",
       "is_playoff": false
+    },
+    {
+      "week": 11,
+      "score": 95.86,
+      "team_name": "Big Nix Energy",
+      "opponent": "Super Shyguy",
+      "opponent_slug": "super-shyguy",
+      "opponent_team": "Shyguy Snakes",
+      "opponent_score": 121.52,
+      "result": "L",
+      "is_playoff": false
     }
   ]
 }

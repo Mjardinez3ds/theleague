@@ -11,6 +11,15 @@
       "pa": 1136.78
     },
     {
+      "opponent": "Junior Peralta",
+      "opponent_slug": "junior-peralta",
+      "wins": 6,
+      "losses": 3,
+      "ties": 0,
+      "pf": 1211.24,
+      "pa": 1113.56
+    },
+    {
       "opponent": "George Duran",
       "opponent_slug": "george-duran",
       "wins": 5,
@@ -27,15 +36,6 @@
       "ties": 0,
       "pf": 1174.42,
       "pa": 1149.62
-    },
-    {
-      "opponent": "Junior Peralta",
-      "opponent_slug": "junior-peralta",
-      "wins": 5,
-      "losses": 3,
-      "ties": 0,
-      "pf": 1060.98,
-      "pa": 1004.06
     },
     {
       "opponent": "Kevin Llerena",

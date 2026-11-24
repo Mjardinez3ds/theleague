@@ -2,10 +2,10 @@
   "owner": "Devon Malki",
   "slug": "devon-malki",
   "wins": 36,
-  "losses": 43,
+  "losses": 44,
   "ties": 0,
-  "points_for": 9959.5,
-  "points_against": 9855.5,
+  "points_for": 10048.6,
+  "points_against": 9974.4,
   "titles": 0,
   "runners_up": 0,
   "thirds": 0,
@@ -70,14 +70,14 @@
       "year": 2026,
       "team_name": "Ringless mush",
       "wins": 2,
-      "losses": 8,
+      "losses": 9,
       "ties": 0,
-      "points_for": 1192.3,
-      "points_against": 1249.3,
+      "points_for": 1281.4,
+      "points_against": 1368.2,
       "finish": null,
       "league_size": 12
     }
   ],
-  "win_pct": 45.6,
-  "games": 79
+  "win_pct": 45.0,
+  "games": 80
 }

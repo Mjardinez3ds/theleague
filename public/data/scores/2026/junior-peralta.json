@@ -110,6 +110,17 @@
       "opponent_score": 126.88,
       "result": "W",
       "is_playoff": false
+    },
+    {
+      "week": 11,
+      "score": 109.5,
+      "team_name": "find God",
+      "opponent": "Chris Peralta",
+      "opponent_slug": "chris-peralta",
+      "opponent_team": "Dustin Davis",
+      "opponent_score": 150.26,
+      "result": "L",
+      "is_playoff": false
     }
   ]
 }

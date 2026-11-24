@@ -11,6 +11,15 @@
       "pa": 347.22
     },
     {
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "wins": 1,
+      "losses": 2,
+      "ties": 0,
+      "pf": 346.12,
+      "pa": 444.82
+    },
+    {
       "opponent": "Ricky Cano",
       "opponent_slug": "ricky-cano",
       "wins": 2,
@@ -72,15 +81,6 @@
       "ties": 0,
       "pf": 223.5,
       "pa": 277.42
-    },
-    {
-      "opponent": "George Duran",
-      "opponent_slug": "george-duran",
-      "wins": 1,
-      "losses": 1,
-      "ties": 0,
-      "pf": 253.06,
-      "pa": 306.88
     },
     {
       "opponent": "Matthew Taylor",

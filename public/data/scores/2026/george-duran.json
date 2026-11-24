@@ -110,6 +110,17 @@
       "opponent_score": 108.82,
       "result": "W",
       "is_playoff": false
+    },
+    {
+      "week": 11,
+      "score": 137.94,
+      "team_name": "NORTH KOREAN ALLY",
+      "opponent": "Jordan van Leesten",
+      "opponent_slug": "jordan-van-leesten",
+      "opponent_team": "Maybe:",
+      "opponent_score": 93.06,
+      "result": "W",
+      "is_playoff": false
     }
   ]
 }

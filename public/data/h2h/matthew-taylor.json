@@ -74,6 +74,15 @@
       "pa": 431.88
     },
     {
+      "opponent": "Super Shyguy",
+      "opponent_slug": "super-shyguy",
+      "wins": 0,
+      "losses": 4,
+      "ties": 0,
+      "pf": 368.78,
+      "pa": 526.66
+    },
+    {
       "opponent": "Denniell Grijalva",
       "opponent_slug": "denniell-grijalva",
       "wins": 2,
@@ -81,15 +90,6 @@
       "ties": 0,
       "pf": 419.7,
       "pa": 381.24
-    },
-    {
-      "opponent": "Super Shyguy",
-      "opponent_slug": "super-shyguy",
-      "wins": 0,
-      "losses": 3,
-      "ties": 0,
-      "pf": 272.92,
-      "pa": 405.14
     },
     {
       "opponent": "Faust Vinas",

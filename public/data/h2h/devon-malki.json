@@ -29,6 +29,15 @@
       "pa": 1027.54
     },
     {
+      "opponent": "Marcus Jardinez",
+      "opponent_slug": "marcus-jardinez",
+      "wins": 6,
+      "losses": 3,
+      "ties": 0,
+      "pf": 1166.4,
+      "pa": 987.82
+    },
+    {
       "opponent": "Kevin Liang",
       "opponent_slug": "kevin-liang",
       "wins": 3,
@@ -36,15 +45,6 @@
       "ties": 0,
       "pf": 982.34,
       "pa": 1026.0
-    },
-    {
-      "opponent": "Marcus Jardinez",
-      "opponent_slug": "marcus-jardinez",
-      "wins": 6,
-      "losses": 2,
-      "ties": 0,
-      "pf": 1077.36,
-      "pa": 868.92
     },
     {
       "opponent": "George Duran",

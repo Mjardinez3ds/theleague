@@ -110,6 +110,17 @@
       "opponent_score": 119.36,
       "result": "W",
       "is_playoff": false
+    },
+    {
+      "week": 11,
+      "score": 121.52,
+      "team_name": "Shyguy Snakes",
+      "opponent": "Matthew Taylor",
+      "opponent_slug": "matthew-taylor",
+      "opponent_team": "Big Nix Energy",
+      "opponent_score": 95.86,
+      "result": "W",
+      "is_playoff": false
     }
   ]
 }

@@ -110,6 +110,17 @@
       "opponent_score": 127.1,
       "result": "L",
       "is_playoff": false
+    },
+    {
+      "week": 11,
+      "score": 93.06,
+      "team_name": "Maybe:",
+      "opponent": "George Duran",
+      "opponent_slug": "george-duran",
+      "opponent_team": "NORTH KOREAN ALLY",
+      "opponent_score": 137.94,
+      "result": "L",
+      "is_playoff": false
     }
   ]
 }

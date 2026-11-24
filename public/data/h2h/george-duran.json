@@ -110,6 +110,15 @@
       "pa": 349.16
     },
     {
+      "opponent": "Jordan van Leesten",
+      "opponent_slug": "jordan-van-leesten",
+      "wins": 2,
+      "losses": 1,
+      "ties": 0,
+      "pf": 444.82,
+      "pa": 346.12
+    },
+    {
       "opponent": "Brandon Mckenzie",
       "opponent_slug": "brandon-mckenzie",
       "wins": 0,
@@ -117,15 +126,6 @@
       "ties": 0,
       "pf": 271.14,
       "pa": 322.4
-    },
-    {
-      "opponent": "Jordan van Leesten",
-      "opponent_slug": "jordan-van-leesten",
-      "wins": 1,
-      "losses": 1,
-      "ties": 0,
-      "pf": 306.88,
-      "pa": 253.06
     },
     {
       "opponent": "Abraham Pinales",
