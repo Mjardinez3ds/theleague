@@ -4681,6 +4681,133 @@
       "dropped": [
         "Tre' Harris"
       ]
+    },
+    {
+      "week": 12,
+      "date": "2026-11-25",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "NORTH KOREAN ALLY",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ted Hurst III"
+      ],
+      "dropped": [
+        "Ray Davis"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2026-11-25",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Chimere Dike"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2026-11-25",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Pat Freiermuth"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2026-11-25",
+      "owner": "derf punk",
+      "owner_slug": "derf-punk",
+      "team_name": "monke",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Sam Darnold"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2026-11-25",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Xavier Worthy"
+      ],
+      "dropped": [
+        "DK Metcalf"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2026-11-25",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Anthony Richardson Sr."
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2026-11-25",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Dominic Zvada"
+      ],
+      "dropped": [
+        "Spencer Shrader"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2026-11-25",
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe:",
+      "type": "WAIVER",
+      "bid": 1,
+      "added": [
+        "Jason Sanders"
+      ],
+      "dropped": [
+        "Chris Boswell"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2026-11-25",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Noah Fant"
+      ],
+      "dropped": [
+        "Darren Waller"
+      ]
     }
   ],
   "team_totals": [
@@ -4688,7 +4815,7 @@
       "owner": "Chris Peralta",
       "owner_slug": "chris-peralta",
       "team_name": "Dustin Davis",
-      "acquisitions": 43,
+      "acquisitions": 45,
       "spent": 100
     },
     {
@@ -4702,14 +4829,14 @@
       "owner": "Marcus Jardinez",
       "owner_slug": "marcus-jardinez",
       "team_name": "Pausa de Hidratacion ",
-      "acquisitions": 35,
+      "acquisitions": 37,
       "spent": 100
     },
     {
       "owner": "George Duran",
       "owner_slug": "george-duran",
       "team_name": "NORTH KOREAN ALLY",
-      "acquisitions": 45,
+      "acquisitions": 46,
       "spent": 100
     },
     {
@@ -4723,8 +4850,15 @@
       "owner": "Junior Peralta",
       "owner_slug": "junior-peralta",
       "team_name": "find God",
-      "acquisitions": 58,
+      "acquisitions": 60,
       "spent": 96
+    },
+    {
+      "owner": "Jordan van Leesten",
+      "owner_slug": "jordan-van-leesten",
+      "team_name": "Maybe:",
+      "acquisitions": 9,
+      "spent": 92
     },
     {
       "owner": "Ricky Cano",
@@ -4734,17 +4868,10 @@
       "spent": 92
     },
     {
-      "owner": "Jordan van Leesten",
-      "owner_slug": "jordan-van-leesten",
-      "team_name": "Maybe:",
-      "acquisitions": 8,
-      "spent": 91
-    },
-    {
       "owner": "derf punk",
       "owner_slug": "derf-punk",
       "team_name": "monke",
-      "acquisitions": 23,
+      "acquisitions": 24,
       "spent": 84
     },
     {
