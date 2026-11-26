@@ -4685,41 +4685,13 @@
     {
       "week": 12,
       "date": "2026-11-25",
-      "owner": "George Duran",
-      "owner_slug": "george-duran",
-      "team_name": "NORTH KOREAN ALLY",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
       "type": "FREEAGENT",
       "bid": 0,
       "added": [
-        "Ted Hurst III"
-      ],
-      "dropped": [
-        "Ray Davis"
-      ]
-    },
-    {
-      "week": 12,
-      "date": "2026-11-25",
-      "owner": "Chris Peralta",
-      "owner_slug": "chris-peralta",
-      "team_name": "Dustin Davis",
-      "type": "WAIVER",
-      "bid": 0,
-      "added": [
-        "Chimere Dike"
-      ],
-      "dropped": []
-    },
-    {
-      "week": 12,
-      "date": "2026-11-25",
-      "owner": "Junior Peralta",
-      "owner_slug": "junior-peralta",
-      "team_name": "find God",
-      "type": "FREEAGENT",
-      "bid": 0,
-      "added": [
-        "Pat Freiermuth"
+        "Fernando Mendoza"
       ],
       "dropped": []
     },
@@ -4797,6 +4769,92 @@
     {
       "week": 12,
       "date": "2026-11-25",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "NORTH KOREAN ALLY",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Harrison Wallace III"
+      ],
+      "dropped": [
+        "Chig Okonkwo"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2026-11-25",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Deshaun Watson"
+      ],
+      "dropped": [
+        "Anthony Richardson Sr."
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2026-11-25",
+      "owner": "George Duran",
+      "owner_slug": "george-duran",
+      "team_name": "NORTH KOREAN ALLY",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Ted Hurst III"
+      ],
+      "dropped": [
+        "Ray Davis"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2026-11-25",
+      "owner": "Ricky Cano",
+      "owner_slug": "ricky-cano",
+      "team_name": "Its over for me \ud83c\udf74",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Baker Mayfield"
+      ],
+      "dropped": [
+        "Bo Nix"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2026-11-25",
+      "owner": "Chris Peralta",
+      "owner_slug": "chris-peralta",
+      "team_name": "Dustin Davis",
+      "type": "WAIVER",
+      "bid": 0,
+      "added": [
+        "Chimere Dike"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2026-11-25",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Pat Freiermuth"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2026-11-25",
       "owner": "Marcus Jardinez",
       "owner_slug": "marcus-jardinez",
       "team_name": "Pausa de Hidratacion ",
@@ -4808,6 +4866,49 @@
       "dropped": [
         "Darren Waller"
       ]
+    },
+    {
+      "week": 12,
+      "date": "2026-11-25",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Drew Lock"
+      ],
+      "dropped": [
+        "Cam Ward"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2026-11-26",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "J.J. McCarthy"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2026-11-26",
+      "owner": "Kevin Llerena",
+      "owner_slug": "kevin-llerena",
+      "team_name": "Serving Punt",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Jack Bech"
+      ],
+      "dropped": [
+        "Mike Washington Jr."
+      ]
     }
   ],
   "team_totals": [
@@ -4815,35 +4916,35 @@
       "owner": "Chris Peralta",
       "owner_slug": "chris-peralta",
       "team_name": "Dustin Davis",
-      "acquisitions": 45,
+      "acquisitions": 46,
       "spent": 100
     },
     {
       "owner": "Kevin Llerena",
       "owner_slug": "kevin-llerena",
       "team_name": "Serving Punt",
-      "acquisitions": 29,
+      "acquisitions": 30,
       "spent": 100
     },
     {
       "owner": "Marcus Jardinez",
       "owner_slug": "marcus-jardinez",
       "team_name": "Pausa de Hidratacion ",
-      "acquisitions": 37,
+      "acquisitions": 38,
       "spent": 100
     },
     {
       "owner": "George Duran",
       "owner_slug": "george-duran",
       "team_name": "NORTH KOREAN ALLY",
-      "acquisitions": 46,
+      "acquisitions": 47,
       "spent": 100
     },
     {
       "owner": "Super Shyguy",
       "owner_slug": "super-shyguy",
       "team_name": "Shyguy Snakes",
-      "acquisitions": 25,
+      "acquisitions": 27,
       "spent": 98
     },
     {
@@ -4864,7 +4965,7 @@
       "owner": "Ricky Cano",
       "owner_slug": "ricky-cano",
       "team_name": "Its over for me \ud83c\udf74",
-      "acquisitions": 15,
+      "acquisitions": 16,
       "spent": 92
     },
     {
