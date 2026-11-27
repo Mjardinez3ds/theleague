@@ -4909,6 +4909,64 @@
       "dropped": [
         "Mike Washington Jr."
       ]
+    },
+    {
+      "week": 12,
+      "date": "2026-11-27",
+      "owner": "Marcus Jardinez",
+      "owner_slug": "marcus-jardinez",
+      "team_name": "Pausa de Hidratacion ",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Tre Tucker"
+      ],
+      "dropped": [
+        "Noah Fant"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2026-11-27",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Josh Cameron"
+      ],
+      "dropped": [
+        "Michael Pittman Jr."
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2026-11-27",
+      "owner": "Kevin Liang",
+      "owner_slug": "kevin-liang",
+      "team_name": "CageDg00ner",
+      "type": "WAIVER",
+      "bid": 42,
+      "added": [
+        "DK Metcalf"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2026-11-27",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "WAIVER",
+      "bid": 4,
+      "added": [
+        "Chig Okonkwo"
+      ],
+      "dropped": [
+        "Pat Freiermuth"
+      ]
     }
   ],
   "team_totals": [
@@ -4930,7 +4988,7 @@
       "owner": "Marcus Jardinez",
       "owner_slug": "marcus-jardinez",
       "team_name": "Pausa de Hidratacion ",
-      "acquisitions": 38,
+      "acquisitions": 39,
       "spent": 100
     },
     {
@@ -4941,18 +4999,18 @@
       "spent": 100
     },
     {
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "acquisitions": 62,
+      "spent": 100
+    },
+    {
       "owner": "Super Shyguy",
       "owner_slug": "super-shyguy",
       "team_name": "Shyguy Snakes",
       "acquisitions": 27,
       "spent": 98
-    },
-    {
-      "owner": "Junior Peralta",
-      "owner_slug": "junior-peralta",
-      "team_name": "find God",
-      "acquisitions": 60,
-      "spent": 96
     },
     {
       "owner": "Jordan van Leesten",
@@ -4993,8 +5051,8 @@
       "owner": "Kevin Liang",
       "owner_slug": "kevin-liang",
       "team_name": "CageDg00ner",
-      "acquisitions": 4,
-      "spent": 0
+      "acquisitions": 5,
+      "spent": 42
     }
   ]
 }
