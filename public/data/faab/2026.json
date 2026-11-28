@@ -4967,6 +4967,34 @@
       "dropped": [
         "Pat Freiermuth"
       ]
+    },
+    {
+      "week": 12,
+      "date": "2026-11-27",
+      "owner": "Junior Peralta",
+      "owner_slug": "junior-peralta",
+      "team_name": "find God",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Geno Smith"
+      ],
+      "dropped": []
+    },
+    {
+      "week": 12,
+      "date": "2026-11-28",
+      "owner": "Super Shyguy",
+      "owner_slug": "super-shyguy",
+      "team_name": "Shyguy Snakes",
+      "type": "FREEAGENT",
+      "bid": 0,
+      "added": [
+        "Mac Jones"
+      ],
+      "dropped": [
+        "Drew Lock"
+      ]
     }
   ],
   "team_totals": [
@@ -5002,14 +5030,14 @@
       "owner": "Junior Peralta",
       "owner_slug": "junior-peralta",
       "team_name": "find God",
-      "acquisitions": 62,
+      "acquisitions": 63,
       "spent": 100
     },
     {
       "owner": "Super Shyguy",
       "owner_slug": "super-shyguy",
       "team_name": "Shyguy Snakes",
-      "acquisitions": 27,
+      "acquisitions": 28,
       "spent": 98
     },
     {
